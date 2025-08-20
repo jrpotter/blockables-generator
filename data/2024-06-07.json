@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-16T01:35:56.113389-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Body parts found at the end of legs",
+        "ordinal": 1,
+        "reveal": "feet"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Mosquito bite sensation",
+        "ordinal": 2,
+        "reveal": "Itch"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after Brazil or Macademia",
+        "ordinal": 3,
+        "reveal": "nut"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Mobster Capone or musician Yankovich",
+        "ordinal": 4,
+        "reveal": "aL"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Charge payable to use a bridge or road",
+        "ordinal": 5,
+        "reveal": "toll"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "QW____, keyboard layout named after the first six keys in the top row",
+        "ordinal": 6,
+        "reveal": "eRTY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Shortened word before school or after disaster",
+        "ordinal": 7,
+        "reveal": "prep"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"h\",\"e\",\"f\",\"t\"],[\"y\",\"e\",\"c\",\"t\",\"u\"],[\"t\",\"l\",\"I\",\"n\",\"a\"],[\"r\",\"l\",\"e\",\"t\",\"l\"],[\"e\",\"p\",\"o\",\"r\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\"],[\"#A1DBE3\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\",\"#A9D594\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        2,
+        2
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 379,
+    "phrase": "Intellectual property theft",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-07",
+    "id": "645fa27e-1f80-43b2-99ef-f59a9a3379f9",
+    "dimension": 5
+  }
+]

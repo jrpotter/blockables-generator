@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-22T12:06:44.19527-07:00",
+    "category": "Character",
+    "clues": [
+      {
+        "clue": "Where the sack may be hit?",
+        "color": "#7C93CB",
+        "reveal": "BED",
+        "ordinal": 1
+      },
+      {
+        "clue": "Key next to CTRL",
+        "color": "#F5C146",
+        "reveal": "aLT",
+        "ordinal": 2
+      },
+      {
+        "clue": "The answer of today's puzzle speaks with a Southern one",
+        "color": "#A9D594",
+        "reveal": "aCCENT",
+        "ordinal": 3
+      },
+      {
+        "clue": "Name before McGraw or after Tiny",
+        "color": "#A1DBE3",
+        "reveal": "tIM",
+        "ordinal": 4
+      },
+      {
+        "clue": "Canadian singer Celine",
+        "color": "#E6B0D1",
+        "reveal": "dION",
+        "ordinal": 5
+      },
+      {
+        "clue": "\"Where's the ____?\", slogan said by an old lady in a 1984 Wendy's commercial",
+        "color": "#F3F1A0",
+        "reveal": "BEEF",
+        "ordinal": 6
+      },
+      {
+        "clue": "It may need to be plugged in on a road trip, abbr.",
+        "color": "#EE7B8C",
+        "reveal": "eV",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"B\", \"l\", \"a\", \"n\", \"c\"], [\"t\", \"e\", \"t\", \"e\", \"c\"], [\"i\", \"d\", \"F\", \"a\", \"t\"], [\"o\", \"d\", \"e\", \"m\", \"i\"], [\"n\", \"e\", \"B\", \"e\", \"v\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#A9D594\", \"#A9D594\"], [\"#F5C146\", \"#7C93CB\", \"#A9D594\", \"#A9D594\", \"#A9D594\"], [\"#E6B0D1\", \"#7C93CB\", \"#F3F1A0\", \"#A9D594\", \"#A1DBE3\"], [\"#E6B0D1\", \"#E6B0D1\", \"#F3F1A0\", \"#A1DBE3\", \"#A1DBE3\"], [\"#E6B0D1\", \"#F3F1A0\", \"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 55,
+    "phrase": "Famed detective Benoit Blanc",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-19",
+    "id": "babc8fd1-dc0c-4c72-98e0-92bdca3f6bb9",
+    "dimension": 5
+  }
+]

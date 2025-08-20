@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-04-13T18:57:30.489786-06:00",
+    "category": "Song and Artist",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "1 of 26.2, in a marathon",
+        "ordinal": 1,
+        "reveal": "Mile"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Namesake of American roast beef sandwich restaurant, perhaps named for the initials of its primary meat",
+        "ordinal": 2,
+        "reveal": "Arby"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sulfur's chemical symbol",
+        "ordinal": 3,
+        "reveal": "s"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "1983 Michael Jackson hit, titled after an acronym",
+        "ordinal": 4,
+        "reveal": "Pyt"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "United Arab Emirates, abbr.",
+        "ordinal": 5,
+        "reveal": "Uae"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"It's fun to stay at the _M_A!\", 1978 disco lyric",
+        "ordinal": 6,
+        "reveal": "yc"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Itty bitty",
+        "ordinal": 7,
+        "reveal": "tiny"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word before hour or after sugar",
+        "ordinal": 8,
+        "reveal": "rush"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"M\",\"y\",\"b\",\"A\"],[\"l\",\"y\",\"t\",\"r\",\"S\"],[\"e\",\"i\",\"P\",\"a\",\"U\"],[\"y\",\"n\",\"t\",\"h\",\"e\"],[\"C\",\"y\",\"r\",\"u\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\"],[\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#E6B0D1\"],[\"#B86BAC\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 690,
+    "phrase": "\"Party in the USA\" by Miley Cyrus",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-14",
+    "id": "50ad1cb4-3b40-476f-b068-e564d60814a1",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-09T08:05:29.062816-07:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Howard County Youth Orchestra, abbr.",
+        "ordinal": 1,
+        "reveal": "hcyo"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Rip, as paper",
+        "ordinal": 2,
+        "reveal": "tear"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "_._. Chang's China Bistro",
+        "ordinal": 3,
+        "reveal": "pf"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Initials of \"Space Oddity\" singer or actress who played Gertie in \"E.T.\" (1982)",
+        "ordinal": 4,
+        "reveal": "db"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Construct, as a house",
+        "ordinal": 5,
+        "reveal": "Build"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Had on, as clothes",
+        "ordinal": 6,
+        "reveal": "wore"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Chemical used in vibrant \"OPEN\" signs",
+        "ordinal": 7,
+        "reveal": "neon"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"a\",\"h\",\"C\",\"y\"],[\"l\",\"n\",\"e\",\"t\",\"o\"],[\"i\",\"d\",\"O\",\"f\",\"b\"],[\"e\",\"u\",\"p\",\"e\",\"d\"],[\"B\",\"r\",\"o\",\"w\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#A1DBE3\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\"],[\"#E6B0D1\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        3,
+        2
+      ],
+      "4": [
+        3,
+        4
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 408,
+    "phrase": "Often-duped boy Charlie Brown",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-06",
+    "id": "546142a4-a177-4515-a376-e8feb5aa81dc",
+    "dimension": 5
+  }
+]

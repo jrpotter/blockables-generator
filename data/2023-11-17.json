@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.954303-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "clue": "Ash container",
+        "color": "#E6B0D1",
+        "ordinal": 1,
+        "reveal": "uRN"
+      },
+      {
+        "reveal": "mART",
+        "clue": "Storefront that may be mini",
+        "color": "#B86BAC",
+        "ordinal": 2
+      },
+      {
+        "ordinal": 3,
+        "color": "#EE7B8C",
+        "clue": "L\u00edquido rojo o blanco",
+        "reveal": "vINO"
+      },
+      {
+        "reveal": "tANK",
+        "ordinal": 4,
+        "color": "#7C93CB",
+        "clue": "Catcher of the dunked?"
+      },
+      {
+        "reveal": "COB",
+        "clue": "Corn may be on it",
+        "color": "#F5C146",
+        "ordinal": 5
+      },
+      {
+        "clue": "It may be on a ceiling or in a club?",
+        "ordinal": 6,
+        "color": "#A9D594",
+        "reveal": "fAN"
+      },
+      {
+        "reveal": "rAIN",
+        "color": "#F3F1A0",
+        "ordinal": 7,
+        "clue": "Liquid precipitation"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"K\",\"n\",\"a\",\"m\"],[\"r\",\"a\",\"v\",\"r\",\"t\"],[\"t\",\"n\",\"N\",\"i\",\"n\"],[\"C\",\"a\",\"f\",\"r\",\"o\"],[\"o\",\"b\",\"a\",\"i\",\"n\"]]",
+    "gridColors": "[[\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#7C93CB\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 176,
+    "phrase": "Nirvana frontman Kurt Cobain",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-17",
+    "id": "15978fad-688d-493c-8199-9070f0f05e08",
+    "dimension": 5
+  }
+]

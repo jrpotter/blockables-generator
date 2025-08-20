@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-04-07T07:58:13.198737-06:00",
+    "category": "Clothing",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Direction from Lima, Peru to Santiago, Chile",
+        "ordinal": 1,
+        "reveal": "sse"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Smell terribly",
+        "ordinal": 2,
+        "reveal": "reek"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Despite all evidence to the contrary, it's said to be more",
+        "ordinal": 3,
+        "reveal": "less"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Min. components",
+        "ordinal": 4,
+        "reveal": "Secs"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Feel ill or have pain",
+        "ordinal": 5,
+        "reveal": "ail"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "True Vertical Depth, abbr.",
+        "ordinal": 6,
+        "reveal": "tvd"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word before slaw or Sprouse",
+        "ordinal": 7,
+        "reveal": "cole"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"s\",\"s\",\"e\",\"s\"],[\"r\",\"l\",\"e\",\"s\",\"s\"],[\"d\",\"e\",\"S\",\"l\",\"c\"],[\"l\",\"v\",\"e\",\"e\",\"o\"],[\"i\",\"a\",\"t\",\"k\",\"c\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#7C93CB\",\"#B86BAC\",\"#A9D594\",\"#F3F1A0\"],[\"#EE7B8C\",\"#F5C146\",\"#A9D594\",\"#B86BAC\",\"#A9D594\"],[\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\",\"#A9D594\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 491,
+    "phrase": "Sleeveless cocktail dresses",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-27",
+    "id": "766aa88a-4365-4adc-af00-55f3951769ec",
+    "dimension": 5
+  }
+]

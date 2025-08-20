@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-30T12:27:17-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Potential nickname for Augustus or Gustavo",
+        "ordinal": 1,
+        "reveal": "gUS"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Had on, as clothes",
+        "ordinal": 2,
+        "reveal": "wORE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Stop abruptly",
+        "ordinal": 3,
+        "reveal": "hALT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "In or after a short time",
+        "ordinal": 4,
+        "reveal": "sOON"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word before leaf or Newton",
+        "ordinal": 5,
+        "reveal": "FIG"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Notation for a knight in chess",
+        "ordinal": 6,
+        "reveal": "kT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before diet or after market",
+        "ordinal": 7,
+        "reveal": "CRASH"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"u\",\"s\",\"o\",\"n\"],[\"r\",\"o\",\"w\",\"h\",\"o\"],[\"e\",\"h\",\"T\",\"a\",\"s\"],[\"F\",\"s\",\"k\",\"l\",\"t\"],[\"g\",\"i\",\"a\",\"r\",\"C\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\"],[\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\"],[\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 148,
+    "phrase": "Talk show host Craig Ferguson",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-20",
+    "id": "68ad36ce-d569-4405-82e9-3bd035d098f5",
+    "dimension": 5
+  }
+]

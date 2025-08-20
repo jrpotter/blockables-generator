@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-12-18T07:45:38.057141-07:00",
+    "category": "Song Title",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Alien's means of conveyance, abbr.",
+        "ordinal": 1,
+        "reveal": "uFO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Expression of gratitude, to a texter",
+        "ordinal": 2,
+        "reveal": "tY"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Amount abbr.",
+        "ordinal": 3,
+        "reveal": "aMT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Spanish \"so\"",
+        "ordinal": 4,
+        "reveal": "aSI"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Stop and drop partner, in an emergency situation",
+        "ordinal": 5,
+        "reveal": "rOLL"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Waterfowl which symbolize beauty in European fairy tales",
+        "ordinal": 6,
+        "reveal": "sWANS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "How a Roman may write the number of eyes they have?",
+        "ordinal": 7,
+        "reveal": "iI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "DJT opponent, in 2016",
+        "ordinal": 8,
+        "reveal": "hRC"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"I\",\"s\",\"Y\",\"o\",\"u\"],[\"s\",\"n\",\"t\",\"F\",\"o\"],[\"a\",\"a\",\"A\",\"l\",\"r\"],[\"m\",\"W\",\"I\",\"l\",\"C\"],[\"t\",\"s\",\"i\",\"r\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#E6B0D1\",\"#F5C146\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 17,
+    "phrase": "All I Want For Christmas Is You",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-11",
+    "id": "7abfe7dc-76ff-4321-88af-aeb78fc15197",
+    "dimension": 5
+  }
+]

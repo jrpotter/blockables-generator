@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-12T12:28:20.545652-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Partner of blood (in T-rated video games) or opponent of Bush (in the 2000 US presidential election)",
+        "ordinal": 1,
+        "reveal": "gore"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Jack _____ nipping at your nose\", Christmas carol lyric",
+        "ordinal": 2,
+        "reveal": "FROST"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Most commonly used English word, according to thesaurus.com",
+        "ordinal": 3,
+        "reveal": "The"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Hairstyle consisting of long-lasting waves or curls",
+        "ordinal": 4,
+        "reveal": "Perm"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Large, as a vista, the letters of which can be found in this clue's fourth word",
+        "ordinal": 5,
+        "reveal": "vast"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "P.M.'s opposite",
+        "ordinal": 6,
+        "reveal": "am"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "First Asian American to win an NBA championship",
+        "ordinal": 7,
+        "reveal": "Lin"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"o\",\"r\",\"e\",\"m\"],[\"h\",\"g\",\"F\",\"e\",\"r\"],[\"T\",\"n\",\"P\",\"r\",\"m\"],[\"t\",\"i\",\"v\",\"o\",\"a\"],[\"s\",\"a\",\"L\",\"s\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#B86BAC\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#B86BAC\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\",\"#E6B0D1\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 345,
+    "phrase": "Proving Fermat's Last Theorem",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-04",
+    "id": "8a41705e-1fb1-4773-9c51-d375a21c09ad",
+    "dimension": 5
+  }
+]

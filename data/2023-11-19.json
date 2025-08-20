@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-28T09:09:57.773969-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Spoon and knife partner",
+        "ordinal": 1,
+        "reveal": "fORK"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Who Harrison played in the Star Wars franchise",
+        "ordinal": 2,
+        "reveal": "hAN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Kit- follower, in a candy bar",
+        "ordinal": 3,
+        "reveal": "kAT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Paddle used for rowing",
+        "ordinal": 4,
+        "reveal": "oAR"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Spirit derived from juniper berries",
+        "ordinal": 5,
+        "reveal": "gIN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"___ house, in the middle of ___ street\", 1983 Madness lyric",
+        "ordinal": 6,
+        "reveal": "oUR"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after Black or Red",
+        "ordinal": 7,
+        "reveal": "sEA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Sphere, perhaps mystical",
+        "ordinal": 8,
+        "reveal": "oRB"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"a\",\"r\",\"o\",\"f\"],[\"h\",\"n\",\"i\",\"k\",\"k\"],[\"o\",\"g\",\"T\",\"a\",\"a\"],[\"u\",\"a\",\"b\",\"r\",\"e\"],[\"r\",\"o\",\"r\",\"s\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\"],[\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#E6B0D1\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 178,
+    "phrase": "Taking a break for an hour or so",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-19",
+    "id": "a65f0e59-4006-458b-97b6-a34c820dfc50",
+    "dimension": 5
+  }
+]

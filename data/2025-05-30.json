@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-05-25T10:51:57.881997-06:00",
+    "category": "Blue Sky Feed?",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before company or investigator",
+        "ordinal": 1,
+        "reveal": "private"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Annoying internet pop-up",
+        "ordinal": 2,
+        "reveal": "ad"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Last name of Superman's girlfriend",
+        "ordinal": 3,
+        "reveal": "lANE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Chicago's US state",
+        "ordinal": 4,
+        "reveal": "il"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Employee Appreciation Day, abbr.",
+        "ordinal": 5,
+        "reveal": "ead"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Timid",
+        "ordinal": 6,
+        "reveal": "shy"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Victim on April 1st",
+        "ordinal": 7,
+        "reveal": "fool"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"r\",\"i\",\"a\",\"d\"],[\"l\",\"i\",\"v\",\"a\",\"e\"],[\"a\",\"l\",\"H\",\"e\",\"t\"],[\"n\",\"y\",\"s\",\"a\",\"l\"],[\"e\",\"f\",\"o\",\"o\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A9D594\",\"#B86BAC\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#A9D594\",\"#B86BAC\",\"#A1DBE3\",\"#EE7B8C\",\"#7C93CB\"],[\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 736,
+    "phrase": "Heavily salted airplane food",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-30",
+    "id": "3ad45fe1-0f98-42d6-81de-039fc28769b4",
+    "dimension": 5
+  }
+]

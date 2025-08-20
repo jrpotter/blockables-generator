@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-05-15T08:58:01.349395-06:00",
+    "category": "Perhaps they are always sane?",
+    "clues": [
+      {
+        "clue": "American labor leader Chavez or Dog Whisperer Millan",
+        "color": "#EE7B8C",
+        "reveal": "cESAR",
+        "ordinal": 1
+      },
+      {
+        "clue": "First word of phrase perhaps said after a sneeze",
+        "color": "#F3F1A0",
+        "reveal": "bLESS",
+        "ordinal": 2
+      },
+      {
+        "clue": "Under's opposite",
+        "color": "#A9D594",
+        "reveal": "OVER",
+        "ordinal": 3
+      },
+      {
+        "clue": "Bass instrument of the violin family",
+        "color": "#7C93CB",
+        "reveal": "cELLO",
+        "ordinal": 4
+      },
+      {
+        "clue": "Spanish uncle",
+        "color": "#F5C146",
+        "reveal": "tIO",
+        "ordinal": 5
+      },
+      {
+        "clue": "Small- and Medium-sized Business, abbr.",
+        "color": "#A1DBE3",
+        "reveal": "sMB",
+        "ordinal": 6
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\", \"c\", \"e\", \"l\", \"b\"], [\"l\", \"s\", \"e\", \"s\", \"r\"], [\"l\", \"s\", \"O\", \"b\", \"a\"], [\"e\", \"i\", \"v\", \"e\", \"m\"], [\"c\", \"t\", \"o\", \"r\", \"s\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#7C93CB\", \"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\"], [\"#7C93CB\", \"#F3F1A0\", \"#A9D594\", \"#A1DBE3\", \"#EE7B8C\"], [\"#7C93CB\", \"#F5C146\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\"], [\"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#A9D594\", \"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        4,
+        0
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 168,
+    "phrase": "Obsessive marble collectors",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-09",
+    "id": "5cbec5dd-a669-4e58-890f-7e3b93b6d2b0",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-27T14:33:54.778254-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "What the A in MoMA stands for",
+        "ordinal": 1,
+        "reveal": "aRT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "F, A, C, E, for example",
+        "ordinal": 2,
+        "reveal": "nOTES"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Brash celebration, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "bASH"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Milk's Favorite Cookie\" claimer",
+        "ordinal": 4,
+        "reveal": "oREO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Solid medicine meant for oral ingestion",
+        "ordinal": 5,
+        "reveal": "PILL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Railroad abbr.",
+        "ordinal": 6,
+        "reveal": "rR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "High-density lipoproteins, abbr.",
+        "ordinal": 7,
+        "reveal": "HDL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"H\",\"s\",\"a\",\"n\"],[\"r\",\"r\",\"e\",\"b\",\"o\"],[\"o\",\"t\",\"R\",\"o\",\"t\"],[\"l\",\"P\",\"r\",\"e\",\"s\"],[\"d\",\"H\",\"i\",\"l\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\"],[\"#B86BAC\",\"#EE7B8C\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 271,
+    "phrase": "Robert Preston as Harold Hill",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-20",
+    "id": "a6b7ff7e-8e89-4c4f-a86d-77f9e88b7e37",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:05:02.781694+0000",
+        "category": "Famous Character",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "\"Neighbor of thine\" or in Shakespearean verse",
+                "ordinal": 1,
+                "reveal": "THY"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Biblical king of Magog",
+                "ordinal": 2,
+                "reveal": "GOG"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Artificial intelligence research nonprofit, abbr.",
+                "ordinal": 3,
+                "reveal": "MIRI"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Thorium's symbol",
+                "ordinal": 4,
+                "reveal": "TH"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Pakistani province, briefly",
+                "ordinal": 5,
+                "reveal": "SIND"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Band that lost religion, or stage of sleep when you might dream about them",
+                "ordinal": 6,
+                "reveal": "REM"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Chicago's ___ train",
+                "ordinal": 7,
+                "reveal": "EL"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Hit song that goes \"Wake me up before you go-go\"",
+                "ordinal": 8,
+                "reveal": "WHAM"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"T\", \"H\", \"G\", \"I\", \"M\"], [\"Y\", \"W\", \"R\", \"O\", \"G\"], [\"H\", \"I\", \"T\", \"H\", \"N\"], [\"A\", \"E\", \"L\", \"D\", \"I\"], [\"M\", \"M\", \"E\", \"R\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#B86BAC\", \"#F5C146\", \"#F5C146\"], [\"#7C93CB\", \"#A1DBE3\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\"], [\"#A1DBE3\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\"], [\"#A1DBE3\", \"#F3F1A0\", \"#F3F1A0\", \"#A9D594\", \"#A9D594\"], [\"#A1DBE3\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                1,
+                4
+            ],
+            "3": [
+                0,
+                4
+            ],
+            "4": [
+                2,
+                2
+            ],
+            "5": [
+                4,
+                4
+            ],
+            "6": [
+                4,
+                3
+            ],
+            "7": [
+                3,
+                1
+            ],
+            "8": [
+                1,
+                1
+            ]
+        },
+        "phrase": "Thor wielding mighty hammers",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

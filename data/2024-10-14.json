@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-12T13:22:00.749229-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Ash container",
+        "ordinal": 1,
+        "reveal": "urn"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Cozy",
+        "ordinal": 2,
+        "reveal": "comfy"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Bloodsucking parasite",
+        "ordinal": 3,
+        "reveal": "Tick"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Dough action",
+        "ordinal": 4,
+        "reveal": "rise"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Trunk of a fallen tree",
+        "ordinal": 5,
+        "reveal": "log"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before chi or Lopez",
+        "ordinal": 6,
+        "reveal": "tai"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Emission Reduction Unit, abbr.",
+        "ordinal": 7,
+        "reveal": "eru"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"u\",\"r\",\"s\",\"e\"],[\"c\",\"m\",\"i\",\"n\",\"i\"],[\"f\",\"y\",\"T\",\"r\",\"a\"],[\"l\",\"k\",\"c\",\"i\",\"t\"],[\"o\",\"g\",\"e\",\"r\",\"u\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#A9D594\"],[\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 508,
+    "phrase": "Tricky miniature golf course",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-14",
+    "id": "ee3127f5-2e85-4d68-92d4-4dd03842f2f2",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-02-24T20:12:42.999997-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "1/60th of a min.",
+        "ordinal": 1,
+        "reveal": "sec"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"Bye, bye, [Clue #5 answer] American ___\", 1971 Don McLean lyric",
+        "ordinal": 2,
+        "reveal": "pie"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Irish dance",
+        "ordinal": 3,
+        "reveal": "jig"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Spanish word before Dorado or Salvador",
+        "ordinal": 4,
+        "reveal": "el"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Bye, bye, ____ American [Clue #2 answer]\", 1971 Don McLean lyric",
+        "ordinal": 5,
+        "reveal": "Miss"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "__ Top, rock band famous for their sunglasses, hats and long beards",
+        "ordinal": 6,
+        "reveal": "zz"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Employing, as a tool",
+        "ordinal": 7,
+        "reveal": "using"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Puppy's foot",
+        "ordinal": 8,
+        "reveal": "paw"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"e\",\"c\",\"e\",\"s\"],[\"p\",\"g\",\"j\",\"i\",\"g\"],[\"e\",\"n\",\"M\",\"i\",\"s\"],[\"l\",\"i\",\"s\",\"s\",\"a\"],[\"z\",\"z\",\"u\",\"p\",\"w\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#F5C146\",\"#B86BAC\",\"#A1DBE3\",\"#B86BAC\"],[\"#A9D594\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\",\"#A1DBE3\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 642,
+    "phrase": "Missing jigsaw puzzle pieces",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-25",
+    "id": "7d214dac-4fa2-46bc-997a-bd2684aacf57",
+    "dimension": 5
+  }
+]

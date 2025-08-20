@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-03T11:10:20.215215-07:00",
+    "category": "Food & Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "English singer-songwriter whose albums are all named after numbers",
+        "ordinal": 1,
+        "reveal": "adele"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Where cucumber face masks are often found",
+        "ordinal": 2,
+        "reveal": "spa"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Government arm responsible for collecting US federal taxes",
+        "ordinal": 3,
+        "reveal": "irs"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Pickle ingredient",
+        "ordinal": 4,
+        "reveal": "Dill"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letters to signify understanding, to a texter",
+        "ordinal": 5,
+        "reveal": "oic"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "First name of Fring in \"Breaking Bad\" or Griswald in \"Recess\"",
+        "ordinal": 6,
+        "reveal": "gus"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Regular Italian meat-based sauce, the letters of which can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "ragu"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"d\",\"e\",\"l\",\"l\"],[\"s\",\"c\",\"i\",\"l\",\"i\"],[\"p\",\"i\",\"D\",\"e\",\"r\"],[\"a\",\"o\",\"u\",\"s\",\"g\"],[\"r\",\"a\",\"g\",\"u\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#A1DBE3\",\"#A9D594\",\"#7C93CB\",\"#F5C146\"],[\"#EE7B8C\",\"#A1DBE3\",\"#A9D594\",\"#7C93CB\",\"#F5C146\"],[\"#EE7B8C\",\"#A1DBE3\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 460,
+    "phrase": "Delicious grilled asparagus",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-27",
+    "id": "31c88720-566e-4873-a8bb-0f9ae896b045",
+    "dimension": 5
+  }
+]

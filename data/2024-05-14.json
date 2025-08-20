@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-22T08:16:16.8597-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"__ infinity, and beyond!\", quote from 1995 Pixar film Toy Story",
+        "ordinal": 1,
+        "reveal": "to"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Polaris, Sirius, or Betelgeuse",
+        "ordinal": 2,
+        "reveal": "star"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Double it for a toy",
+        "ordinal": 3,
+        "reveal": "yo"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Aunt\" in Spanish",
+        "ordinal": 4,
+        "reveal": "tia"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Coldest season",
+        "ordinal": 5,
+        "reveal": "Winter"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word before around or off",
+        "ordinal": 6,
+        "reveal": "goof"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Meet 12 '____ babies' of big business whose family connections helped them get to the top\", 2023 Business Insider headline",
+        "ordinal": 7,
+        "reveal": "nepo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"t\",\"s\",\"y\",\"o\"],[\"r\",\"i\",\"t\",\"i\",\"t\"],[\"e\",\"n\",\"W\",\"a\",\"a\"],[\"t\",\"g\",\"f\",\"o\",\"r\"],[\"o\",\"o\",\"p\",\"e\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\"],[\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 355,
+    "phrase": "Waiting for a toy store to open",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-14",
+    "id": "825d7d8d-2ec8-4eba-9511-e7428440dd9e",
+    "dimension": 5
+  }
+]

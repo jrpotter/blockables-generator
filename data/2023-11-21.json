@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-05-28T08:49:03-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "BoJack Horseman or Seabiscuit",
+        "ordinal": 1,
+        "reveal": "hORSE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Rear wheel drive, abbr.",
+        "ordinal": 2,
+        "reveal": "rwd"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Marlin, in a Pixar movie, or a marlin",
+        "ordinal": 3,
+        "reveal": "fISH"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Light in a coffee shop, perhaps?",
+        "ordinal": 4,
+        "reveal": "rOAST"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "India to Australia direction, abbr.",
+        "ordinal": 5,
+        "reveal": "sE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Gold's chemical symbol",
+        "ordinal": 6,
+        "reveal": "aU"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Cecilia's repetitive nickname, perhaps",
+        "ordinal": 7,
+        "reveal": "cECE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"s\",\"r\",\"e\",\"t\"],[\"i\",\"o\",\"h\",\"s\",\"s\"],[\"r\",\"f\",\"D\",\"a\",\"e\"],[\"e\",\"W\",\"o\",\"r\",\"c\"],[\"s\",\"a\",\"u\",\"c\",\"e\"]]",
+    "gridColors": "[[\"#F5C146\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#7C93CB\",\"#F5C146\",\"#7C93CB\",\"#F5C146\",\"#EE7B8C\"],[\"#A1DBE3\",\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#E6B0D1\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        3,
+        3
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 180,
+    "phrase": "Dash of Worcestershire sauce",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-21",
+    "id": "8a1bd901-c3cb-4183-9b60-7639c8852581",
+    "dimension": 5
+  }
+]

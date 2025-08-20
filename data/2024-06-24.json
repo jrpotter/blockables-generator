@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-12-26T06:07:09.712527-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word after nervous or before tac-toe",
+        "ordinal": 1,
+        "reveal": "tic"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Jacob's ladder or Rubik's Cube, for two",
+        "ordinal": 2,
+        "reveal": "toy"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Bug, annoy, or otherwise irritate someone",
+        "ordinal": 3,
+        "reveal": "nag"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "___ Lanka",
+        "ordinal": 4,
+        "reveal": "sri"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Atlanta's state abbreviation",
+        "ordinal": 5,
+        "reveal": "ga"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Shortened word for a 12-letter animal",
+        "ordinal": 6,
+        "reveal": "hippo"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Rooster's partner",
+        "ordinal": 7,
+        "reveal": "hen"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Youth Legacy Kilometer, abbr.",
+        "ordinal": 8,
+        "reveal": "ylk"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"i\",\"c\",\"a\",\"g\"],[\"y\",\"o\",\"t\",\"o\",\"n\"],[\"s\",\"g\",\"P\",\"h\",\"i\"],[\"k\",\"r\",\"a\",\"p\",\"h\"],[\"y\",\"l\",\"i\",\"n\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#E6B0D1\",\"#EE7B8C\",\"#A1DBE3\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 396,
+    "phrase": "Photographing a city skyline",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-24",
+    "id": "28dccff9-3ead-4c44-b556-56abe15626a8",
+    "dimension": 5
+  }
+]

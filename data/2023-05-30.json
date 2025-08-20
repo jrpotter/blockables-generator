@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2022-12-06T14:44:13-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "One which may run in the cold",
+        "ordinal": 1,
+        "reveal": "nOSE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Reputability on the street cured without university",
+        "ordinal": 2,
+        "reveal": "cRED"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Systematic articulation of 's' and 'z' in a forward, dental position, resulting in 'th' sounds",
+        "ordinal": 3,
+        "reveal": "lISP"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Punish, perhaps by brandishing a card",
+        "ordinal": 4,
+        "reveal": "pENALIZE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "First word of mistakenly announced 2017 Best Picture Oscar Winner",
+        "ordinal": 5,
+        "reveal": "lA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Stiffen (as gelatin) synonym, the letters of which can be found in the first word of this clue",
+        "ordinal": 6,
+        "reveal": "sET"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"e\",\"c\",\"i\",\"l\"],[\"s\",\"o\",\"s\",\"r\",\"d\"],[\"e\",\"n\",\"P\",\"e\",\"e\"],[\"p\",\"a\",\"l\",\"i\",\"z\"],[\"l\",\"a\",\"t\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#F3F1A0\",\"#A9D594\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 5,
+    "phrase": "Personalized license plates",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-05-30",
+    "id": "6133ae13-3ab0-4f98-a549-0ccf1277b853",
+    "dimension": 5
+  }
+]

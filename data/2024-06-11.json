@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-16T01:47:45.947986-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Carnival prize in the 1900s, resulting in a common expression",
+        "ordinal": 1,
+        "reveal": "cigar"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Spanish \"yes\"",
+        "ordinal": 2,
+        "reveal": "si"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Airline headquartered at Willis Tower in Chicago",
+        "ordinal": 3,
+        "reveal": "UNITED"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Host nation, abbr.",
+        "ordinal": 4,
+        "reveal": "hn"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Weather phenomenon found in Newfoundland... or the produce aisle",
+        "ordinal": 5,
+        "reveal": "mist"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Lady partner, perhaps at the beginning of an announcement",
+        "ordinal": 6,
+        "reveal": "gent"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"__ pleasure!\"",
+        "ordinal": 7,
+        "reveal": "my"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"n\",\"i\",\"s\",\"u\"],[\"h\",\"i\",\"t\",\"t\",\"n\"],[\"e\",\"n\",\"G\",\"e\",\"i\"],[\"m\",\"g\",\"a\",\"D\",\"m\"],[\"i\",\"s\",\"t\",\"r\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#F3F1A0\",\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#7C93CB\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 383,
+    "phrase": "Getting a D minus in chemistry",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-11",
+    "id": "1bac7069-e80e-4497-beed-14f7d7659e25",
+    "dimension": 5
+  }
+]

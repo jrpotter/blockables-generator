@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-10-23T11:37:04.155439-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Abbreviation which a person with Celiac disease may look for on a menu",
+        "ordinal": 1,
+        "reveal": "gf"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "2009 Pixar film featuring thousands of balloons tied to a house",
+        "ordinal": 2,
+        "reveal": "up"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Head of a company, abbr.",
+        "ordinal": 3,
+        "reveal": "ceo"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Not reactive, as the noble gases",
+        "ordinal": 4,
+        "reveal": "inert"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Longest word in title of 1590s shrew-based Shakespeare play",
+        "ordinal": 5,
+        "reveal": "taming"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"__ infinity, and beyond!\", quote from 1995 Pixar film Toy Story",
+        "ordinal": 6,
+        "reveal": "to"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "General Electric's stock symbol",
+        "ordinal": 7,
+        "reveal": "ge"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Oohs and ___, crowd reaction to fireworks perhaps",
+        "ordinal": 8,
+        "reveal": "ahs"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"f\",\"o\",\"p\",\"u\"],[\"i\",\"m\",\"a\",\"e\",\"c\"],[\"n\",\"i\",\"S\",\"t\",\"t\"],[\"g\",\"n\",\"g\",\"h\",\"o\"],[\"e\",\"r\",\"t\",\"e\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#B86BAC\",\"#F3F1A0\",\"#E6B0D1\",\"#A1DBE3\"],[\"#E6B0D1\",\"#B86BAC\",\"#F5C146\",\"#F3F1A0\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 324,
+    "phrase": "Steaming hot cup of ginger tea",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-13",
+    "id": "ee65643e-8dcf-4123-bc63-9ed11c7d22d5",
+    "dimension": 5
+  }
+]

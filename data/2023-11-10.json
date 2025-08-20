@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-21T09:52:18.404039-06:00",
+    "category": "Character",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Fly, as an eagle",
+        "ordinal": 1,
+        "reveal": "sOAR"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Prime mischievous fantasy creature, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "iMP"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Not common",
+        "ordinal": 3,
+        "reveal": "rARE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Out's opposite",
+        "ordinal": 4,
+        "reveal": "iN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Key coming between Ctrl and Delete, in a computer-overriding sequence",
+        "ordinal": 5,
+        "reveal": "aLT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after karate or pork",
+        "ordinal": 6,
+        "reveal": "cHOPS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Lions and tigers and bears, oh __!\"",
+        "ordinal": 7,
+        "reveal": "mY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Hertz symbol",
+        "ordinal": 8,
+        "reveal": "hZ"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"p\",\"s\",\"o\",\"n\"],[\"i\",\"t\",\"r\",\"i\",\"a\"],[\"S\",\"a\",\"L\",\"a\",\"r\"],[\"r\",\"p\",\"y\",\"z\",\"c\"],[\"e\",\"m\",\"o\",\"H\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"],[\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#B86BAC\",\"#EE7B8C\"],[\"#A9D594\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#F5C146\",\"#A9D594\",\"#F3F1A0\",\"#E6B0D1\",\"#A9D594\"],[\"#F5C146\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 169,
+    "phrase": "Lazy patriarch Homer Simpson",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-10",
+    "id": "a81f42aa-ce24-4333-9e64-e8e1619cc85a",
+    "dimension": 5
+  }
+]

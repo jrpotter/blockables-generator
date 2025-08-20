@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-09T06:57:25.227804-07:00",
+    "category": "Plane English?",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Direction from South America to Africa",
+        "ordinal": 1,
+        "reveal": "east"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "____ Punk, French electronic music duo",
+        "ordinal": 2,
+        "reveal": "daft"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Adolescents",
+        "ordinal": 3,
+        "reveal": "teens"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Electric or moray",
+        "ordinal": 4,
+        "reveal": "eel"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Cain's brother, in the book of Genesis",
+        "ordinal": 5,
+        "reveal": "abel"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Quick greeting",
+        "ordinal": 6,
+        "reveal": "hi"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Web Transport System, abbr.",
+        "ordinal": 7,
+        "reveal": "wts"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"a\",\"t\",\"e\",\"d\"],[\"s\",\"s\",\"e\",\"a\",\"t\"],[\"e\",\"n\",\"F\",\"a\",\"b\"],[\"l\",\"e\",\"t\",\"s\",\"e\"],[\"i\",\"h\",\"w\",\"t\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\"],[\"#E6B0D1\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#E6B0D1\"],[\"#F5C146\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 469,
+    "phrase": "Fasten seat belt while seated",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-05",
+    "id": "b87d3a76-a89d-4fb3-ae3b-35150d45dc53",
+    "dimension": 5
+  }
+]

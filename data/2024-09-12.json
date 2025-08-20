@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-17T11:51:48.091759-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "First initials of poet Eliot, author of \"The Love Song of J. Alfred Prufrock\"",
+        "ordinal": 1,
+        "reveal": "ts"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Someone intent on purchasing something",
+        "ordinal": 2,
+        "reveal": "Buyer"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Nickname for director Kubrick or fictional paper salesman Hudson",
+        "ordinal": 3,
+        "reveal": "stan"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Slice of meat, perhaps served with chimichurri",
+        "ordinal": 4,
+        "reveal": "steak"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Tres menos dos",
+        "ordinal": 5,
+        "reveal": "uno"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Mountain, for short",
+        "ordinal": 6,
+        "reveal": "mtn"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Pull vigorously, perhaps as a boat",
+        "ordinal": 7,
+        "reveal": "tug"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"s\",\"u\",\"B\",\"n\"],[\"e\",\"y\",\"s\",\"t\",\"a\"],[\"r\",\"s\",\"G\",\"u\",\"m\"],[\"K\",\"t\",\"u\",\"n\",\"t\"],[\"e\",\"a\",\"t\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 476,
+    "phrase": "Gutsy stuntman Buster Keaton",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-12",
+    "id": "89d5496a-5e26-4a28-bc05-0b50df2b3ea9",
+    "dimension": 5
+  }
+]

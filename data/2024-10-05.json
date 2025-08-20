@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-04-11T11:33:43.517487-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"The School of Athens\" painter... or a Teenage Mutant Ninja Turtle",
+        "ordinal": 1,
+        "reveal": "raphael"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Hither partner",
+        "ordinal": 2,
+        "reveal": "yon"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "An old towel in a garage, perhaps",
+        "ordinal": 3,
+        "reveal": "Rag"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Input-Output Gate, abbr.",
+        "ordinal": 4,
+        "reveal": "iog"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of actor who played the 10th incarnation of the Doctor in \"Doctor Who\"",
+        "ordinal": 5,
+        "reveal": "dt"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Onomatopoeia of a bouncy spring, perhaps",
+        "ordinal": 6,
+        "reveal": "boing"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Gold's chemical symbol",
+        "ordinal": 7,
+        "reveal": "au"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"a\",\"p\",\"h\",\"y\"],[\"g\",\"g\",\"a\",\"l\",\"o\"],[\"o\",\"n\",\"R\",\"e\",\"n\"],[\"i\",\"i\",\"d\",\"a\",\"g\"],[\"b\",\"o\",\"t\",\"u\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#B86BAC\",\"#7C93CB\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 499,
+    "phrase": "Reading a long autobiography",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-05",
+    "id": "d885a3a0-5ffe-4d41-9af9-398e380df8d5",
+    "dimension": 5
+  }
+]

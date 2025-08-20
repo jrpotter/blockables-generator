@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:09:17.921317+0000",
+        "category": "Thing",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Knights of ___, Monty Python's taunting characters",
+                "ordinal": 1,
+                "reveal": "NI"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Man's name that's an anagram of \"and\"",
+                "ordinal": 2,
+                "reveal": "DAN"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Author initials hidden in \"work\"",
+                "ordinal": 3,
+                "reveal": "RK"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Valley where the boys are bonnie",
+                "ordinal": 4,
+                "reveal": "GLEN"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Without, in French",
+                "ordinal": 5,
+                "reveal": "SANS"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Seabird that sounds like a change of direction",
+                "ordinal": 6,
+                "reveal": "TERN"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Madison's st., or knowledge informally",
+                "ordinal": 7,
+                "reveal": "WIS"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Ship's record or fallen tree",
+                "ordinal": 8,
+                "reveal": "LOG"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"N\", \"I\", \"S\", \"N\", \"R\"], [\"D\", \"I\", \"W\", \"O\", \"E\"], [\"A\", \"N\", \"G\", \"L\", \"T\"], [\"R\", \"G\", \"L\", \"A\", \"N\"], [\"K\", \"N\", \"E\", \"S\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\"], [\"#F5C146\", \"#7C93CB\", \"#EE7B8C\", \"#A1DBE3\", \"#F3F1A0\"], [\"#F5C146\", \"#F5C146\", \"#A1DBE3\", \"#A1DBE3\", \"#F3F1A0\"], [\"#E6B0D1\", \"#A9D594\", \"#A9D594\", \"#B86BAC\", \"#B86BAC\"], [\"#E6B0D1\", \"#A9D594\", \"#A9D594\", \"#B86BAC\", \"#B86BAC\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                1,
+                0
+            ],
+            "3": [
+                3,
+                0
+            ],
+            "4": [
+                3,
+                1
+            ],
+            "5": [
+                4,
+                3
+            ],
+            "6": [
+                2,
+                4
+            ],
+            "7": [
+                1,
+                2
+            ],
+            "8": [
+                2,
+                3
+            ]
+        },
+        "phrase": "Glowing lanterns in darkness",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

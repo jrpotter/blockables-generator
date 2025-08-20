@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-30T11:35:42.722436-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Clothing, helmets, goggles, or other garments or equipment designed to protect the wearer's body from injury or infection, abbr.",
+        "ordinal": 1,
+        "reveal": "pPE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Person chosen to speak for others, perhaps in healthcare or sales, for short",
+        "ordinal": 2,
+        "reveal": "rEP"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Cercle Litt\u00e9raire Yverdon, abbr.",
+        "ordinal": 3,
+        "reveal": "cLY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Inject liquid at high pressure so as to force open existing fissures and extract oil or gas",
+        "ordinal": 4,
+        "reveal": "FRACK"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Clarinet or oboe need",
+        "ordinal": 5,
+        "reveal": "rEED"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before jawed, off, or \"is the best way to reach me at work\"",
+        "ordinal": 6,
+        "reveal": "sLACK"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of the 23rd US President or SNL comedian who portrayed Stefon",
+        "ordinal": 7,
+        "reveal": "bH"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"p\",\"p\",\"e\",\"r\"],[\"p\",\"y\",\"c\",\"r\",\"a\"],[\"k\",\"l\",\"F\",\"r\",\"c\"],[\"c\",\"h\",\"s\",\"e\",\"k\"],[\"a\",\"l\",\"b\",\"d\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F3F1A0\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\"],[\"#F3F1A0\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 151,
+    "phrase": "Freshly cracked black pepper",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-23",
+    "id": "e5c30a9c-bd6e-4e57-811f-9d632c23ba4b",
+    "dimension": 5
+  }
+]

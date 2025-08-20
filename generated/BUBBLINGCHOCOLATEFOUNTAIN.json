@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:10:04.833504+0000",
+        "category": "Thing",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Alien in a Spielberg film",
+                "ordinal": 1,
+                "reveal": "ET"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "White vestment worn by clergy",
+                "ordinal": 2,
+                "reveal": "ALB"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Programming language that sounds like a dance from Brazil",
+                "ordinal": 3,
+                "reveal": "COBOL"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Ancient Hebrew unit of liquid measure",
+                "ordinal": 4,
+                "reveal": "HIN"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Software glitch, or what you might do to someone persistently",
+                "ordinal": 5,
+                "reveal": "BUG"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Unable to do something, or slanted speech",
+                "ordinal": 6,
+                "reveal": "CANT"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Freedom of Information, abbr.",
+                "ordinal": 7,
+                "reveal": "FOI"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Greek letter that sounds like \"new\"",
+                "ordinal": 8,
+                "reveal": "NU"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"E\", \"T\", \"A\", \"L\", \"O\"], [\"F\", \"L\", \"B\", \"B\", \"C\"], [\"O\", \"I\", \"B\", \"U\", \"O\"], [\"U\", \"N\", \"G\", \"C\", \"H\"], [\"N\", \"T\", \"A\", \"I\", \"N\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#B86BAC\", \"#B86BAC\"], [\"#F5C146\", \"#EE7B8C\", \"#EE7B8C\", \"#B86BAC\", \"#B86BAC\"], [\"#F5C146\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#B86BAC\"], [\"#A1DBE3\", \"#F3F1A0\", \"#E6B0D1\", \"#F3F1A0\", \"#A9D594\"], [\"#A1DBE3\", \"#F3F1A0\", \"#F3F1A0\", \"#A9D594\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                0,
+                2
+            ],
+            "3": [
+                1,
+                4
+            ],
+            "4": [
+                3,
+                4
+            ],
+            "5": [
+                2,
+                2
+            ],
+            "6": [
+                3,
+                3
+            ],
+            "7": [
+                1,
+                0
+            ],
+            "8": [
+                4,
+                0
+            ]
+        },
+        "phrase": "Bubbling chocolate fountain",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

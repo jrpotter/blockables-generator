@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-08-11T08:14:10.705345-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Stroke a cat or dog or a cat or dog",
+        "ordinal": 1,
+        "reveal": "Pet"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Shooting star",
+        "ordinal": 2,
+        "reveal": "meteor"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Lagers, pale ales, and stouts",
+        "ordinal": 3,
+        "reveal": "Beer"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Friends, perhaps in an academic sense",
+        "ordinal": 4,
+        "reveal": "Peers"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "A Swiftie, to Taylor, or a Little Monster, to Lady Gaga",
+        "ordinal": 5,
+        "reveal": "fan"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "One of \"Game of Thrones\" author's middle initials",
+        "ordinal": 6,
+        "reveal": "r"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letter before ball or bone",
+        "ordinal": 7,
+        "reveal": "t"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Letters before Hibbert, House, or Howser",
+        "ordinal": 8,
+        "reveal": "dr"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"t\",\"e\",\"r\",\"s\"],[\"P\",\"m\",\"e\",\"r\",\"B\"],[\"e\",\"r\",\"P\",\"e\",\"e\"],[\"t\",\"o\",\"f\",\"r\",\"r\"],[\"t\",\"e\",\"d\",\"a\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\"],[\"#A9D594\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 813,
+    "phrase": "Performer Bernadette Peters",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-08-15",
+    "id": "95c80207-bc4d-4f19-ab1d-14cd590fda06",
+    "dimension": 5
+  }
+]

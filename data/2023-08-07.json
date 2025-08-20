@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-02-11T14:49:23.108642-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Masculine article in Spanish",
+        "ordinal": 1,
+        "reveal": "eL"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after fast (in a Tracy Chapman song) or getaway (in a Taylor Swift song)",
+        "ordinal": 2,
+        "reveal": "CAR"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "First initials of \"The Chronicles of Narnia\" author Lewis",
+        "ordinal": 3,
+        "reveal": "CS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Celestial body at the center of the solar system",
+        "ordinal": 4,
+        "reveal": "sUN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "They enable upward mobility?",
+        "ordinal": 5,
+        "reveal": "sTILTS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"You're on ____ ice, mister!\"",
+        "ordinal": 6,
+        "reveal": "tHIN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Tag or tic-tac-toe, for two",
+        "ordinal": 7,
+        "reveal": "gAMES"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"l\",\"s\",\"e\",\"n\"],[\"a\",\"i\",\"t\",\"l\",\"i\"],[\"C\",\"t\",\"C\",\"h\",\"s\"],[\"s\",\"s\",\"s\",\"e\",\"t\"],[\"u\",\"n\",\"g\",\"a\",\"M\"]]",
+    "gridColors": "[[\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#E6B0D1\"],[\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#E6B0D1\"],[\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\",\"#E6B0D1\",\"#7C93CB\"],[\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#7C93CB\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 74,
+    "phrase": "Chess titlist Magnus Carlsen",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-07",
+    "id": "3a66a253-d8c8-4d91-a6d2-0d7106deb9c7",
+    "dimension": 5
+  }
+]

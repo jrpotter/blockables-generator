@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-27T13:42:34.121773-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Some drinks at the pub",
+        "ordinal": 1,
+        "reveal": "aLES"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word associated with sweatshirts, grills, or cars",
+        "ordinal": 2,
+        "reveal": "hOOD"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Supervillains' bases, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "lAIRS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "___ foil hat",
+        "ordinal": 4,
+        "reveal": "tIN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Someone between the ages of twelve and twenty",
+        "ordinal": 5,
+        "reveal": "tEEN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Mercury's chemical symbol",
+        "ordinal": 6,
+        "reveal": "hG"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word before year or after Cumberland",
+        "ordinal": 7,
+        "reveal": "gAP"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"d\",\"l\",\"e\",\"s\"],[\"o\",\"a\",\"i\",\"r\",\"s\"],[\"n\",\"h\",\"A\",\"n\",\"p\"],[\"i\",\"l\",\"e\",\"g\",\"a\"],[\"t\",\"t\",\"e\",\"h\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        2,
+        1
+      ],
+      "3": [
+        3,
+        1
+      ],
+      "4": [
+        4,
+        0
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 269,
+    "phrase": "Angel hair spaghetti noodles",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-18",
+    "id": "27587aad-a200-4707-8f2e-16eb105fb127",
+    "dimension": 5
+  }
+]

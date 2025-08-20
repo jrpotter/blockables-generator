@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-25T03:51:38.933485-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "2006 Nintendo console controlled primarily through motion",
+        "ordinal": 1,
+        "reveal": "wii"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of \"The Parent Trap\" (1998) star or \"Coal Miner's Daughter\" singer",
+        "ordinal": 2,
+        "reveal": "lL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Game where \"checkmate\" is said",
+        "ordinal": 3,
+        "reveal": "Chess"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Put in order, as flowers or... fruit bouquets?",
+        "ordinal": 4,
+        "reveal": "arrange"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "University Library, abbr.",
+        "ordinal": 5,
+        "reveal": "uL"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "God of Thunder, in Norse mythology... or the Marvel cinematic universe",
+        "ordinal": 6,
+        "reveal": "tHOR"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "__ and behold",
+        "ordinal": 7,
+        "reveal": "lo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"w\",\"e\",\"L\",\"r\"],[\"s\",\"i\",\"l\",\"g\",\"o\"],[\"C\",\"s\",\"E\",\"n\",\"h\"],[\"a\",\"h\",\"a\",\"u\",\"t\"],[\"r\",\"r\",\"o\",\"l\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#7C93CB\",\"#A1DBE3\",\"#B86BAC\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#F3F1A0\"],[\"#B86BAC\",\"#E6B0D1\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 392,
+    "phrase": "English author Lewis Carroll",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-20",
+    "id": "8b0accf2-e051-4c3d-8351-2fccdbe74ba6",
+    "dimension": 5
+  }
+]

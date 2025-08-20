@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-02-12T08:37:51.756925-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "___ and cheese",
+        "ordinal": 1,
+        "reveal": "mac"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Quit",
+        "ordinal": 2,
+        "reveal": "resign"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "First letter of the alphabet",
+        "ordinal": 3,
+        "reveal": "a"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Like Clue #1, when accompanied by an entree, perhaps",
+        "ordinal": 4,
+        "reveal": "side"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word before cheese or after cordon",
+        "ordinal": 5,
+        "reveal": "bleu"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Some drinks at the pub",
+        "ordinal": 6,
+        "reveal": "ales"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Standard Operating Procedure, abbr.",
+        "ordinal": 7,
+        "reveal": "sop"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"m\",\"e\",\"r\",\"a\"],[\"c\",\"u\",\"s\",\"e\",\"d\"],[\"e\",\"e\",\"S\",\"i\",\"i\"],[\"l\",\"l\",\"g\",\"n\",\"s\"],[\"b\",\"a\",\"s\",\"o\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\"],[\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        3,
+        4
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 630,
+    "phrase": "Single-use disposable camera",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-13",
+    "id": "89885689-1faa-441f-9a26-bbad57286650",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-26T11:18:32.188817-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "China, India, and Japan",
+        "ordinal": 1,
+        "reveal": "nations"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Wildebeest",
+        "ordinal": 2,
+        "reveal": "gnu"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Number of ays in \u201cay-ay-ay\u201d, to a Roman",
+        "ordinal": 3,
+        "reveal": "iii"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Relaxing location with massages and cucumber face masks",
+        "ordinal": 4,
+        "reveal": "spa"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Cute pet name derived from a shortening of a bee product",
+        "ordinal": 5,
+        "reveal": "hon"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "For Your Consideration, abbr.",
+        "ordinal": 6,
+        "reveal": "fyc"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Two-thousand pounds",
+        "ordinal": 7,
+        "reveal": "ton"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"i\",\"o\",\"n\",\"s\"],[\"a\",\"n\",\"g\",\"p\",\"u\"],[\"c\",\"i\",\"A\",\"n\",\"s\"],[\"i\",\"y\",\"o\",\"n\",\"h\"],[\"f\",\"i\",\"t\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\"],[\"#A1DBE3\",\"#F5C146\",\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\"],[\"#F5C146\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 359,
+    "phrase": "Annoying push notifications",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-18",
+    "id": "c30f6b80-12f4-4392-87c9-a7aa450ae050",
+    "dimension": 5
+  }
+]

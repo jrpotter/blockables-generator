@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-07-16T13:11:13.650737-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after Cape or before Factor",
+        "ordinal": 1,
+        "reveal": "fEAR"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "One of two found on the vehicle featured in today's answer",
+        "ordinal": 2,
+        "reveal": "tIRE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Malbec or merlot",
+        "ordinal": 3,
+        "reveal": "rED"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Material often found on a pottery wheel",
+        "ordinal": 4,
+        "reveal": "cLAY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Astronomical abbreviation of Libra",
+        "ordinal": 5,
+        "reveal": "lIB"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Well, I guess we're back to square ___.\"",
+        "ordinal": 6,
+        "reveal": "oNE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Nickname for Cyrus, Cyril, or Seymour",
+        "ordinal": 7,
+        "reveal": "cY"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Opposite of yes",
+        "ordinal": 8,
+        "reveal": "nO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"r\",\"i\",\"d\",\"e\"],[\"l\",\"f\",\"t\",\"e\",\"r\"],[\"c\",\"a\",\"E\",\"a\",\"n\"],[\"y\",\"y\",\"l\",\"r\",\"o\"],[\"c\",\"i\",\"b\",\"n\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F3F1A0\",\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"],[\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\",\"#A1DBE3\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 225,
+    "phrase": "Early afternoon bicycle ride",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-05",
+    "id": "1b9ddc84-5096-4273-910a-0c48443ca3bb",
+    "dimension": 5
+  }
+]

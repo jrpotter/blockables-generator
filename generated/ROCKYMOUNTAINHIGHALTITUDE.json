@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:04:40.328089+0000",
+        "category": "Before and After",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Elevated or under the influence",
+                "ordinal": 1,
+                "reveal": "HIGH"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Biblical brother with a raising problem?",
+                "ordinal": 2,
+                "reveal": "CAIN"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Word opposite?",
+                "ordinal": 3,
+                "reveal": "NOT"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Delaware, briefly",
+                "ordinal": 4,
+                "reveal": "DE"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Music scale note between so and do",
+                "ordinal": 5,
+                "reveal": "UT"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Former monetary unit of France that sounds like a flower",
+                "ordinal": 6,
+                "reveal": "LOTI"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Shakespearean affirmative",
+                "ordinal": 7,
+                "reveal": "AY"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Gloom that makes things unclear",
+                "ordinal": 8,
+                "reveal": "MURK"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"H\", \"G\", \"I\", \"H\", \"N\"], [\"A\", \"Y\", \"K\", \"C\", \"I\"], [\"L\", \"M\", \"R\", \"O\", \"A\"], [\"T\", \"O\", \"U\", \"N\", \"T\"], [\"I\", \"T\", \"U\", \"D\", \"E\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#EE7B8C\"], [\"#E6B0D1\", \"#E6B0D1\", \"#A1DBE3\", \"#EE7B8C\", \"#EE7B8C\"], [\"#A9D594\", \"#A1DBE3\", \"#A1DBE3\", \"#B86BAC\", \"#EE7B8C\"], [\"#A9D594\", \"#A9D594\", \"#A1DBE3\", \"#B86BAC\", \"#B86BAC\"], [\"#A9D594\", \"#F5C146\", \"#F5C146\", \"#F3F1A0\", \"#F3F1A0\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                3
+            ],
+            "2": [
+                1,
+                3
+            ],
+            "3": [
+                3,
+                3
+            ],
+            "4": [
+                4,
+                3
+            ],
+            "5": [
+                4,
+                2
+            ],
+            "6": [
+                2,
+                0
+            ],
+            "7": [
+                1,
+                0
+            ],
+            "8": [
+                2,
+                1
+            ]
+        },
+        "phrase": "Rocky mountain high altitude",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

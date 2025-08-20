@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-04T13:19:28.51821-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Worst grade in school",
+        "ordinal": 1,
+        "reveal": "f"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before sesame or after French",
+        "ordinal": 2,
+        "reveal": "open"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Smallest US state",
+        "ordinal": 3,
+        "reveal": "ri"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Wildebeests",
+        "ordinal": 4,
+        "reveal": "gnus"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Woodcutting tools",
+        "ordinal": 5,
+        "reveal": "axes"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Scottish girls, perhaps",
+        "ordinal": 6,
+        "reveal": "lasses"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sides on a die, to a Roman",
+        "ordinal": 7,
+        "reveal": "vi"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Class dreaded by unathletic students, for short",
+        "ordinal": 8,
+        "reveal": "pe"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"s\",\"f\",\"o\",\"r\"],[\"n\",\"n\",\"e\",\"p\",\"i\"],[\"g\",\"s\",\"E\",\"x\",\"a\"],[\"l\",\"i\",\"v\",\"e\",\"p\"],[\"a\",\"s\",\"s\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 560,
+    "phrase": "Expensive pair of sunglasses",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-05",
+    "id": "92632a19-c9b9-4129-b3e6-fe18efd0e2c0",
+    "dimension": 5
+  }
+]

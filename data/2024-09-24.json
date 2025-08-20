@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-04-05T06:01:32.497492-06:00",
+    "category": "Cardinals and Blue Jays?",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Pa's lady",
+        "ordinal": 1,
+        "reveal": "ma"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Male offspring",
+        "ordinal": 2,
+        "reveal": "son"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Initials of Arwen actress in \"Lord of the Rings\" (2001) or author of \"War and Peace\"",
+        "ordinal": 3,
+        "reveal": "lt"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after chocolate or before coat",
+        "ordinal": 4,
+        "reveal": "lab"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Payment made in exchange for services",
+        "ordinal": 5,
+        "reveal": "fee"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Biweekly wages",
+        "ordinal": 6,
+        "reveal": "salaries"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Possibly greatest hits, the letters of which can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "bops"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"e\",\"a\",\"m\",\"s\"],[\"l\",\"s\",\"i\",\"o\",\"n\"],[\"l\",\"s\",\"P\",\"r\",\"a\"],[\"a\",\"e\",\"f\",\"o\",\"l\"],[\"b\",\"e\",\"s\",\"a\",\"b\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 488,
+    "phrase": "Professional baseball teams",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-24",
+    "id": "ca257c7d-4998-413b-aa96-65a7fdc70a7e",
+    "dimension": 5
+  }
+]

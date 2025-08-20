@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-04-24T10:09:00.420561-06:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word after trench or before hanger",
+        "ordinal": 1,
+        "reveal": "cOAT"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Large diving waterfowl often used to refer to a silly or foolish person",
+        "ordinal": 2,
+        "reveal": "lOON"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fruit whose peel can be comedically slipped on",
+        "ordinal": 3,
+        "reveal": "bANANA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Fluffy farm animal often used to refer to someone who is too easily influenced or led",
+        "ordinal": 4,
+        "reveal": "sHEEP"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Gold's chemical symbol",
+        "ordinal": 5,
+        "reveal": "aU"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Capital of France?",
+        "ordinal": 6,
+        "reveal": "EURO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"a\",\"n\",\"a\",\"l\"],[\"n\",\"o\",\"a\",\"t\",\"o\"],[\"a\",\"b\",\"H\",\"o\",\"n\"],[\"e\",\"e\",\"s\",\"u\",\"a\"],[\"p\",\"o\",\"r\",\"u\",\"E\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"],[\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 143,
+    "phrase": "Houseboat on a European canal",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-15",
+    "id": "381454ce-7bf0-4b09-92b3-61fdb39ef96d",
+    "dimension": 5
+  }
+]

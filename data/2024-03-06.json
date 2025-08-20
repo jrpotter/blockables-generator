@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-15T15:35:56.158424-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "College admissions test with a maximum score of 1600 as of 2016",
+        "ordinal": 1,
+        "reveal": "SAT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Alien who wants to phone home, in a 1992 sci-fi flick",
+        "ordinal": 2,
+        "reveal": "eT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\u201cHanging onto resentment is letting someone you despise live ____-free in your head.\u201d \u2013 Ann Landers",
+        "ordinal": 3,
+        "reveal": "rENT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Saget or Seger",
+        "ordinal": 4,
+        "reveal": "BOB"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before ball or mood",
+        "ordinal": 5,
+        "reveal": "fOUL"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Musical work, perhaps by Pachelbel",
+        "ordinal": 6,
+        "reveal": "CANON"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Take's opposite",
+        "ordinal": 7,
+        "reveal": "gIVE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"S\",\"t\",\"e\",\"n\",\"r\"],[\"a\",\"l\",\"t\",\"t\",\"e\"],[\"u\",\"e\",\"B\",\"o\",\"b\"],[\"v\",\"o\",\"f\",\"C\",\"a\"],[\"i\",\"g\",\"n\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"],[\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 286,
+    "phrase": "Bottle of Cabernet Sauvignon",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-06",
+    "id": "3c2d6460-4c5c-4c9d-8a73-b7c1bb0e3466",
+    "dimension": 5
+  }
+]

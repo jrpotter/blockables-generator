@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-02-06T20:06:34.345583-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "clue": "First initials of English author Wells, often called \"The Father of Science Fiction\"",
+        "color": "#7C93CB",
+        "reveal": "hG",
+        "ordinal": 1
+      },
+      {
+        "clue": "Metal of the \"Oil can!\" speaker in The Wizard of Oz",
+        "color": "#EE7B8C",
+        "reveal": "tIN",
+        "ordinal": 2
+      },
+      {
+        "clue": "Not old",
+        "color": "#F3F1A0",
+        "reveal": "nEW",
+        "ordinal": 3
+      },
+      {
+        "clue": "First name of singer Astley or producer Rubin",
+        "color": "#A1DBE3",
+        "reveal": "rICK",
+        "ordinal": 4
+      },
+      {
+        "clue": "Parsley, sage, rosemary, or thyme",
+        "color": "#A9D594",
+        "reveal": "hERB",
+        "ordinal": 5
+      },
+      {
+        "clue": "Hot beverage often topped with whipped cream or marshmallows",
+        "color": "#E6B0D1",
+        "reveal": "cOCOA",
+        "ordinal": 6
+      },
+      {
+        "clue": "E. ____, bacteria which can cause food poisoning",
+        "color": "#F5C146",
+        "reveal": "cOLI",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\", \"t\", \"i\", \"w\", \"n\"], [\"b\", \"g\", \"n\", \"a\", \"e\"], [\"r\", \"e\", \"O\", \"r\", \"k\"], [\"o\", \"c\", \"h\", \"i\", \"c\"], [\"c\", \"c\", \"o\", \"l\", \"i\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\"], [\"#A9D594\", \"#7C93CB\", \"#EE7B8C\", \"#E6B0D1\", \"#F3F1A0\"], [\"#A9D594\", \"#A9D594\", \"#E6B0D1\", \"#A1DBE3\", \"#A1DBE3\"], [\"#E6B0D1\", \"#E6B0D1\", \"#A9D594\", \"#A1DBE3\", \"#A1DBE3\"], [\"#E6B0D1\", \"#F5C146\", \"#F5C146\", \"#F5C146\", \"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 86,
+    "phrase": "Orange chicken with broccoli",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-19",
+    "id": "f340c54b-8ff3-4e32-a229-e199feb2e008",
+    "dimension": 5
+  }
+]

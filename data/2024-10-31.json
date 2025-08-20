@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-27T11:32:09.751687-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Sierra _____",
+        "ordinal": 1,
+        "reveal": "leone"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Japanese multimedia artist Yoko",
+        "ordinal": 2,
+        "reveal": "ono"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Grand ____",
+        "ordinal": 3,
+        "reveal": "slam"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Chlorine's chemical symbol",
+        "ordinal": 4,
+        "reveal": "Cl"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "India Pale Ale, abbr.",
+        "ordinal": 5,
+        "reveal": "ipa"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "High card",
+        "ordinal": 6,
+        "reveal": "ace"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after first or high",
+        "ordinal": 7,
+        "reveal": "chair"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"e\",\"o\",\"n\",\"e\"],[\"r\",\"n\",\"o\",\"a\",\"s\"],[\"o\",\"i\",\"A\",\"l\",\"M\"],[\"C\",\"c\",\"a\",\"P\",\"i\"],[\"l\",\"e\",\"a\",\"h\",\"c\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#EE7B8C\",\"#F3F1A0\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 525,
+    "phrase": "Al Pacino as Michael Corleone",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-31",
+    "id": "9de76370-80b1-4ec2-9cea-4727e38b81e5",
+    "dimension": 5
+  }
+]

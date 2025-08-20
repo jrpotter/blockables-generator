@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-19T07:51:05.642333-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Allegedly, one may be dominant - the letters of the answer can be found in the first word of this clue",
+        "ordinal": 1,
+        "reveal": "aLLELE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word before none or after high",
+        "ordinal": 2,
+        "reveal": "bAR"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Synonym for blue, down, and dour",
+        "ordinal": 3,
+        "reveal": "GLUM"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Abbr. for one's fastest time, perhaps",
+        "ordinal": 4,
+        "reveal": "PR"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Very thin Indian flatbread",
+        "ordinal": 5,
+        "reveal": "rOTI"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Initialism which may follow McKinley in Glee or Rydell in Grease",
+        "ordinal": 6,
+        "reveal": "hS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Answer to Clue #3, for example",
+        "ordinal": 7,
+        "reveal": "mOOD"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"l\",\"l\",\"e\",\"b\"],[\"m\",\"l\",\"l\",\"i\",\"a\"],[\"u\",\"e\",\"G\",\"r\",\"t\"],[\"s\",\"d\",\"p\",\"o\",\"r\"],[\"h\",\"r\",\"o\",\"o\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\"],[\"#E6B0D1\",\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\"],[\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 20,
+    "phrase": "Grilled portabella mushroom",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-14",
+    "id": "c31a9533-4d47-4b68-835c-282f15b7df4a",
+    "dimension": 5
+  }
+]

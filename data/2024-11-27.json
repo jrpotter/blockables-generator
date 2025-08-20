@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-23T12:15:44.569465-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Balm target",
+        "ordinal": 1,
+        "reveal": "lip"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Negroni spirit, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "gin"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Victoria's Secret purchase",
+        "ordinal": 3,
+        "reveal": "bra"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Western watering hole",
+        "ordinal": 4,
+        "reveal": "saloon"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Hawaiian dish",
+        "ordinal": 5,
+        "reveal": "poi"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Ripped",
+        "ordinal": 6,
+        "reveal": "torn"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Org. dictating how many decorations one can place in their lawn, perhaps",
+        "ordinal": 7,
+        "reveal": "hoa"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"l\",\"o\",\"o\",\"n\"],[\"a\",\"i\",\"n\",\"g\",\"i\"],[\"b\",\"s\",\"P\",\"r\",\"n\"],[\"r\",\"o\",\"p\",\"o\",\"a\"],[\"i\",\"a\",\"t\",\"o\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#A1DBE3\"],[\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 552,
+    "phrase": "Proposing in a hot air balloon",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-27",
+    "id": "9a1ddb07-4c81-4c46-a998-dd61b44b06da",
+    "dimension": 5
+  }
+]

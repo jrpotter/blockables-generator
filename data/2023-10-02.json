@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-04-09T10:40:47.970597-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "What a shrimp may be frying, in a 2013 meme",
+        "ordinal": 1,
+        "reveal": "rICE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Number of cards in a deck minus the number of \"Free Parking\" spots in Monopoly, to a Roman",
+        "ordinal": 2,
+        "reveal": "lI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "One of a class of lustful, drunken woodland gods, perhaps having goat ears",
+        "ordinal": 3,
+        "reveal": "sATYR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Letters of the second largest international clothing retailer, without the \"&\"",
+        "ordinal": 4,
+        "reveal": "hM"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "What a bartender or a bouncer may request to see, for short",
+        "ordinal": 5,
+        "reveal": "iD"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Bygone fashion trends, generally",
+        "ordinal": 6,
+        "reveal": "fADS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Now and ____",
+        "ordinal": 7,
+        "reveal": "tHEN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Input/output, abbr.",
+        "ordinal": 8,
+        "reveal": "iO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"t\",\"y\",\"l\",\"i\"],[\"a\",\"i\",\"r\",\"e\",\"m\"],[\"d\",\"s\",\"C\",\"h\",\"a\"],[\"i\",\"h\",\"e\",\"d\",\"f\"],[\"t\",\"i\",\"o\",\"n\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#7C93CB\",\"#A9D594\",\"#7C93CB\",\"#B86BAC\"],[\"#EE7B8C\",\"#A9D594\",\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 130,
+    "phrase": "Cherished family traditions",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-02",
+    "id": "30ac0a1a-ee71-4e5b-9c9a-3b693d3b611c",
+    "dimension": 5
+  }
+]

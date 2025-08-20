@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-09T06:27:48.433779-07:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Internet domain code for Nauru",
+        "ordinal": 1,
+        "reveal": "nr"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after first or hearing",
+        "ordinal": 2,
+        "reveal": "aID"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Having a jagged edge, such as a bread knife",
+        "ordinal": 3,
+        "reveal": "serrated"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Main character of The Matrix",
+        "ordinal": 4,
+        "reveal": "neo"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Two times two, to a Roman",
+        "ordinal": 5,
+        "reveal": "IV"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "User Acceptance Testing, abbr.",
+        "ordinal": 6,
+        "reveal": "uat"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Tirade",
+        "ordinal": 7,
+        "reveal": "rant"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"r\",\"n\",\"a\",\"i\"],[\"s\",\"r\",\"r\",\"e\",\"d\"],[\"t\",\"a\",\"O\",\"v\",\"n\"],[\"a\",\"t\",\"e\",\"d\",\"I\"],[\"u\",\"r\",\"a\",\"n\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#EE7B8C\",\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\"],[\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#F3F1A0\"],[\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 373,
+    "phrase": "Overrated Indian restaurant",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-01",
+    "id": "95e858b2-1ce5-45b2-bba0-1675edfb137f",
+    "dimension": 5
+  }
+]

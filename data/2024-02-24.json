@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-04T14:40:46.240348-06:00",
+    "category": "Living Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Estuarine Research Federation, abbr.",
+        "ordinal": 1,
+        "reveal": "eRF"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Like the feeling of pins and needles",
+        "ordinal": 2,
+        "reveal": "tINGLY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Leonardo's painted lady",
+        "ordinal": 3,
+        "reveal": "mONA"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after hot or bath",
+        "ordinal": 4,
+        "reveal": "tUB"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "AOL correspondence",
+        "ordinal": 5,
+        "reveal": "iM"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "URL domain code for Greece",
+        "ordinal": 6,
+        "reveal": "gR"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fedora or beanie",
+        "ordinal": 7,
+        "reveal": "hAT"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Initials of actor who played Darryl Philbin on \"The Office\" or slap recipient at the 2022 Oscars",
+        "ordinal": 8,
+        "reveal": "cR"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"r\",\"f\",\"l\",\"y\"],[\"t\",\"i\",\"n\",\"g\",\"m\"],[\"t\",\"t\",\"M\",\"i\",\"o\"],[\"u\",\"a\",\"r\",\"g\",\"n\"],[\"b\",\"h\",\"c\",\"r\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 275,
+    "phrase": "Migrating monarch butterfly",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-24",
+    "id": "f32575d0-d191-48f1-af66-c65ae4a8da06",
+    "dimension": 5
+  }
+]

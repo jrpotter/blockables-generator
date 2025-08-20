@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-26T15:23:35.330133-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Do re __ fa so la ti do",
+        "ordinal": 1,
+        "reveal": "mI"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Tortilla chip dip",
+        "ordinal": 2,
+        "reveal": "sALSA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Kernel Debugger Land, abbr.",
+        "ordinal": 3,
+        "reveal": "kdl"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "English honorific address, perhaps for Ian McKellen or Topham Hatt",
+        "ordinal": 4,
+        "reveal": "SIR"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "High's opposite",
+        "ordinal": 5,
+        "reveal": "lOW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "White pool ball",
+        "ordinal": 6,
+        "reveal": "cUE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Lasso material",
+        "ordinal": 7,
+        "reveal": "rOPE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Letters found after Washington or before Comics",
+        "ordinal": 8,
+        "reveal": "dC"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"l\",\"a\",\"m\",\"i\"],[\"s\",\"s\",\"l\",\"o\",\"w\"],[\"k\",\"d\",\"S\",\"l\",\"c\"],[\"r\",\"e\",\"c\",\"i\",\"u\"],[\"o\",\"p\",\"d\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 304,
+    "phrase": "Sliced slow-cured pork salami",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-24",
+    "id": "72f2e013-8a3c-4a8a-a9a6-c51205dd3007",
+    "dimension": 5
+  }
+]

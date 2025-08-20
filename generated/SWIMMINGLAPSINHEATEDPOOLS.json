@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:01:19.370382+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "River to the sea, in Italian",
+                "ordinal": 1,
+                "reveal": "PO"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Ship's record or a piece of firewood",
+                "ordinal": 2,
+                "reveal": "LOG"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Serbian city that was Yugoslavia's temporary capital",
+                "ordinal": 3,
+                "reveal": "NIS"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Partnered, as in chess (or life)",
+                "ordinal": 4,
+                "reveal": "MATED"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Edge of a skirt or garment",
+                "ordinal": 5,
+                "reveal": "HEM"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Legal term meaning \"unless,\" literally \"if not\"",
+                "ordinal": 6,
+                "reveal": "NISI"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Gear tooth that prevents backward motion",
+                "ordinal": 7,
+                "reveal": "PAWL"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Like sigma, in Greek letters",
+                "ordinal": 8,
+                "reveal": "S"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"P\", \"O\", \"O\", \"L\", \"S\"], [\"D\", \"N\", \"G\", \"L\", \"A\"], [\"E\", \"I\", \"S\", \"W\", \"P\"], [\"T\", \"M\", \"M\", \"I\", \"S\"], [\"A\", \"E\", \"H\", \"N\", \"I\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#A1DBE3\"], [\"#EE7B8C\", \"#F3F1A0\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\"], [\"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\", \"#B86BAC\", \"#B86BAC\"], [\"#EE7B8C\", \"#EE7B8C\", \"#A9D594\", \"#E6B0D1\", \"#E6B0D1\"], [\"#EE7B8C\", \"#A9D594\", \"#A9D594\", \"#E6B0D1\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                0,
+                3
+            ],
+            "3": [
+                1,
+                1
+            ],
+            "4": [
+                3,
+                1
+            ],
+            "5": [
+                4,
+                2
+            ],
+            "6": [
+                4,
+                3
+            ],
+            "7": [
+                2,
+                4
+            ],
+            "8": [
+                0,
+                4
+            ]
+        },
+        "phrase": "Swimming laps in heated pools",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-11-06T10:10:05.327774-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Searching for food, perhaps mushrooms in a forest",
+        "ordinal": 1,
+        "reveal": "foraging"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Scooby-___",
+        "ordinal": 2,
+        "reveal": "doo"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Urban Youth Academy, abbr.",
+        "ordinal": 3,
+        "reveal": "uya"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before enough or after state",
+        "ordinal": 4,
+        "reveal": "fair"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Drop a letter in a mailbox, say",
+        "ordinal": 5,
+        "reveal": "send"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "ID information",
+        "ordinal": 6,
+        "reveal": "dob"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"g\",\"a\",\"r\",\"o\"],[\"o\",\"n\",\"i\",\"y\",\"f\"],[\"d\",\"g\",\"B\",\"u\",\"a\"],[\"f\",\"a\",\"s\",\"o\",\"d\"],[\"r\",\"i\",\"e\",\"n\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#A9D594\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#F5C146\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        4
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 341,
+    "phrase": "Buying a soda for a good friend",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-30",
+    "id": "70ff4dbf-3221-4f33-856d-755920f98c5d",
+    "dimension": 5
+  }
+]

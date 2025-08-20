@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2025-02-10T10:30:09.387059-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "\"_______ and ghosting\", rhyming phrase meaning to upload something to social media and not look at its statistics",
+        "ordinal": 1,
+        "reveal": "posting"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Intergovernmental organization founded in 1945, abbr.",
+        "ordinal": 2,
+        "reveal": "un"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Star Wars: Episode III - Revenge of the ____\"",
+        "ordinal": 3,
+        "reveal": "sith"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Member of a New York-based professional baseball team",
+        "ordinal": 4,
+        "reveal": "met"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Unfermented juice pressed from fruit, especially apples",
+        "ordinal": 5,
+        "reveal": "cider"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Willing partner?",
+        "ordinal": 6,
+        "reveal": "able"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"r\",\"p\",\"n\",\"u\"],[\"d\",\"o\",\"s\",\"s\",\"g\"],[\"i\",\"m\",\"I\",\"t\",\"n\"],[\"c\",\"e\",\"t\",\"h\",\"i\"],[\"t\",\"a\",\"b\",\"l\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#F3F1A0\"],[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 628,
+    "phrase": "\"It's something unpredictable...\" (from Green Day's \"Good Riddance\")",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-11",
+    "id": "e96fd7e1-721d-4bb0-b4ed-df65a32c6749",
+    "dimension": 5
+  }
+]

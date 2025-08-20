@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-04-07T13:36:24.665795-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Dae Kim and Radcliffe, in a way",
+        "ordinal": 1,
+        "reveal": "lEOS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "__ Bio, 2018 comedy series starring Glenn Howerton as a high school professor",
+        "ordinal": 2,
+        "reveal": "aP"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Jr.'s dad",
+        "ordinal": 3,
+        "reveal": "sR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Letters before Bean or Cool J",
+        "ordinal": 4,
+        "reveal": "lL"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Small, simple, single-story house or shelter",
+        "ordinal": 5,
+        "reveal": "HUT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Hoover is the most famous of these, but there's a Theodore Roosevelt one as well",
+        "ordinal": 6,
+        "reveal": "dAMS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Curiosity's purpose?",
+        "ordinal": 7,
+        "reveal": "rOVE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"It's as plain as the ____ on your face!\"",
+        "ordinal": 8,
+        "reveal": "nOSE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"a\",\"t\",\"e\",\"s\"],[\"p\",\"e\",\"u\",\"v\",\"r\"],[\"l\",\"o\",\"H\",\"o\",\"e\"],[\"l\",\"d\",\"s\",\"r\",\"s\"],[\"a\",\"m\",\"s\",\"n\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#F5C146\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#B86BAC\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"],[\"#B86BAC\",\"#E6B0D1\",\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 125,
+    "phrase": "Hors d'oeuvres on small plates",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-27",
+    "id": "55568814-7853-4658-acbf-40244dd62b65",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-29T15:35:48.773652-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"__ if!\"",
+        "ordinal": 1,
+        "reveal": "as"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Decay",
+        "ordinal": 2,
+        "reveal": "rot"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Pro's opposite",
+        "ordinal": 3,
+        "reveal": "Con"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Where have you ____?\"",
+        "ordinal": 4,
+        "reveal": "Been"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Preserves made from whole fruit boiled to a pulp with sugar",
+        "ordinal": 5,
+        "reveal": "Jams"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after day or health",
+        "ordinal": 6,
+        "reveal": "care"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Yes's opposite",
+        "ordinal": 7,
+        "reveal": "no"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Yale Daily News, abbr.",
+        "ordinal": 8,
+        "reveal": "ydn"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"e\",\"S\",\"r\",\"o\"],[\"n\",\"s\",\"e\",\"m\",\"t\"],[\"C\",\"B\",\"J\",\"a\",\"c\"],[\"o\",\"o\",\"n\",\"d\",\"a\"],[\"n\",\"n\",\"e\",\"r\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\"],[\"#B86BAC\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#B86BAC\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#B86BAC\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 767,
+    "phrase": "James Bond actor Sean Connery",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-30",
+    "id": "bf56c734-5fac-49f3-97c4-313cc9e5c71f",
+    "dimension": 5
+  }
+]

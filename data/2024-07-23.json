@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-28T07:04:40.45264-07:00",
+    "category": "Events",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Lose brightness or loudness gradually",
+        "ordinal": 1,
+        "reveal": "fade"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Not common",
+        "ordinal": 2,
+        "reveal": "rare"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "SNL and 30 Rock comedy legend Tina",
+        "ordinal": 3,
+        "reveal": "fey"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Beverages possibly consumed during the answer to today's puzzle",
+        "ordinal": 4,
+        "reveal": "lattes"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "What a \"thumbs up\" means in Germany",
+        "ordinal": 5,
+        "reveal": "one"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Confirmation Order Form, abbr.",
+        "ordinal": 6,
+        "reveal": "cOF"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "What a \"thumbs down\" means in America",
+        "ordinal": 7,
+        "reveal": "no"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"a\",\"t\",\"e\",\"s\"],[\"e\",\"f\",\"t\",\"e\",\"r\"],[\"e\",\"a\",\"E\",\"a\",\"n\"],[\"f\",\"y\",\"l\",\"r\",\"o\"],[\"f\",\"o\",\"c\",\"n\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        3,
+        0
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 425,
+    "phrase": "Early afternoon coffee dates",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-23",
+    "id": "5ab3aa92-b042-431a-a0c5-9fc9f49e5236",
+    "dimension": 5
+  }
+]

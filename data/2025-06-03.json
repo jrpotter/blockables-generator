@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-01T12:17:06.207703-06:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"___ attention!\"",
+        "ordinal": 1,
+        "reveal": "pay"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Second letter on a car's automatic transmission, often",
+        "ordinal": 2,
+        "reveal": "r"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "25 less than the number mentioned in the answer to today's puzzle",
+        "ordinal": 3,
+        "reveal": "fifty"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Most commonly used English word, according to thesaurus.com",
+        "ordinal": 4,
+        "reveal": "the"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "A week has seven of them",
+        "ordinal": 5,
+        "reveal": "days"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Entry to an air duct, in Among Us or Mission Impossible",
+        "ordinal": 6,
+        "reveal": "vent"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Initials of \"Walden\" author or Underground Railroad leader",
+        "ordinal": 7,
+        "reveal": "ht"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Mc___, McDonald's sandwich which comes and goes",
+        "ordinal": 8,
+        "reveal": "rib"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"a\",\"r\",\"t\",\"y\"],[\"y\",\"y\",\"f\",\"i\",\"f\"],[\"a\",\"t\",\"S\",\"e\",\"t\"],[\"d\",\"n\",\"e\",\"v\",\"h\"],[\"h\",\"t\",\"r\",\"i\",\"b\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 740,
+    "phrase": "Seventy-fifth birthday party",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-03",
+    "id": "3ab7ee6e-bdb3-4f56-97ee-f67e68e02e5b",
+    "dimension": 5
+  }
+]

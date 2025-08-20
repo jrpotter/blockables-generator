@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-11-30T11:43:49.98313-07:00",
+    "category": "Quote - Speaker",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before Godiva or MacBeth",
+        "ordinal": 1,
+        "reveal": "lady"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Bug, annoy, or otherwise irritate someone",
+        "ordinal": 2,
+        "reveal": "nag"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Wheel __ Fortune,\" game show off which Blockables is partially based",
+        "ordinal": 3,
+        "reveal": "of"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fake, as a signature",
+        "ordinal": 4,
+        "reveal": "Forge"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Common adverb suffix",
+        "ordinal": 5,
+        "reveal": "ly"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Sneaky, like a fox",
+        "ordinal": 6,
+        "reveal": "sly"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Nomad's shack",
+        "ordinal": 7,
+        "reveal": "hut"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Enemy",
+        "ordinal": 8,
+        "reveal": "foe"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"a\",\"d\",\"n\",\"a\"],[\"f\",\"o\",\"y\",\"y\",\"G\"],[\"t\",\"u\",\"F\",\"l\",\"s\"],[\"h\",\"f\",\"o\",\"o\",\"l\"],[\"e\",\"G\",\"r\",\"e\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A9D594\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        3,
+        1
+      ]
+    },
+    "ordinal": 557,
+    "phrase": "\"Fly, you fools!\" - Gandalf the Grey",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-02",
+    "id": "6c0653b0-8cbc-4437-873c-01370f64950f",
+    "dimension": 5
+  }
+]

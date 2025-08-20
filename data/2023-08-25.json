@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-05T10:05:55.643025-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "First word of two official Islamic holidays",
+        "ordinal": 1,
+        "reveal": "EID"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Input/output abbr.",
+        "ordinal": 2,
+        "reveal": "IO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Crazy\" in Spanish",
+        "ordinal": 3,
+        "reveal": "lOCO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Last name of Superman's girlfriend",
+        "ordinal": 4,
+        "reveal": "lANE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Torso limb",
+        "ordinal": 5,
+        "reveal": "aRM"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "How a baby may refer to their father or to Duchamp's \"Fountain\"",
+        "ordinal": 6,
+        "reveal": "dADA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Gen-Z term for one's immediate relatives",
+        "ordinal": 7,
+        "reveal": "fAM"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Stock symbol for The Home Depot",
+        "ordinal": 8,
+        "reveal": "hD"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"E\",\"I\",\"E\",\"I\",\"O\"],[\"m\",\"D\",\"o\",\"n\",\"a\"],[\"r\",\"c\",\"O\",\"l\",\"l\"],[\"a\",\"a\",\"M\",\"d\",\"d\"],[\"f\",\"a\",\"d\",\"a\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"],[\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 92,
+    "phrase": "Old MacDonald had a farm, E-I-E-I-O",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-25",
+    "id": "2d19e3f5-74e9-441b-a92a-7913a198cf2d",
+    "dimension": 5
+  }
+]

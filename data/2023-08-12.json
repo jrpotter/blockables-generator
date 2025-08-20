@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-02-19T11:36:12.570636-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"I'm eager to do this! I'm ______ to go!\"",
+        "ordinal": 1,
+        "reveal": "rARING"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Bread type, often used for reubens",
+        "ordinal": 2,
+        "reveal": "rYE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Negatory.\"",
+        "ordinal": 3,
+        "reveal": "nO"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Dingbat thief, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "BANDIT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "__/UX designer",
+        "ordinal": 5,
+        "reveal": "uI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "World Economic Forum, abbr.",
+        "ordinal": 6,
+        "reveal": "wEF"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Letters on a live camera screen, often accompanied by a red dot",
+        "ordinal": 7,
+        "reveal": "rEC"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"r\",\"a\",\"r\",\"r\"],[\"o\",\"n\",\"i\",\"y\",\"e\"],[\"n\",\"g\",\"B\",\"u\",\"F\"],[\"c\",\"a\",\"n\",\"e\",\"w\"],[\"r\",\"e\",\"d\",\"i\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\",\"#E6B0D1\"],[\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 79,
+    "phrase": "Buying a new Ferrari on credit",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-12",
+    "id": "31d92cfe-3169-4ddc-8357-bae7481f891c",
+    "dimension": 5
+  }
+]

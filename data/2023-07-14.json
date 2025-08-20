@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-01-22T10:35:59.312503-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Commercials, for short",
+        "ordinal": 1,
+        "reveal": "aDS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Former NYSE stock symbol for American defense contractor L3 Technologies",
+        "ordinal": 2,
+        "reveal": "lLL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pepper's partner",
+        "ordinal": 3,
+        "reveal": "sALT"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Perform in a play",
+        "ordinal": 4,
+        "reveal": "aCT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Bounces on a pogo stick",
+        "ordinal": 5,
+        "reveal": "hOPS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Individual Retirement Account, abbr.",
+        "ordinal": 6,
+        "reveal": "iRA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "__-n-Out, California-based burger chain",
+        "ordinal": 7,
+        "reveal": "iN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Set to a lower brightness, as lights",
+        "ordinal": 8,
+        "reveal": "dIM"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"a\",\"l\",\"s\",\"a\"],[\"d\",\"l\",\"a\",\"c\",\"h\"],[\"l\",\"l\",\"T\",\"o\",\"i\"],[\"i\",\"i\",\"t\",\"r\",\"p\"],[\"m\",\"d\",\"n\",\"a\",\"s\"]]",
+    "gridColors": "[[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#7C93CB\"],[\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#7C93CB\",\"#EE7B8C\"],[\"#F5C146\",\"#E6B0D1\",\"#7C93CB\",\"#EE7B8C\",\"#B86BAC\"],[\"#F3F1A0\",\"#A1DBE3\",\"#E6B0D1\",\"#B86BAC\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#B86BAC\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        0,
+        4
+      ],
+      "5": [
+        1,
+        4
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        1
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 50,
+    "phrase": "Tortilla chips and mild salsa",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-14",
+    "id": "fea2ff65-fffd-461e-ad69-11fe14c473f2",
+    "dimension": 5
+  }
+]

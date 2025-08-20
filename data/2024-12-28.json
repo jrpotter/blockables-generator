@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-20T08:22:20.54518-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Apt name for a public speaker?",
+        "ordinal": 1,
+        "reveal": "ted"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Syllable of laughter",
+        "ordinal": 2,
+        "reveal": "ha"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"____ and bear it\"",
+        "ordinal": 3,
+        "reveal": "grin"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Founder funder, for short",
+        "ordinal": 4,
+        "reveal": "vc"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Convent resident",
+        "ordinal": 5,
+        "reveal": "nun"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Those who serve at a table, as in a restaurant",
+        "ordinal": 6,
+        "reveal": "waiters"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Atlanta's US state",
+        "ordinal": 7,
+        "reveal": "ga"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "@, in an email",
+        "ordinal": 8,
+        "reveal": "at"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"r\",\"a\",\"h\",\"c\"],[\"e\",\"g\",\"i\",\"v\",\"n\"],[\"d\",\"a\",\"N\",\"a\",\"u\"],[\"w\",\"t\",\"i\",\"n\",\"g\"],[\"a\",\"t\",\"e\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\"],[\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#F5C146\",\"#EE7B8C\"],[\"#B86BAC\",\"#F3F1A0\",\"#B86BAC\",\"#EE7B8C\",\"#F5C146\"],[\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        1,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 583,
+    "phrase": "Navigating uncharted waters",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-28",
+    "id": "bdaad119-5fb3-4de5-8c40-c10742edfe90",
+    "dimension": 5
+  }
+]

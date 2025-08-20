@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:10:04.764216+0000",
+        "category": "Famous Person",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Sticky situation for a sailor?",
+                "ordinal": 1,
+                "reveal": "TAR"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Dawn goddess who gets an early start?",
+                "ordinal": 2,
+                "reveal": "EOS"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Half of \"ten\"",
+                "ordinal": 3,
+                "reveal": "EN"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Microsoft's search engine or Crosby's signature sound",
+                "ordinal": 4,
+                "reveal": "BING"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Not closed, or what you might do with a book to read it",
+                "ordinal": 5,
+                "reveal": "OPEN"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Holiday drink that's often spiked",
+                "ordinal": 6,
+                "reveal": "NOG"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Letters between Q and T",
+                "ordinal": 7,
+                "reveal": "RS"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Care, in Latin",
+                "ordinal": 8,
+                "reveal": "CURA"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"A\", \"T\", \"I\", \"N\", \"G\"], [\"R\", \"N\", \"B\", \"E\", \"N\"], [\"E\", \"O\", \"S\", \"U\", \"C\"], [\"P\", \"E\", \"G\", \"R\", \"A\"], [\"O\", \"N\", \"O\", \"S\", \"R\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#B86BAC\"], [\"#7C93CB\", \"#A9D594\", \"#B86BAC\", \"#EE7B8C\", \"#EE7B8C\"], [\"#A9D594\", \"#F3F1A0\", \"#F3F1A0\", \"#A1DBE3\", \"#A1DBE3\"], [\"#A9D594\", \"#F3F1A0\", \"#E6B0D1\", \"#A1DBE3\", \"#A1DBE3\"], [\"#A9D594\", \"#E6B0D1\", \"#E6B0D1\", \"#F5C146\", \"#F5C146\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                1
+            ],
+            "2": [
+                3,
+                1
+            ],
+            "3": [
+                1,
+                3
+            ],
+            "4": [
+                1,
+                2
+            ],
+            "5": [
+                4,
+                0
+            ],
+            "6": [
+                4,
+                1
+            ],
+            "7": [
+                4,
+                4
+            ],
+            "8": [
+                2,
+                4
+            ]
+        },
+        "phrase": "Surgeon Ben Carson operating",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

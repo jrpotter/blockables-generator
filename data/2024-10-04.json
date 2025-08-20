@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-04-11T11:27:56.571728-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Pottery oven",
+        "ordinal": 1,
+        "reveal": "kiln"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word after original or before City",
+        "ordinal": 2,
+        "reveal": "sin"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Two lengths of a pool, to a swimmer",
+        "ordinal": 3,
+        "reveal": "lap"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Baby talk for \"grandmother\"",
+        "ordinal": 4,
+        "reveal": "nana"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "What all good things must come to",
+        "ordinal": 5,
+        "reveal": "end"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "___ on the side of caution",
+        "ordinal": 6,
+        "reveal": "err"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Convent resident",
+        "ordinal": 7,
+        "reveal": "nun"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Tag! You're __!\"",
+        "ordinal": 8,
+        "reveal": "it"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"k\",\"i\",\"n\",\"s\"],[\"a\",\"l\",\"l\",\"i\",\"n\"],[\"n\",\"a\",\"N\",\"a\",\"e\"],[\"r\",\"r\",\"u\",\"t\",\"n\"],[\"e\",\"n\",\"n\",\"i\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 498,
+    "phrase": "Natural linen dinner napkins",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-04",
+    "id": "93d35160-5ce3-4427-927f-8b71f9ad7be9",
+    "dimension": 5
+  }
+]

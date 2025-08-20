@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.935408-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Acronym for a childless cohabitating couple",
+        "ordinal": 1,
+        "reveal": "dINK"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Next of ___",
+        "ordinal": 2,
+        "reveal": "kIN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Onomatopoeia rife in rifle ranges",
+        "ordinal": 3,
+        "reveal": "Bang"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Nitric oxide, isn't it?",
+        "ordinal": 4,
+        "reveal": "nO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Their sizes are often compared to various fruits",
+        "ordinal": 5,
+        "reveal": "tUMORS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Quick SMS message to a fam member or fam ending",
+        "ordinal": 6,
+        "reveal": "iLY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Weaselly action?",
+        "ordinal": 7,
+        "reveal": "pOP"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"s\",\"d\",\"i\"],[\"M\",\"r\",\"k\",\"n\",\"k\"],[\"o\",\"u\",\"B\",\"a\",\"g\"],[\"n\",\"p\",\"t\",\"i\",\"n\"],[\"o\",\"p\",\"o\",\"l\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 196,
+    "phrase": "Bankrupting kids in Monopoly",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-07",
+    "id": "4e6bb7b1-810c-42ce-842f-2d6d6e140b7e",
+    "dimension": 5
+  }
+]

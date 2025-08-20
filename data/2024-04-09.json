@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-10-17T07:43:22.91839-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Fee __ fo fum",
+        "ordinal": 1,
+        "reveal": "fi"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Yes\" alternative, which only has one letter different",
+        "ordinal": 2,
+        "reveal": "yep"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Information Commissioner's Office, abbr.",
+        "ordinal": 3,
+        "reveal": "ico"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Any substance considered disgustingly foul or unpleasant",
+        "ordinal": 4,
+        "reveal": "FILTH"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "All-night dance party with electronic dance music and glow sticks",
+        "ordinal": 5,
+        "reveal": "rave"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "French brandy traditionally used in a sidecar",
+        "ordinal": 6,
+        "reveal": "cognac"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Neon's chemical symbol",
+        "ordinal": 7,
+        "reveal": "ne"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"c\",\"a\",\"P\",\"e\"],[\"f\",\"n\",\"i\",\"y\",\"h\"],[\"i\",\"g\",\"F\",\"l\",\"t\"],[\"c\",\"o\",\"v\",\"e\",\"r\"],[\"O\",\"c\",\"e\",\"a\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A1DBE3\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 320,
+    "phrase": "Flying over the Pacific Ocean",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-09",
+    "id": "07378a9a-2d2e-4628-a20c-eb13d055051c",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-07-24T10:03:55.779625-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Stumble or fall due to catching one's foot on something",
+        "ordinal": 1,
+        "reveal": "tRIP"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after con or yes",
+        "ordinal": 2,
+        "reveal": "mEN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "1960s television host Sullivan or \"Shape of You\" songwriter Sheeran",
+        "ordinal": 3,
+        "reveal": "eD"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Guatemala's ISO country code",
+        "ordinal": 4,
+        "reveal": "gT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Government of Zimbabwe, abbr.",
+        "ordinal": 5,
+        "reveal": "gOZ"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "First name of a famous painted lady",
+        "ordinal": 6,
+        "reveal": "mONA"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Deck the Halls\" or \"Have Yourself a Merry Little Christmas\"",
+        "ordinal": 7,
+        "reveal": "cAROL"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Ford F-150 Lightning or Tesla Model Y, abbr.",
+        "ordinal": 8,
+        "reveal": "eV"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"m\",\"e\",\"n\",\"t\"],[\"r\",\"z\",\"e\",\"d\",\"g\"],[\"a\",\"i\",\"O\",\"r\",\"l\"],[\"p\",\"n\",\"a\",\"g\",\"o\"],[\"m\",\"o\",\"c\",\"e\",\"v\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 233,
+    "phrase": "Organized glove compartment",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-13",
+    "id": "a81f5ed9-e8e0-42f2-a99d-1a87defbc8e3",
+    "dimension": 5
+  }
+]

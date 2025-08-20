@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:08:09.819711+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "State whose capital is Dover, briefly",
+                "ordinal": 1,
+                "reveal": "DE"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Therefore, in Latin",
+                "ordinal": 2,
+                "reveal": "ERGO"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Computer graphics, for short",
+                "ordinal": 3,
+                "reveal": "CG"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Mun ___, Hong Kong district",
+                "ordinal": 4,
+                "reveal": "TUEN"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Slight increase, as in a road or pay",
+                "ordinal": 5,
+                "reveal": "BUMP"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Company, for short",
+                "ordinal": 6,
+                "reveal": "CO"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Airport checkpoint or garden entrance",
+                "ordinal": 7,
+                "reveal": "GATE"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Top that flips or blows",
+                "ordinal": 8,
+                "reveal": "LID"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"E\", \"L\", \"A\", \"T\", \"E\"], [\"D\", \"I\", \"N\", \"G\", \"C\"], [\"O\", \"G\", \"D\", \"E\", \"O\"], [\"C\", \"G\", \"U\", \"B\", \"M\"], [\"R\", \"E\", \"T\", \"U\", \"P\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#A1DBE3\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\"], [\"#7C93CB\", \"#A1DBE3\", \"#A9D594\", \"#EE7B8C\", \"#F3F1A0\"], [\"#F5C146\", \"#E6B0D1\", \"#A1DBE3\", \"#A9D594\", \"#F3F1A0\"], [\"#E6B0D1\", \"#F5C146\", \"#A9D594\", \"#B86BAC\", \"#B86BAC\"], [\"#F5C146\", \"#F5C146\", \"#A9D594\", \"#B86BAC\", \"#B86BAC\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                4,
+                1
+            ],
+            "3": [
+                3,
+                0
+            ],
+            "4": [
+                4,
+                2
+            ],
+            "5": [
+                3,
+                3
+            ],
+            "6": [
+                1,
+                4
+            ],
+            "7": [
+                1,
+                3
+            ],
+            "8": [
+                0,
+                1
+            ]
+        },
+        "phrase": "Debugging computer code late",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

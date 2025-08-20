@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-08-27T14:17:46.13681-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Non-Linear Optimization, abbr.",
+        "ordinal": 1,
+        "reveal": "nLO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Swedish furniture superstore which also sells meatballs",
+        "ordinal": 2,
+        "reveal": "iKEA"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"No ___! That's totally radical!\"",
+        "ordinal": 3,
+        "reveal": "wAY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Hourglass particles",
+        "ordinal": 4,
+        "reveal": "SAND"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not dry",
+        "ordinal": 5,
+        "reveal": "WET"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Out's opposite",
+        "ordinal": 6,
+        "reveal": "iN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Primary omelet component",
+        "ordinal": 7,
+        "reveal": "eGG"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Prefix meaning \"earth\", perhaps found before \"metric\" or \"thermal\"",
+        "ordinal": 8,
+        "reveal": "gEO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"y\",\"a\",\"w\"],[\"S\",\"l\",\"k\",\"e\",\"a\"],[\"a\",\"o\",\"W\",\"e\",\"t\"],[\"n\",\"n\",\"g\",\"g\",\"e\"],[\"D\",\"i\",\"e\",\"g\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#F3F1A0\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 267,
+    "phrase": "Week-long getaway in San Diego",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-16",
+    "id": "2bd8bd17-812e-495f-96d5-1fa7ba60293d",
+    "dimension": 5
+  }
+]

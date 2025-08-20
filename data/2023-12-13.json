@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-06-20T15:52:58-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Push one's lips forward as an expression of petulant annoyance, as a toddler might",
+        "ordinal": 1,
+        "reveal": "pOUT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Body parts which can get cold if you're scared, according to an idiom",
+        "ordinal": 2,
+        "reveal": "fEET"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Health Licensing Office, abbr.",
+        "ordinal": 3,
+        "reveal": "HLO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"The\" in Spanish, perhaps when describing the City of Angels",
+        "ordinal": 4,
+        "reveal": "lOS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Taiwan's ISO code",
+        "ordinal": 5,
+        "reveal": "tW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Initials of the Commodores' frontman or singer of \"Long, Long Time\" featured in \"The Last of Us\"",
+        "ordinal": 6,
+        "reveal": "lR"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Japan's currency",
+        "ordinal": 7,
+        "reveal": "yEN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "____ buco, specialty of Lombard cuisine",
+        "ordinal": 8,
+        "reveal": "oSSO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"u\",\"o\",\"t\",\"s\"],[\"o\",\"l\",\"e\",\"p\",\"o\"],[\"f\",\"e\",\"H\",\"o\",\"l\"],[\"t\",\"s\",\"s\",\"l\",\"y\"],[\"o\",\"w\",\"n\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#7C93CB\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        3
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 202,
+    "phrase": "Hopelessly lost out-of-towner",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-13",
+    "id": "3025726b-110c-46c9-8026-d7b6ce440c74",
+    "dimension": 5
+  }
+]

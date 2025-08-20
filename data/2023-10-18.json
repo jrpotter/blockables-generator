@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-24T09:20:35.643344-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "List command in Linux, the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "lS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "In theory, they are mightier than swords... in practice, not so much",
+        "ordinal": 2,
+        "reveal": "pENS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Toy Story\" cowboy protagonist",
+        "ordinal": 3,
+        "reveal": "wOODY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Initials of \"Hollaback Girl\" singer",
+        "ordinal": 4,
+        "reveal": "gS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "____ in the game",
+        "ordinal": 5,
+        "reveal": "sKIN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Woman belonging to a religious order",
+        "ordinal": 6,
+        "reveal": "nUN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Community of flora and fauna having five major categorizations: aquatic, grassland, forest, desert, and tundra",
+        "ordinal": 7,
+        "reveal": "bIOME"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"o\",\"p\",\"e\",\"s\"],[\"s\",\"d\",\"o\",\"w\",\"n\"],[\"y\",\"g\",\"S\",\"k\",\"s\"],[\"n\",\"n\",\"i\",\"i\",\"o\"],[\"n\",\"u\",\"b\",\"e\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 146,
+    "phrase": "Skiing down some bunny slopes",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-18",
+    "id": "4ec34e77-15c9-4b61-ae70-4332ef5dc24e",
+    "dimension": 5
+  }
+]

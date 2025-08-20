@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-07-17T10:42:21.242551-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "1950's TV host Caesar or Sex Pistols bassist Vicious ",
+        "ordinal": 1,
+        "reveal": "sID"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "What the insect mentioned in this puzzle's answer may be considered, especially at a picnic",
+        "ordinal": 2,
+        "reveal": "pEST"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Basmati or jasmine",
+        "ordinal": 3,
+        "reveal": "rICE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Voiceover, abbr.",
+        "ordinal": 4,
+        "reveal": "vO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Prefix meaning film",
+        "ordinal": 5,
+        "reveal": "cINE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Catch or tear your shirt on a bush branch, perhaps",
+        "ordinal": 6,
+        "reveal": "sNAG"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Scottish actor McGregor or fictional millionaire Roy",
+        "ordinal": 7,
+        "reveal": "eWAN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"c\",\"i\",\"e\",\"s\"],[\"p\",\"e\",\"r\",\"i\",\"n\"],[\"s\",\"v\",\"D\",\"i\",\"g\"],[\"t\",\"o\",\"c\",\"s\",\"a\"],[\"n\",\"a\",\"w\",\"e\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#B86BAC\",\"#A9D594\"],[\"#E6B0D1\",\"#EE7B8C\",\"#B86BAC\",\"#A9D594\",\"#F3F1A0\"],[\"#E6B0D1\",\"#EE7B8C\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 229,
+    "phrase": "Discovering a new ant species",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-09",
+    "id": "ea697766-6ddc-4f03-bc21-e68e3f15d08d",
+    "dimension": 5
+  }
+]

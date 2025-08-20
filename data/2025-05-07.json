@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-04-28T19:04:03.589764-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Bird in a coalmine, idiomatically",
+        "ordinal": 1,
+        "reveal": "canary"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "102, to a Roman",
+        "ordinal": 2,
+        "reveal": "cii"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Avidly funny SNL comedian Bryant, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "Aidy"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Initials of \"The Parent Trap\" (1998) star or \"Coal Miner's Daughter\" singer",
+        "ordinal": 4,
+        "reveal": "ll"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Kid's TV show host Rogers or paleolithic parent Flintstone",
+        "ordinal": 5,
+        "reveal": "fred"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Output Voltage, abbr.",
+        "ordinal": 6,
+        "reveal": "ov"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Like unfizzy soda",
+        "ordinal": 7,
+        "reveal": "flat"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"a\",\"n\",\"d\",\"y\"],[\"d\",\"c\",\"i\",\"a\",\"l\"],[\"e\",\"i\",\"A\",\"r\",\"l\"],[\"r\",\"f\",\"i\",\"t\",\"y\"],[\"o\",\"v\",\"a\",\"l\",\"f\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F5C146\",\"#B86BAC\",\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\"],[\"#F5C146\",\"#B86BAC\",\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#A9D594\",\"#7C93CB\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 713,
+    "phrase": "Artificially flavored candy",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-07",
+    "id": "5ea75e1d-95e2-4d94-9043-bcb1c2237ecb",
+    "dimension": 5
+  }
+]

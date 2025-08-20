@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-26T11:24:55.567342-07:00",
+    "category": "Events",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Game, ___, match",
+        "ordinal": 1,
+        "reveal": "set"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Real Estate Networking Club, abbr.",
+        "ordinal": 2,
+        "reveal": "renc"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Casper, Boo, and Danny Phantom",
+        "ordinal": 3,
+        "reveal": "ghosts"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "President, for short",
+        "ordinal": 4,
+        "reveal": "pRES"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Dessert made from apples, key limes. or pecans",
+        "ordinal": 5,
+        "reveal": "Pie"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Finish the sequence: E, __, GGG, HHHH",
+        "ordinal": 6,
+        "reveal": "ff"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before man or after Comic",
+        "ordinal": 7,
+        "reveal": "con"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"n\",\"c\",\"e\",\"s\"],[\"r\",\"g\",\"h\",\"t\",\"p\"],[\"e\",\"i\",\"P\",\"o\",\"r\"],[\"f\",\"f\",\"t\",\"s\",\"e\"],[\"n\",\"o\",\"c\",\"s\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 358,
+    "phrase": "Post-fight press conferences",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-17",
+    "id": "7575c232-bbf2-48e3-b1cd-3ca8ccfbc14d",
+    "dimension": 5
+  }
+]

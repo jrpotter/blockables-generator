@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-27T12:12:36.578715-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Plastic ___ Band",
+        "ordinal": 1,
+        "reveal": "ono"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Recording devices used by Clue #1s answer, for short",
+        "ordinal": 2,
+        "reveal": "mics"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Operational System Support Center, abbr.",
+        "ordinal": 3,
+        "reveal": "ossc"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "High school dance",
+        "ordinal": 4,
+        "reveal": "Prom"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "___ better or worse",
+        "ordinal": 5,
+        "reveal": "for"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Payment made in exchange for services",
+        "ordinal": 6,
+        "reveal": "fee"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Black-and-white toothed whale",
+        "ordinal": 7,
+        "reveal": "orca"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"m\",\"i\",\"c\",\"s\"],[\"n\",\"s\",\"o\",\"r\",\"o\"],[\"o\",\"s\",\"P\",\"r\",\"f\"],[\"c\",\"e\",\"f\",\"o\",\"m\"],[\"e\",\"o\",\"r\",\"c\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 523,
+    "phrase": "Professor of macroeconomics",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-29",
+    "id": "f781d7d7-7032-4074-8cf9-f75efea7d0d3",
+    "dimension": 5
+  }
+]

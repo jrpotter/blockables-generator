@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.736398-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Ye olde way to get one's attention",
+        "ordinal": 1,
+        "reveal": "lO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Cool and attractive prefix",
+        "ordinal": 2,
+        "reveal": "uN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Kermit in kindergarten, perhaps",
+        "ordinal": 3,
+        "reveal": "tADPOLE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "One who may be owned?",
+        "ordinal": 4,
+        "reveal": "lIB"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "The one thing to be scared of, according to Franklin Roosevelt",
+        "ordinal": 5,
+        "reveal": "fEAR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Prohibit",
+        "ordinal": 6,
+        "reveal": "bAN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "What green means",
+        "ordinal": 7,
+        "reveal": "gO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Non-diegetic narration abbr.",
+        "ordinal": 8,
+        "reveal": "vO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"p\",\"o\",\"o\",\"l\"],[\"n\",\"a\",\"b\",\"l\",\"e\"],[\"u\",\"t\",\"I\",\"n\",\"a\"],[\"o\",\"a\",\"l\",\"f\",\"b\"],[\"r\",\"g\",\"e\",\"v\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#7C93CB\",\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\"],[\"#A1DBE3\",\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#A9D594\",\"#F3F1A0\",\"#A9D594\",\"#B86BAC\"],[\"#A9D594\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 77,
+    "phrase": "Inflatable above-ground pool",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-10",
+    "id": "c37b0bec-534f-42c0-a442-b815101f3b39",
+    "dimension": 5
+  }
+]

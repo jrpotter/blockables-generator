@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-04-06T14:30:03.803606-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "clue": "Complete the pattern: TW, UX, __",
+        "color": "#A9D594",
+        "reveal": "vy",
+        "ordinal": 1
+      },
+      {
+        "clue": "Citrusy dud?",
+        "color": "#7C93CB",
+        "reveal": "lemon",
+        "ordinal": 2
+      },
+      {
+        "clue": "Impolite",
+        "color": "#A1DBE3",
+        "reveal": "rude",
+        "ordinal": 3
+      },
+      {
+        "clue": "Word after press or tool",
+        "color": "#F5C146",
+        "reveal": "Kit",
+        "ordinal": 4
+      },
+      {
+        "clue": "Top of a wave",
+        "color": "#E6B0D1",
+        "reveal": "crest",
+        "ordinal": 5
+      },
+      {
+        "clue": "Timid",
+        "color": "#F3F1A0",
+        "reveal": "shy",
+        "ordinal": 6
+      },
+      {
+        "clue": "Youth in Model Railroading, abbr.",
+        "color": "#EE7B8C",
+        "reveal": "ymr",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\", \"o\", \"v\", \"e\", \"l\"], [\"y\", \"y\", \"m\", \"u\", \"r\"], [\"r\", \"h\", \"K\", \"i\", \"d\"], [\"e\", \"c\", \"s\", \"t\", \"e\"], [\"t\", \"s\", \"y\", \"m\", \"r\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#A9D594\", \"#7C93CB\", \"#7C93CB\"], [\"#F3F1A0\", \"#A9D594\", \"#7C93CB\", \"#A1DBE3\", \"#A1DBE3\"], [\"#E6B0D1\", \"#F3F1A0\", \"#F5C146\", \"#F5C146\", \"#A1DBE3\"], [\"#E6B0D1\", \"#E6B0D1\", \"#F3F1A0\", \"#F5C146\", \"#A1DBE3\"], [\"#E6B0D1\", \"#E6B0D1\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 684,
+    "phrase": "Kitschy murder mystery novel",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-08",
+    "id": "87e9e123-baea-4bee-bcef-e39d21c58de8",
+    "dimension": 5
+  }
+]

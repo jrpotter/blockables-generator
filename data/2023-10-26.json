@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.893014-07:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Pod pal?",
+        "ordinal": 1,
+        "reveal": "pEA"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Nine-digit US federal ID",
+        "ordinal": 2,
+        "reveal": "sSN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Treat for the hands and fingernails",
+        "ordinal": 3,
+        "reveal": "mANICURE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Old : Lil :: Town : ___",
+        "ordinal": 4,
+        "reveal": "nAS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "____-Seltzer",
+        "ordinal": 5,
+        "reveal": "aLKA"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Environment requiring a headset, abbr.",
+        "ordinal": 6,
+        "reveal": "vR"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Tallahassee to Tampa dir.",
+        "ordinal": 7,
+        "reveal": "SE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"S\",\"n\",\"a\",\"p\",\"e\"],[\"s\",\"c\",\"k\",\"m\",\"a\"],[\"u\",\"i\",\"A\",\"l\",\"n\"],[\"r\",\"R\",\"n\",\"a\",\"a\"],[\"e\",\"v\",\"e\",\"S\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A1DBE3\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 154,
+    "phrase": "Alan Rickman as Severus Snape",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-26",
+    "id": "b9cea9d5-2913-41f5-bad5-34b7c1fae8b6",
+    "dimension": 5
+  }
+]

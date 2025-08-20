@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-01T11:55:23.754107-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "By ___ means necessary",
+        "ordinal": 1,
+        "reveal": "any"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before Gala or after New York",
+        "ordinal": 2,
+        "reveal": "met"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "1982 sci-fi flick, familiarly",
+        "ordinal": 3,
+        "reveal": "et"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Broadway's titular little orphan",
+        "ordinal": 4,
+        "reveal": "annie"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Red 40 or Yellow 5",
+        "ordinal": 5,
+        "reveal": "Dye"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Silent gesture of approval",
+        "ordinal": 6,
+        "reveal": "nod"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Initials of \"Easy\" (1977) singer or \"You're No Good\" (1974) singer",
+        "ordinal": 7,
+        "reveal": "lr"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not closed",
+        "ordinal": 8,
+        "reveal": "open"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"m\",\"i\",\"t\",\"e\"],[\"n\",\"e\",\"e\",\"n\",\"N\"],[\"y\",\"t\",\"N\",\"e\",\"a\"],[\"D\",\"y\",\"d\",\"r\",\"p\"],[\"n\",\"o\",\"e\",\"l\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#B86BAC\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#B86BAC\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 741,
+    "phrase": "Nerdy teen Napoleon Dynamite",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-04",
+    "id": "fc04fe12-11a0-4551-9255-4a90987e589e",
+    "dimension": 5
+  }
+]

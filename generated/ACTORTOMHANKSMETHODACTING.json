@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:06:09.899317+0000",
+        "category": "Film & TV",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Small bed or military stretcher",
+                "ordinal": 1,
+                "reveal": "COT"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Tool for cutting metal, informally",
+                "ordinal": 2,
+                "reveal": "MACHING"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Salt symbol",
+                "ordinal": 3,
+                "reveal": "NA"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "To keep for later: Abbr.",
+                "ordinal": 4,
+                "reveal": "TK"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Curve in the road, as it's commonly abbreviated",
+                "ordinal": 5,
+                "reveal": "S"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "All roads lead to it, they say",
+                "ordinal": 6,
+                "reveal": "ROME"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "\"Hath\" in the King James Bible",
+                "ordinal": 7,
+                "reveal": "DOTH"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "___ the ready",
+                "ordinal": 8,
+                "reveal": "AT"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"C\", \"T\", \"I\", \"N\", \"G\"], [\"A\", \"O\", \"M\", \"H\", \"A\"], [\"D\", \"T\", \"A\", \"C\", \"N\"], [\"O\", \"R\", \"O\", \"T\", \"K\"], [\"H\", \"T\", \"E\", \"M\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#B86BAC\"], [\"#A1DBE3\", \"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#F5C146\"], [\"#F3F1A0\", \"#A1DBE3\", \"#B86BAC\", \"#B86BAC\", \"#F5C146\"], [\"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F3F1A0\", \"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                1,
+                2
+            ],
+            "3": [
+                2,
+                4
+            ],
+            "4": [
+                3,
+                3
+            ],
+            "5": [
+                4,
+                4
+            ],
+            "6": [
+                3,
+                1
+            ],
+            "7": [
+                2,
+                0
+            ],
+            "8": [
+                1,
+                0
+            ]
+        },
+        "phrase": "Actor Tom Hanks method acting",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

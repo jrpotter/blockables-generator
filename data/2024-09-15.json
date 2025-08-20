@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-26T14:54:49.373627-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Chicago's US state",
+        "ordinal": 1,
+        "reveal": "il"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Et cetera, abbr.",
+        "ordinal": 2,
+        "reveal": "etc"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Field, Forrest, or Ride",
+        "ordinal": 3,
+        "reveal": "sally"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Abbreviation a person with Celiac disease may look for on a menu",
+        "ordinal": 4,
+        "reveal": "gf"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "German \"no\"",
+        "ordinal": 5,
+        "reveal": "nEIN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Student at a military school training to be an officer, perhaps in space",
+        "ordinal": 6,
+        "reveal": "cadet"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sandwich shop",
+        "ordinal": 7,
+        "reveal": "deli"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"f\",\"i\",\"l\",\"e\",\"s\"],[\"g\",\"n\",\"t\",\"a\",\"l\"],[\"n\",\"e\",\"A\",\"c\",\"l\"],[\"i\",\"d\",\"i\",\"c\",\"y\"],[\"t\",\"e\",\"l\",\"e\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#F5C146\",\"#A9D594\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        1,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 479,
+    "phrase": "Accidentally deleting files",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-15",
+    "id": "5d1bc121-16ed-4a22-83cb-a4315e1689e5",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-10T10:52:39.005348-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word after confirmation or survivorship",
+        "ordinal": 1,
+        "reveal": "bias"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "____ of the above",
+        "ordinal": 2,
+        "reveal": "none"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Small hill, perhaps grassy",
+        "ordinal": 3,
+        "reveal": "knoll"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sole",
+        "ordinal": 4,
+        "reveal": "only"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Measure of a student's academic excellence, for short",
+        "ordinal": 5,
+        "reveal": "gpa"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Fuel gauge letter",
+        "ordinal": 6,
+        "reveal": "e"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Aid's partner",
+        "ordinal": 7,
+        "reveal": "abet"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"b\",\"e\",\"n\",\"o\"],[\"s\",\"i\",\"y\",\"a\",\"n\"],[\"k\",\"n\",\"P\",\"l\",\"o\"],[\"e\",\"g\",\"o\",\"n\",\"e\"],[\"t\",\"b\",\"a\",\"l\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\",\"#F5C146\",\"#B86BAC\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 536,
+    "phrase": "Playing one on one basketball",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-11",
+    "id": "7e84d704-a693-4764-b35c-04ae036082e1",
+    "dimension": 5
+  }
+]

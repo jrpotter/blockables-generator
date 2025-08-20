@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-03-31T15:06:27.255027-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "clue": "Fish's respiratory organ",
+        "color": "#7C93CB",
+        "reveal": "gill",
+        "ordinal": 1
+      },
+      {
+        "clue": "Biblical \"your\"",
+        "color": "#A9D594",
+        "reveal": "thy",
+        "ordinal": 2
+      },
+      {
+        "clue": "Boring prison, the letters of which can be found in this clue's first word",
+        "color": "#F5C146",
+        "reveal": "brig",
+        "ordinal": 3
+      },
+      {
+        "clue": "Like many a stuffed toy",
+        "color": "#E6B0D1",
+        "reveal": "Plush",
+        "ordinal": 4
+      },
+      {
+        "clue": "Insect type estimated to have a world population of twenty quadrillion",
+        "color": "#A1DBE3",
+        "reveal": "ant",
+        "ordinal": 5
+      },
+      {
+        "clue": "Sound of music between sol and ti",
+        "color": "#F3F1A0",
+        "reveal": "la",
+        "ordinal": 6
+      },
+      {
+        "clue": "Fast-Forward, abbr.",
+        "color": "#EE7B8C",
+        "reveal": "ff",
+        "ordinal": 7
+      },
+      {
+        "clue": "Quick greeting",
+        "color": "#B86BAC",
+        "reveal": "hi",
+        "ordinal": 8
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\", \"i\", \"g\", \"h\", \"t\"], [\"h\", \"l\", \"l\", \"y\", \"b\"], [\"s\", \"u\", \"P\", \"a\", \"r\"], [\"a\", \"f\", \"n\", \"i\", \"i\"], [\"l\", \"f\", \"t\", \"h\", \"g\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#A9D594\", \"#A9D594\"], [\"#E6B0D1\", \"#7C93CB\", \"#E6B0D1\", \"#A9D594\", \"#F5C146\"], [\"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\", \"#A1DBE3\", \"#F5C146\"], [\"#F3F1A0\", \"#EE7B8C\", \"#A1DBE3\", \"#B86BAC\", \"#F5C146\"], [\"#F3F1A0\", \"#EE7B8C\", \"#A1DBE3\", \"#B86BAC\", \"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 680,
+    "phrase": "Painfully bright flashlight",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-04",
+    "id": "d92def98-d294-4ece-9d36-e811dc545973",
+    "dimension": 5
+  }
+]

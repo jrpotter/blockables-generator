@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-31T15:06:27.255027-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "clue": "Instrument played by John Coltrane and Sonny Rollins",
+        "color": "#F3F1A0",
+        "reveal": "sax",
+        "ordinal": 1
+      },
+      {
+        "clue": "Drummer Starr",
+        "color": "#A1DBE3",
+        "reveal": "ringo",
+        "ordinal": 2
+      },
+      {
+        "clue": "Rowboat paddle",
+        "color": "#EE7B8C",
+        "reveal": "oar",
+        "ordinal": 3
+      },
+      {
+        "clue": "Greek prefix meaning \"four\"",
+        "color": "#7C93CB",
+        "reveal": "tetra",
+        "ordinal": 4
+      },
+      {
+        "clue": "Initials of \"Girls Just Wanna Have Fun\" singer or Doc Brown actor",
+        "color": "#A9D594",
+        "reveal": "cl",
+        "ordinal": 5
+      },
+      {
+        "clue": "Toby Flenderson's dept. in \"The Office\"",
+        "color": "#F5C146",
+        "reveal": "hr",
+        "ordinal": 6
+      },
+      {
+        "clue": "Nickname for First Lady Roosevelt or fictional loner Rigby",
+        "color": "#E6B0D1",
+        "reveal": "ellie",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\", \"s\", \"t\", \"e\", \"r\"], [\"o\", \"r\", \"a\", \"t\", \"i\"], [\"c\", \"a\", \"E\", \"x\", \"n\"], [\"r\", \"l\", \"i\", \"h\", \"g\"], [\"e\", \"l\", \"l\", \"o\", \"r\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#F3F1A0\", \"#7C93CB\", \"#7C93CB\", \"#A1DBE3\"], [\"#EE7B8C\", \"#7C93CB\", \"#F3F1A0\", \"#7C93CB\", \"#A1DBE3\"], [\"#A9D594\", \"#EE7B8C\", \"#E6B0D1\", \"#F3F1A0\", \"#A1DBE3\"], [\"#EE7B8C\", \"#A9D594\", \"#E6B0D1\", \"#F5C146\", \"#A1DBE3\"], [\"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\", \"#A1DBE3\", \"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 678,
+    "phrase": "Exhilarating rollercoaster",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-02",
+    "id": "bba726d3-baaf-4d13-8032-e5deb4ef12a4",
+    "dimension": 5
+  }
+]

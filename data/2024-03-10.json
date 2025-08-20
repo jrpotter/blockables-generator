@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-17T16:09:32.326563-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Enemy",
+        "ordinal": 1,
+        "reveal": "fOE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"__ that\u2019s true, __ you don\u2019t know who I am...\", first half of a Breaking Bad quote",
+        "ordinal": 2,
+        "reveal": "iF"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "World Heart Federation, abbr.",
+        "ordinal": 3,
+        "reveal": "WHF"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Shortened word often found next to a red dot on a camcorder",
+        "ordinal": 4,
+        "reveal": "rEC"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after day or health",
+        "ordinal": 5,
+        "reveal": "cARE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"...then maybe your best course would be __ tread lightly.\", second half of Clue #2's quote",
+        "ordinal": 6,
+        "reveal": "tO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "General term for an object, item, or a member of the Fantastic Four",
+        "ordinal": 7,
+        "reveal": "THING"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Center of the solar system",
+        "ordinal": 8,
+        "reveal": "sUN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"f\",\"f\",\"i\",\"c\",\"e\"],[\"O\",\"n\",\"g\",\"r\",\"e\"],[\"e\",\"i\",\"W\",\"a\",\"r\"],[\"h\",\"h\",\"c\",\"t\",\"u\"],[\"T\",\"f\",\"o\",\"s\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#E6B0D1\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\"],[\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 290,
+    "phrase": "Watching reruns of \"The Office\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-10",
+    "id": "199bb6fe-df3b-42ea-8101-73c9b154e620",
+    "dimension": 5
+  }
+]

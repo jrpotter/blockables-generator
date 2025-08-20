@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-04-06T14:30:03.803606-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "clue": "Great deal",
+        "color": "#F3F1A0",
+        "reveal": "steal",
+        "ordinal": 1
+      },
+      {
+        "clue": "Straightforward",
+        "color": "#7C93CB",
+        "reveal": "frank",
+        "ordinal": 2
+      },
+      {
+        "clue": "Initials of \"Lizzie McGuire\" star or 2004 US presidential candidate known for his \"scream\"",
+        "color": "#EE7B8C",
+        "reveal": "Hd",
+        "ordinal": 3
+      },
+      {
+        "clue": "Dinner and a movie, perhaps",
+        "color": "#A1DBE3",
+        "reveal": "date",
+        "ordinal": 4
+      },
+      {
+        "clue": "Blind Carbon Copy, abbr.",
+        "color": "#F5C146",
+        "reveal": "bcc",
+        "ordinal": 5
+      },
+      {
+        "clue": "\"Snap a ___!\"",
+        "color": "#A9D594",
+        "reveal": "pic",
+        "ordinal": 6
+      },
+      {
+        "clue": "Public lodging house serving food and drink to travelers",
+        "color": "#E6B0D1",
+        "reveal": "inn",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\", \"k\", \"e\", \"t\", \"s\"], [\"a\", \"a\", \"f\", \"t\", \"e\"], [\"l\", \"r\", \"H\", \"a\", \"d\"], [\"b\", \"c\", \"d\", \"n\", \"p\"], [\"c\", \"i\", \"n\", \"c\", \"i\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#7C93CB\", \"#F3F1A0\", \"#7C93CB\", \"#A1DBE3\", \"#A1DBE3\"], [\"#F3F1A0\", \"#7C93CB\", \"#EE7B8C\", \"#A1DBE3\", \"#A1DBE3\"], [\"#F5C146\", \"#F5C146\", \"#EE7B8C\", \"#E6B0D1\", \"#A9D594\"], [\"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\", \"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 686,
+    "phrase": "Hand-crafted picnic blankets",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-10",
+    "id": "e5905616-f9e8-4a96-8968-7ed94bf010f1",
+    "dimension": 5
+  }
+]

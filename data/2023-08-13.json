@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-02-19T11:26:23.071262-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Entirety",
+        "ordinal": 1,
+        "reveal": "aLL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Tellurium's chemical symbol",
+        "ordinal": 2,
+        "reveal": "tE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "One may be wicked and from the West",
+        "ordinal": 3,
+        "reveal": "wITCH"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Retweet abbr.",
+        "ordinal": 4,
+        "reveal": "rT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Great ____, a dog breed",
+        "ordinal": 5,
+        "reveal": "dANE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Fourth word in every Harry Potter title",
+        "ordinal": 6,
+        "reveal": "tHE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Pok\u00e9mon Trainer Ketchum",
+        "ordinal": 7,
+        "reveal": "aSH"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Went first",
+        "ordinal": 8,
+        "reveal": "lED"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"l\",\"l\",\"e\",\"t\"],[\"w\",\"i\",\"t\",\"c\",\"h\"],[\"r\",\"t\",\"H\",\"a\",\"e\"],[\"e\",\"s\",\"d\",\"n\",\"d\"],[\"h\",\"t\",\"a\",\"e\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 80,
+    "phrase": "Hand-stitched leather wallet",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-13",
+    "id": "669ab79a-ee42-4646-a4bb-5f4209596ed7",
+    "dimension": 5
+  }
+]

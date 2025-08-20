@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-24T08:57:30.119726-06:00",
+    "category": "Song and Artist",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "2019 Jordan Peele horror film about menacing doppelg\u00e4ngers",
+        "ordinal": 1,
+        "reveal": "uS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after bald or before scout",
+        "ordinal": 2,
+        "reveal": "eAGLE"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Singer Michele or singer Salonga",
+        "ordinal": 3,
+        "reveal": "lEA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "____ while you're ahead",
+        "ordinal": 4,
+        "reveal": "qUIT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Biblical form of \"your\"",
+        "ordinal": 5,
+        "reveal": "THY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"'Tis the season to __ jolly\"",
+        "ordinal": 6,
+        "reveal": "bE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Singers attempting to lure sailors or ambulance noises, the letters of which can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "sIRENS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"g\",\"l\",\"e\",\"s\"],[\"E\",\"a\",\"S\",\"u\",\"n\"],[\"e\",\"l\",\"T\",\"e\",\"r\"],[\"h\",\"i\",\"u\",\"q\",\"i\"],[\"T\",\"y\",\"b\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#F5C146\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        3
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        3,
+        3
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 142,
+    "phrase": "\"Tequila Sunrise\" by The Eagles",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-14",
+    "id": "7ac14978-f5b7-4e49-b86d-f023479f9ae7",
+    "dimension": 5
+  }
+]

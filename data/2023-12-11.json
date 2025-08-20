@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-06-20T15:15:23.603608-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"What\" in Spanish",
+        "ordinal": 1,
+        "reveal": "qUE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Initials of actress who played Miranda Hobbes or writer-director of Inception",
+        "ordinal": 2,
+        "reveal": "cN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Easier ____ than done",
+        "ordinal": 3,
+        "reveal": "sAID"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Reddish-brown color associated particularly with monochrome photographs",
+        "ordinal": 4,
+        "reveal": "SEPIA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Good luck, to a texter",
+        "ordinal": 5,
+        "reveal": "gL"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Last name of SCTV star Eugene or Schitt's Creek star Daniel",
+        "ordinal": 6,
+        "reveal": "lEVY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Video game company founded in 1972 whose name means \"to hit a target\" in Japanese",
+        "ordinal": 7,
+        "reveal": "aTARI"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"q\",\"n\",\"a\",\"i\"],[\"e\",\"y\",\"c\",\"i\",\"r\"],[\"s\",\"v\",\"S\",\"p\",\"a\"],[\"a\",\"e\",\"g\",\"e\",\"t\"],[\"d\",\"i\",\"l\",\"l\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\"],[\"#B86BAC\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#B86BAC\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 200,
+    "phrase": "Spicy vegetarian quesadilla",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-11",
+    "id": "6231eb15-13a0-46bc-bf15-0d825cf0a1b6",
+    "dimension": 5
+  }
+]

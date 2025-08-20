@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-07-12T18:17:41.045653-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Went postal?",
+        "ordinal": 1,
+        "reveal": "mAILED"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Use an e-cigarette",
+        "ordinal": 2,
+        "reveal": "vAPE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Alternative milk type not made from nuts or beans",
+        "ordinal": 3,
+        "reveal": "oAT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Shortened word after drivers' or phys",
+        "ordinal": 4,
+        "reveal": "eD"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Marble, banana, or senator",
+        "ordinal": 5,
+        "reveal": "nOUN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "International Youth Day, abbr.",
+        "ordinal": 6,
+        "reveal": "iYD"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Vegas airport code",
+        "ordinal": 7,
+        "reveal": "LAS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"P\",\"a\",\"l\",\"m\",\"a\"],[\"e\",\"e\",\"v\",\"i\",\"t\"],[\"d\",\"D\",\"D\",\"a\",\"o\"],[\"e\",\"y\",\"n\",\"n\",\"a\"],[\"i\",\"u\",\"o\",\"L\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A9D594\",\"#7C93CB\",\"#A9D594\",\"#A1DBE3\"],[\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 223,
+    "phrase": "Danny Devito as Louie de Palma",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-03",
+    "id": "a211c911-4468-424c-9abc-2ef52d59314a",
+    "dimension": 5
+  }
+]

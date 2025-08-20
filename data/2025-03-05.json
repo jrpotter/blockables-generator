@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-02T07:34:35.308101-07:00",
+    "category": "Famous Publication",
+    "clues": [
+      {
+        "clue": "Myself and I's partners, in a saying",
+        "color": "#7C93CB",
+        "reveal": "Me",
+        "ordinal": 1
+      },
+      {
+        "clue": "Pie nut",
+        "color": "#F3F1A0",
+        "reveal": "pecan",
+        "ordinal": 2
+      },
+      {
+        "clue": "Word before cake or after pay",
+        "color": "#E6B0D1",
+        "reveal": "Dirt",
+        "ordinal": 3
+      },
+      {
+        "clue": "Two-thirds of a perfect score in bowling, to a Roman",
+        "color": "#EE7B8C",
+        "reveal": "cc",
+        "ordinal": 4
+      },
+      {
+        "clue": "What a student may defend",
+        "color": "#A9D594",
+        "reveal": "thesis",
+        "ordinal": 5
+      },
+      {
+        "clue": "All __ due time",
+        "color": "#A1DBE3",
+        "reveal": "in",
+        "ordinal": 6
+      },
+      {
+        "clue": "Missing fish, in a 2003 Pixar film",
+        "color": "#F5C146",
+        "reveal": "nemo",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\", \"n\", \"a\", \"c\", \"e\"], [\"M\", \"t\", \"r\", \"i\", \"p\"], [\"e\", \"s\", \"C\", \"o\", \"D\"], [\"h\", \"c\", \"i\", \"m\", \"e\"], [\"t\", \"s\", \"i\", \"n\", \"n\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#7C93CB\", \"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\", \"#F3F1A0\"], [\"#A9D594\", \"#A9D594\", \"#EE7B8C\", \"#F5C146\", \"#E6B0D1\"], [\"#A9D594\", \"#EE7B8C\", \"#A9D594\", \"#F5C146\", \"#F5C146\"], [\"#A9D594\", \"#A9D594\", \"#A1DBE3\", \"#A1DBE3\", \"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 650,
+    "phrase": "Comic strip \"Dennis the Menace\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-05",
+    "id": "b497a3bf-baba-4b3a-8c29-fbb14bebf551",
+    "dimension": 5
+  }
+]

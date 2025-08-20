@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-13T10:27:40.703297-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "It may read \"Welcome!\"",
+        "ordinal": 1,
+        "reveal": "mat"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Prefix meaning two",
+        "ordinal": 2,
+        "reveal": "bi"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "___ X",
+        "ordinal": 3,
+        "reveal": "gen"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Absolutely!\"",
+        "ordinal": 4,
+        "reveal": "yes"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "1992 Radiohead smash hit containing the lyric \"I'm a weirdo\"",
+        "ordinal": 5,
+        "reveal": "Creep"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before enemy or in",
+        "ordinal": 6,
+        "reveal": "sworn"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Holding Company for Tourism and Hotels, abbr.",
+        "ordinal": 7,
+        "reveal": "hCTH"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"t\",\"s\",\"e\",\"b\"],[\"a\",\"g\",\"n\",\"i\",\"y\"],[\"n\",\"e\",\"C\",\"r\",\"h\"],[\"s\",\"w\",\"o\",\"r\",\"t\"],[\"p\",\"e\",\"e\",\"c\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 512,
+    "phrase": "Cringeworthy best man speech",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-18",
+    "id": "a4e71736-a1e3-4b66-8ced-2b8ea75dc5c5",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-20T08:43:38.923069-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Cats and dogs, often",
+        "ordinal": 1,
+        "reveal": "pets"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Initials of \"Walden\" author or Underground Railroad leader",
+        "ordinal": 2,
+        "reveal": "ht"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Mass transit option",
+        "ordinal": 3,
+        "reveal": "metro"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Discern visually",
+        "ordinal": 4,
+        "reveal": "see"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Utterance of indifference",
+        "ordinal": 5,
+        "reveal": "eh"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Lion's lair",
+        "ordinal": 6,
+        "reveal": "den"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Eighth month, for short",
+        "ordinal": 7,
+        "reveal": "aug"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Next of ___",
+        "ordinal": 8,
+        "reveal": "Kin"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"t\",\"S\",\"r\",\"o\"],[\"p\",\"e\",\"e\",\"t\",\"h\"],[\"h\",\"m\",\"E\",\"s\",\"t\"],[\"e\",\"e\",\"d\",\"a\",\"u\"],[\"n\",\"K\",\"i\",\"n\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 579,
+    "phrase": "Esteemed author Stephen King",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-24",
+    "id": "d2362e9c-75c9-41a0-9646-194da98d49a0",
+    "dimension": 5
+  }
+]

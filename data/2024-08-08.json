@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-02-11T08:09:00.532246-07:00",
+    "category": "John of Royalty?",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "\"The Matrix\" protagonist",
+        "ordinal": 1,
+        "reveal": "neo"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"Just ________\", Monopoly space outside \"In Jail\"",
+        "ordinal": 2,
+        "reveal": "visiting"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after brain or London",
+        "ordinal": 3,
+        "reveal": "fog"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Leafy green which may be from Tuscany",
+        "ordinal": 4,
+        "reveal": "Kale"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "First word of the Beatles' final studio album",
+        "ordinal": 5,
+        "reveal": "let"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Not thick",
+        "ordinal": 6,
+        "reveal": "thin"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"s\",\"i\",\"o\",\"n\"],[\"v\",\"L\",\"a\",\"t\",\"e\"],[\"e\",\"f\",\"K\",\"i\",\"N\"],[\"l\",\"o\",\"g\",\"n\",\"i\"],[\"e\",\"T\",\"t\",\"h\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#7C93CB\",\"#F5C146\"],[\"#A9D594\",\"#E6B0D1\",\"#A9D594\",\"#7C93CB\",\"#F3F1A0\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 441,
+    "phrase": "King of Late-Night Television",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-08",
+    "id": "44dd39e8-4240-41e7-88e9-2cc9a1fcbd98",
+    "dimension": 5
+  }
+]

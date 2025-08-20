@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-05-06T12:58:57.803114-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Chiming instruments found on bike handlebars or in church steeples",
+        "ordinal": 1,
+        "reveal": "BELLS"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Perceives or experiences the flavor of",
+        "ordinal": 2,
+        "reveal": "tastes"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Board game in which you take over the world by way of strategic conquest",
+        "ordinal": 3,
+        "reveal": "rISK"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Hard skin growth, perhaps on a witch's nose",
+        "ordinal": 4,
+        "reveal": "wART"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Sodium's chemical symbol",
+        "ordinal": 5,
+        "reveal": "nA"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Wax opposite, as lunar phases",
+        "ordinal": 6,
+        "reveal": "wANE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"B\",\"s\",\"a\",\"t\",\"r\"],[\"e\",\"t\",\"s\",\"i\",\"a\"],[\"l\",\"e\",\"K\",\"r\",\"w\"],[\"l\",\"n\",\"S\",\"t\",\"e\"],[\"a\",\"S\",\"w\",\"a\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\"],[\"#B86BAC\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 157,
+    "phrase": "Kristen Stewart as Bella Swan",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-29",
+    "id": "c8a327ef-fdec-483f-9afd-a4adbc4fd32f",
+    "dimension": 5
+  }
+]

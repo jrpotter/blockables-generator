@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-11T15:03:30.125226-06:00",
+    "category": "Clothing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Love's opposite",
+        "ordinal": 1,
+        "reveal": "hATE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Natural logarithm, in mathematical shorthand",
+        "ordinal": 2,
+        "reveal": "lN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Shortened word often found next to a red dot on a camcorder",
+        "ordinal": 3,
+        "reveal": "rEC"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Grand Theft Auto, abbr.",
+        "ordinal": 4,
+        "reveal": "gTA"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "What Tarzan swings on",
+        "ordinal": 5,
+        "reveal": "VINE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "2016 Rihanna hit whose title is said 79 times throughout the song",
+        "ordinal": 6,
+        "reveal": "wORK"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Yes\" in German",
+        "ordinal": 7,
+        "reveal": "jA"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Twenty dollars on black\", for example",
+        "ordinal": 8,
+        "reveal": "bET"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"t\",\"a\",\"e\",\"l\"],[\"e\",\"a\",\"t\",\"n\",\"n\"],[\"r\",\"g\",\"V\",\"i\",\"w\"],[\"j\",\"e\",\"b\",\"r\",\"o\"],[\"a\",\"c\",\"k\",\"e\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#A9D594\"],[\"#EE7B8C\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"],[\"#B86BAC\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 282,
+    "phrase": "Vintage brown leather jacket",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-02",
+    "id": "aa248166-cfaf-451b-ae88-54f5f7491f3c",
+    "dimension": 5
+  }
+]

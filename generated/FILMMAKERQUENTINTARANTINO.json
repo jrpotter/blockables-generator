@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:05:43.476732+0000",
+        "category": "Famous Person",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "New Testament, abbr.",
+                "ordinal": 1,
+                "reveal": "NT"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Just do it company",
+                "ordinal": 2,
+                "reveal": "NIKE"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Constellation between Scorpius and Triangulum Australe",
+                "ordinal": 3,
+                "reveal": "ARA"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Doorstep delivery or yoga class necessity",
+                "ordinal": 4,
+                "reveal": "MAT"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Draw or outline in detail",
+                "ordinal": 5,
+                "reveal": "LIMN"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Back, in \"to and ___\"",
+                "ordinal": 6,
+                "reveal": "FRO"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "\"Qui _____ es?\" (Latin \"Who are you?\")",
+                "ordinal": 7,
+                "reveal": "QUI"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "What's left after expenses",
+                "ordinal": 8,
+                "reveal": "NET"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"N\", \"T\", \"I\", \"N\", \"O\"], [\"A\", \"K\", \"E\", \"R\", \"Q\"], [\"R\", \"A\", \"F\", \"I\", \"U\"], [\"A\", \"M\", \"M\", \"L\", \"E\"], [\"T\", \"N\", \"I\", \"T\", \"N\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#E6B0D1\"], [\"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\", \"#E6B0D1\", \"#F5C146\"], [\"#EE7B8C\", \"#EE7B8C\", \"#E6B0D1\", \"#F5C146\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\"], [\"#B86BAC\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\", \"#A1DBE3\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                0,
+                3
+            ],
+            "3": [
+                2,
+                1
+            ],
+            "4": [
+                3,
+                1
+            ],
+            "5": [
+                3,
+                3
+            ],
+            "6": [
+                2,
+                2
+            ],
+            "7": [
+                1,
+                4
+            ],
+            "8": [
+                4,
+                4
+            ]
+        },
+        "phrase": "Filmmaker Quentin Tarantino",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

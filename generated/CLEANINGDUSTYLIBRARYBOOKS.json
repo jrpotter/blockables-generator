@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:10:38.129828+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Running back, for short",
+                "ordinal": 1,
+                "reveal": "RB"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Light and breezy, like a fairy without the f",
+                "ordinal": 2,
+                "reveal": "AIRY"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "General Laws, abbr.",
+                "ordinal": 3,
+                "reveal": "GL"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Questionable, in slang",
+                "ordinal": 4,
+                "reveal": "SUS"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Kevin Durant, to fans",
+                "ordinal": 5,
+                "reveal": "KD"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "U2 frontman who's also known for humanitarian work",
+                "ordinal": 6,
+                "reveal": "BONO"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Chemical group that's a bit acidic when you remove the H",
+                "ordinal": 7,
+                "reveal": "ACETYL"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Knights of ___, Monty Python troupe",
+                "ordinal": 8,
+                "reveal": "NI"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"R\", \"B\", \"I\", \"L\", \"Y\"], [\"A\", \"N\", \"A\", \"E\", \"T\"], [\"R\", \"I\", \"C\", \"L\", \"S\"], [\"Y\", \"N\", \"G\", \"D\", \"U\"], [\"B\", \"O\", \"O\", \"K\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#A1DBE3\", \"#F3F1A0\", \"#F3F1A0\"], [\"#B86BAC\", \"#A1DBE3\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#B86BAC\", \"#B86BAC\", \"#F3F1A0\", \"#EE7B8C\", \"#E6B0D1\"], [\"#B86BAC\", \"#F5C146\", \"#EE7B8C\", \"#A9D594\", \"#E6B0D1\"], [\"#F5C146\", \"#F5C146\", \"#F5C146\", \"#A9D594\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                1,
+                0
+            ],
+            "3": [
+                3,
+                2
+            ],
+            "4": [
+                2,
+                4
+            ],
+            "5": [
+                4,
+                3
+            ],
+            "6": [
+                4,
+                0
+            ],
+            "7": [
+                1,
+                2
+            ],
+            "8": [
+                1,
+                1
+            ]
+        },
+        "phrase": "Cleaning dusty library books",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

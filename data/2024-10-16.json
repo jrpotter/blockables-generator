@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-10-13T10:36:57.173395-06:00",
+    "category": "Famous Novel",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Size between tall and venti, at Starbucks",
+        "ordinal": 1,
+        "reveal": "grande"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "___ Manuel Miranda, creator of \"Hamilton\"",
+        "ordinal": 2,
+        "reveal": "Lin"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Hello!\"",
+        "ordinal": 3,
+        "reveal": "hi"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Amplicon Sequence Variant, abbr.",
+        "ordinal": 4,
+        "reveal": "asv"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Enthusiastic devotee",
+        "ordinal": 5,
+        "reveal": "Fan"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word after green or before party",
+        "ordinal": 6,
+        "reveal": "tea"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Ye olde way to get one's attention",
+        "ordinal": 7,
+        "reveal": "Lo"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Helium or neon",
+        "ordinal": 8,
+        "reveal": "gas"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"g\",\"n\",\"i\"],[\"L\",\"a\",\"r\",\"a\",\"h\"],[\"a\",\"n\",\"F\",\"e\",\"t\"],[\"s\",\"d\",\"L\",\"o\",\"a\"],[\"V\",\"e\",\"g\",\"a\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"],[\"#E6B0D1\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 510,
+    "phrase": "Fear and Loathing in Las Vegas",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-16",
+    "id": "20c3c66f-5847-4782-9eb7-668826b3da44",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-04-06T13:46:17.579544-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "1999 _____ Club quote: \"The first rule of _____ Club is: you do not talk about _____ Club.\" ",
+        "ordinal": 1,
+        "reveal": "fIGHT"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Slang",
+        "ordinal": 2,
+        "reveal": "lINGO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Third word of Gotye's \"Somebody That I Used To Know\" or sixth word of Bonnie Tyler's \"Total Eclipse of the Heart\"",
+        "ordinal": 3,
+        "reveal": "tHEN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Covers completely with dirt, such as treasure or... hatchets?",
+        "ordinal": 4,
+        "reveal": "BURIES"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Responsible Gambling Council, abbr.",
+        "ordinal": 5,
+        "reveal": "rGC"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Stratego piece with rank between a Captain and a Sergeant, abbr.",
+        "ordinal": 6,
+        "reveal": "lT"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"t\",\"i\",\"n\",\"g\"],[\"g\",\"f\",\"l\",\"u\",\"o\"],[\"i\",\"t\",\"B\",\"r\",\"r\"],[\"l\",\"h\",\"g\",\"i\",\"e\"],[\"t\",\"n\",\"e\",\"c\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\",\"#B86BAC\"],[\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        0
+      ]
+    },
+    "ordinal": 124,
+    "phrase": "Bright fluorescent lighting",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-26",
+    "id": "bb08a576-4600-403c-ac29-cae2283b3e59",
+    "dimension": 5
+  }
+]

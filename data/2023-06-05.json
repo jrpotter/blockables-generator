@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2022-12-11T10:11:29.296344-07:00",
+    "category": "Famous Movie",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Beetle or Bug manufacturer, abbr.",
+        "ordinal": 1,
+        "reveal": "VW"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Bond novelist Fleming or Gandalf portrayer McKellen",
+        "ordinal": 2,
+        "reveal": "IAN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Remodels of a kitchen, say, the letters of which can be found in the first word of this clue",
+        "ordinal": 3,
+        "reveal": "rEDOS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Elephant ____, tropical plants grown for their large leaves",
+        "ordinal": 4,
+        "reveal": "eARS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "First word of improvised television show hosted by Drew Carey until 2007",
+        "ordinal": 5,
+        "reveal": "wHOSE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Appetizing pumpkin seed, the letters of which can be found in the first word of this clue",
+        "ordinal": 6,
+        "reveal": "pEPITA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"V\",\"I\",\"e\",\"d\",\"o\"],[\"A\",\"W\",\"r\",\"a\",\"s\"],[\"N\",\"a\",\"S\",\"t\",\"i\"],[\"e\",\"r\",\"s\",\"E\",\"p\"],[\"w\",\"H\",\"o\",\"p\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 11,
+    "phrase": "Star Wars: Episode IV - A New Hope",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-05",
+    "id": "ae6c8e20-2d0c-48a9-9879-ab81fc454e41",
+    "dimension": 5
+  }
+]

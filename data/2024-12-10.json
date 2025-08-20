@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-12-07T12:10:49.959482-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"Those two lovebirds were made for ____ other.\"",
+        "ordinal": 1,
+        "reveal": "each"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letters often shouted after \"LA\" or \"NY\", perhaps with a badge in hand",
+        "ordinal": 2,
+        "reveal": "pd"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "People checking you out at the grocery store, perhaps",
+        "ordinal": 3,
+        "reveal": "cashiers"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Won't Get ______ Again\", 1971 The Who hit",
+        "ordinal": 4,
+        "reveal": "fooled"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Initials of 44th US president or \"Better Call Saul\" star",
+        "ordinal": 5,
+        "reveal": "bo"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Nitrogen's chemical symbol",
+        "ordinal": 6,
+        "reveal": "n"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "16 oz.",
+        "ordinal": 7,
+        "reveal": "lb"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"c\",\"a\",\"e\",\"p\"],[\"c\",\"a\",\"f\",\"d\",\"d\"],[\"o\",\"s\",\"O\",\"l\",\"e\"],[\"b\",\"h\",\"i\",\"o\",\"n\"],[\"b\",\"l\",\"e\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#A1DBE3\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 565,
+    "phrase": "Old-fashioned peach cobblers",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-10",
+    "id": "f733099d-3495-405a-837f-cc8d3f05d8e5",
+    "dimension": 5
+  }
+]

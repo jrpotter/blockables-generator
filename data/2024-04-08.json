@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-10-18T09:36:21.372722-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "College dorm overseer, abbr.",
+        "ordinal": 1,
+        "reveal": "ra"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Head of a company, abbr.",
+        "ordinal": 2,
+        "reveal": "ceo"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Noah's watercraft, biblically",
+        "ordinal": 3,
+        "reveal": "aRK"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Fire __ will!\"",
+        "ordinal": 4,
+        "reveal": "at"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Public lodging house serving food and drink to travelers",
+        "ordinal": 5,
+        "reveal": "inn"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Shakespeare's nickname",
+        "ordinal": 6,
+        "reveal": "Bard"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Handsome\" in Spanish",
+        "ordinal": 7,
+        "reveal": "guapo"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word after chocolate or before coat",
+        "ordinal": 8,
+        "reveal": "lab"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"A\",\"r\",\"o\",\"t\",\"c\"],[\"a\",\"k\",\"a\",\"e\",\"a\"],[\"r\",\"i\",\"B\",\"r\",\"d\"],[\"o\",\"n\",\"g\",\"B\",\"a\"],[\"n\",\"P\",\"a\",\"u\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\",\"#E6B0D1\"],[\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 319,
+    "phrase": "\"Breaking Bad\" actor Aaron Paul",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-08",
+    "id": "965c9444-635b-4aaf-92ad-03bb075d653c",
+    "dimension": 5
+  }
+]

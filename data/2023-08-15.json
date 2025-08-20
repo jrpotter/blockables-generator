@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-02-19T10:55:32.813075-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Opposite of off",
+        "ordinal": 1,
+        "reveal": "oN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "__-84, graphing calculator whose name alludes to its parent company, Texas Instruments",
+        "ordinal": 2,
+        "reveal": "tI"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Show them the _____,\" phrase meaning to teach someone the fundamentals",
+        "ordinal": 3,
+        "reveal": "rOPES"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word before power or system",
+        "ordinal": 4,
+        "reveal": "sOLAR"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "What it takes to do something courageous, perhaps",
+        "ordinal": 5,
+        "reveal": "gUTS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Not applicable, abbr.",
+        "ordinal": 6,
+        "reveal": "nA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Unlikely precipitation type in a 1979 hit by The Weather Girls",
+        "ordinal": 7,
+        "reveal": "mEN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Tennessee's state abbr.",
+        "ordinal": 8,
+        "reveal": "tN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"t\",\"s\",\"t\",\"r\"],[\"u\",\"n\",\"i\",\"s\",\"o\"],[\"r\",\"g\",\"L\",\"o\",\"p\"],[\"n\",\"a\",\"n\",\"e\",\"S\"],[\"a\",\"m\",\"e\",\"n\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#F5C146\"],[\"#A1DBE3\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"],[\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 82,
+    "phrase": "Losing an eSports tournament",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-15",
+    "id": "1c9a5e61-264b-44fa-9b3a-69f250876216",
+    "dimension": 5
+  }
+]

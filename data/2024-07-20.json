@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-28T07:09:04.837986-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Sick",
+        "ordinal": 1,
+        "reveal": "ill"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Initials of actress who played Jenny in \"Forrest Gump\" or actor who played Mrs. Doubtfire",
+        "ordinal": 2,
+        "reveal": "rw"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Knight's weapon",
+        "ordinal": 3,
+        "reveal": "sword"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fireplace dust",
+        "ordinal": 4,
+        "reveal": "soot"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Internet Relay Chat, abbr.",
+        "ordinal": 5,
+        "reveal": "irc"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not tall",
+        "ordinal": 6,
+        "reveal": "Short"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "The last letter of the alphabet, in Britain",
+        "ordinal": 7,
+        "reveal": "zed"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"W\",\"r\",\"o\",\"t\"],[\"l\",\"s\",\"s\",\"o\",\"i\"],[\"l\",\"w\",\"C\",\"r\",\"d\"],[\"S\",\"o\",\"r\",\"d\",\"e\"],[\"h\",\"o\",\"r\",\"t\",\"z\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"],[\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        1,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 422,
+    "phrase": "Crossword editor Will Shortz",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-20",
+    "id": "d7d1ad01-fbe6-4a06-a815-a87b7ae63f78",
+    "dimension": 5
+  }
+]

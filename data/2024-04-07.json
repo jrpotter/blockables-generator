@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-10-17T08:07:13.027155-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Boxer Muhammad",
+        "ordinal": 1,
+        "reveal": "ali"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Kanye West Storms the ___s Stage During Taylor Swift\u2019s Speech\", 2009 Rolling Stone headline",
+        "ordinal": 2,
+        "reveal": "vma"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Annual Recurring Revenue, abbr.",
+        "ordinal": 3,
+        "reveal": "arr"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "It may be lent, in a Shakespeare play",
+        "ordinal": 4,
+        "reveal": "Ear"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Insect which Clue #1 is said to have stung like",
+        "ordinal": 5,
+        "reveal": "Bee"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Alternative milk type not made from nuts or beans",
+        "ordinal": 6,
+        "reveal": "oat"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "By way of",
+        "ordinal": 7,
+        "reveal": "vIA"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Comedian Kevin, whose first stand-up special is titled \"I'm a Grown Little Man\"",
+        "ordinal": 8,
+        "reveal": "hart"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"l\",\"e\",\"m\",\"A\"],[\"a\",\"e\",\"v\",\"a\",\"r\"],[\"E\",\"a\",\"B\",\"r\",\"o\"],[\"a\",\"v\",\"i\",\"a\",\"t\"],[\"r\",\"h\",\"a\",\"r\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#E6B0D1\",\"#EE7B8C\",\"#B86BAC\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        1
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 318,
+    "phrase": "Brave aviator Amelia Earhart",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-07",
+    "id": "a0d20360-70ac-4a40-b234-b279223f6c23",
+    "dimension": 5
+  }
+]

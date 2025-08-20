@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-04-03T09:39:58.621613-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Instagram, abbr.",
+        "ordinal": 1,
+        "reveal": "ig"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Easy throw",
+        "ordinal": 2,
+        "reveal": "toss"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Surf's rhyming partner, in a seafood and red meat dish",
+        "ordinal": 3,
+        "reveal": "turf"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Chemical symbol of tin",
+        "ordinal": 4,
+        "reveal": "sn"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"__ Mice and Men\", 1937 Steinbeck novella",
+        "ordinal": 5,
+        "reveal": "of"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "One may be stuck in one when uninspired or off-roading",
+        "ordinal": 6,
+        "reveal": "rut"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Residents of a city, generally",
+        "ordinal": 7,
+        "reveal": "citizens"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"u\",\"i\",\"t\",\"s\"],[\"f\",\"g\",\"t\",\"o\",\"n\"],[\"s\",\"n\",\"Z\",\"e\",\"s\"],[\"u\",\"i\",\"t\",\"s\",\"o\"],[\"r\",\"t\",\"i\",\"c\",\"f\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#A1DBE3\",\"#7C93CB\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#B86BAC\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 487,
+    "phrase": "Zesting tons of citrus fruits",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-23",
+    "id": "3d83fb4e-07f6-4aee-9225-f99cd8bfac89",
+    "dimension": 5
+  }
+]

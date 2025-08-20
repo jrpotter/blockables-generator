@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-21T08:54:29.123169-07:00",
+    "category": "Places",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Upton Court Grammar School, abbr.",
+        "ordinal": 1,
+        "reveal": "ucgs"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Once and ___ all",
+        "ordinal": 2,
+        "reveal": "for"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"Oh no! Timmy ____ down the well!\"",
+        "ordinal": 3,
+        "reveal": "fell"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Most famous person named Edgar, according to ranker.com",
+        "ordinal": 4,
+        "reveal": "poe"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Cinco menos dos",
+        "ordinal": 5,
+        "reveal": "tres"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Prefix meaning fire, or a person who has a compulsion to set fires",
+        "ordinal": 6,
+        "reveal": "pyro"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Mr. Blue Sky\" group",
+        "ordinal": 7,
+        "reveal": "elo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"l\",\"u\",\"f\",\"s\"],[\"o\",\"e\",\"c\",\"o\",\"e\"],[\"f\",\"r\",\"G\",\"r\",\"r\"],[\"p\",\"y\",\"s\",\"t\",\"o\"],[\"e\",\"o\",\"p\",\"l\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#F5C146\",\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 353,
+    "phrase": "Grocery stores full of people",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-12",
+    "id": "56454a88-91e9-42ca-9d44-d8d31441bc50",
+    "dimension": 5
+  }
+]

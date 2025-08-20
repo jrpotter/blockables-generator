@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-03T11:52:58.340138-07:00",
+    "category": "Organization",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Out's opposite",
+        "ordinal": 1,
+        "reveal": "in"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Let's see what's behind ____ number one!\"",
+        "ordinal": 2,
+        "reveal": "door"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Surrounded by",
+        "ordinal": 3,
+        "reveal": "Amid"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Quick",
+        "ordinal": 4,
+        "reveal": "Fast"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after Chekov's or water",
+        "ordinal": 5,
+        "reveal": "gun"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Relation between two quantities, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "ratio"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Dungeons & Dragons, colloquially",
+        "ordinal": 7,
+        "reveal": "dnd"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"n\",\"i\",\"m\",\"d\"],[\"s\",\"a\",\"d\",\"o\",\"A\"],[\"t\",\"n\",\"F\",\"o\",\"g\"],[\"r\",\"d\",\"D\",\"r\",\"u\"],[\"a\",\"t\",\"i\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F3F1A0\",\"#F5C146\"],[\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\"],[\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        1
+      ]
+    },
+    "ordinal": 458,
+    "phrase": "Food and Drug Administration",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-25",
+    "id": "baa06a66-f3a0-4321-8255-872d4b66c84c",
+    "dimension": 5
+  }
+]

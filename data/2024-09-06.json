@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-03-17T12:03:05.98236-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Freddie Mercury or Celine Dion, for two",
+        "ordinal": 1,
+        "reveal": "singer"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Massive",
+        "ordinal": 2,
+        "reveal": "huge"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Opposite of yes",
+        "ordinal": 3,
+        "reveal": "no"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Goldman Sachs NYSE stock symbol",
+        "ordinal": 4,
+        "reveal": "gs"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Boise's US state",
+        "ordinal": 5,
+        "reveal": "id"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Smash your toe on a coffee table, say",
+        "ordinal": 6,
+        "reveal": "Stub"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"You ___ my fire\", 1999 Backstreet Boys lyric",
+        "ordinal": 7,
+        "reveal": "are"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Complete the sequence: M, __, OOO, PPPP",
+        "ordinal": 8,
+        "reveal": "nn"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"u\",\"s\",\"e\",\"s\"],[\"h\",\"n\",\"g\",\"g\",\"i\"],[\"d\",\"i\",\"S\",\"t\",\"n\"],[\"a\",\"n\",\"n\",\"u\",\"g\"],[\"e\",\"r\",\"b\",\"r\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"],[\"#EE7B8C\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"],[\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        3,
+        1
+      ]
+    },
+    "ordinal": 470,
+    "phrase": "Stunning gingerbread houses",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-06",
+    "id": "04b2b3a7-fe0c-4d87-9eed-a2ad4baffe5f",
+    "dimension": 5
+  }
+]

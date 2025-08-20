@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-26T11:09:53.692178-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Texter's \"just so you know\", perhaps",
+        "ordinal": 1,
+        "reveal": "fyi"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after dead or West",
+        "ordinal": 2,
+        "reveal": "end"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Ardently late, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "tardy"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Texter's \"your\", perhaps",
+        "ordinal": 4,
+        "reveal": "ur"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Dings, dips, or depressions on a car's exterior, say",
+        "ordinal": 5,
+        "reveal": "dents"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "New clothes may have one",
+        "ordinal": 6,
+        "reveal": "Tag"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "____athon: a collaborative coding competition",
+        "ordinal": 7,
+        "reveal": "hack"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"f\",\"d\",\"e\",\"t\"],[\"u\",\"y\",\"g\",\"n\",\"a\"],[\"i\",\"d\",\"T\",\"a\",\"r\"],[\"t\",\"e\",\"h\",\"y\",\"d\"],[\"s\",\"n\",\"a\",\"c\",\"k\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\",\"#A9D594\"],[\"#F5C146\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 363,
+    "phrase": "Tangy dehydrated fruit snack",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-22",
+    "id": "778ebec6-5b2a-4d9e-931e-cdd64a6c9374",
+    "dimension": 5
+  }
+]

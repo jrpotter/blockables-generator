@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-29T08:08:55.165568-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Outermost layer of sushi, sometimes",
+        "ordinal": 1,
+        "reveal": "rice"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Natural logarithm, in mathematical shorthand",
+        "ordinal": 2,
+        "reveal": "ln"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Foreign Economic Administration, abbr.",
+        "ordinal": 3,
+        "reveal": "fea"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Expression of gratitude, to a texter",
+        "ordinal": 4,
+        "reveal": "ty"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word after lily or before Thai",
+        "ordinal": 5,
+        "reveal": "Pad"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "501, to a Roman",
+        "ordinal": 6,
+        "reveal": "di"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Areas of irritated or swollen skin, perhaps caused by poison ivy",
+        "ordinal": 7,
+        "reveal": "rashes"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "___ and outs",
+        "ordinal": 8,
+        "reveal": "ins"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"n\",\"e\",\"i\",\"r\"],[\"l\",\"a\",\"c\",\"s\",\"f\"],[\"y\",\"t\",\"P\",\"e\",\"n\"],[\"d\",\"a\",\"r\",\"i\",\"a\"],[\"i\",\"s\",\"h\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#A1DBE3\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 799,
+    "phrase": "Pescatarian-friendly dishes",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-08-01",
+    "id": "19e7378b-62b3-4f8b-8713-5b6f6dbdead7",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-09T11:10:19-06:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Nickname for one holding a red card, perhaps",
+        "ordinal": 1,
+        "reveal": "rEF"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Expression of adoration, to a texter",
+        "ordinal": 2,
+        "reveal": "iLY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Crime involving deceit with the intention to illegally or unethically gain at the expense of another",
+        "ordinal": 3,
+        "reveal": "fRAUD"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Initials of \"Sweet Caroline\" singer or only tennis player to achieve \"Career Golden Master\" status",
+        "ordinal": 4,
+        "reveal": "nD"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Isle of _____, the largest island in England which sounds like a color",
+        "ordinal": 5,
+        "reveal": "wIGHT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Liver product stored in the gallbladder",
+        "ordinal": 6,
+        "reveal": "BILE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Single-lens reflex, abbr.",
+        "ordinal": 7,
+        "reveal": "sLR"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"r\",\"i\",\"f\",\"d\"],[\"f\",\"y\",\"l\",\"r\",\"n\"],[\"i\",\"w\",\"B\",\"u\",\"a\"],[\"g\",\"i\",\"l\",\"d\",\"l\"],[\"h\",\"t\",\"e\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#B86BAC\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 249,
+    "phrase": "Burly wildland firefighters",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-29",
+    "id": "7d61bf3e-5c1c-45c1-b244-a4089dd9077c",
+    "dimension": 5
+  }
+]

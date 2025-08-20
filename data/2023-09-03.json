@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-03-12T12:55:41.888655-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "A piece of sturdy footwear, perhaps worn by a cowboy",
+        "ordinal": 1,
+        "reveal": "bOOT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Instagram abbr.",
+        "ordinal": 2,
+        "reveal": "iG"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Laugh onomatopoeia, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "hA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "A piece of sturdy headwear, perhaps worn by a cowboy",
+        "ordinal": 4,
+        "reveal": "hAT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Least fake",
+        "ordinal": 5,
+        "reveal": "rEALEST"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "First word in Mulan's \"I'll Make a Man Out of You\" or chorus of Olivia Newton-John's \"Physical\"",
+        "ordinal": 6,
+        "reveal": "lETS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Spanish uncle",
+        "ordinal": 7,
+        "reveal": "tIO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"o\",\"b\",\"i\",\"g\"],[\"t\",\"h\",\"a\",\"t\",\"a\"],[\"e\",\"t\",\"S\",\"h\",\"r\"],[\"l\",\"s\",\"e\",\"o\",\"e\"],[\"t\",\"t\",\"i\",\"l\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#E6B0D1\"],[\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 101,
+    "phrase": "Shoes that are a little too big",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-03",
+    "id": "c81c19e0-4e99-4c16-a384-1cfa85326b09",
+    "dimension": 5
+  }
+]

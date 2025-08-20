@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-18T06:49:50.833697-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Oohs and ___, crowd reaction to fireworks perhaps",
+        "ordinal": 1,
+        "reveal": "ahs"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Letters at the start of a response to your email",
+        "ordinal": 2,
+        "reveal": "re"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Darn!\"",
+        "ordinal": 3,
+        "reveal": "dang"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Abel's brother, biblically",
+        "ordinal": 4,
+        "reveal": "Cain"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "China container?",
+        "ordinal": 5,
+        "reveal": "asia"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Nine Inch Nails, abbr.",
+        "ordinal": 6,
+        "reveal": "nin"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Algeria to Morocco dir.",
+        "ordinal": 7,
+        "reveal": "nw"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before chi or Lopez",
+        "ordinal": 8,
+        "reveal": "Tai"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"h\",\"S\",\"r\",\"e\"],[\"n\",\"d\",\"a\",\"n\",\"g\"],[\"i\",\"i\",\"C\",\"a\",\"n\"],[\"a\",\"a\",\"n\",\"s\",\"i\"],[\"T\",\"w\",\"a\",\"i\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#F3F1A0\",\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A1DBE3\",\"#B86BAC\",\"#A9D594\",\"#EE7B8C\"],[\"#F3F1A0\",\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 756,
+    "phrase": "Canadian singer Shania Twain",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-19",
+    "id": "7aae13f6-d82f-491c-88b8-a81ef35e1dc0",
+    "dimension": 5
+  }
+]

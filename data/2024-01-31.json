@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-08-11T08:49:46.463023-06:00",
+    "category": "Artist and Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Delightedly silly and gleeful, the letters of which can be found in the first word of this clue",
+        "ordinal": 1,
+        "reveal": "gIDDY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Initials of \"Wizards of Waverly Place\" star or Chris's voice actor on \"Family Guy\"",
+        "ordinal": 2,
+        "reveal": "SG"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Visualization, for short",
+        "ordinal": 3,
+        "reveal": "vIZ"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Circular, hack, and band",
+        "ordinal": 4,
+        "reveal": "sAWS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Dad ___",
+        "ordinal": 5,
+        "reveal": "BOD"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "One of an estimated two million in New York City, according to a 2014 study",
+        "ordinal": 6,
+        "reveal": "rAT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "User interface, abbr.",
+        "ordinal": 7,
+        "reveal": "uI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Tasseography beverage",
+        "ordinal": 8,
+        "reveal": "tEA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"g\",\"g\",\"i\",\"Z\"],[\"S\",\"d\",\"i\",\"v\",\"s\"],[\"t\",\"B\",\"D\",\"a\",\"a\"],[\"a\",\"o\",\"w\",\"i\",\"e\"],[\"r\",\"d\",\"u\",\"s\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#F5C146\"],[\"#A1DBE3\",\"#A9D594\",\"#7C93CB\",\"#F5C146\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 251,
+    "phrase": "David Bowie as Ziggy Stardust",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-31",
+    "id": "dab001ca-64e0-4361-9f44-c08cadb88e7f",
+    "dimension": 5
+  }
+]

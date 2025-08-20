@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-08-20T09:54:36.146221-06:00",
+    "category": "Living Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Bug, annoy, or otherwise irritate someone",
+        "ordinal": 1,
+        "reveal": "nAG"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Spanish \"yes\"",
+        "ordinal": 2,
+        "reveal": "sI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "____lord, building owner who overcharges tenants and allows the property to deteriorate",
+        "ordinal": 3,
+        "reveal": "sLUM"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Solar opposite",
+        "ordinal": 4,
+        "reveal": "lUNAR"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Fish eggs",
+        "ordinal": 5,
+        "reveal": "rOE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Number found in the best selling truck of all time, to a Roman",
+        "ordinal": 6,
+        "reveal": "cL"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Persona on Nintendo's Wii gaming system, whose name is a homophone of \"me\"",
+        "ordinal": 7,
+        "reveal": "mII"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Tolkien bad guy",
+        "ordinal": 8,
+        "reveal": "oRC"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"s\",\"m\",\"s\"],[\"a\",\"l\",\"u\",\"l\",\"a\"],[\"g\",\"l\",\"U\",\"n\",\"r\"],[\"r\",\"e\",\"c\",\"i\",\"m\"],[\"o\",\"o\",\"r\",\"c\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 266,
+    "phrase": "Unicellular microorganisms",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-15",
+    "id": "701dcb0b-2f9d-4015-be57-d8a192e14ee4",
+    "dimension": 5
+  }
+]

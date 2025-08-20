@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T19:13:06.534126+0000",
+        "category": "Film & TV",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Significant other, in text speak",
+                "ordinal": 1,
+                "reveal": "GF"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Metal that's often plated or canned",
+                "ordinal": 2,
+                "reveal": "TIN"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Second note on the scale",
+                "ordinal": 3,
+                "reveal": "RE"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Infection that's a pain in the bladder, initially",
+                "ordinal": 4,
+                "reveal": "UTI"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Christmas, in brief",
+                "ordinal": 5,
+                "reveal": "MAS"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Pollute or march in single file",
+                "ordinal": 6,
+                "reveal": "DEFILE"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Measurement that can be described as going to great _____",
+                "ordinal": 7,
+                "reveal": "LENGTH"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"F\", \"I\", \"L\", \"M\", \"S\"], [\"H\", \"G\", \"F\", \"E\", \"A\"], [\"T\", \"N\", \"E\", \"D\", \"T\"], [\"G\", \"I\", \"T\", \"I\", \"U\"], [\"N\", \"E\", \"L\", \"E\", \"R\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\"], [\"#F3F1A0\", \"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\"], [\"#F3F1A0\", \"#B86BAC\", \"#EE7B8C\", \"#EE7B8C\", \"#E6B0D1\"], [\"#F3F1A0\", \"#B86BAC\", \"#B86BAC\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\", \"#F5C146\", \"#F5C146\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                1
+            ],
+            "2": [
+                3,
+                2
+            ],
+            "3": [
+                4,
+                4
+            ],
+            "4": [
+                3,
+                4
+            ],
+            "5": [
+                0,
+                3
+            ],
+            "6": [
+                2,
+                3
+            ],
+            "7": [
+                4,
+                2
+            ]
+        },
+        "phrase": "Editing feature length films",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

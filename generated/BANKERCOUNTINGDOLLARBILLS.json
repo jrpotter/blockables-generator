@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:12:56.914575+0000",
+        "category": "Person",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Dept. of Labor, briefly",
+                "ordinal": 1,
+                "reveal": "DOL"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Metric ton, for short",
+                "ordinal": 2,
+                "reveal": "KG"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Unit named for Alexander Graham",
+                "ordinal": 3,
+                "reveal": "BEL"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Dear, in Italian",
+                "ordinal": 4,
+                "reveal": "CARO"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "___ Domini (in the year of our Lord)",
+                "ordinal": 5,
+                "reveal": "ANNI"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "\"Esse, ergo cogito\" preceder",
+                "ordinal": 6,
+                "reveal": "SUNT"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Not feeling well, or like Drake's latest album",
+                "ordinal": 7,
+                "reveal": "ILL"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Running back, for short",
+                "ordinal": 8,
+                "reveal": "RB"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"L\", \"O\", \"D\", \"G\", \"N\"], [\"L\", \"E\", \"K\", \"N\", \"I\"], [\"A\", \"R\", \"B\", \"A\", \"T\"], [\"R\", \"C\", \"O\", \"U\", \"N\"], [\"B\", \"I\", \"L\", \"L\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#EE7B8C\", \"#F5C146\", \"#F5C146\"], [\"#F3F1A0\", \"#F3F1A0\", \"#B86BAC\", \"#F5C146\", \"#A9D594\"], [\"#A1DBE3\", \"#F3F1A0\", \"#F3F1A0\", \"#A9D594\", \"#A9D594\"], [\"#A1DBE3\", \"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                2
+            ],
+            "2": [
+                1,
+                2
+            ],
+            "3": [
+                2,
+                2
+            ],
+            "4": [
+                3,
+                1
+            ],
+            "5": [
+                2,
+                3
+            ],
+            "6": [
+                4,
+                4
+            ],
+            "7": [
+                4,
+                1
+            ],
+            "8": [
+                3,
+                0
+            ]
+        },
+        "phrase": "Banker counting dollar bills",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

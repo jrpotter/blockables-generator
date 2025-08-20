@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-17T08:56:47.510041-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Click's partner, in a mouse-based computer action",
+        "ordinal": 1,
+        "reveal": "dRAG"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"___ in Black\", 1997 Will Smith and Tommy Lee Jones sci-fi film",
+        "ordinal": 2,
+        "reveal": "mEN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Search engine with a chatbot named Sydney",
+        "ordinal": 3,
+        "reveal": "bING"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Spirit derived from juniper berries",
+        "ordinal": 4,
+        "reveal": "GIN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Brainy writer-director Johnson, creator of the Benoit Blanc series, the letters of whom can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "rIAN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Populated area bigger than a village but smaller than a city",
+        "ordinal": 6,
+        "reveal": "tOWN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "2021 Grammy awardee for Song of the Year for \"I Can't Breathe\"",
+        "ordinal": 7,
+        "reveal": "hER"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"r\",\"d\",\"e\",\"n\"],[\"g\",\"g\",\"m\",\"i\",\"n\"],[\"b\",\"n\",\"G\",\"r\",\"t\"],[\"r\",\"i\",\"w\",\"o\",\"i\"],[\"e\",\"h\",\"n\",\"a\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#A1DBE3\",\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\"],[\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 137,
+    "phrase": "Growing mint in an herb garden",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-09",
+    "id": "1d43eddf-df7f-4358-999d-40afe5121ad9",
+    "dimension": 5
+  }
+]

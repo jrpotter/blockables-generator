@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-03-20T11:36:07.971422-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Last word in many hotel names",
+        "ordinal": 1,
+        "reveal": "iNN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Dorm overseer, abbr.",
+        "ordinal": 2,
+        "reveal": "rA"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Having or emitting a clear resonant sound, such as bells (or an annoying cellphone during a movie)",
+        "ordinal": 3,
+        "reveal": "rINGING"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Potential nickname for US president Coolidge or fashion designer Klein",
+        "ordinal": 4,
+        "reveal": "cAL"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fish limbs used for mobility, one of which is the dorsal",
+        "ordinal": 5,
+        "reveal": "fINS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Russia's capital",
+        "ordinal": 6,
+        "reveal": "mOSCOW"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"w\",\"r\",\"a\"],[\"n\",\"i\",\"r\",\"o\",\"c\"],[\"i\",\"n\",\"S\",\"c\",\"s\"],[\"n\",\"g\",\"a\",\"n\",\"O\"],[\"g\",\"f\",\"i\",\"l\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#EE7B8C\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#F3F1A0\",\"#B86BAC\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 107,
+    "phrase": "Scoring an Oscar winning film",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-09",
+    "id": "946b88b7-595d-4610-a140-3dbcd80f6ffb",
+    "dimension": 5
+  }
+]

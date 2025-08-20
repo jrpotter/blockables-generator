@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-02-03T12:28:16.365499-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Lose hair unwillingly, as a hairy dog might",
+        "ordinal": 1,
+        "reveal": "shed"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Keep You Posted, abbr.",
+        "ordinal": 2,
+        "reveal": "kyp"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Prefix meaning \"bad\", perhaps found before \"nourished\" or \"practice\"",
+        "ordinal": 3,
+        "reveal": "mal"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Cat or snake sound",
+        "ordinal": 4,
+        "reveal": "hiss"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Ketchup ingredients",
+        "ordinal": 5,
+        "reveal": "tomatoes"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Oh, you're ___ much!\"",
+        "ordinal": 6,
+        "reveal": "too"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"e\",\"h\",\"s\",\"a\"],[\"p\",\"y\",\"k\",\"l\",\"m\"],[\"o\",\"s\",\"S\",\"i\",\"h\"],[\"t\",\"m\",\"o\",\"o\",\"t\"],[\"a\",\"t\",\"o\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 429,
+    "phrase": "Silky smooth mashed potatoes",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-27",
+    "id": "8726b546-ef1a-49ff-b53c-e994a70a2dcf",
+    "dimension": 5
+  }
+]

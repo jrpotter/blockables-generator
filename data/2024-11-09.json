@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-02T07:12:07.520767-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Pickle",
+        "ordinal": 1,
+        "reveal": "bind"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Tinny, perhaps as a voice suffering from Clue #3's answer",
+        "ordinal": 2,
+        "reveal": "nasal"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Common ____",
+        "ordinal": 3,
+        "reveal": "cold"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Characteristic of a certain storybook duckling",
+        "ordinal": 4,
+        "reveal": "ugly"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Tombstone acronym",
+        "ordinal": 5,
+        "reveal": "rip"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "RuneScape, abbr.",
+        "ordinal": 6,
+        "reveal": "rs"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"All we hear is radio ___ ___, radio ga ga\", 1984 Queen lyric",
+        "ordinal": 7,
+        "reveal": "goo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"b\",\"a\",\"n\",\"d\"],[\"a\",\"s\",\"i\",\"n\",\"g\"],[\"c\",\"i\",\"S\",\"u\",\"l\"],[\"o\",\"r\",\"p\",\"r\",\"y\"],[\"l\",\"d\",\"o\",\"o\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#B86BAC\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 534,
+    "phrase": "Surprisingly good local band",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-09",
+    "id": "022faf9c-9df1-4f74-99e4-58a4d430d145",
+    "dimension": 5
+  }
+]

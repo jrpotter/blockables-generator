@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-01-28T07:52:27.996751-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Word after Oedipus or Tyrannosaurus",
+        "ordinal": 1,
+        "reveal": "rex"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Shakespearean king, which sounds like an impolite look?",
+        "ordinal": 2,
+        "reveal": "lear"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Popular Baja California resort town",
+        "ordinal": 3,
+        "reveal": "cabo"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\u201cTrinkets, odds and ____, that sort of thing.\u201d, quote from Skyrim",
+        "ordinal": 4,
+        "reveal": "ends"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Anaerobic Treatment Technology, abbr.",
+        "ordinal": 5,
+        "reveal": "att"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "1980 horror film set in a hotel, with \"The\"",
+        "ordinal": 6,
+        "reveal": "shining"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"b\",\"o\",\"x\",\"e\",\"r\"],[\"a\",\"l\",\"e\",\"a\",\"r\"],[\"s\",\"c\",\"I\",\"n\",\"i\"],[\"d\",\"e\",\"h\",\"t\",\"n\"],[\"n\",\"a\",\"t\",\"s\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 427,
+    "phrase": "\"In the clearing stands a boxer...\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-25",
+    "id": "0b25d17b-ac8b-4f68-83d6-5515d07bcaf1",
+    "dimension": 5
+  }
+]

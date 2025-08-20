@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-21T08:42:20.459293-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Texter's \"your\"",
+        "ordinal": 1,
+        "reveal": "ur"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "_____ Boingo, rhyming 1979 new wave band",
+        "ordinal": 2,
+        "reveal": "oingo"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Bible's \"your\"",
+        "ordinal": 3,
+        "reveal": "thy"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Titular weekday in a 2011 Rebecca Black hit, for short",
+        "ordinal": 4,
+        "reveal": "fri"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Seuss' cat may be in one",
+        "ordinal": 5,
+        "reveal": "Hat"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word after chicken or West",
+        "ordinal": 6,
+        "reveal": "wING"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Uranium's chemical symbol",
+        "ordinal": 7,
+        "reveal": "u"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "They justify the means, according to Niccol\u00f2 Machiavelli",
+        "ordinal": 8,
+        "reveal": "ends"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"o\",\"y\",\"h\",\"t\"],[\"r\",\"i\",\"g\",\"n\",\"i\"],[\"f\",\"n\",\"H\",\"a\",\"w\"],[\"r\",\"g\",\"o\",\"u\",\"t\"],[\"i\",\"e\",\"n\",\"d\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#B86BAC\"],[\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 791,
+    "phrase": "Hanging out with your friends",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-24",
+    "id": "6f7e9499-1696-4ddb-973b-08786012e210",
+    "dimension": 5
+  }
+]

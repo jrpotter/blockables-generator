@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-12-11T11:01:06.730275-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "American writer Edgar Allan",
+        "ordinal": 1,
+        "reveal": "pOE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Released from your hand, as a baseball",
+        "ordinal": 2,
+        "reveal": "tHREW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Spirit derived from juniper",
+        "ordinal": 3,
+        "reveal": "GIN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Stock ticker symbol which famously rallied 3,000% in Jan. 2021",
+        "ordinal": 4,
+        "reveal": "gME"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word spoken by a band of knights in \"Monty Python and the Holy Grail\"",
+        "ordinal": 5,
+        "reveal": "nI"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "El Ni\u00f1o and La ____",
+        "ordinal": 6,
+        "reveal": "nINA"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Saint abbr.",
+        "ordinal": 7,
+        "reveal": "sT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not cold",
+        "ordinal": 8,
+        "reveal": "hOT"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"e\",\"e\",\"r\",\"h\"],[\"o\",\"w\",\"e\",\"m\",\"t\"],[\"i\",\"i\",\"G\",\"a\",\"g\"],[\"n\",\"n\",\"n\",\"i\",\"n\"],[\"t\",\"s\",\"h\",\"o\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#E6B0D1\"],[\"#F5C146\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 8,
+    "phrase": "Game-winning three point shot",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-02",
+    "id": "b9cb78d5-b38e-41c0-a424-17addc71a81d",
+    "dimension": 5
+  }
+]

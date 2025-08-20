@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-20T09:01:13.093691-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Like a baby's position in the womb",
+        "ordinal": 1,
+        "reveal": "fetal"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"The Last of __\", 2023 television series starring Pedro Pascal",
+        "ordinal": 2,
+        "reveal": "us"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before whiz or willikers",
+        "ordinal": 3,
+        "reveal": "gee"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "____-a-Sketch, a children's toy",
+        "ordinal": 4,
+        "reveal": "etch"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Question asked by a texter, perhaps",
+        "ordinal": 5,
+        "reveal": "y"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Google's video generation model, the letters of which can be found in this clue's second word",
+        "ordinal": 6,
+        "reveal": "veo"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Check that out!\" in medieval times",
+        "ordinal": 7,
+        "reveal": "lo"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before control or pleaser",
+        "ordinal": 8,
+        "reveal": "crowd"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"f\",\"u\",\"d\",\"g\",\"e\"],[\"e\",\"s\",\"w\",\"e\",\"e\"],[\"t\",\"y\",\"O\",\"v\",\"t\"],[\"a\",\"l\",\"r\",\"e\",\"c\"],[\"l\",\"o\",\"c\",\"o\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\"],[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\"],[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        3
+      ],
+      "7": [
+        3,
+        1
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 584,
+    "phrase": "Overly sweet chocolate fudge",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-29",
+    "id": "e55b2fb2-5209-4798-a600-e7560f29e71d",
+    "dimension": 5
+  }
+]

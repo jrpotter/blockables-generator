@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-03T11:28:30.024999-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Position yourself for a photo",
+        "ordinal": 1,
+        "reveal": "pose"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Helium's chemical symbol",
+        "ordinal": 2,
+        "reveal": "he"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Bolo and ascot, for two",
+        "ordinal": 3,
+        "reveal": "ties"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after naughty or nice",
+        "ordinal": 4,
+        "reveal": "list"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Lord Howe Island, abbr.",
+        "ordinal": 5,
+        "reveal": "lhi"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "2,000 pounds",
+        "ordinal": 6,
+        "reveal": "ton"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Animation studio which made \"Toy Story\" (1995) and \"The Incredibles\" (2004)",
+        "ordinal": 7,
+        "reveal": "pixar"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"p\",\"h\",\"e\",\"r\"],[\"s\",\"n\",\"t\",\"i\",\"a\"],[\"o\",\"e\",\"E\",\"x\",\"l\"],[\"l\",\"t\",\"s\",\"i\",\"i\"],[\"i\",\"h\",\"p\",\"t\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"],[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#A9D594\",\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 457,
+    "phrase": "Existentialist philosopher",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-24",
+    "id": "dcd4262b-a7f7-4cdc-9853-e45c8b6c70d1",
+    "dimension": 5
+  }
+]

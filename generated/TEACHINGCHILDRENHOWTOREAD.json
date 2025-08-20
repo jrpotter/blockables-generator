@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:00:44.162282+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Exclamation that might precede \"my!\"",
+                "ordinal": 1,
+                "reveal": "OH"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Sharp humor or cleverness",
+                "ordinal": 2,
+                "reveal": "WIT"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Nevada's \"Biggest Little City\"",
+                "ordinal": 3,
+                "reveal": "RENO"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Owned, as in \"I ___ a car\"",
+                "ordinal": 4,
+                "reveal": "HAD"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Not of the cloth",
+                "ordinal": 5,
+                "reveal": "LAIC"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Soak thoroughly, or what a downpour might do",
+                "ordinal": 6,
+                "reveal": "DRENCH"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Obtain or understand",
+                "ordinal": 7,
+                "reveal": "GET"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"H\", \"N\", \"E\", \"R\", \"D\"], [\"O\", \"H\", \"C\", \"A\", \"L\"], [\"W\", \"I\", \"T\", \"E\", \"I\"], [\"T\", \"N\", \"G\", \"C\", \"H\"], [\"O\", \"R\", \"E\", \"A\", \"D\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#E6B0D1\", \"#E6B0D1\"], [\"#EE7B8C\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\", \"#E6B0D1\"], [\"#EE7B8C\", \"#B86BAC\", \"#A9D594\", \"#E6B0D1\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#B86BAC\", \"#F5C146\", \"#F5C146\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                2,
+                0
+            ],
+            "3": [
+                4,
+                1
+            ],
+            "4": [
+                3,
+                4
+            ],
+            "5": [
+                1,
+                4
+            ],
+            "6": [
+                0,
+                4
+            ],
+            "7": [
+                3,
+                2
+            ]
+        },
+        "phrase": "Teaching children how to read",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

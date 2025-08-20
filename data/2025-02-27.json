@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2025-02-24T20:06:49.804443-07:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Bass and treble, for two",
+        "ordinal": 1,
+        "reveal": "clefs"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Out of _____, out of mind.\"",
+        "ordinal": 2,
+        "reveal": "sight"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Nude",
+        "ordinal": 3,
+        "reveal": "bare"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Windows Substation for Linux, abbr.",
+        "ordinal": 4,
+        "reveal": "wsl"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "One of many on a tree stump, perhaps",
+        "ordinal": 5,
+        "reveal": "ring"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Thick Japanese soup noodle",
+        "ordinal": 6,
+        "reveal": "udon"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"c\",\"e\",\"s\",\"s\"],[\"r\",\"l\",\"l\",\"f\",\"i\"],[\"g\",\"a\",\"S\",\"n\",\"g\"],[\"n\",\"b\",\"w\",\"o\",\"h\"],[\"i\",\"r\",\"u\",\"d\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#EE7B8C\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#A9D594\",\"#B86BAC\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#A9D594\",\"#B86BAC\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        3,
+        1
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 644,
+    "phrase": "Snowball fight during recess",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-27",
+    "id": "d053b36e-b5d6-467b-bc3c-e12b72fd5f0f",
+    "dimension": 5
+  }
+]

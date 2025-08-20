@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:54:13.383437+0000",
+        "category": "Living Thing",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Choose to pick",
+                "ordinal": 1,
+                "reveal": "OPT"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Where to go when you're feeling unwell, briefly",
+                "ordinal": 2,
+                "reveal": "ER"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "French word before \"vive le roi!\"",
+                "ordinal": 3,
+                "reveal": "QUI"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Rocky outcrop that might make climbers crabby?",
+                "ordinal": 4,
+                "reveal": "CRAG"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Very long time, or extremely short time backwards",
+                "ordinal": 5,
+                "reveal": "EON"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Grain, in Italian cooking",
+                "ordinal": 6,
+                "reveal": "GRANO"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Loud commotion or racket",
+                "ordinal": 7,
+                "reveal": "DIN"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Potassium fluoride, to a chemist",
+                "ordinal": 8,
+                "reveal": "KF"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"T\", \"P\", \"O\", \"N\", \"D\"], [\"E\", \"O\", \"A\", \"K\", \"I\"], [\"I\", \"R\", \"F\", \"R\", \"N\"], [\"U\", \"C\", \"G\", \"O\", \"G\"], [\"Q\", \"R\", \"A\", \"E\", \"N\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\"], [\"#E6B0D1\", \"#7C93CB\", \"#EE7B8C\", \"#A1DBE3\", \"#F3F1A0\"], [\"#F5C146\", \"#E6B0D1\", \"#A1DBE3\", \"#EE7B8C\", \"#F3F1A0\"], [\"#F5C146\", \"#B86BAC\", \"#B86BAC\", \"#A9D594\", \"#EE7B8C\"], [\"#F5C146\", \"#B86BAC\", \"#B86BAC\", \"#A9D594\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                1
+            ],
+            "2": [
+                1,
+                0
+            ],
+            "3": [
+                4,
+                0
+            ],
+            "4": [
+                3,
+                1
+            ],
+            "5": [
+                4,
+                3
+            ],
+            "6": [
+                3,
+                4
+            ],
+            "7": [
+                0,
+                4
+            ],
+            "8": [
+                1,
+                3
+            ]
+        },
+        "phrase": "Frog croaking near quiet pond",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-05-25T10:27:16.335085-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Big ____",
+        "ordinal": 1,
+        "reveal": "tech"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"____ Ado About Nothing\", Shakespeare play",
+        "ordinal": 2,
+        "reveal": "much"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Guitar speaker",
+        "ordinal": 3,
+        "reveal": "amp"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Fish in a bowl?",
+        "ordinal": 4,
+        "reveal": "Poke"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "World capital home to Hoan Kiem Lake",
+        "ordinal": 5,
+        "reveal": "hanoi"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Monastery dweller",
+        "ordinal": 6,
+        "reveal": "monk"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Sulfur's chemical symbol",
+        "ordinal": 7,
+        "reveal": "s"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"c\",\"h\",\"u\",\"m\"],[\"e\",\"n\",\"c\",\"h\",\"a\"],[\"K\",\"o\",\"P\",\"o\",\"m\"],[\"h\",\"m\",\"e\",\"k\",\"p\"],[\"s\",\"A\",\"n\",\"o\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"],[\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 737,
+    "phrase": "Pokemon champion Ash Ketchum",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-31",
+    "id": "69bce4eb-2fd2-459e-842e-35cbb33eca87",
+    "dimension": 5
+  }
+]

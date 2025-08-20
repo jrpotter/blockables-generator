@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-15T21:07:55.835621-07:00",
+    "category": "Articles of Clothing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before peace or tube",
+        "ordinal": 1,
+        "reveal": "inner"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Potential nickname of comedian Murphy or vampire Cullen",
+        "ordinal": 2,
+        "reveal": "ed"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Potential nickname of actor Dean or paper salesperson Halpert",
+        "ordinal": 3,
+        "reveal": "jim"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Pal",
+        "ordinal": 4,
+        "reveal": "bud"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Dessert made from chocolate or carrots... but not actual red velvet",
+        "ordinal": 5,
+        "reveal": "cake"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Tension-Type Headache, abbr.",
+        "ordinal": 6,
+        "reveal": "tth"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Band suspended from the neck to support an injured arm",
+        "ordinal": 7,
+        "reveal": "sling"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"n\",\"n\",\"i\",\"d\"],[\"r\",\"i\",\"n\",\"d\",\"e\"],[\"j\",\"g\",\"M\",\"i\",\"u\"],[\"a\",\"h\",\"t\",\"b\",\"l\"],[\"c\",\"k\",\"e\",\"t\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\"],[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\"],[\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        3
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 442,
+    "phrase": "Midnight blue dinner jackets",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-09",
+    "id": "9dc08571-7129-4a1e-93e8-475e2dc7262b",
+    "dimension": 5
+  }
+]

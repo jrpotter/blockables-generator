@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-03T11:19:55.419604-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Onomatopoeia associated with draining a three-pointer",
+        "ordinal": 1,
+        "reveal": "swish"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Breathing loudly while sleeping",
+        "ordinal": 2,
+        "reveal": "snoring"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Debt Relief Order, abbr.",
+        "ordinal": 3,
+        "reveal": "dro"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Onomatopoeia associated with cracking open a cold one",
+        "ordinal": 4,
+        "reveal": "Fizz"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Sacramento's US state",
+        "ordinal": 5,
+        "reveal": "ca"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "One __",
+        "ordinal": 6,
+        "reveal": "up"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Masculine article in Spanish",
+        "ordinal": 7,
+        "reveal": "el"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"w\",\"s\",\"s\",\"o\"],[\"r\",\"s\",\"i\",\"n\",\"r\"],[\"d\",\"h\",\"F\",\"i\",\"c\"],[\"p\",\"i\",\"n\",\"g\",\"a\"],[\"u\",\"z\",\"z\",\"l\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 461,
+    "phrase": "Finishing a crossword puzzle",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-28",
+    "id": "9ec50287-dfab-48d2-bed7-9307d8a06a1d",
+    "dimension": 5
+  }
+]

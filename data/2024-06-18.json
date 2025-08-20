@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-17T13:26:40.173679-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Partially melt",
+        "ordinal": 1,
+        "reveal": "thaw"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Boise's state's abbreviation",
+        "ordinal": 2,
+        "reveal": "id"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Squeeze and twist, as a neck, damp cloth, or worried hands",
+        "ordinal": 3,
+        "reveal": "wring"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Mooing milk maker",
+        "ordinal": 4,
+        "reveal": "cow"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Financier, or someone who bets on horses",
+        "ordinal": 5,
+        "reveal": "Backer"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Quick greeting",
+        "ordinal": 6,
+        "reveal": "hi"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Decay",
+        "ordinal": 7,
+        "reveal": "rot"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"h\",\"t\",\"i\",\"w\"],[\"c\",\"w\",\"d\",\"r\",\"g\"],[\"o\",\"a\",\"B\",\"i\",\"n\"],[\"w\",\"t\",\"c\",\"h\",\"i\"],[\"o\",\"r\",\"k\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\"],[\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 390,
+    "phrase": "Birdwatching with a coworker",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-18",
+    "id": "7cdbbd93-72a5-4eaa-a377-c686e1322205",
+    "dimension": 5
+  }
+]

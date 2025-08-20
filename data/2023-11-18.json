@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-05-28T08:25:27.701697-06:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "What a bartender or a bouncer may request to see, for short",
+        "ordinal": 1,
+        "reveal": "iD"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"___ the world's a stage\", from Shakespeare's \"As You Like It\"",
+        "ordinal": 2,
+        "reveal": "aLL"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Turned around quickly",
+        "ordinal": 3,
+        "reveal": "sPUN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "UNESCO Creative Cities Network, abbr.",
+        "ordinal": 4,
+        "reveal": "uCCN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "French \"me\"",
+        "ordinal": 5,
+        "reveal": "mOI"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Baby's absorbent underwear",
+        "ordinal": 6,
+        "reveal": "dIAPER"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Retail store specializing in outdoors equipment, the letters of which can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "rEI"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"n\",\"i\",\"l\",\"l\"],[\"i\",\"c\",\"c\",\"o\",\"a\"],[\"s\",\"u\",\"U\",\"n\",\"m\"],[\"r\",\"p\",\"i\",\"e\",\"d\"],[\"e\",\"p\",\"a\",\"i\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\"],[\"#F5C146\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#B86BAC\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 177,
+    "phrase": "Unoccupied mall in disrepair",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-18",
+    "id": "631ad956-46a8-4695-a865-e74cf7e87fb6",
+    "dimension": 5
+  }
+]

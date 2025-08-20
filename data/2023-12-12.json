@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-06-20T15:30:30-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Like some ice and some dice",
+        "ordinal": 1,
+        "reveal": "cUBIC"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letters of Albert Einstein's theory of special relativity, in order",
+        "ordinal": 2,
+        "reveal": "eMC"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Author Fleming or actor McKellen",
+        "ordinal": 3,
+        "reveal": "iAN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"Same __ it ever was\", 1981 Talking Heads lyric, repeated ",
+        "ordinal": 4,
+        "reveal": "aS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "It may be shining, in a fairytale",
+        "ordinal": 5,
+        "reveal": "ARMOR"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before drive or after screen",
+        "ordinal": 6,
+        "reveal": "tEST"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Adam's partner in the Garden of Eden",
+        "ordinal": 7,
+        "reveal": "eVE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"c\",\"e\",\"m\",\"i\"],[\"u\",\"a\",\"n\",\"a\",\"c\"],[\"B\",\"c\",\"A\",\"m\",\"t\"],[\"e\",\"i\",\"r\",\"e\",\"o\"],[\"v\",\"e\",\"t\",\"S\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#B86BAC\"],[\"#EE7B8C\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#A1DBE3\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        0
+      ]
+    },
+    "ordinal": 201,
+    "phrase": "American actor Steve Buscemi",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-12",
+    "id": "0d5bff43-56b3-44d5-a5f8-0f1cdb45b06e",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-04-16T21:06:57.256261-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Subject pronoun of you and me together",
+        "ordinal": 1,
+        "reveal": "wE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "How a baby may refer to their father",
+        "ordinal": 2,
+        "reveal": "dADA"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "The loneliest number, according to Harry Nilsson",
+        "ordinal": 3,
+        "reveal": "oNE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sneaky, stealthy, and scheming",
+        "ordinal": 4,
+        "reveal": "sLY"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Milwaukee's state abbreviation, the letters of which can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "wI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Jabba was one",
+        "ordinal": 6,
+        "reveal": "hUTT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "International Hydrographic Organization, abbr.",
+        "ordinal": 7,
+        "reveal": "iHO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Surf's rhyming partner, in a seafood and red meat dish",
+        "ordinal": 8,
+        "reveal": "tURF"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"y\",\"d\",\"e\",\"w\"],[\"n\",\"a\",\"l\",\"a\",\"d\"],[\"o\",\"s\",\"F\",\"r\",\"w\"],[\"h\",\"t\",\"i\",\"u\",\"i\"],[\"t\",\"u\",\"o\",\"h\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\"],[\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\"],[\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 134,
+    "phrase": "Fruit salad without honeydew",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-06",
+    "id": "6b30991b-a013-4fe8-8167-cf2039fec7e8",
+    "dimension": 5
+  }
+]

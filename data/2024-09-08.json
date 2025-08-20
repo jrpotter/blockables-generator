@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-03-17T11:24:44.181809-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"____ and bear it\"",
+        "ordinal": 1,
+        "reveal": "grin"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Attila was one",
+        "ordinal": 2,
+        "reveal": "Hun"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Middle name of Billy Cyrus or Stevie Vaughan",
+        "ordinal": 3,
+        "reveal": "ray"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Popular Vietnamese soup dish",
+        "ordinal": 4,
+        "reveal": "Pho"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Place to shoot from?",
+        "ordinal": 5,
+        "reveal": "Hip"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Not pretty, as a specific duckling",
+        "ordinal": 6,
+        "reveal": "ugly"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Post-Graduate Year, abbr.",
+        "ordinal": 7,
+        "reveal": "pgy"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Chemical symbol of tin",
+        "ordinal": 8,
+        "reveal": "sn"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"n\",\"u\",\"H\",\"y\"],[\"r\",\"i\",\"y\",\"a\",\"r\"],[\"y\",\"n\",\"P\",\"l\",\"g\"],[\"H\",\"g\",\"H\",\"u\",\"n\"],[\"i\",\"p\",\"p\",\"o\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 472,
+    "phrase": "Playing Hungry Hungry Hippos",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-08",
+    "id": "6e33a524-b834-48a1-aaa6-ce08481dc081",
+    "dimension": 5
+  }
+]

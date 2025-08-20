@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-01-01T07:38:09.303612-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"___ Back\", 1969 Beatles hit",
+        "ordinal": 1,
+        "reveal": "get"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Negroni spirit, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "gin"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"___ ___ ga ga\", a popular baby quote",
+        "ordinal": 3,
+        "reveal": "goo"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Smart urban rail transit, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "Tram"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Local Area Network, abbr.",
+        "ordinal": 5,
+        "reveal": "lan"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "British honorific title held by Judy Dench and Julie Andrews",
+        "ordinal": 6,
+        "reveal": "dame"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Game cube?",
+        "ordinal": 7,
+        "reveal": "die"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Triple it for Santa's laugh",
+        "ordinal": 8,
+        "reveal": "ho"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"g\",\"n\",\"o\",\"g\"],[\"e\",\"i\",\"o\",\"n\",\"a\"],[\"e\",\"t\",\"T\",\"r\",\"l\"],[\"d\",\"i\",\"d\",\"a\",\"h\"],[\"a\",\"m\",\"e\",\"m\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F5C146\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 400,
+    "phrase": "Traditional homemade eggnog",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-28",
+    "id": "3b4d4662-22b5-48d3-8a52-eaa9476b2797",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:55:12.897530+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "\"___ it to win it\"",
+                "ordinal": 1,
+                "reveal": "IN"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Part of a bird or a building",
+                "ordinal": 2,
+                "reveal": "WING"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Greek letter that sounds like a long sigh",
+                "ordinal": 3,
+                "reveal": "CHI"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Worry on the guitar neck",
+                "ordinal": 4,
+                "reveal": "FRET"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "One who courts, or goes after does",
+                "ordinal": 5,
+                "reveal": "WOOER"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Group of whales, or a Keurig insert",
+                "ordinal": 6,
+                "reveal": "POD"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Academic bigwig, informally",
+                "ordinal": 7,
+                "reveal": "PROF"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"I\", \"N\", \"T\", \"E\", \"R\"], [\"W\", \"N\", \"G\", \"F\", \"I\"], [\"R\", \"I\", \"C\", \"H\", \"R\"], [\"O\", \"P\", \"P\", \"O\", \"E\"], [\"F\", \"D\", \"O\", \"O\", \"W\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#B86BAC\"], [\"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\", \"#B86BAC\", \"#A9D594\"], [\"#F3F1A0\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\", \"#E6B0D1\"], [\"#F3F1A0\", \"#F3F1A0\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F3F1A0\", \"#F5C146\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                1,
+                0
+            ],
+            "3": [
+                2,
+                2
+            ],
+            "4": [
+                1,
+                3
+            ],
+            "5": [
+                4,
+                4
+            ],
+            "6": [
+                3,
+                2
+            ],
+            "7": [
+                3,
+                1
+            ]
+        },
+        "phrase": "Chopping firewood for winter",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

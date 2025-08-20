@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-01-22T09:52:54.459752-07:00",
+    "category": "Famous Quote",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "The last day of the year, abbr.",
+        "ordinal": 1,
+        "reveal": "nYE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Barbie's boy",
+        "ordinal": 2,
+        "reveal": "KEN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"One Way __ Another\", 1978 Blondie hit",
+        "ordinal": 3,
+        "reveal": "oR"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word before sauce (in China, perhaps) or after yo (in Spain, perhaps)",
+        "ordinal": 4,
+        "reveal": "SOY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Impolite",
+        "ordinal": 5,
+        "reveal": "rUDE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Fastener, perhaps made of brass",
+        "ordinal": 6,
+        "reveal": "tACK"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Actress Fonda or primatologist Goodall",
+        "ordinal": 7,
+        "reveal": "JANE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"__ Golden Pond\", 1981 film starring the actress mentioned in Clue #7",
+        "ordinal": 8,
+        "reveal": "oN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"n\",\"e\",\"d\",\"y\"],[\"e\",\"r\",\"y\",\"o\",\"u\"],[\"K\",\"o\",\"S\",\"e\",\"r\"],[\"k\",\"t\",\"a\",\"n\",\"e\"],[\"c\",\"a\",\"J\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#A9D594\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\"],[\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\"],[\"#A9D594\",\"#F5C146\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 53,
+    "phrase": "\"Senator, you're no Jack Kennedy\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-17",
+    "id": "57d1ee33-a5dd-4bc9-81ef-dc3967f9ad85",
+    "dimension": 5
+  }
+]

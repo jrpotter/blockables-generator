@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-08-13T10:15:04.670825-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after big or oil",
+        "ordinal": 1,
+        "reveal": "rIG"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Delaware's state abbreviation",
+        "ordinal": 2,
+        "reveal": "dE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Long narrow strap attached to the end of the bit of a bridle",
+        "ordinal": 3,
+        "reveal": "rEIN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Salmon on a bagel, perhaps",
+        "ordinal": 4,
+        "reveal": "lOX"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Informal word for any living creature",
+        "ordinal": 5,
+        "reveal": "cRITTER"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word required in creating a simile",
+        "ordinal": 6,
+        "reveal": "aS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Chemical symbol for carbon monoxide",
+        "ordinal": 7,
+        "reveal": "cO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "__ Ni\u00f1o",
+        "ordinal": 8,
+        "reveal": "eL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"r\",\"i\",\"d\",\"e\"],[\"e\",\"n\",\"g\",\"r\",\"o\"],[\"t\",\"i\",\"E\",\"x\",\"l\"],[\"s\",\"t\",\"i\",\"c\",\"l\"],[\"a\",\"o\",\"c\",\"r\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\"],[\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#7C93CB\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 257,
+    "phrase": "Exciting roller coaster ride",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-06",
+    "id": "4bd799d6-b17b-4495-b7f4-10e11244a323",
+    "dimension": 5
+  }
+]

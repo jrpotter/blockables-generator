@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-06T13:06:47.506545-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Author Fleming or actor McKellen",
+        "ordinal": 1,
+        "reveal": "iAN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Shortened word after comp or poli",
+        "ordinal": 2,
+        "reveal": "sCI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Hollywood trade union which has gone on strike seven times, the most recent two being 2023 and 2007, abbr.",
+        "ordinal": 3,
+        "reveal": "wGA"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "One of nine in a traditional baseball game",
+        "ordinal": 4,
+        "reveal": "iNNING"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Tasty!\"",
+        "ordinal": 5,
+        "reveal": "yUM"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Mister abbr.",
+        "ordinal": 6,
+        "reveal": "Mr"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "__ Top, rock band famous for their sunglasses, hats and long beards",
+        "ordinal": 7,
+        "reveal": "zZ"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after blackberry or traffic",
+        "ordinal": 8,
+        "reveal": "jAM"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"c\",\"i\",\"a\",\"n\"],[\"s\",\"w\",\"i\",\"n\",\"n\"],[\"u\",\"y\",\"G\",\"r\",\"i\"],[\"m\",\"m\",\"m\",\"a\",\"n\"],[\"z\",\"z\",\"a\",\"j\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#E6B0D1\"],[\"#A1DBE3\",\"#F5C146\",\"#A9D594\",\"#F3F1A0\",\"#E6B0D1\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 155,
+    "phrase": "Grammy-winning jazz musician",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-27",
+    "id": "e97b86c5-9da0-48af-92da-6634f6202e61",
+    "dimension": 5
+  }
+]

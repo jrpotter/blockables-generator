@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.889827-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "reveal": "dANISH",
+        "color": "#F3F1A0",
+        "ordinal": 1,
+        "clue": "Nationality or pastry"
+      },
+      {
+        "color": "#A1DBE3",
+        "ordinal": 2,
+        "clue": "DJ introducer",
+        "reveal": "MC"
+      },
+      {
+        "reveal": "tON",
+        "color": "#F5C146",
+        "clue": "Heavy unit of measurement in a common brainteaser about bricks and feathers",
+        "ordinal": 3
+      },
+      {
+        "ordinal": 4,
+        "color": "#E6B0D1",
+        "reveal": "sAT",
+        "clue": "Took a load off"
+      },
+      {
+        "reveal": "tOY",
+        "ordinal": 5,
+        "color": "#7C93CB",
+        "clue": "Yo-yo, for one"
+      },
+      {
+        "reveal": "uNI",
+        "color": "#B86BAC",
+        "ordinal": 6,
+        "clue": "Brit's college, informally"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word following traffic or strawberry",
+        "reveal": "jAM",
+        "ordinal": 7
+      },
+      {
+        "reveal": "rE",
+        "ordinal": 8,
+        "clue": "Letters at the start of a response to your email",
+        "color": "#A9D594"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"n\",\"d\",\"a\",\"y\"],[\"M\",\"t\",\"a\",\"n\",\"o\"],[\"c\",\"s\",\"I\",\"t\",\"t\"],[\"i\",\"u\",\"j\",\"s\",\"h\"],[\"n\",\"a\",\"m\",\"r\",\"e\"]]",
+    "gridColors": "[[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\"],[\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\",\"#7C93CB\"],[\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\",\"#7C93CB\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 147,
+    "phrase": "It's just another manic Monday",
+    "author": {
+      "name": "",
+      "link": ""
+    },
+    "date": "2023-10-19",
+    "id": "4e095a18-55cf-4fac-a2c8-3744fe2aa213",
+    "dimension": 5
+  }
+]

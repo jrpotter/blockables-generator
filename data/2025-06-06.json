@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-01T11:44:34.926462-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Country containing Clue #8's answer, for short",
+        "ordinal": 1,
+        "reveal": "usa"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Fuel gauge letter",
+        "ordinal": 2,
+        "reveal": "e"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Fly, as an eagle",
+        "ordinal": 3,
+        "reveal": "soar"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Candy brand with over 1,500 custom dispensers",
+        "ordinal": 4,
+        "reveal": "Pez"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Strike, punch, slap, etc.",
+        "ordinal": 5,
+        "reveal": "hit"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Long bench in a church",
+        "ordinal": 6,
+        "reveal": "pew"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before bag or hot",
+        "ordinal": 7,
+        "reveal": "piping"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Phoenix's state, for short",
+        "ordinal": 8,
+        "reveal": "az"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"s\",\"a\",\"g\",\"e\"],[\"a\",\"o\",\"n\",\"i\",\"p\"],[\"s\",\"r\",\"P\",\"e\",\"i\"],[\"h\",\"e\",\"p\",\"p\",\"z\"],[\"t\",\"i\",\"w\",\"a\",\"z\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 743,
+    "phrase": "Pepperoni pizza with sausage",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-06",
+    "id": "2f8e937a-1c5d-4566-a130-9f4dc35d0eb6",
+    "dimension": 5
+  }
+]

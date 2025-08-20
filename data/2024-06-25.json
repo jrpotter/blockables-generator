@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-12-29T13:59:29.586342-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Raggedy ___, famous 1915 rag doll",
+        "ordinal": 1,
+        "reveal": "ann"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Color of hair of doll mentioned in Clue #1",
+        "ordinal": 2,
+        "reveal": "red"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Our insurance claimed that 'having a wrist' was a pre-________ condition.\", 2009 Leslie Knope quote",
+        "ordinal": 3,
+        "reveal": "existing"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Shoe part, often",
+        "ordinal": 4,
+        "reveal": "lace"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Banned word alongside \"and\" and \"but\", in a saying",
+        "ordinal": 5,
+        "reveal": "if"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Masterly melt ores, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "smelt"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"d\",\"n\",\"a\",\"x\"],[\"r\",\"n\",\"e\",\"i\",\"e\"],[\"F\",\"t\",\"S\",\"c\",\"l\"],[\"l\",\"i\",\"s\",\"t\",\"A\"],[\"e\",\"m\",\"i\",\"n\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#F5C146\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#A9D594\",\"#F5C146\",\"#EE7B8C\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 397,
+    "phrase": "Scientist Alexander Fleming",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-25",
+    "id": "6527e0c4-f39d-4bb2-a917-b784bbab79f3",
+    "dimension": 5
+  }
+]

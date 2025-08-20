@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:55:27.225946+0000",
+        "category": "Famous Person",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Where you'll find the stern captain",
+                "ordinal": 1,
+                "reveal": "AFT"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Blimey!, in Britain",
+                "ordinal": 2,
+                "reveal": "COR"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Suffix with \"walk\" or \"talk\"",
+                "ordinal": 3,
+                "reveal": "ING"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Sharp pastry or sharp criticism",
+                "ordinal": 4,
+                "reveal": "TART"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Serbian city that sounds like a family member's denial",
+                "ordinal": 5,
+                "reveal": "NIS"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Wooden pin that might be taken down a notch",
+                "ordinal": 6,
+                "reveal": "PEG"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "\"Come again?\" exclamation",
+                "ordinal": 7,
+                "reveal": "HUH"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Barbie's beau",
+                "ordinal": 8,
+                "reveal": "KEN"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"F\", \"T\", \"I\", \"N\", \"G\"], [\"A\", \"S\", \"T\", \"E\", \"P\"], [\"R\", \"R\", \"A\", \"U\", \"H\"], [\"C\", \"O\", \"H\", \"T\", \"E\"], [\"G\", \"N\", \"I\", \"K\", \"N\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#E6B0D1\", \"#E6B0D1\", \"#F5C146\"], [\"#7C93CB\", \"#E6B0D1\", \"#B86BAC\", \"#F5C146\", \"#F5C146\"], [\"#EE7B8C\", \"#B86BAC\", \"#B86BAC\", \"#F3F1A0\", \"#F3F1A0\"], [\"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\", \"#B86BAC\", \"#A1DBE3\"], [\"#A9D594\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\", \"#A1DBE3\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                3,
+                0
+            ],
+            "3": [
+                4,
+                2
+            ],
+            "4": [
+                3,
+                3
+            ],
+            "5": [
+                0,
+                3
+            ],
+            "6": [
+                1,
+                4
+            ],
+            "7": [
+                3,
+                2
+            ],
+            "8": [
+                4,
+                3
+            ]
+        },
+        "phrase": "Author Stephen King crafting",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

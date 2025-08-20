@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-01-28T16:30:08.195718-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Polynesian flower garlands",
+        "ordinal": 1,
+        "reveal": "lEIS"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Lincoln known for his honesty",
+        "ordinal": 2,
+        "reveal": "aBE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Not pretty",
+        "ordinal": 3,
+        "reveal": "uGLY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "US organization where Ravens and Seahawks can be found",
+        "ordinal": 4,
+        "reveal": "nFL"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Object the average American spends three hours a day looking at",
+        "ordinal": 5,
+        "reveal": "tV"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Trenton's state postal code",
+        "ordinal": 6,
+        "reveal": "nJ"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Plant fertilizer Miracle-___",
+        "ordinal": 7,
+        "reveal": "gRO"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Helps",
+        "ordinal": 8,
+        "reveal": "aIDS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"b\",\"y\",\"l\",\"l\"],[\"a\",\"u\",\"g\",\"s\",\"e\"],[\"n\",\"s\",\"D\",\"i\",\"j\"],[\"f\",\"t\",\"i\",\"n\",\"g\"],[\"l\",\"a\",\"v\",\"o\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A1DBE3\",\"#B86BAC\",\"#EE7B8C\",\"#E6B0D1\"],[\"#F3F1A0\",\"#B86BAC\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 61,
+    "phrase": "Disgusting jellybean flavor",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-25",
+    "id": "ce50fc39-4f65-44e2-89da-a0a064883c24",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-06-04T11:14:45-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Middle word of a basket-laden aircraft, which RE/MAX uses as its corporate logo",
+        "ordinal": 1,
+        "reveal": "aIR"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Main ingredient in paella, risotto, or sushi",
+        "ordinal": 2,
+        "reveal": "rICE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"__ infinity, and beyond!\", quote from 1995 animated film Toy Story",
+        "ordinal": 3,
+        "reveal": "tO"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before black or after private",
+        "ordinal": 4,
+        "reveal": "JET"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Radar warning receiver, abbr.",
+        "ordinal": 5,
+        "reveal": "rWR"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"My Heart Will Go On\" singer Celine",
+        "ordinal": 6,
+        "reveal": "dION"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Brass instrument, generally",
+        "ordinal": 7,
+        "reveal": "hORN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Chemical symbol of tin",
+        "ordinal": 8,
+        "reveal": "sN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"i\",\"R\",\"r\",\"o\"],[\"n\",\"e\",\"t\",\"i\",\"t\"],[\"J\",\"r\",\"W\",\"r\",\"c\"],[\"o\",\"d\",\"i\",\"r\",\"e\"],[\"h\",\"n\",\"s\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A1DBE3\"],[\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A1DBE3\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#A9D594\"],[\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 184,
+    "phrase": "Writer-director Rian Johnson",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-25",
+    "id": "58c4aa47-61ef-43c9-89ca-a1cd5a0319a3",
+    "dimension": 5
+  }
+]

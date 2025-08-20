@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:05:32.969498+0000",
+        "category": "Famous Character",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Called, with archaic spelling",
+                "ordinal": 1,
+                "reveal": "HIGHT"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Goad on a boot",
+                "ordinal": 2,
+                "reveal": "SPUR"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Born as, in wedding announcements",
+                "ordinal": 3,
+                "reveal": "NEE"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Former Pakistani province that became part of India, abbr.",
+                "ordinal": 4,
+                "reveal": "SIND"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Left field position, for short",
+                "ordinal": 5,
+                "reveal": "LF"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Final or endure",
+                "ordinal": 6,
+                "reveal": "LAST"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Peach State letters",
+                "ordinal": 7,
+                "reveal": "GA"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Fourteenth letter or chess knight, in notation",
+                "ordinal": 8,
+                "reveal": "N"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"G\", \"I\", \"L\", \"T\", \"A\"], [\"H\", \"H\", \"S\", \"A\", \"G\"], [\"T\", \"R\", \"F\", \"L\", \"N\"], [\"S\", \"U\", \"N\", \"N\", \"I\"], [\"P\", \"E\", \"E\", \"D\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#EE7B8C\"], [\"#7C93CB\", \"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#EE7B8C\"], [\"#7C93CB\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\", \"#A1DBE3\"], [\"#F5C146\", \"#F5C146\", \"#E6B0D1\", \"#A9D594\", \"#A9D594\"], [\"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                3,
+                0
+            ],
+            "3": [
+                3,
+                2
+            ],
+            "4": [
+                4,
+                4
+            ],
+            "5": [
+                2,
+                3
+            ],
+            "6": [
+                0,
+                2
+            ],
+            "7": [
+                1,
+                4
+            ],
+            "8": [
+                2,
+                4
+            ]
+        },
+        "phrase": "Flash running at light speeds",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

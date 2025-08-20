@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:54:48.676394+0000",
+        "category": "Food and Drink",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Non-Jewish person, in Yiddish",
+                "ordinal": 1,
+                "reveal": "GOY"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Note of the scale, briefly",
+                "ordinal": 2,
+                "reveal": "UT"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Genus of sandpipers that sounds like a bell's sound",
+                "ordinal": 3,
+                "reveal": "TRINGA"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Columbus ship or Simone's \"Little Girl Blue\"",
+                "ordinal": 4,
+                "reveal": "NINA"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Barbie's beau",
+                "ordinal": 5,
+                "reveal": "KEN"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Former Soviet space station that fell to Earth in 2001",
+                "ordinal": 6,
+                "reveal": "MIR"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Stylish, in Paris",
+                "ordinal": 7,
+                "reveal": "CHIC"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"O\", \"G\", \"U\", \"R\", \"T\"], [\"Y\", \"T\", \"I\", \"N\", \"G\"], [\"N\", \"A\", \"M\", \"A\", \"C\"], [\"I\", \"N\", \"I\", \"R\", \"H\"], [\"N\", \"E\", \"K\", \"C\", \"I\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#E6B0D1\", \"#F5C146\", \"#F5C146\"], [\"#7C93CB\", \"#E6B0D1\", \"#F5C146\", \"#F5C146\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#EE7B8C\", \"#F5C146\", \"#F3F1A0\"], [\"#B86BAC\", \"#A9D594\", \"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\"], [\"#B86BAC\", \"#A9D594\", \"#A9D594\", \"#F3F1A0\", \"#F3F1A0\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                1
+            ],
+            "2": [
+                0,
+                2
+            ],
+            "3": [
+                0,
+                4
+            ],
+            "4": [
+                4,
+                0
+            ],
+            "5": [
+                4,
+                2
+            ],
+            "6": [
+                2,
+                2
+            ],
+            "7": [
+                2,
+                4
+            ]
+        },
+        "phrase": "Marinating chicken in yogurt",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

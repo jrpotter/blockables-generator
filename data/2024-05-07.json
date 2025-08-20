@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-12T12:13:45.673233-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Meat traditionally used in a wienerschnitzel",
+        "ordinal": 1,
+        "reveal": "veal"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Illmatic\" rapper",
+        "ordinal": 2,
+        "reveal": "nas"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before Malone or after Washington",
+        "ordinal": 3,
+        "reveal": "Post"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Complete the sequence: AAAA, EEE, __, O",
+        "ordinal": 4,
+        "reveal": "ii"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Palindromic acronym for location system which uses radio waves",
+        "ordinal": 5,
+        "reveal": "radar"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Traveled on a donkey, say",
+        "ordinal": 6,
+        "reveal": "rode"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Sick",
+        "ordinal": 7,
+        "reveal": "lit"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"v\",\"l\",\"a\",\"S\",\"t\"],[\"a\",\"e\",\"n\",\"o\",\"s\"],[\"d\",\"e\",\"P\",\"i\",\"i\"],[\"o\",\"r\",\"a\",\"r\",\"t\"],[\"r\",\"D\",\"a\",\"l\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\"],[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 348,
+    "phrase": "Pioneer artist Salvador Dali",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-07",
+    "id": "a01508fc-c63b-4418-bb39-dccfc0ae4a8a",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-02-27T10:03:49.703916-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Scheduled to arrive, as a baby or package",
+        "ordinal": 1,
+        "reveal": "due"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "People living in Italy's capital",
+        "ordinal": 2,
+        "reveal": "rOMANS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Atlanta's state abbreviation",
+        "ordinal": 3,
+        "reveal": "ga"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Tree goo",
+        "ordinal": 4,
+        "reveal": "sap"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Passing out, perhaps as a certain goat breed does",
+        "ordinal": 5,
+        "reveal": "Fainting"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Large tank used to hold acid in a comic book",
+        "ordinal": 6,
+        "reveal": "vat"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"e\",\"d\",\"r\",\"a\"],[\"a\",\"u\",\"o\",\"m\",\"g\"],[\"i\",\"s\",\"F\",\"a\",\"t\"],[\"n\",\"a\",\"v\",\"a\",\"n\"],[\"t\",\"i\",\"n\",\"g\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#B86BAC\",\"#7C93CB\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 451,
+    "phrase": "Famous avant-garde paintings",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-18",
+    "id": "3e97e88b-0e8a-4108-ae30-61a3d5cd9aed",
+    "dimension": 5
+  }
+]

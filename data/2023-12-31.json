@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-07-09T07:31:04.587628-06:00",
+    "category": "Famous Characters",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Overwatch hero Amari or actress de Armas",
+        "ordinal": 1,
+        "reveal": "aNA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Tree which comprises the genus Ulmus in the family Ulmaceae",
+        "ordinal": 2,
+        "reveal": "eLM"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "It may be dropped after a sick diss in a rap battle",
+        "ordinal": 3,
+        "reveal": "mIC"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"How are you doing?\", to a texter",
+        "ordinal": 4,
+        "reveal": "hYD"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Foot digit",
+        "ordinal": 5,
+        "reveal": "TOE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Ancient",
+        "ordinal": 6,
+        "reveal": "oLD"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "__/UX designer",
+        "ordinal": 7,
+        "reveal": "uI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "African country whose capital is Khartoum",
+        "ordinal": 8,
+        "reveal": "sUDAN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"a\",\"m\",\"l\",\"e\"],[\"n\",\"m\",\"a\",\"n\",\"h\"],[\"d\",\"i\",\"D\",\"y\",\"T\"],[\"L\",\"c\",\"d\",\"u\",\"o\"],[\"o\",\"u\",\"i\",\"s\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#B86BAC\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#B86BAC\",\"#F5C146\",\"#EE7B8C\",\"#A9D594\",\"#F3F1A0\"],[\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 220,
+    "phrase": "Dynamic duo Thelma and Louise",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-31",
+    "id": "2776750f-83dd-4caa-b178-6862e18a57f6",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:54:50.006460+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Magog's biblical partner",
+                "ordinal": 1,
+                "reveal": "GOG"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "White Christmas necessity",
+                "ordinal": 2,
+                "reveal": "SNOW"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Sleep stage when dreams occur, briefly",
+                "ordinal": 3,
+                "reveal": "REM"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Fire house, briefly",
+                "ordinal": 4,
+                "reveal": "FH"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Opposite of max., on a thermostat",
+                "ordinal": 5,
+                "reveal": "MIN"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Suffix that makes verbs present participle",
+                "ordinal": 6,
+                "reveal": "ING"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Granular snow that becomes glacial ice",
+                "ordinal": 7,
+                "reveal": "NEVE"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Bad, to start",
+                "ordinal": 8,
+                "reveal": "MAL"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"G\", \"O\", \"W\", \"N\", \"S\"], [\"G\", \"G\", \"F\", \"O\", \"R\"], [\"N\", \"N\", \"H\", \"E\", \"M\"], [\"I\", \"I\", \"M\", \"M\", \"A\"], [\"N\", \"E\", \"V\", \"E\", \"L\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#F5C146\", \"#7C93CB\", \"#B86BAC\", \"#F3F1A0\", \"#E6B0D1\"], [\"#F5C146\", \"#EE7B8C\", \"#B86BAC\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F5C146\", \"#EE7B8C\", \"#EE7B8C\", \"#A1DBE3\", \"#A1DBE3\"], [\"#A9D594\", \"#A9D594\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                1
+            ],
+            "2": [
+                0,
+                4
+            ],
+            "3": [
+                1,
+                4
+            ],
+            "4": [
+                1,
+                2
+            ],
+            "5": [
+                3,
+                2
+            ],
+            "6": [
+                3,
+                0
+            ],
+            "7": [
+                4,
+                0
+            ],
+            "8": [
+                3,
+                3
+            ]
+        },
+        "phrase": "Hemming formal evening gowns",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

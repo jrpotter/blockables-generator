@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-04-30T11:43:13.407673-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Tingly Caribbean soda, the word itself can be found within this clue's first word",
+        "ordinal": 1,
+        "reveal": "tING"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Heals, as a disease",
+        "ordinal": 2,
+        "reveal": "cURES"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Like Harris to Biden or Cheney to Bush, abbr.",
+        "ordinal": 3,
+        "reveal": "vP"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Per Newton's Third Law: \"Every ______ has its equal and opposite reaction\"",
+        "ordinal": 4,
+        "reveal": "aCTION"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Application Programming Interface, abbr.",
+        "ordinal": 5,
+        "reveal": "aPI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Audibly",
+        "ordinal": 6,
+        "reveal": "aLOUD"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"u\",\"r\",\"e\",\"s\"],[\"c\",\"i\",\"n\",\"g\",\"v\"],[\"i\",\"d\",\"U\",\"p\",\"a\"],[\"p\",\"a\",\"o\",\"l\",\"c\"],[\"n\",\"o\",\"i\",\"t\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#EE7B8C\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 149,
+    "phrase": "Uploading vacation pictures",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-21",
+    "id": "e3025277-d555-4eff-b0c3-dbeb5b5b7798",
+    "dimension": 5
+  }
+]

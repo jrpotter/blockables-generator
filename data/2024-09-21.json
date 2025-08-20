@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-04-01T21:13:46.028686-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Send, as to a specialist",
+        "ordinal": 1,
+        "reveal": "refer"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Mental sharpness, perhaps comedic",
+        "ordinal": 2,
+        "reveal": "wit"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Youth Week Forum, abbr.",
+        "ordinal": 3,
+        "reveal": "ywf"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Frozen water",
+        "ordinal": 4,
+        "reveal": "ice"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word referring to the number of sheets making up a roll of toilet paper",
+        "ordinal": 5,
+        "reveal": "ply"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Coder, for short",
+        "ordinal": 6,
+        "reveal": "dev"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Aflame",
+        "ordinal": 7,
+        "reveal": "lit"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Denver's US state",
+        "ordinal": 8,
+        "reveal": "co"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"i\",\"t\",\"e\",\"r\"],[\"w\",\"e\",\"f\",\"f\",\"e\"],[\"y\",\"y\",\"W\",\"i\",\"c\"],[\"p\",\"l\",\"d\",\"l\",\"t\"],[\"o\",\"c\",\"e\",\"v\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#7C93CB\",\"#7C93CB\"],[\"#F5C146\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 485,
+    "phrase": "Wildly effective copywriter",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-21",
+    "id": "f51052f5-c984-4e34-b0c2-608f6f20cda7",
+    "dimension": 5
+  }
+]

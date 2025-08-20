@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-03T11:40:35.254666-07:00",
+    "category": "Before and After",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Once and ___ all",
+        "ordinal": 1,
+        "reveal": "for"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Not those",
+        "ordinal": 2,
+        "reveal": "these"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sleek onion-like vegetable, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "leek"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Dorm overseer, abbr.",
+        "ordinal": 4,
+        "reveal": "ra"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Tinder: How Many ______ Per Day Do You Get?\", 2023 Zirby article",
+        "ordinal": 5,
+        "reveal": "swipes"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Triple it for Santa's laugh",
+        "ordinal": 6,
+        "reveal": "Ho"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Utilize",
+        "ordinal": 7,
+        "reveal": "use"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"f\",\"o\",\"r\",\"e\",\"k\"],[\"t\",\"l\",\"e\",\"r\",\"a\"],[\"h\",\"e\",\"W\",\"i\",\"e\"],[\"e\",\"s\",\"s\",\"S\",\"p\"],[\"H\",\"o\",\"u\",\"s\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 462,
+    "phrase": "Wireless Speaker of the House",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-29",
+    "id": "ba128a06-6751-4f07-bf20-e3c9b69574b8",
+    "dimension": 5
+  }
+]

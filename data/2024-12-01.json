@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-23T11:59:20.587666-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Today's answer's song genre",
+        "ordinal": 1,
+        "reveal": "rap"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Oxygen's chemical symbol",
+        "ordinal": 2,
+        "reveal": "o"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "1 + 1",
+        "ordinal": 3,
+        "reveal": "two"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Maze material?",
+        "ordinal": 4,
+        "reveal": "Corn"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Trout or tuna",
+        "ordinal": 5,
+        "reveal": "fish"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Typical congregation members, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "laity"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Fictional candymaker Willy",
+        "ordinal": 7,
+        "reveal": "wonka"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"a\",\"r\",\"t\",\"y\"],[\"o\",\"r\",\"n\",\"i\",\"a\"],[\"t\",\"o\",\"C\",\"a\",\"k\"],[\"w\",\"f\",\"i\",\"l\",\"n\"],[\"o\",\"h\",\"s\",\"w\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#B86BAC\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#B86BAC\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#B86BAC\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 556,
+    "phrase": "\"California knows how to party\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-01",
+    "id": "1b31af05-5dde-403d-8be9-d9954b38461b",
+    "dimension": 5
+  }
+]

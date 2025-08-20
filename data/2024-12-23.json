@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-20T08:54:19.795685-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Japan's currency",
+        "ordinal": 1,
+        "reveal": "yen"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Do re __",
+        "ordinal": 2,
+        "reveal": "mi"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Hairpiece",
+        "ordinal": 3,
+        "reveal": "wig"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word after polka or before net",
+        "ordinal": 4,
+        "reveal": "dot"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Possesses",
+        "ordinal": 5,
+        "reveal": "owns"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Cha-_____!\", cash register's sound, perhaps",
+        "ordinal": 6,
+        "reveal": "ching"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of actor who played Forrest Gump and Sully Sullenberger",
+        "ordinal": 7,
+        "reveal": "th"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Ontario Yoga Association, abbr.",
+        "ordinal": 8,
+        "reveal": "oya"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"e\",\"n\",\"m\",\"i\"],[\"w\",\"g\",\"n\",\"i\",\"h\"],[\"i\",\"d\",\"G\",\"o\",\"c\"],[\"t\",\"o\",\"w\",\"n\",\"a\"],[\"h\",\"t\",\"o\",\"y\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#EE7B8C\",\"#A9D594\",\"#B86BAC\",\"#A9D594\"],[\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\"],[\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 578,
+    "phrase": "Going down a chimney with toys",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-23",
+    "id": "756378f6-d75b-4c77-af4f-cfb8a0a48270",
+    "dimension": 5
+  }
+]

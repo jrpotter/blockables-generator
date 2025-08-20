@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-26T09:34:59.488872-06:00",
+    "category": "Song and Artist",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Number of members in an octet, to a Roman",
+        "ordinal": 1,
+        "reveal": "vIII"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Initials of Joker actor in \"The Dark Knight\" or horror writer credited with creating Cthulhu",
+        "ordinal": 2,
+        "reveal": "HL"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Jacob's ladder or Rubik's Cube, for two",
+        "ordinal": 3,
+        "reveal": "toy"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Practice which consists of illusions, such as pulling a rabbit out of a hat",
+        "ordinal": 4,
+        "reveal": "mAGIC"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Action of a dog wanting some of your dinner, perhaps",
+        "ordinal": 5,
+        "reveal": "bEG"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Fight-ending, winner criterion in boxing, for short",
+        "ordinal": 6,
+        "reveal": "kO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Titular Latina explorer in a cartoon",
+        "ordinal": 7,
+        "reveal": "dORA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Running back, abbr.",
+        "ordinal": 8,
+        "reveal": "rB"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"v\",\"i\",\"l\",\"O\"],[\"a\",\"i\",\"H\",\"t\",\"y\"],[\"R\",\"m\",\"G\",\"e\",\"b\"],[\"o\",\"B\",\"a\",\"c\",\"k\"],[\"d\",\"r\",\"i\",\"g\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#EE7B8C\"],[\"#F5C146\",\"#7C93CB\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 299,
+    "phrase": "\"Get Him Back!\" by Olivia Rodrigo",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-19",
+    "id": "ba823987-609f-4f6e-8f61-714dd242d99d",
+    "dimension": 5
+  }
+]

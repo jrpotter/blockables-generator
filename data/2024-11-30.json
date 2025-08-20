@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-23T11:48:39.983233-07:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Final inning",
+        "ordinal": 1,
+        "reveal": "ninth"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Daring and provocative, as a joke",
+        "ordinal": 2,
+        "reveal": "edgy"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "L x XXIV",
+        "ordinal": 3,
+        "reveal": "Mcc"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pink oinker",
+        "ordinal": 4,
+        "reveal": "pig"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Spanish \"what\"",
+        "ordinal": 5,
+        "reveal": "Que"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "#2 way to remove?",
+        "ordinal": 6,
+        "reveal": "erase"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Netherlands ISO country code",
+        "ordinal": 7,
+        "reveal": "nl"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"n\",\"t\",\"h\"],[\"g\",\"d\",\"e\",\"e\",\"g\"],[\"M\",\"y\",\"S\",\"p\",\"i\"],[\"c\",\"c\",\"a\",\"r\",\"L\"],[\"Q\",\"u\",\"e\",\"e\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#E6B0D1\"],[\"#F3F1A0\",\"#A9D594\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 555,
+    "phrase": "Speedy car Lightning McQueen",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-30",
+    "id": "a2056174-1683-4af7-966a-9ae3f3f79dc1",
+    "dimension": 5
+  }
+]

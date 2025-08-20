@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-01-14T16:49:31.585472-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Paper and plastic, for two",
+        "ordinal": 1,
+        "reveal": "bAGS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Painter Warhol or comedian Samberg",
+        "ordinal": 2,
+        "reveal": "aNDY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Everything Everywhere All at Once\" actor __ Huy Quan",
+        "ordinal": 3,
+        "reveal": "kE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Color you may be after being tickled?",
+        "ordinal": 4,
+        "reveal": "PINK"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Mauna ___",
+        "ordinal": 5,
+        "reveal": "lOA"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Not good",
+        "ordinal": 6,
+        "reveal": "bAD"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Anakin Skywalker's childhood nickname",
+        "ordinal": 7,
+        "reveal": "aNI"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Year abbr.",
+        "ordinal": 8,
+        "reveal": "yR"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"b\",\"a\",\"n\",\"d\"],[\"k\",\"g\",\"k\",\"e\",\"y\"],[\"s\",\"n\",\"P\",\"l\",\"b\"],[\"a\",\"i\",\"y\",\"a\",\"o\"],[\"n\",\"i\",\"d\",\"r\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\"],[\"#F5C146\",\"#E6B0D1\",\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 44,
+    "phrase": "Playing keyboard in a ska band",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-08",
+    "id": "5de6f012-cd24-4c37-bc99-219b925283f7",
+    "dimension": 5
+  }
+]

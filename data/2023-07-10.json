@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-14T16:22:38.096851-07:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "First name of basketball legend James",
+        "ordinal": 1,
+        "reveal": "lEBRON"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Director Howard or Wizard Weasley",
+        "ordinal": 2,
+        "reveal": "rON"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fish after which a Cape in Massachusetts is named",
+        "ordinal": 3,
+        "reveal": "COD"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Drury ____, part of the Muffin Man's postal address",
+        "ordinal": 4,
+        "reveal": "lANE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Overseer of a college dorm, abbr.",
+        "ordinal": 5,
+        "reveal": "rA"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Wanderer without a home",
+        "ordinal": 6,
+        "reveal": "nOMAD"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"__ what?\"",
+        "ordinal": 7,
+        "reveal": "sO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"e\",\"o\",\"n\",\"e\"],[\"r\",\"B\",\"r\",\"a\",\"n\"],[\"o\",\"n\",\"M\",\"a\",\"d\"],[\"C\",\"o\",\"l\",\"r\",\"o\"],[\"n\",\"o\",\"D\",\"s\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\"],[\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        3,
+        0
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 46,
+    "phrase": "Marlon Brando as Don Corleone",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-10",
+    "id": "efb4b692-c1d1-44c8-85bc-f81e7277a105",
+    "dimension": 5
+  }
+]

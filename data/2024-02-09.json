@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-20T09:21:37.44216-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Shortened word after Mario or Warner",
+        "ordinal": 1,
+        "reveal": "bROS"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "1/100th of a dollar",
+        "ordinal": 2,
+        "reveal": "cENT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Old MacDonald had a farm, _-_-_-I-O\", children's song lyric",
+        "ordinal": 3,
+        "reveal": "eIE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Abbreviated ingredient often paired with J, in a sandwich",
+        "ordinal": 4,
+        "reveal": "pB"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Tortilla chip dip",
+        "ordinal": 5,
+        "reveal": "sALSA"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Soapmaking material which can burn skin",
+        "ordinal": 6,
+        "reveal": "lYE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "1972 video game inspired by table-tennis",
+        "ordinal": 7,
+        "reveal": "pONG"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"b\",\"r\",\"o\",\"s\"],[\"n\",\"c\",\"e\",\"p\",\"b\"],[\"t\",\"i\",\"E\",\"s\",\"a\"],[\"s\",\"a\",\"l\",\"l\",\"y\"],[\"p\",\"o\",\"n\",\"g\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 260,
+    "phrase": "Especially absorbent sponge",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-09",
+    "id": "92d15b50-61e6-4294-adc1-e49268ff6090",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-13T13:09:26.645329-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "\"The Way It __\", 1986 Bruce Hornsby song",
+        "ordinal": 1,
+        "reveal": "iS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Will it _____?\", 2006 YouTube show showcasing the power of smoothie-making appliances",
+        "ordinal": 2,
+        "reveal": "bLEND"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Lower body limbs",
+        "ordinal": 3,
+        "reveal": "lEGS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Mt. __, a small mountain in China, not to be confused with the lemon-lime soda",
+        "ordinal": 4,
+        "reveal": "dU"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Stockholm's country",
+        "ordinal": 5,
+        "reveal": "sWEDEN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Tax-advantaged personal savings plan, abbr.",
+        "ordinal": 6,
+        "reveal": "iRA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Cascading Style Sheets, abbr.",
+        "ordinal": 7,
+        "reveal": "cSS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"s\",\"u\",\"b\"],[\"e\",\"d\",\"l\",\"l\",\"d\"],[\"s\",\"e\",\"W\",\"e\",\"e\"],[\"s\",\"s\",\"i\",\"g\",\"n\"],[\"c\",\"a\",\"r\",\"d\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\"],[\"#EE7B8C\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\"],[\"#EE7B8C\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 256,
+    "phrase": "Well-designed business cards",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-05",
+    "id": "3489d5e3-cf8e-4897-8b13-ba10c21cce75",
+    "dimension": 5
+  }
+]

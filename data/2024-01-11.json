@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-07-17T11:24:33.832115-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Hollow, flexible structure resembling a bag or pouch which sounds like a bag or a pouch",
+        "ordinal": 1,
+        "reveal": "SAC"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Pose a question",
+        "ordinal": 2,
+        "reveal": "aSK"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Ebert, Federer, or Waters",
+        "ordinal": 3,
+        "reveal": "rOGER"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letters between dot and bubble, seen often in early 2000s headlines",
+        "ordinal": 4,
+        "reveal": "cOM"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after running or before gift",
+        "ordinal": 5,
+        "reveal": "GAG"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Hostage Negotiation Team, abbr.",
+        "ordinal": 6,
+        "reveal": "hNT"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Egypt's capital",
+        "ordinal": 7,
+        "reveal": "cAIRO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"S\",\"a\",\"m\",\"s\",\"a\"],[\"r\",\"o\",\"c\",\"k\",\"r\"],[\"o\",\"c\",\"G\",\"i\",\"o\"],[\"g\",\"t\",\"n\",\"a\",\"a\"],[\"e\",\"r\",\"G\",\"h\",\"c\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#E6B0D1\",\"#A9D594\",\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\"],[\"#E6B0D1\",\"#A9D594\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        4,
+        2
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 231,
+    "phrase": "Giant cockroach Gregor Samsa",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-11",
+    "id": "bfec85cd-6038-48ea-8fd2-1be8ed114f0a",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-12-03T14:28:27.847038-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "\"___ we there yet?\"",
+        "ordinal": 1,
+        "reveal": "aRE"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Pipe up",
+        "ordinal": 2,
+        "reveal": "tALK"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Acquire",
+        "ordinal": 3,
+        "reveal": "gET"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Former lover",
+        "ordinal": 4,
+        "reveal": "eX"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Letters before right or rock",
+        "ordinal": 5,
+        "reveal": "aLT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Grind grain into flour, perhaps using wind",
+        "ordinal": 6,
+        "reveal": "mILL"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Letters before Hibbert, House, or Howser",
+        "ordinal": 7,
+        "reveal": "dR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "First name of a famous Lisa",
+        "ordinal": 8,
+        "reveal": "mONA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"a\",\"t\",\"t\",\"e\"],[\"k\",\"a\",\"r\",\"g\",\"e\"],[\"l\",\"l\",\"E\",\"x\",\"a\"],[\"i\",\"a\",\"r\",\"t\",\"l\"],[\"m\",\"d\",\"n\",\"o\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A1DBE3\",\"#E6B0D1\"],[\"#F3F1A0\",\"#B86BAC\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 1,
+    "phrase": "Extra-large almond milk latte",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-05-26",
+    "id": "4c131dfe-137e-4030-8e34-d96112c118a2",
+    "dimension": 5
+  }
+]

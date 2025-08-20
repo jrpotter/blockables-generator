@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-02-02T14:23:12.628168-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Dorm overseer, for short",
+        "ordinal": 1,
+        "reveal": "ra"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Winter sickness, often",
+        "ordinal": 2,
+        "reveal": "flu"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Pirate's treasure container, perhaps",
+        "ordinal": 3,
+        "reveal": "chest"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "____-pong",
+        "ordinal": 4,
+        "reveal": "Ping"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Hawaiian flower garland",
+        "ordinal": 5,
+        "reveal": "lei"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "General color of beige, ecru, and khaki",
+        "ordinal": 6,
+        "reveal": "tan"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of \u201c(Sittin\u2019 On) The Dock of The Day\u201d songwriter or popcorn mogul",
+        "ordinal": 7,
+        "reveal": "or"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Aye's opponent",
+        "ordinal": 8,
+        "reveal": "nay"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"s\",\"t\",\"r\",\"a\"],[\"h\",\"g\",\"f\",\"l\",\"u\"],[\"c\",\"n\",\"P\",\"l\",\"t\"],[\"r\",\"i\",\"y\",\"a\",\"e\"],[\"o\",\"n\",\"a\",\"n\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\",\"#F5C146\"],[\"#A1DBE3\",\"#B86BAC\",\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\"],[\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 621,
+    "phrase": "Playing flute in an orchestra",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-04",
+    "id": "b830792e-c1f6-4a3f-ab13-014802ab8d28",
+    "dimension": 5
+  }
+]

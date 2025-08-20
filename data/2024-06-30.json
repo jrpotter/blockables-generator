@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-01-01T07:27:27.512585-07:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Yellow school vehicle",
+        "ordinal": 1,
+        "reveal": "bus"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Wet dirt",
+        "ordinal": 2,
+        "reveal": "mud"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Michigan Department of Agriculture, abbr.",
+        "ordinal": 3,
+        "reveal": "mda"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Battler's firearm, in Star Wars, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "blaster"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Cure or mend",
+        "ordinal": 5,
+        "reveal": "Heal"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Wear away, as a coastline",
+        "ordinal": 6,
+        "reveal": "erode"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"D\",\"s\",\"u\",\"b\"],[\"m\",\"m\",\"d\",\"a\",\"l\"],[\"b\",\"a\",\"H\",\"e\",\"A\"],[\"l\",\"s\",\"t\",\"e\",\"r\"],[\"e\",\"d\",\"o\",\"r\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 402,
+    "phrase": "Headmaster Albus Dumbledore",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-30",
+    "id": "7d1002e5-3713-4daa-9be3-f7f32822084c",
+    "dimension": 5
+  }
+]

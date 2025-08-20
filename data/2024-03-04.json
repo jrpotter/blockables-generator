@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-13T20:21:54.585189-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Glass ingredient, perhaps found in an hourglass",
+        "ordinal": 1,
+        "reveal": "sAND"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Initials of \"Glory Days\" singer or \"Toxic\" singer",
+        "ordinal": 2,
+        "reveal": "bS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Lines that deviate from straightness in a smooth, continuous fashion",
+        "ordinal": 3,
+        "reveal": "cURVES"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "French affirmative",
+        "ordinal": 4,
+        "reveal": "OUI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Shorthand for \"delete\", on some keyboards, including the one on Blockables Mobile",
+        "ordinal": 5,
+        "reveal": "dEL"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "For the win, abbr.",
+        "ordinal": 6,
+        "reveal": "fTW"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Perhaps one who prepares the answer to today's puzzle",
+        "ordinal": 7,
+        "reveal": "cHEF"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"s\",\"b\",\"u\",\"l\"],[\"n\",\"s\",\"r\",\"e\",\"c\"],[\"d\",\"t\",\"O\",\"v\",\"d\"],[\"w\",\"u\",\"f\",\"f\",\"e\"],[\"i\",\"c\",\"h\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#B86BAC\",\"#F5C146\",\"#F3F1A0\"],[\"#A9D594\",\"#B86BAC\",\"#A9D594\",\"#A1DBE3\",\"#F5C146\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 284,
+    "phrase": "Overstuffed club sandwiches",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-04",
+    "id": "f2479359-5c06-4f65-8c3e-8dab11782d17",
+    "dimension": 5
+  }
+]

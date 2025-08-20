@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-02-03T11:52:58.602329-07:00",
+    "category": "Actor & TV Show",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Strike, like the answer to Clue #5",
+        "ordinal": 1,
+        "reveal": "hit"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "____ condition",
+        "ordinal": 2,
+        "reveal": "mint"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Renowned songbird, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "Wren"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Yale Economic Essays, abbr.",
+        "ordinal": 4,
+        "reveal": "yee"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Quick overhand punch",
+        "ordinal": 5,
+        "reveal": "Jab"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"__ wants to buy the restaurant.\" - Line from pilot episode of TV show mentioned in the answer to today's puzzle",
+        "ordinal": 6,
+        "reveal": "he"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Shakespearean king",
+        "ordinal": 7,
+        "reveal": "lear"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word before Ni\u00f1o or Paso",
+        "ordinal": 8,
+        "reveal": "el"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"e\",\"t\",\"i\",\"h\"],[\"n\",\"m\",\"e\",\"r\",\"W\"],[\"T\",\"y\",\"J\",\"e\",\"n\"],[\"h\",\"A\",\"l\",\"l\",\"e\"],[\"e\",\"B\",\"e\",\"a\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 432,
+    "phrase": "Jeremy Allen White in \"The Bear\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-30",
+    "id": "4a440574-99e8-4c64-891c-69649f278d28",
+    "dimension": 5
+  }
+]

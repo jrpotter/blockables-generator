@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-07T19:43:39.851445-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Chemical symbol for tin",
+        "ordinal": 1,
+        "reveal": "sN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Member of Parliament abbr.",
+        "ordinal": 2,
+        "reveal": "mP"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Family",
+        "ordinal": 3,
+        "reveal": "kIN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after best or imaginary",
+        "ordinal": 4,
+        "reveal": "fRIEND"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "____ to riches",
+        "ordinal": 5,
+        "reveal": "rAGS"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Twelve inches",
+        "ordinal": 6,
+        "reveal": "fOOT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Walking aid",
+        "ordinal": 7,
+        "reveal": "cANE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"n\",\"e\",\"s\",\"s\"],[\"n\",\"m\",\"i\",\"n\",\"g\"],[\"i\",\"r\",\"P\",\"e\",\"a\"],[\"k\",\"o\",\"f\",\"r\",\"n\"],[\"f\",\"o\",\"t\",\"c\",\"a\"]]",
+    "gridColors": "[[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A9D594\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\"],[\"#A9D594\",\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#A1DBE3\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        3,
+        0
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 36,
+    "phrase": "Performing an act of kindness",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-30",
+    "id": "8f2bf5f8-b1fd-420c-8707-02b1323fa8d0",
+    "dimension": 5
+  }
+]

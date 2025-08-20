@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-07-30T19:53:32-06:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Eleven _____ and spices, key components in KFC's secret recipe",
+        "ordinal": 1,
+        "reveal": "hERBS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Toy Story\" cowboy protagonist",
+        "ordinal": 2,
+        "reveal": "wOODY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Mercury's is about 88 days long",
+        "ordinal": 3,
+        "reveal": "yEAR"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Make a soft murmuring sound, as a pigeon or dove",
+        "ordinal": 4,
+        "reveal": "cOO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Female deer",
+        "ordinal": 5,
+        "reveal": "DOE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Bart Simpson or Timmy Turner",
+        "ordinal": 6,
+        "reveal": "bOY"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Oakland University, abbr.",
+        "ordinal": 7,
+        "reveal": "o"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"h\",\"w\",\"o\",\"o\"],[\"r\",\"b\",\"o\",\"o\",\"D\"],[\"e\",\"y\",\"S\",\"c\",\"y\"],[\"a\",\"D\",\"o\",\"o\",\"b\"],[\"r\",\"e\",\"y\",\"o\",\"u\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 239,
+    "phrase": "\"Scooby Dooby Doo, where are you?\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-19",
+    "id": "f33f8907-81e1-4bb6-80ee-bc9b342b2faa",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2022-12-22T11:25:26.82012-07:00",
+    "category": "Book and Author",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Two plus two plus two, in Rome",
+        "ordinal": 1,
+        "reveal": "vI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "One of two in two plus two is four",
+        "ordinal": 2,
+        "reveal": "aDDEND"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Pulsate",
+        "ordinal": 3,
+        "reveal": "THROB"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Wait but ___,\" popular stick-figure-illustrated blog by Tim Urban",
+        "ordinal": 4,
+        "reveal": "WHY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Almost",
+        "ordinal": 5,
+        "reveal": "nEARLY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Middle Eastern country acronym",
+        "ordinal": 6,
+        "reveal": "uAE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"v\",\"a\",\"D\",\"y\"],[\"d\",\"e\",\"d\",\"l\",\"r\"],[\"T\",\"n\",\"W\",\"a\",\"n\"],[\"h\",\"b\",\"y\",\"H\",\"e\"],[\"o\",\"r\",\"e\",\"a\",\"u\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A9D594\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 26,
+    "phrase": "\"Walden\" by Henry David Thoreau",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-20",
+    "id": "0d59b815-dfdf-4ad8-90eb-fb6b8bf2e8ba",
+    "dimension": 5
+  }
+]

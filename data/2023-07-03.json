@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-07T21:35:06.352354-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "\"The __ Crowd,\" British sitcom about the computer technicians of Reynholm Industries",
+        "ordinal": 1,
+        "reveal": "iT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Letters between dot and bubble, seen often in early 2000s headlines",
+        "ordinal": 2,
+        "reveal": "cOM"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "ABC television program broadcast at 7:00AM from Times Square Studios in NYC",
+        "ordinal": 3,
+        "reveal": "gMA"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after butterfly (in a store for kids) or fish (in a store for adults)",
+        "ordinal": 4,
+        "reveal": "nET"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"___ Out\", 2017 horror film by Jordan Peele",
+        "ordinal": 5,
+        "reveal": "gET"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Breed of Doug, an internet canine celebrity",
+        "ordinal": 6,
+        "reveal": "pUG"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Lessening... or the first step in acting environmentally?",
+        "ordinal": 7,
+        "reveal": "rEDUCING"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"n\",\"i\",\"m\",\"a\"],[\"c\",\"i\",\"t\",\"t\",\"g\"],[\"o\",\"n\",\"C\",\"u\",\"e\"],[\"m\",\"g\",\"e\",\"d\",\"g\"],[\"p\",\"u\",\"t\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#EE7B8C\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#A1DBE3\"],[\"#EE7B8C\",\"#A9D594\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\"],[\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\",\"#7C93CB\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#7C93CB\",\"#7C93CB\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 39,
+    "phrase": "Cutting-edge gaming computer",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-03",
+    "id": "89140d19-d47b-4067-abc4-02ecea56d20a",
+    "dimension": 5
+  }
+]

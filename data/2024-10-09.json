@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-05T13:50:25.761935-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Portion, perhaps belonging to a lion?",
+        "ordinal": 1,
+        "reveal": "share"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "-. to a telegrapher",
+        "ordinal": 2,
+        "reveal": "n"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fruit-based beverage",
+        "ordinal": 3,
+        "reveal": "juice"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Transport Security Layer, abbr.",
+        "ordinal": 4,
+        "reveal": "tsl"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "___ se",
+        "ordinal": 5,
+        "reveal": "per"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not good",
+        "ordinal": 6,
+        "reveal": "bad"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after control or solar",
+        "ordinal": 7,
+        "reveal": "panel"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"l\",\"i\",\"c\",\"n\"],[\"h\",\"s\",\"u\",\"j\",\"e\"],[\"a\",\"t\",\"A\",\"d\",\"p\"],[\"r\",\"a\",\"b\",\"l\",\"e\"],[\"p\",\"e\",\"n\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 503,
+    "phrase": "Adjustable pencil sharpener",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-09",
+    "id": "96974485-1fdb-4f55-85e9-46b2d3a2f3fb",
+    "dimension": 5
+  }
+]

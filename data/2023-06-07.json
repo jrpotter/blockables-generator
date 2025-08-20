@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-08T19:20:43.94054-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Boxer who floated like a butterfly and stung like a bee",
+        "ordinal": 1,
+        "reveal": "ALI"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "If Downey is Iron, then Rudd is ___",
+        "ordinal": 2,
+        "reveal": "aNT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Aren't you a little short for a stormtrooper?\" asker",
+        "ordinal": 3,
+        "reveal": "leia"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word after carbon or speed",
+        "ordinal": 4,
+        "reveal": "DATING"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Pool temperature gauge, perhaps",
+        "ordinal": 5,
+        "reveal": "tOE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "With it",
+        "ordinal": 6,
+        "reveal": "hIP"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fury",
+        "ordinal": 7,
+        "reveal": "iRE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"A\",\"e\",\"t\",\"n\",\"a\"],[\"l\",\"i\",\"l\",\"a\",\"D\"],[\"i\",\"a\",\"I\",\"t\",\"t\"],[\"g\",\"n\",\"p\",\"o\",\"e\"],[\"h\",\"i\",\"e\",\"r\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 13,
+    "phrase": "Italian poet Dante Alighieri",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-07",
+    "id": "e27331b8-c42c-4b66-9315-c3dcfc8c1a21",
+    "dimension": 5
+  }
+]

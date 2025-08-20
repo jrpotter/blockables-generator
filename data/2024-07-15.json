@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-13T15:18:19.204423-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Billionaire Musk",
+        "ordinal": 1,
+        "reveal": "elon"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Poser",
+        "ordinal": 2,
+        "reveal": "Faker"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Tehran's country",
+        "ordinal": 3,
+        "reveal": "iran"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Small jump",
+        "ordinal": 4,
+        "reveal": "hop"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "PlayStation 2 release year, to a Roman",
+        "ordinal": 5,
+        "reveal": "mm"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after naughty or nice",
+        "ordinal": 6,
+        "reveal": "list"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Rural Health Clinic, abbr.",
+        "ordinal": 7,
+        "reveal": "rhc"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"N\",\"o\",\"l\",\"a\",\"n\"],[\"r\",\"k\",\"e\",\"r\",\"C\"],[\"e\",\"a\",\"F\",\"i\",\"h\"],[\"h\",\"m\",\"m\",\"l\",\"r\"],[\"p\",\"o\",\"t\",\"s\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        2,
+        2
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 417,
+    "phrase": "Filmmaker Christopher Nolan",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-15",
+    "id": "f615339d-eaa6-482e-aed8-21af5570b96a",
+    "dimension": 5
+  }
+]

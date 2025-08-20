@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-04-09T10:50:32.563656-06:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Oil ___",
+        "ordinal": 1,
+        "reveal": "rIG"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Abel's brother",
+        "ordinal": 2,
+        "reveal": "CAIN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Burnham quote: \"My current mental health is rapidly approaching an ___. That's an all-time low, not Atlanta.\"",
+        "ordinal": 3,
+        "reveal": "aTL"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Arthur of \"The Golden Girls\"",
+        "ordinal": 4,
+        "reveal": "bEA"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "How one may describe a skateboard trick or an ill person",
+        "ordinal": 5,
+        "reveal": "sICK"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Mobster Capone or musician Yankovich",
+        "ordinal": 6,
+        "reveal": "aL"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Crasser term for a water closet, in England",
+        "ordinal": 7,
+        "reveal": "lOO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Atilla was one",
+        "ordinal": 8,
+        "reveal": "hUN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"k\",\"g\",\"i\",\"r\",\"l\"],[\"c\",\"a\",\"i\",\"n\",\"t\"],[\"a\",\"I\",\"C\",\"a\",\"n\"],[\"b\",\"e\",\"s\",\"u\",\"o\"],[\"a\",\"l\",\"l\",\"o\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A1DBE3\",\"#7C93CB\",\"#EE7B8C\",\"#F3F1A0\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#7C93CB\",\"#F5C146\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        2,
+        2
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 127,
+    "phrase": "\"'Cause I ain't no hollaback girl\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-29",
+    "id": "4716b0d2-3dbb-41d8-847b-256ffec315fc",
+    "dimension": 5
+  }
+]

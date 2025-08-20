@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-05-20T08:24:18.503317-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Cruise ship stops",
+        "ordinal": 1,
+        "reveal": "ports"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Fish limb",
+        "ordinal": 2,
+        "reveal": "fin"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Steed steerer",
+        "ordinal": 3,
+        "reveal": "rein"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Slothful, perhaps like a river",
+        "ordinal": 4,
+        "reveal": "lazy"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Boxer Muhammad",
+        "ordinal": 5,
+        "reveal": "ali"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Raleigh's US state",
+        "ordinal": 6,
+        "reveal": "nc"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Amazing protagonist of \"Avatar: The Last Airbender\", the letters of whom can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "aang"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"o\",\"r\",\"t\",\"s\"],[\"e\",\"i\",\"n\",\"g\",\"f\"],[\"r\",\"z\",\"A\",\"n\",\"i\"],[\"l\",\"y\",\"l\",\"a\",\"n\"],[\"a\",\"i\",\"c\",\"n\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#A1DBE3\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 730,
+    "phrase": "Analyzing financial reports",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-24",
+    "id": "061828d8-211e-4ad5-865e-041532292419",
+    "dimension": 5
+  }
+]

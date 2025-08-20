@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-02-21T21:31:03.915703-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "By ___ means necessary",
+        "ordinal": 1,
+        "reveal": "Any"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Iodine's chemical symbol",
+        "ordinal": 2,
+        "reveal": "i"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Laura's ambience, perhaps, which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "aura"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Jewelry found on the fourth finger",
+        "ordinal": 4,
+        "reveal": "ring"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Lady partner, perhaps at the beginning of an announcement",
+        "ordinal": 5,
+        "reveal": "gent"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Rocker Rundgren and \"Bojack Horseman\" slacker Chavez",
+        "ordinal": 6,
+        "reveal": "todds"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "2nd highest school grade",
+        "ordinal": 7,
+        "reveal": "b"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Anakin Skywalker's childhood nickname",
+        "ordinal": 8,
+        "reveal": "ani"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"A\",\"n\",\"i\",\"d\",\"a\"],[\"r\",\"y\",\"d\",\"u\",\"o\"],[\"g\",\"i\",\"S\",\"t\",\"r\"],[\"e\",\"n\",\"g\",\"a\",\"b\"],[\"n\",\"t\",\"i\",\"n\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#EE7B8C\"],[\"#F5C146\",\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\"],[\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        2,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 641,
+    "phrase": "Studying abroad in Argentina",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-24",
+    "id": "dc9ae89b-bbba-4ead-8228-eed3eba1ac1f",
+    "dimension": 5
+  }
+]

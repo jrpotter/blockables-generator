@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-15T20:59:38.180446-07:00",
+    "category": "Actor & Role",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Who Harrison played in the Star Wars franchise",
+        "ordinal": 1,
+        "reveal": "han"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Ashen gunslinger in a 1949 novel, whose name is an anagram of this clue's first word",
+        "ordinal": 2,
+        "reveal": "shane"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "First word of famous 1960s British comedy troupe",
+        "ordinal": 3,
+        "reveal": "Monty"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Sinatra's \"__ Way\"",
+        "ordinal": 4,
+        "reveal": "My"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Travel by wind on the water",
+        "ordinal": 5,
+        "reveal": "sail"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Snitch, often antidrug",
+        "ordinal": 6,
+        "reveal": "narc"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Gold's chemical symbol",
+        "ordinal": 7,
+        "reveal": "au"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"n\",\"n\",\"a\",\"H\"],[\"h\",\"y\",\"e\",\"l\",\"s\"],[\"M\",\"C\",\"M\",\"i\",\"a\"],[\"o\",\"y\",\"r\",\"u\",\"s\"],[\"n\",\"t\",\"a\",\"n\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#A9D594\"],[\"#B86BAC\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 444,
+    "phrase": "Miley Cyrus as Hannah Montana",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-11",
+    "id": "54ab8523-5b9c-41c1-9b30-83eba6a84dd1",
+    "dimension": 5
+  }
+]

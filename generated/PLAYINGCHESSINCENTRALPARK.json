@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:03:43.414731+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "State between New York and Vermont, briefly",
+                "ordinal": 1,
+                "reveal": "NE"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Abel's brother who got a bad rap?",
+                "ordinal": 2,
+                "reveal": "CAIN"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Sharp cry from a small dog",
+                "ordinal": 3,
+                "reveal": "YIP"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Angry tirade that anagrams to something you might do to a car engine",
+                "ordinal": 4,
+                "reveal": "RANT"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "General Ledger, in accounting: Abbr.",
+                "ordinal": 5,
+                "reveal": "GL"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Junk that's also a dice game",
+                "ordinal": 6,
+                "reveal": "CRAP"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Cambodia, initially",
+                "ordinal": 7,
+                "reveal": "KH"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Minus, in math class",
+                "ordinal": 8,
+                "reveal": "LESS"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"N\", \"E\", \"C\", \"N\", \"I\"], [\"T\", \"I\", \"Y\", \"A\", \"S\"], [\"R\", \"N\", \"P\", \"L\", \"S\"], [\"A\", \"G\", \"C\", \"H\", \"E\"], [\"L\", \"P\", \"A\", \"R\", \"K\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\"], [\"#F5C146\", \"#B86BAC\", \"#B86BAC\", \"#EE7B8C\", \"#A1DBE3\"], [\"#F5C146\", \"#F5C146\", \"#B86BAC\", \"#A1DBE3\", \"#A1DBE3\"], [\"#F5C146\", \"#E6B0D1\", \"#F3F1A0\", \"#A9D594\", \"#A1DBE3\"], [\"#E6B0D1\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                0,
+                2
+            ],
+            "3": [
+                1,
+                2
+            ],
+            "4": [
+                2,
+                0
+            ],
+            "5": [
+                3,
+                1
+            ],
+            "6": [
+                3,
+                2
+            ],
+            "7": [
+                4,
+                4
+            ],
+            "8": [
+                2,
+                3
+            ]
+        },
+        "phrase": "Playing chess in central park",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-06-08T20:18:36.624969-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Bolted",
+        "ordinal": 1,
+        "reveal": "ran"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Boxer Muhammad",
+        "ordinal": 2,
+        "reveal": "ali"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Patty to Bart or Vivian to Will",
+        "ordinal": 3,
+        "reveal": "aunt"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Snap a ___ for the 'gram!\"",
+        "ordinal": 4,
+        "reveal": "Pic"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Adapted Star Trek android Soong, the letters of whom can be found in this clue's first word ",
+        "ordinal": 5,
+        "reveal": "data"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "African country where Libreville is the capital",
+        "ordinal": 6,
+        "reveal": "gabon"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Investment Tax Credit, abbr.",
+        "ordinal": 7,
+        "reveal": "itc"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"a\",\"n\",\"a\",\"t\"],[\"t\",\"i\",\"c\",\"a\",\"a\"],[\"a\",\"n\",\"P\",\"l\",\"d\"],[\"u\",\"g\",\"a\",\"b\",\"i\"],[\"c\",\"t\",\"i\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\"],[\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 752,
+    "phrase": "Placing a bid at an art auction",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-15",
+    "id": "83f6de6f-d0e4-46ca-8dc1-3a7ca9a77550",
+    "dimension": 5
+  }
+]

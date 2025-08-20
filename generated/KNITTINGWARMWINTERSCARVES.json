@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T17:37:57.166911+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Ceremony that's right without the \"gh\"",
+                "ordinal": 1,
+                "reveal": "RITE"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Look over quickly",
+                "ordinal": 2,
+                "reveal": "SCAN"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Grave, for short",
+                "ordinal": 3,
+                "reveal": "GRV"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Use profanity, or pledge allegiance",
+                "ordinal": 4,
+                "reveal": "SWEAR"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Stitch together, or stick together",
+                "ordinal": 5,
+                "reveal": "KNIT"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Waste management co.",
+                "ordinal": 6,
+                "reveal": "WM"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Interior, briefly",
+                "ordinal": 7,
+                "reveal": "INT"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"E\", \"T\", \"N\", \"I\", \"W\"], [\"R\", \"T\", \"T\", \"I\", \"M\"], [\"S\", \"I\", \"K\", \"N\", \"R\"], [\"C\", \"N\", \"G\", \"W\", \"A\"], [\"A\", \"R\", \"V\", \"E\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\"], [\"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#A9D594\"], [\"#B86BAC\", \"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#F3F1A0\"], [\"#B86BAC\", \"#B86BAC\", \"#E6B0D1\", \"#F3F1A0\", \"#F3F1A0\"], [\"#B86BAC\", \"#E6B0D1\", \"#E6B0D1\", \"#F3F1A0\", \"#F3F1A0\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                2,
+                0
+            ],
+            "3": [
+                3,
+                2
+            ],
+            "4": [
+                4,
+                4
+            ],
+            "5": [
+                2,
+                2
+            ],
+            "6": [
+                0,
+                4
+            ],
+            "7": [
+                0,
+                3
+            ]
+        },
+        "phrase": "Knitting warm winter scarves",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

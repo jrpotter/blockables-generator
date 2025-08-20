@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-01T10:53:14.937741-07:00",
+    "category": "Famous Trio",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Texas to Colorado direction, abbr.",
+        "ordinal": 1,
+        "reveal": "nW"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Cobra ___\", television series following the events of the original \"The Karate Kid\" films",
+        "ordinal": 2,
+        "reveal": "kAI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before relations or after three-legged",
+        "ordinal": 3,
+        "reveal": "rACE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Jack o'lantern component",
+        "ordinal": 4,
+        "reveal": "cANDLE"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Bashar al-_____, Syria's current president",
+        "ordinal": 5,
+        "reveal": "aSSAD"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Tail action, perhaps when a walk is imminent",
+        "ordinal": 6,
+        "reveal": "wAG"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Franken or Green",
+        "ordinal": 7,
+        "reveal": "aL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"S\",\"d\",\"n\",\"a\",\"k\"],[\"a\",\"s\",\"i\",\"w\",\"r\"],[\"c\",\"a\",\"L\",\"e\",\"a\"],[\"a\",\"n\",\"d\",\"C\",\"l\"],[\"g\",\"a\",\"w\",\"e\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#E6B0D1\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 31,
+    "phrase": "Lewis and Clark and Sacagawea",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-25",
+    "id": "65e2ca68-3cbb-4a34-9b0f-9ae928c1d9df",
+    "dimension": 5
+  }
+]

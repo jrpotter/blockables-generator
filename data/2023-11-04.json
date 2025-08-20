@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-05-15T09:21:19.762237-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Model United Nations, abbr.",
+        "ordinal": 1,
+        "reveal": "mUN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Football, soccer, or baseball",
+        "ordinal": 2,
+        "reveal": "sPORT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Lady partner, perhaps at the beginning of an announcement",
+        "ordinal": 3,
+        "reveal": "gENT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before chocolate or after almond",
+        "ordinal": 4,
+        "reveal": "mILK"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Initials of first female aviator to fly solo across the Atlantic or the scientist known for E=mc\u00b2",
+        "ordinal": 5,
+        "reveal": "aE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "One of Snow White's seven dwarves or a nickname for a medical professional",
+        "ordinal": 6,
+        "reveal": "dOC"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Prefix meaning opposing, perhaps coming before \"freeze\" or \"inflammatory\"",
+        "ordinal": 7,
+        "reveal": "aNTI"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"e\",\"n\",\"t\",\"s\"],[\"u\",\"g\",\"i\",\"m\",\"p\"],[\"c\",\"n\",\"L\",\"e\",\"o\"],[\"o\",\"i\",\"k\",\"a\",\"r\"],[\"d\",\"t\",\"n\",\"a\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 163,
+    "phrase": "Leaking important documents",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-04",
+    "id": "d699fb88-fb70-4096-9dc3-f73bedefa3b2",
+    "dimension": 5
+  }
+]

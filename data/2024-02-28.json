@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-08T20:35:40.131936-06:00",
+    "category": "Events",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Indium tin oxide, abbr.",
+        "ordinal": 1,
+        "reveal": "iTO"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word repeated three times at the start of a nautical children's song",
+        "ordinal": 2,
+        "reveal": "rOW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Company which sells weapons to kids, in a way",
+        "ordinal": 3,
+        "reveal": "nERF"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Smooch",
+        "ordinal": 4,
+        "reveal": "kISS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Volcanic expulsion",
+        "ordinal": 5,
+        "reveal": "ASH"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Triple it for Santa's laugh",
+        "ordinal": 6,
+        "reveal": "hO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Seats on a pendulum, at a neighborhood park, perhaps",
+        "ordinal": 7,
+        "reveal": "sWINGS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"w\",\"e\",\"r\",\"i\"],[\"r\",\"n\",\"o\",\"t\",\"f\"],[\"k\",\"i\",\"A\",\"s\",\"g\"],[\"s\",\"s\",\"h\",\"i\",\"n\"],[\"s\",\"h\",\"o\",\"w\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"],[\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 279,
+    "phrase": "Astonishing fireworks shows",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-28",
+    "id": "607710e5-b527-4f22-8980-5b40cdb7a5f5",
+    "dimension": 5
+  }
+]

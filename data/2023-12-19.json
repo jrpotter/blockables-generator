@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-06-26T14:18:25.214618-06:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Shortened word often found next to a red dot on a camcorder",
+        "ordinal": 1,
+        "reveal": "rEC"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Force Sensing Resistor, abbr.",
+        "ordinal": 2,
+        "reveal": "fSR"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Center where the Higgs boson was discovered in 2012, abbr., the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "cERN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"And you may say to yourself, 'My God, what have I ____?'\", 1980 Talking Heads lyric",
+        "ordinal": 4,
+        "reveal": "dONE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Head of a company, abbr.",
+        "ordinal": 5,
+        "reveal": "cEO"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "By itself, as whiskey",
+        "ordinal": 6,
+        "reveal": "nEAT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "1996 musical containing the lyric \"525,600 minutes\" ",
+        "ordinal": 7,
+        "reveal": "rENT"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"e\",\"r\",\"e\",\"f\"],[\"c\",\"r\",\"o\",\"s\",\"n\"],[\"e\",\"t\",\"R\",\"e\",\"o\"],[\"c\",\"a\",\"n\",\"d\",\"c\"],[\"e\",\"n\",\"t\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#F5C146\"],[\"#EE7B8C\",\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\"],[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        3,
+        0
+      ],
+      "4": [
+        3,
+        3
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 208,
+    "phrase": "Resort and conference center",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-19",
+    "id": "ba7dac20-f85d-4f85-886e-20b6bc744c94",
+    "dimension": 5
+  }
+]

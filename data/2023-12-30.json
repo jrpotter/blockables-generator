@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-07-09T07:41:25.540211-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Playground game, the aim of which is to not be \"It\"",
+        "ordinal": 1,
+        "reveal": "tAG"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Write exam answers on your hand, for example",
+        "ordinal": 2,
+        "reveal": "CHEAT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Simple one-story shelters",
+        "ordinal": 3,
+        "reveal": "hUTS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Nickname for popstar Grande",
+        "ordinal": 4,
+        "reveal": "aRI"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "US org. founded in 1906 to ensure the quality of its food, medicine, and cosmetics",
+        "ordinal": 5,
+        "reveal": "FDA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Los Angeles professional football player",
+        "ordinal": 6,
+        "reveal": "rAM"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Helium's chemical symbol",
+        "ordinal": 7,
+        "reveal": "hE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Input/output, abbr.",
+        "ordinal": 8,
+        "reveal": "iO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"h\",\"t\",\"a\",\"g\"],[\"C\",\"d\",\"e\",\"m\",\"A\"],[\"h\",\"a\",\"F\",\"a\",\"r\"],[\"r\",\"u\",\"t\",\"h\",\"o\"],[\"i\",\"s\",\"t\",\"i\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F3F1A0\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\"],[\"#F3F1A0\",\"#E6B0D1\",\"#A9D594\",\"#A1DBE3\",\"#B86BAC\"],[\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 219,
+    "phrase": "Famed author Agatha Christie",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-30",
+    "id": "b768e261-3433-4583-8949-9cb502e155ef",
+    "dimension": 5
+  }
+]

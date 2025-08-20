@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-08-04T08:44:09.251052-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Banned word alongside \"and\" and \"but\", in a saying",
+        "ordinal": 1,
+        "reveal": "if"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "____ Horn, Chilean headland bordering the body of water mentioned in today's 25-letter answer",
+        "ordinal": 2,
+        "reveal": "cape"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Chop finely, as garlic",
+        "ordinal": 3,
+        "reveal": "mince"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "That guy",
+        "ordinal": 4,
+        "reveal": "him"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Information Commissioner's Office, abbr.",
+        "ordinal": 5,
+        "reveal": "ico"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Mattress size",
+        "ordinal": 6,
+        "reveal": "twin"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Bugs, irks, annoys, or otherwise irritates someone",
+        "ordinal": 7,
+        "reveal": "nags"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"c\",\"a\",\"P\",\"e\"],[\"f\",\"m\",\"m\",\"i\",\"h\"],[\"i\",\"i\",\"S\",\"w\",\"t\"],[\"c\",\"n\",\"g\",\"i\",\"n\"],[\"o\",\"c\",\"e\",\"a\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 804,
+    "phrase": "Swimming in the Pacific ocean",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-08-06",
+    "id": "be6257dc-9c18-471f-a446-319b433a636d",
+    "dimension": 5
+  }
+]

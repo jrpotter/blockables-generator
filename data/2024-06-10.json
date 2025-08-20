@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-16T00:50:22.979593-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Bartender on \"The Simpsons\"",
+        "ordinal": 1,
+        "reveal": "moe"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "They may say \"Stop\", \"Exit\", or \"No Trespassing\"",
+        "ordinal": 2,
+        "reveal": "signs"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"___ had it up to here!\"",
+        "ordinal": 3,
+        "reveal": "ive"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of 1890s magician or 1980s wrestler with a trademark horseshoe mustache",
+        "ordinal": 4,
+        "reveal": "hh"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "eCommerce site focused on handmade goods",
+        "ordinal": 5,
+        "reveal": "eTSY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "One of twelve in a year",
+        "ordinal": 6,
+        "reveal": "month"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Astonishment",
+        "ordinal": 7,
+        "reveal": "awe"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"o\",\"v\",\"e\",\"s\"],[\"e\",\"i\",\"n\",\"g\",\"i\"],[\"h\",\"h\",\"S\",\"o\",\"n\"],[\"s\",\"t\",\"e\",\"m\",\"t\"],[\"y\",\"a\",\"w\",\"e\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 382,
+    "phrase": "\"Something in the way she moves...\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-10",
+    "id": "f2b6c883-795a-4b51-a5a3-ac614c873ac0",
+    "dimension": 5
+  }
+]

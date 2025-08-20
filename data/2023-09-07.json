@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-12T13:44:44.177022-06:00",
+    "category": "\"How Is He So Attractive?\"",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Place or arrange things in a straight line",
+        "ordinal": 1,
+        "reveal": "aLIGN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Expression of gratitude, to a texter",
+        "ordinal": 2,
+        "reveal": "tY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after Kate or peat",
+        "ordinal": 3,
+        "reveal": "mOSS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Flying Solo?",
+        "ordinal": 4,
+        "reveal": "HAN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Helium's chemical symbol",
+        "ordinal": 5,
+        "reveal": "hE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Beverage consumed by Kermit the Frog in the \"But That's None of My Business\" meme",
+        "ordinal": 6,
+        "reveal": "tEA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "___ se",
+        "ordinal": 7,
+        "reveal": "pER"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "International Cycling Association, abbr.",
+        "ordinal": 8,
+        "reveal": "iCA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"l\",\"i\",\"t\",\"y\"],[\"n\",\"m\",\"a\",\"g\",\"n\"],[\"o\",\"a\",\"H\",\"e\",\"e\"],[\"s\",\"s\",\"a\",\"h\",\"t\"],[\"r\",\"e\",\"p\",\"c\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#F5C146\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 105,
+    "phrase": "\"He has a magnetic personality!\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-07",
+    "id": "7a2cfd7b-10ae-4b6d-bee0-f12b53d466de",
+    "dimension": 5
+  }
+]

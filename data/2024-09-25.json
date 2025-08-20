@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-04-05T15:10:01.777585-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word meaning positive or particular",
+        "ordinal": 1,
+        "reveal": "certain"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Once in a _____, you may feel the urge to break international copyright law\", Weird Al lyric",
+        "ordinal": 2,
+        "reveal": "While"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Automated Dialogue Replacement, abbr.",
+        "ordinal": 3,
+        "reveal": "adr"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Friend of Stimpy, in a 1990s cartoon, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "ren"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "US's \"Bluegrass State\"",
+        "ordinal": 5,
+        "reveal": "ky"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Bloodhound's clue, perhaps",
+        "ordinal": 6,
+        "reveal": "scent"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"i\",\"n\",\"e\",\"r\"],[\"t\",\"h\",\"i\",\"l\",\"d\"],[\"r\",\"c\",\"W\",\"a\",\"r\"],[\"e\",\"y\",\"k\",\"c\",\"e\"],[\"t\",\"n\",\"e\",\"s\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        2,
+        1
+      ],
+      "2": [
+        2,
+        2
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 489,
+    "phrase": "Wacky children's entertainer",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-25",
+    "id": "4cb79e5a-7058-46d7-ad38-5b872a81347f",
+    "dimension": 5
+  }
+]

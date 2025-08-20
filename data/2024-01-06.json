@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-07-17T11:06:02.628086-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "First baseman Gehrig or The Velvet Underground's singer Reed",
+        "ordinal": 1,
+        "reveal": "lOU"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "All __ due time",
+        "ordinal": 2,
+        "reveal": "iN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Helvetica or Times New Roman",
+        "ordinal": 3,
+        "reveal": "fONT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before dance (perhaps in a rural area) or after Times (definitely in an urban area)",
+        "ordinal": 4,
+        "reveal": "SQUARE"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Position in the hierarchy of the armed forces",
+        "ordinal": 5,
+        "reveal": "rANK"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Air Force abbr.",
+        "ordinal": 6,
+        "reveal": "aF"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Achilles' weakness",
+        "ordinal": 7,
+        "reveal": "hEEL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"k\",\"l\",\"i\",\"n\"],[\"a\",\"f\",\"S\",\"o\",\"u\"],[\"r\",\"o\",\"Q\",\"u\",\"l\"],[\"F\",\"n\",\"e\",\"e\",\"A\"],[\"a\",\"h\",\"t\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"],[\"#F3F1A0\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"],[\"#F3F1A0\",\"#A1DBE3\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 226,
+    "phrase": "\"Queen of Soul\" Aretha Franklin",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-06",
+    "id": "79ded357-3384-4cd4-b103-004be7a0a885",
+    "dimension": 5
+  }
+]

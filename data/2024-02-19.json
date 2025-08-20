@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-08-27T13:37:14.002973-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Rock genre featuring bands like Nirvana and Pearl Jam",
+        "ordinal": 1,
+        "reveal": "gRUNGE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sheet of glass",
+        "ordinal": 2,
+        "reveal": "pANE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Espresso drink made with chocolate",
+        "ordinal": 3,
+        "reveal": "mOCHA"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Potential nickname for US president Coolidge or fashion designer Klein",
+        "ordinal": 4,
+        "reveal": "cAL"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Board of Tariffs and Trade, abbr.",
+        "ordinal": 5,
+        "reveal": "bTT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pig noise",
+        "ordinal": 6,
+        "reveal": "oINK"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"a\",\"p\",\"m\",\"a\"],[\"n\",\"r\",\"o\",\"c\",\"h\"],[\"e\",\"k\",\"U\",\"n\",\"c\"],[\"b\",\"i\",\"n\",\"g\",\"a\"],[\"o\",\"t\",\"t\",\"l\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#A9D594\"],[\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#7C93CB\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 270,
+    "phrase": "Uncorking a champagne bottle",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-19",
+    "id": "5d24cba6-ae37-4a3e-a1b9-0bed88c9c901",
+    "dimension": 5
+  }
+]

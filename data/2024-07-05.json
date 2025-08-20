@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-05T17:28:55.426933-07:00",
+    "category": "Famous Quote",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Long walk, perhaps up a mountainous trail",
+        "ordinal": 1,
+        "reveal": "hike"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Pa's lady",
+        "ordinal": 2,
+        "reveal": "mA"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Jar topper",
+        "ordinal": 3,
+        "reveal": "lid"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Rise to an upright position on the feet",
+        "ordinal": 4,
+        "reveal": "sTAND"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "No longer present, perhaps after going... going...",
+        "ordinal": 5,
+        "reveal": "gone"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Fantasy creature, perhaps the best-known being Shrek",
+        "ordinal": 6,
+        "reveal": "ogre"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "___ Z",
+        "ordinal": 7,
+        "reveal": "gen"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"d\",\"h\",\"a\",\"m\"],[\"a\",\"l\",\"i\",\"k\",\"e\"],[\"s\",\"t\",\"I\",\"d\",\"g\"],[\"g\",\"o\",\"n\",\"o\",\"r\"],[\"g\",\"e\",\"n\",\"e\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 407,
+    "phrase": "\"I do not like green eggs and ham!\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-05",
+    "id": "0808e367-9114-4e18-844a-f73029c39937",
+    "dimension": 5
+  }
+]

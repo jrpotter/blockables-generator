@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-15T10:12:42.685705-07:00",
+    "category": "Clothing",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Egyptian boy king",
+        "ordinal": 1,
+        "reveal": "tut"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letter before shirt or square",
+        "ordinal": 2,
+        "reveal": "t"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Christmas icon",
+        "ordinal": 3,
+        "reveal": "santa"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Undo, as words written in pencil",
+        "ordinal": 4,
+        "reveal": "erase"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "One Horton hears, perhaps",
+        "ordinal": 5,
+        "reveal": "Who"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Prefix meaning \"again\"",
+        "ordinal": 6,
+        "reveal": "re"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Abbr. to back up, on a remote control or VCR",
+        "ordinal": 7,
+        "reveal": "rew"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Retailer where today's answer may be purchased, the letters of which can be found in this clue's first word",
+        "ordinal": 8,
+        "reveal": "rei"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"t\",\"n\",\"a\",\"t\"],[\"u\",\"h\",\"t\",\"a\",\"s\"],[\"t\",\"e\",\"W\",\"e\",\"i\"],[\"e\",\"r\",\"r\",\"e\",\"s\"],[\"r\",\"w\",\"e\",\"a\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F3F1A0\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#E6B0D1\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\"],[\"#B86BAC\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\",\"#E6B0D1\"],[\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 577,
+    "phrase": "Weather-resistant outerwear",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-22",
+    "id": "8c51f82b-6d43-49ae-96d6-24d552596ac3",
+    "dimension": 5
+  }
+]

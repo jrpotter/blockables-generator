@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-01T11:38:02.881956-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Anger",
+        "ordinal": 1,
+        "reveal": "iRE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Letters to signify understanding, to a texter",
+        "ordinal": 2,
+        "reveal": "oIC"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Ford F-150 Lightning or Tesla Model Y, abbr.",
+        "ordinal": 3,
+        "reveal": "eV"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Cucumber quality, in a phrase",
+        "ordinal": 4,
+        "reveal": "cOOL"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"__ It Was\", 2022 Harry Styles song",
+        "ordinal": 5,
+        "reveal": "aS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after delivery, depth, or dropped",
+        "ordinal": 6,
+        "reveal": "cHARGES"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Radically inexpensive supermarket chain, the letters of which can be found in the first word of this clue",
+        "ordinal": 7,
+        "reveal": "aLDI"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"r\",\"i\",\"e\",\"s\"],[\"v\",\"o\",\"l\",\"o\",\"g\"],[\"o\",\"e\",\"A\",\"r\",\"i\"],[\"c\",\"a\",\"h\",\"c\",\"c\"],[\"s\",\"i\",\"d\",\"l\",\"a\"]]",
+    "gridColors": "[[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\"],[\"#A9D594\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 34,
+    "phrase": "Archaeological discoveries",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-28",
+    "id": "ab2f3057-7872-4b3b-b686-05a478f1ea90",
+    "dimension": 5
+  }
+]

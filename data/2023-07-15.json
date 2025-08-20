@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-01-22T10:12:58.225311-07:00",
+    "category": "Living Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Sound of a punctured balloon",
+        "ordinal": 1,
+        "reveal": "pOP"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "A strong want, wish, or need",
+        "ordinal": 2,
+        "reveal": "uRGE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Monetary unit of Japan",
+        "ordinal": 3,
+        "reveal": "yEN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Director of Photography, abbr.",
+        "ordinal": 4,
+        "reveal": "dP"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Algae variety classified as the largest sub-group of seaweed",
+        "ordinal": 5,
+        "reveal": "kELP"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"I have\" contraction",
+        "ordinal": 6,
+        "reveal": "iVE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Attempt",
+        "ordinal": 7,
+        "reveal": "tRY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "___ on the side of caution",
+        "ordinal": 8,
+        "reveal": "eRR"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"u\",\"p\",\"p\",\"y\"],[\"r\",\"o\",\"l\",\"d\",\"e\"],[\"e\",\"g\",\"P\",\"e\",\"n\"],[\"v\",\"y\",\"k\",\"r\",\"r\"],[\"e\",\"i\",\"r\",\"t\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#7C93CB\",\"#A9D594\",\"#A1DBE3\"],[\"#EE7B8C\",\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\"],[\"#F3F1A0\",\"#B86BAC\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 51,
+    "phrase": "Perky golden retriever puppy",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-15",
+    "id": "c90b0b44-564c-4b43-a1f5-553b635593bb",
+    "dimension": 5
+  }
+]

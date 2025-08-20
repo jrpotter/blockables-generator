@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-12-03T12:40:13.247602-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "BC opposite",
+        "ordinal": 1,
+        "reveal": "aD"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Embrace",
+        "ordinal": 2,
+        "reveal": "hUG"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "A violent term for a hilarious person",
+        "ordinal": 3,
+        "reveal": "rIOT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Letters before school or teen",
+        "ordinal": 4,
+        "reveal": "pRE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Biblical \"your\"",
+        "ordinal": 5,
+        "reveal": "THY"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Attila was one",
+        "ordinal": 6,
+        "reveal": "hUN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sandwich letters",
+        "ordinal": 7,
+        "reveal": "bLT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Large party, perhaps in Oktober",
+        "ordinal": 8,
+        "reveal": "fEST"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"d\",\"h\",\"t\",\"r\"],[\"y\",\"g\",\"u\",\"o\",\"i\"],[\"p\",\"h\",\"T\",\"h\",\"b\"],[\"r\",\"t\",\"f\",\"u\",\"l\"],[\"e\",\"s\",\"e\",\"n\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"],[\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"],[\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        3
+      ],
+      "7": [
+        2,
+        4
+      ],
+      "8": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 2,
+    "phrase": "Thoughtful birthday present",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-05-27",
+    "id": "3a635804-7e34-401c-be10-76070fd91dcb",
+    "dimension": 5
+  }
+]

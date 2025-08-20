@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-02-19T11:52:59.513885-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Random number generator abbr.",
+        "ordinal": 1,
+        "reveal": "rNG"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Mother in-___",
+        "ordinal": 2,
+        "reveal": "lAW"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Acorn-producing tree",
+        "ordinal": 3,
+        "reveal": "oAK"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after first-aid or before Kat",
+        "ordinal": 4,
+        "reveal": "kIT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "German \"and\"",
+        "ordinal": 5,
+        "reveal": "uND"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Lavish party or apple variety",
+        "ordinal": 6,
+        "reveal": "gALA"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Prefix expressing negation or absence",
+        "ordinal": 7,
+        "reveal": "nON"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Type of truck which assists broken or otherwise unusable vehicles",
+        "ordinal": 8,
+        "reveal": "tOW"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"a\",\"k\",\"l\",\"a\"],[\"o\",\"n\",\"i\",\"k\",\"w\"],[\"u\",\"g\",\"T\",\"a\",\"g\"],[\"n\",\"a\",\"l\",\"o\",\"n\"],[\"d\",\"t\",\"o\",\"w\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\"],[\"#A1DBE3\",\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 78,
+    "phrase": "Taking a long walk around town",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-11",
+    "id": "1f69288e-e0ab-4f2b-b19f-d11ef42e87ba",
+    "dimension": 5
+  }
+]

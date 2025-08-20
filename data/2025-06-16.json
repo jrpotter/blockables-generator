@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-15T13:20:51.397465-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Second syllable of a clock's sound",
+        "ordinal": 1,
+        "reveal": "tock"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "VII on a clock",
+        "ordinal": 2,
+        "reveal": "seven"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "What a bartender shouldn't do to James Bond's martini",
+        "ordinal": 3,
+        "reveal": "stir"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Initials of lead actor in \"Sleepless in Seattle\" (1993) or \"A Man Called Otto\" (2022)",
+        "ordinal": 4,
+        "reveal": "th"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Liquid in a pen... or a squid",
+        "ordinal": 5,
+        "reveal": "Ink"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Pa's lady",
+        "ordinal": 6,
+        "reveal": "ma"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "How General Electric might be represented while doing the answer to today's puzzle",
+        "ordinal": 7,
+        "reveal": "ge"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "___ foil hat",
+        "ordinal": 8,
+        "reveal": "tin"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"t\",\"s\",\"e\",\"h\"],[\"c\",\"s\",\"e\",\"v\",\"t\"],[\"k\",\"t\",\"I\",\"n\",\"n\"],[\"m\",\"i\",\"n\",\"g\",\"i\"],[\"a\",\"r\",\"k\",\"e\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#B86BAC\",\"#F5C146\",\"#A1DBE3\"],[\"#F3F1A0\",\"#A9D594\",\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F3F1A0\",\"#A9D594\",\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 753,
+    "phrase": "Investing in the stock market",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-16",
+    "id": "081c47a6-0032-4084-a5bf-cdc44f47e733",
+    "dimension": 5
+  }
+]

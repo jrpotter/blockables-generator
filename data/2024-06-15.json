@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-12-17T13:11:52.150043-07:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Sick",
+        "ordinal": 1,
+        "reveal": "iLL"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "West Coast Express, abbr.",
+        "ordinal": 2,
+        "reveal": "Wce"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Benefactor, perhaps of a kidney",
+        "ordinal": 3,
+        "reveal": "donor"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Deftly disobey, the letters of which are found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "defy"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "____-it-all",
+        "ordinal": 5,
+        "reveal": "know"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Die Hard\" and \"John Wick\" film genre, generally",
+        "ordinal": 6,
+        "reveal": "action"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"W\",\"r\",\"e\",\"n\"],[\"l\",\"o\",\"c\",\"d\",\"o\"],[\"l\",\"n\",\"O\",\"d\",\"i\"],[\"y\",\"f\",\"e\",\"c\",\"t\"],[\"W\",\"o\",\"n\",\"k\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\"],[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        4,
+        3
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 387,
+    "phrase": "Odd confectioner Willy Wonka",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-15",
+    "id": "49106011-2d72-4e5b-8950-aa53397e11e6",
+    "dimension": 5
+  }
+]

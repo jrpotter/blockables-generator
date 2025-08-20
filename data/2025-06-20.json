@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-18T06:31:10.523794-06:00",
+    "category": "Before and After",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Tracts of land",
+        "ordinal": 1,
+        "reveal": "plots"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Quick chuckle",
+        "ordinal": 2,
+        "reveal": "heh"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Containers for storage, perhaps made of plastic",
+        "ordinal": 3,
+        "reveal": "bins"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word repeated twice in start of famous Hamlet monologue",
+        "ordinal": 4,
+        "reveal": "to"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Needles partner, in an idiom",
+        "ordinal": 5,
+        "reveal": "pins"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Dover's US state",
+        "ordinal": 6,
+        "reveal": "de"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Initials of Arwen actress in \"Lord of the Rings\" (2001) or author of \"War and Peace\"",
+        "ordinal": 7,
+        "reveal": "lt"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Square ___",
+        "ordinal": 8,
+        "reveal": "one"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"h\",\"i\",\"n\",\"s\"],[\"l\",\"e\",\"b\",\"o\",\"t\"],[\"o\",\"h\",\"S\",\"p\",\"t\"],[\"d\",\"t\",\"n\",\"i\",\"l\"],[\"e\",\"s\",\"o\",\"n\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F3F1A0\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\"],[\"#EE7B8C\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 757,
+    "phrase": "Spin the bottlenose dolphins",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-20",
+    "id": "913159c7-b5f0-4d92-b0e2-be1a4098beca",
+    "dimension": 5
+  }
+]

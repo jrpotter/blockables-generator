@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-10-29T11:03:12.699721-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Lumberjack's tool",
+        "ordinal": 1,
+        "reveal": "aX"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Ball ____ hammer",
+        "ordinal": 2,
+        "reveal": "peen"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Twirl",
+        "ordinal": 3,
+        "reveal": "Spin"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Position yourself for a photo",
+        "ordinal": 4,
+        "reveal": "pose"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "First name of astronomer Sagan, psychiatrist Jung, or fictional preteen Wheezer",
+        "ordinal": 5,
+        "reveal": "carl"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Association of Translators and Interpreters of Ontario, abbr.",
+        "ordinal": 6,
+        "reveal": "aTIO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "URL ender, commonly",
+        "ordinal": 7,
+        "reveal": "com"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"n\",\"i\",\"e\",\"s\"],[\"p\",\"x\",\"p\",\"l\",\"o\"],[\"m\",\"e\",\"S\",\"p\",\"r\"],[\"o\",\"e\",\"c\",\"a\",\"a\"],[\"c\",\"n\",\"o\",\"i\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\"],[\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\",\"#A9D594\"],[\"#A1DBE3\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 330,
+    "phrase": "Space exploration companies",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-19",
+    "id": "12a36bfa-badd-4c92-8c90-edd3478d7551",
+    "dimension": 5
+  }
+]

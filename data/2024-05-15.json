@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-24T16:30:57.7153-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "To repeat a process, especially as part of a computer program",
+        "ordinal": 1,
+        "reveal": "iterate"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Wide Receiver, abbr.",
+        "ordinal": 2,
+        "reveal": "wr"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Sob",
+        "ordinal": 3,
+        "reveal": "cry"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "2004 sci-fi adventure TV series, featuring a plane in the pilot",
+        "ordinal": 4,
+        "reveal": "lost"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Complete the sequence: F, GG, ___, IIII",
+        "ordinal": 5,
+        "reveal": "hhh"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Chicken counterpart, in a causality dilemma",
+        "ordinal": 6,
+        "reveal": "egg"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "1995 crime thriller film incorporating the deadly sins, to a Roman",
+        "ordinal": 7,
+        "reveal": "vii"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"i\",\"t\",\"e\",\"r\"],[\"w\",\"c\",\"r\",\"e\",\"a\"],[\"t\",\"y\",\"H\",\"i\",\"t\"],[\"s\",\"l\",\"h\",\"g\",\"i\"],[\"o\",\"h\",\"g\",\"e\",\"v\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\"],[\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 356,
+    "phrase": "Highly creative ghostwriter",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-15",
+    "id": "c899e1b4-d12a-48f8-b276-1b5a07e4b40f",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-01-01T07:19:23.972612-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Third digit of the answer to Clue #2, to a Roman",
+        "ordinal": 1,
+        "reveal": "iv"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Number which, when multiplied by twice a circle's radius, results in the circle's circumference",
+        "ordinal": 2,
+        "reveal": "pi"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word before ground or after trauma",
+        "ordinal": 3,
+        "reveal": "dumping"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Country abbr. for the Netherlands",
+        "ordinal": 4,
+        "reveal": "nl"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Run lightly",
+        "ordinal": 5,
+        "reveal": "Jog"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Partner of to, at times",
+        "ordinal": 6,
+        "reveal": "fro"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Macronutrient found in nuts and avocados",
+        "ordinal": 7,
+        "reveal": "fat"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Multi-Factor Authentication, abbr.",
+        "ordinal": 8,
+        "reveal": "mfa"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"n\",\"i\",\"v\",\"i\"],[\"p\",\"i\",\"p\",\"m\",\"d\"],[\"l\",\"n\",\"J\",\"u\",\"a\"],[\"a\",\"g\",\"o\",\"f\",\"f\"],[\"t\",\"f\",\"o\",\"r\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#7C93CB\",\"#A1DBE3\"],[\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 406,
+    "phrase": "Jumping off a diving platform",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-04",
+    "id": "673c8a54-e861-4b7a-b3ec-e5d8f0f29b2e",
+    "dimension": 5
+  }
+]

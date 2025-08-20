@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-14T16:39:47.963004-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "clue": "First half of a doorbell's sound",
+        "color": "#7C93CB",
+        "reveal": "dING",
+        "ordinal": 1
+      },
+      {
+        "clue": "Airport security agency, abbr.",
+        "color": "#E6B0D1",
+        "reveal": "tSA",
+        "ordinal": 2
+      },
+      {
+        "clue": "Drive-____",
+        "color": "#A9D594",
+        "reveal": "tHRU",
+        "ordinal": 3
+      },
+      {
+        "clue": "Skin of an animal with fur, wool, or hair still attached",
+        "color": "#A1DBE3",
+        "reveal": "pELT",
+        "ordinal": 4
+      },
+      {
+        "clue": "Library of Congress abbr.",
+        "color": "#F5C146",
+        "reveal": "lOC",
+        "ordinal": 5
+      },
+      {
+        "clue": "Outermost layer of sushi, often",
+        "color": "#EE7B8C",
+        "reveal": "rICE",
+        "ordinal": 6
+      },
+      {
+        "clue": "Where the salt goes for a margarita",
+        "color": "#F3F1A0",
+        "reveal": "rIM",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\", \"c\", \"a\", \"s\", \"t\"], [\"o\", \"i\", \"n\", \"g\", \"t\"], [\"p\", \"l\", \"T\", \"h\", \"r\"], [\"e\", \"l\", \"i\", \"r\", \"u\"], [\"m\", \"i\", \"r\", \"c\", \"e\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F5C146\", \"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#A9D594\"], [\"#A1DBE3\", \"#F5C146\", \"#A1DBE3\", \"#A9D594\", \"#A9D594\"], [\"#A1DBE3\", \"#A1DBE3\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\"], [\"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 43,
+    "phrase": "Thrilling true-crime podcast",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-07",
+    "id": "02ecc96f-f9d7-497d-b77b-df7baae605c8",
+    "dimension": 5
+  }
+]

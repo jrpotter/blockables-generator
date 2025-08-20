@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2025-07-28T13:39:09.623403-06:00",
+    "category": "Events",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Formal written requests made to an authority asking for a specific action, often signed by the public",
+        "ordinal": 1,
+        "reveal": "petitions"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Common URL ender",
+        "ordinal": 2,
+        "reveal": "com"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before economy or work",
+        "ordinal": 3,
+        "reveal": "gig"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Halifax Tool Library, abbr.",
+        "ordinal": 4,
+        "reveal": "htl"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"My ____!\", Borat (2006) quote",
+        "ordinal": 5,
+        "reveal": "Wife"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "___ foil hat",
+        "ordinal": 6,
+        "reveal": "tin"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"m\",\"o\",\"c\",\"g\"],[\"e\",\"h\",\"g\",\"i\",\"n\"],[\"t\",\"t\",\"W\",\"e\",\"i\"],[\"i\",\"l\",\"i\",\"f\",\"t\"],[\"t\",\"i\",\"o\",\"n\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#7C93CB\",\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 798,
+    "phrase": "Weightlifting competitions",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-31",
+    "id": "7c764009-33db-4eae-8f8f-c885a55f91e3",
+    "dimension": 5
+  }
+]

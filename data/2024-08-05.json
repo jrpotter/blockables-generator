@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-02-11T08:17:29.709351-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"I don't think you two have ___ yet!\", common networking phrase",
+        "ordinal": 1,
+        "reveal": "met"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Transmitted, as a message",
+        "ordinal": 2,
+        "reveal": "sent"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Masculine article in Spanish",
+        "ordinal": 3,
+        "reveal": "el"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"You're So ____\", 1972 Carly Simon hit about a self-absorbed lover",
+        "ordinal": 4,
+        "reveal": "vain"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fleet, Sesame, or Wall",
+        "ordinal": 5,
+        "reveal": "street"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "First name of Little mouse",
+        "ordinal": 6,
+        "reveal": "stuART"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"t\",\"s\",\"e\",\"v\"],[\"e\",\"E\",\"l\",\"a\",\"n\"],[\"n\",\"s\",\"R\",\"e\",\"I\"],[\"t\",\"t\",\"a\",\"t\",\"e\"],[\"T\",\"r\",\"u\",\"s\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        0,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 438,
+    "phrase": "Real Estate Investment Trust",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-05",
+    "id": "25f5b5f4-b148-49f5-8ca2-12f3dc4bd578",
+    "dimension": 5
+  }
+]

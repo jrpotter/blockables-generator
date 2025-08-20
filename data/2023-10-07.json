@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-17T09:26:02.362656-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Potential nickname for comedian Gottfried or singer O'Sullivan",
+        "ordinal": 1,
+        "reveal": "gIL"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"With the shape of an 'L' on ___ forehead\", lyric from Smash Mouth's 1999 hit \"All Star\"",
+        "ordinal": 2,
+        "reveal": "hER"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "One of thirty on a centipede",
+        "ordinal": 3,
+        "reveal": "lEG"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Texas grocery store named after its founder's son, Howard Edward Butt",
+        "ordinal": 4,
+        "reveal": "hEB"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "European Biological Control Laboratory, abbr.",
+        "ordinal": 5,
+        "reveal": "eBCL"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Units of weight used to measure the size of a gemstone which may sound like they belong on a snowman?",
+        "ordinal": 6,
+        "reveal": "cARATS"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "State of bridges or roads after freezing rain",
+        "ordinal": 7,
+        "reveal": "iCY"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"g\",\"h\",\"t\",\"s\"],[\"l\",\"g\",\"e\",\"a\",\"b\"],[\"e\",\"r\",\"R\",\"e\",\"l\"],[\"l\",\"a\",\"h\",\"c\",\"e\"],[\"c\",\"y\",\"c\",\"i\",\"b\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#B86BAC\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\"],[\"#B86BAC\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\",\"#EE7B8C\"],[\"#B86BAC\",\"#F5C146\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        3,
+        0
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 135,
+    "phrase": "Rechargeable bicycle lights",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-07",
+    "id": "2476e747-bc72-463d-a741-f4a9125cc1b5",
+    "dimension": 5
+  }
+]

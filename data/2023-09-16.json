@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-03-27T09:25:05.919047-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Who Harrison played in the Star Wars franchise",
+        "ordinal": 1,
+        "reveal": "hAN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Current Prime Minister of Hungary, whose leadership has seen the country fall 11 places in the Democracy Index",
+        "ordinal": 2,
+        "reveal": "oRBAN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "It may be light, dark, red, or white",
+        "ordinal": 3,
+        "reveal": "mEAT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Post-Sonny one-word singer whose 1998 song \"Believe\" is largely credited for the adoption of Auto-Tune",
+        "ordinal": 4,
+        "reveal": "cHER"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Electric or moray, for example",
+        "ordinal": 5,
+        "reveal": "eEL"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Cesium's chemical symbol",
+        "ordinal": 6,
+        "reveal": "CS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Crafts' partner",
+        "ordinal": 7,
+        "reveal": "aRTS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"n\",\"o\",\"B\",\"a\"],[\"a\",\"e\",\"r\",\"t\",\"n\"],[\"m\",\"s\",\"A\",\"c\",\"e\"],[\"C\",\"s\",\"H\",\"e\",\"l\"],[\"a\",\"r\",\"t\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#F3F1A0\",\"#EE7B8C\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#B86BAC\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 114,
+    "phrase": "Actress Helena Bonham Carter",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-16",
+    "id": "d67ef8e0-4d6a-4503-bf84-7dddd01ad612",
+    "dimension": 5
+  }
+]

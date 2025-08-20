@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:04:40.951202+0000",
+        "category": "Before and After",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Building extension that's often 90 degrees",
+                "ordinal": 1,
+                "reveal": "ELL"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Med. practitioner",
+                "ordinal": 2,
+                "reveal": "DR"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Dynasty known for its porcelain",
+                "ordinal": 3,
+                "reveal": "MING"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Sound from a ewe who's lost her lamb",
+                "ordinal": 4,
+                "reveal": "BAA"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Afterthought in a letter",
+                "ordinal": 5,
+                "reveal": "PS"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Thou ___ not! (archaic \"cannot\")",
+                "ordinal": 6,
+                "reveal": "CANST"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "\"Quod ___ (which see): Lat.",
+                "ordinal": 7,
+                "reveal": "VIDE"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "\"___ are the champions\"",
+                "ordinal": 8,
+                "reveal": "WE"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"L\", \"E\", \"W\", \"D\", \"E\"], [\"L\", \"E\", \"D\", \"I\", \"V\"], [\"I\", \"R\", \"S\", \"P\", \"A\"], [\"N\", \"M\", \"A\", \"N\", \"C\"], [\"G\", \"B\", \"A\", \"T\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#A1DBE3\", \"#A1DBE3\", \"#EE7B8C\", \"#EE7B8C\"], [\"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#EE7B8C\", \"#EE7B8C\"], [\"#E6B0D1\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\", \"#F3F1A0\"], [\"#E6B0D1\", \"#E6B0D1\", \"#A9D594\", \"#F3F1A0\", \"#F3F1A0\"], [\"#E6B0D1\", \"#A9D594\", \"#A9D594\", \"#F3F1A0\", \"#F3F1A0\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                1
+            ],
+            "2": [
+                1,
+                2
+            ],
+            "3": [
+                3,
+                1
+            ],
+            "4": [
+                4,
+                1
+            ],
+            "5": [
+                2,
+                3
+            ],
+            "6": [
+                3,
+                4
+            ],
+            "7": [
+                1,
+                4
+            ],
+            "8": [
+                0,
+                2
+            ]
+        },
+        "phrase": "Spider man cave dwelling bats",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

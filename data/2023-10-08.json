@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-17T09:08:13.081302-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Portable object other than furniture or costumes used on the set of a play or movie",
+        "ordinal": 1,
+        "reveal": "pROP"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Citizen ____\", 1941 Orson Welles drama",
+        "ordinal": 2,
+        "reveal": "kANE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Ache, hurt, or pang",
+        "ordinal": 3,
+        "reveal": "pAIN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word after compressed or before Jordans",
+        "ordinal": 4,
+        "reveal": "aIR"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Like the Lions, Tigers, or Bears?",
+        "ordinal": 5,
+        "reveal": "tEAM"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Common acronym for a citrus-based breakfast drink",
+        "ordinal": 6,
+        "reveal": "oJ"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "First word of animated sitcom featuring Hank Hill or live action sitcom featuring Doug Hefferman",
+        "ordinal": 7,
+        "reveal": "kING"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"p\",\"o\",\"r\",\"p\"],[\"i\",\"n\",\"i\",\"k\",\"p\"],[\"a\",\"g\",\"M\",\"a\",\"a\"],[\"t\",\"a\",\"n\",\"i\",\"n\"],[\"e\",\"j\",\"o\",\"k\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#A9D594\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 136,
+    "phrase": "Making an inappropriate joke",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-08",
+    "id": "6c00fb57-5a3d-4c8f-9486-077034b10e58",
+    "dimension": 5
+  }
+]

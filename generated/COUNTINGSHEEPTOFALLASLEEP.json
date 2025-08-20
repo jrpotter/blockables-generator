@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:07:26.376548+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Gore or Pacino",
+                "ordinal": 1,
+                "reveal": "AL"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Trouble or be troubled",
+                "ordinal": 2,
+                "reveal": "AIL"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Camera part that focuses on the subject",
+                "ordinal": 3,
+                "reveal": "LENS"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Clothesline fastener that sounds like a body part",
+                "ordinal": 4,
+                "reveal": "PEG"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Footwear that might have a tongue but can't speak",
+                "ordinal": 5,
+                "reveal": "SHOE"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "\"May,\" in Marseille",
+                "ordinal": 6,
+                "reveal": "PEUT"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Third letter of the alphabet, or programming language named for another third thing",
+                "ordinal": 7,
+                "reveal": "C"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Typeface or baptismal basin",
+                "ordinal": 8,
+                "reveal": "FONT"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"A\", \"F\", \"O\", \"T\", \"P\"], [\"L\", \"T\", \"N\", \"U\", \"E\"], [\"L\", \"I\", \"C\", \"O\", \"E\"], [\"A\", \"N\", \"G\", \"S\", \"H\"], [\"S\", \"L\", \"E\", \"E\", \"P\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#A1DBE3\", \"#A1DBE3\", \"#F3F1A0\", \"#F3F1A0\"], [\"#7C93CB\", \"#A1DBE3\", \"#A1DBE3\", \"#F3F1A0\", \"#F3F1A0\"], [\"#F5C146\", \"#F5C146\", \"#EE7B8C\", \"#B86BAC\", \"#B86BAC\"], [\"#F5C146\", \"#E6B0D1\", \"#A9D594\", \"#B86BAC\", \"#B86BAC\"], [\"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                3,
+                0
+            ],
+            "3": [
+                4,
+                1
+            ],
+            "4": [
+                4,
+                4
+            ],
+            "5": [
+                3,
+                3
+            ],
+            "6": [
+                0,
+                4
+            ],
+            "7": [
+                2,
+                2
+            ],
+            "8": [
+                0,
+                1
+            ]
+        },
+        "phrase": "Counting sheep to fall asleep",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

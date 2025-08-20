@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-11-10T11:16:52.277965-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "___ and cheese, a classic side dish",
+        "ordinal": 1,
+        "reveal": "mac"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Roman one",
+        "ordinal": 2,
+        "reveal": "i"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Smallest US state",
+        "ordinal": 3,
+        "reveal": "ri"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Bacteriologist after whom a dish is named",
+        "ordinal": 4,
+        "reveal": "petri"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "___ and cheese, a classic sandwich",
+        "ordinal": 5,
+        "reveal": "ham"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Stops",
+        "ordinal": 6,
+        "reveal": "ceases"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Breathe rapidly in short gasps, as a hot dog",
+        "ordinal": 7,
+        "reveal": "pant"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Passive-aggressive text response, to some",
+        "ordinal": 8,
+        "reveal": "k"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"m\",\"r\",\"e\",\"i\"],[\"c\",\"i\",\"r\",\"t\",\"p\"],[\"h\",\"c\",\"I\",\"n\",\"a\"],[\"e\",\"a\",\"t\",\"e\",\"p\"],[\"m\",\"a\",\"s\",\"k\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"],[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#E6B0D1\",\"#B86BAC\",\"#F5C146\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        2,
+        1
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 538,
+    "phrase": "Intricate papier-m\u00e2ch\u00e9 masks",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-13",
+    "id": "997b9a07-9a1f-4cb2-9bda-1bb23e1a3bd7",
+    "dimension": 5
+  }
+]

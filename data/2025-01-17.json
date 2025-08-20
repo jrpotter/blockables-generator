@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-01-12T08:31:17.98597-07:00",
+    "category": "Events",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "1/2, 2:7, or five-to-one",
+        "ordinal": 1,
+        "reveal": "ratio"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Microsoft or Apple product, for short",
+        "ordinal": 2,
+        "reveal": "pc"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Comedian Davidson, guitarist Townshend, and folk singer Seeger",
+        "ordinal": 3,
+        "reveal": "petes"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Not cold",
+        "ordinal": 4,
+        "reveal": "hot"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Happy bird that sings at heaven's gate, according to Shakespeare",
+        "ordinal": 5,
+        "reveal": "lark"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Partner of myself and me",
+        "ordinal": 6,
+        "reveal": "i"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Covertly desire, the letters of which can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "covet"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"t\",\"i\",\"e\",\"s\"],[\"a\",\"e\",\"t\",\"o\",\"p\"],[\"p\",\"h\",\"O\",\"v\",\"c\"],[\"l\",\"t\",\"r\",\"e\",\"o\"],[\"i\",\"a\",\"t\",\"k\",\"c\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#7C93CB\",\"#F5C146\"],[\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#A9D594\",\"#B86BAC\",\"#A9D594\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 603,
+    "phrase": "Over-the-top cocktail parties",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-17",
+    "id": "5b7b6920-b546-4ebb-a3c3-43eb6a0fa4d2",
+    "dimension": 5
+  }
+]

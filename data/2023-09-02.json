@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-12T12:32:04.361935-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "__ Top, rock band featuring two members who famously sported sunglasses, hats, and long beards",
+        "ordinal": 1,
+        "reveal": "zZ"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Groan-inducing joke, often",
+        "ordinal": 2,
+        "reveal": "pUN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Television show about a high school singing group",
+        "ordinal": 3,
+        "reveal": "gLEE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Louisiana Culinary Institute, abbr.",
+        "ordinal": 4,
+        "reveal": "lCI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Like a work by Parisian painter Edgar Degas or Pakistani sculptor Huma Bhabha, broadly",
+        "ordinal": 5,
+        "reveal": "aRT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Semiaquatic fish-eating mammals of the weasel family",
+        "ordinal": 6,
+        "reveal": "oTTERS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Intergovernmental organization founded in 1945, abbr.",
+        "ordinal": 7,
+        "reveal": "uN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"On the Origin __ Species\", 1859 scientific work by Charles Darwin",
+        "ordinal": 8,
+        "reveal": "oF"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"z\",\"z\",\"l\",\"e\"],[\"p\",\"n\",\"g\",\"l\",\"e\"],[\"a\",\"i\",\"C\",\"o\",\"t\"],[\"r\",\"t\",\"n\",\"u\",\"t\"],[\"o\",\"f\",\"s\",\"r\",\"e\"]]",
+    "gridColors": "[[\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#F3F1A0\",\"#B86BAC\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        2,
+        3
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 100,
+    "phrase": "Counting letters for a puzzle",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-02",
+    "id": "5b7125ce-98b3-40ae-9881-c991d47d0e83",
+    "dimension": 5
+  }
+]

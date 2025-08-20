@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:02:54.958140+0000",
+        "category": "People",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Plaything that might be stuffed or remote-controlled",
+                "ordinal": 1,
+                "reveal": "TOY"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Element #24, briefly",
+                "ordinal": 2,
+                "reveal": "CR"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Tidy, or how to take your whiskey",
+                "ordinal": 3,
+                "reveal": "NEAT"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Lethal amount, briefly",
+                "ordinal": 4,
+                "reveal": "OD"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Computer operating system that came before Windows",
+                "ordinal": 5,
+                "reveal": "DOS"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Take under one's ___ (protect)",
+                "ordinal": 6,
+                "reveal": "WING"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Utensil that might split from the main path",
+                "ordinal": 7,
+                "reveal": "FORK"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Thor's wife in Norse mythology",
+                "ordinal": 8,
+                "reveal": "SIF"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"Y\", \"O\", \"T\", \"N\", \"E\"], [\"S\", \"T\", \"F\", \"A\", \"D\"], [\"F\", \"I\", \"C\", \"R\", \"O\"], [\"O\", \"N\", \"G\", \"W\", \"O\"], [\"R\", \"K\", \"I\", \"D\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#A1DBE3\", \"#7C93CB\", \"#A1DBE3\", \"#F3F1A0\", \"#A9D594\"], [\"#EE7B8C\", \"#A1DBE3\", \"#B86BAC\", \"#B86BAC\", \"#A9D594\"], [\"#EE7B8C\", \"#F5C146\", \"#F5C146\", \"#F5C146\", \"#E6B0D1\"], [\"#EE7B8C\", \"#EE7B8C\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                1
+            ],
+            "2": [
+                2,
+                2
+            ],
+            "3": [
+                0,
+                3
+            ],
+            "4": [
+                2,
+                4
+            ],
+            "5": [
+                4,
+                3
+            ],
+            "6": [
+                3,
+                3
+            ],
+            "7": [
+                2,
+                0
+            ],
+            "8": [
+                1,
+                0
+            ]
+        },
+        "phrase": "Crafting wooden toys for kids",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

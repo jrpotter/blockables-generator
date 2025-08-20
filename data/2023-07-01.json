@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-07T21:11:18.193694-07:00",
+    "category": "Edible Trio",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Hard skin of a lemon, a lime, or a wheel of Parmesan",
+        "ordinal": 1,
+        "reveal": "rIND"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "State abbr. where the show \"Outer Banks\" is set",
+        "ordinal": 2,
+        "reveal": "nC"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before Knox or after pillow",
+        "ordinal": 3,
+        "reveal": "fORT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Name of animated Kung Fu master voiced by Jack Black",
+        "ordinal": 4,
+        "reveal": "PO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Damp and musty",
+        "ordinal": 5,
+        "reveal": "dANK"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Making a pretense of shyness or modesty that is intended to be alluring",
+        "ordinal": 6,
+        "reveal": "cOY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Bears who eat mostly bamboo",
+        "ordinal": 7,
+        "reveal": "pANDAS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"r\",\"i\",\"n\",\"k\"],[\"t\",\"n\",\"c\",\"a\",\"n\"],[\"f\",\"r\",\"P\",\"o\",\"d\"],[\"o\",\"o\",\"c\",\"p\",\"y\"],[\"s\",\"a\",\"d\",\"n\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\"],[\"#F3F1A0\",\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 37,
+    "phrase": "Popcorn, candy, and a soft drink",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-01",
+    "id": "6e5dc5d8-5be5-404e-9dec-57e9773a536c",
+    "dimension": 5
+  }
+]

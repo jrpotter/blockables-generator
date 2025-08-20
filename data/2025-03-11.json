@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-03-08T16:33:37.373909-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Open__, creators of ChatGPT",
+        "ordinal": 1,
+        "reveal": "ai"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Shrimp pairing, in a Southern dish",
+        "ordinal": 2,
+        "reveal": "Grits"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Like dangerous winter roads",
+        "ordinal": 3,
+        "reveal": "icy"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Movie rating indicating the content is intended for a restricted audience",
+        "ordinal": 4,
+        "reveal": "r"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Small picture on a desktop",
+        "ordinal": 5,
+        "reveal": "icon"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Pizza unit",
+        "ordinal": 6,
+        "reveal": "slice"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Business division which deals with hiring and recruiting, abbr.",
+        "ordinal": 7,
+        "reveal": "hr"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Lose opposite",
+        "ordinal": 8,
+        "reveal": "win"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"r\",\"I\",\"t\",\"s\"],[\"G\",\"i\",\"n\",\"o\",\"i\"],[\"e\",\"c\",\"I\",\"c\",\"c\"],[\"r\",\"l\",\"y\",\"r\",\"i\"],[\"s\",\"h\",\"w\",\"i\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#B86BAC\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\"],[\"#A9D594\",\"#F5C146\",\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\"],[\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        3,
+        3
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 656,
+    "phrase": "Iconic lyricist Ira Gershwin",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-11",
+    "id": "1f0a7bc5-f38f-4cd3-bab0-fc11406951e4",
+    "dimension": 5
+  }
+]

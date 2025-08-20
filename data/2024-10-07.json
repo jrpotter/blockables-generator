@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-10-04T13:12:26.888739-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "2021 Pixar film about sea monsters off the Italian coast",
+        "ordinal": 1,
+        "reveal": "luca"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word signaling a conditional statement",
+        "ordinal": 2,
+        "reveal": "if"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Brevity's soul, in an idiom",
+        "ordinal": 3,
+        "reveal": "wit"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Church instrument",
+        "ordinal": 4,
+        "reveal": "organ"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Take to the skies",
+        "ordinal": 5,
+        "reveal": "fly"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Game cube?",
+        "ordinal": 6,
+        "reveal": "die"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Data Generating Process, abbr.",
+        "ordinal": 7,
+        "reveal": "dgp"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"What __ I, chopped liver?\"",
+        "ordinal": 8,
+        "reveal": "am"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"l\",\"u\",\"c\",\"i\"],[\"w\",\"i\",\"y\",\"a\",\"f\"],[\"o\",\"n\",\"P\",\"l\",\"f\"],[\"r\",\"g\",\"a\",\"d\",\"i\"],[\"d\",\"g\",\"a\",\"m\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 501,
+    "phrase": "Playing a difficult word game",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-07",
+    "id": "8d29a9bb-813c-44ef-8045-6541b22e9769",
+    "dimension": 5
+  }
+]

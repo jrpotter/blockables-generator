@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-11-12T15:28:52.122941-07:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Dinner and a movie, perhaps",
+        "ordinal": 1,
+        "reveal": "Date"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sides on a die, to a Roman",
+        "ordinal": 2,
+        "reveal": "vI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Houston Young People for the Arts, abbr.",
+        "ordinal": 3,
+        "reveal": "hYPA"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Embracing, perhaps paired with kissing",
+        "ordinal": 4,
+        "reveal": "Hugging"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Admiral, colonel, and general, for three",
+        "ordinal": 5,
+        "reveal": "ranks"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sweetened beverage of diluted fruit juice, perhaps with lemons or lime",
+        "ordinal": 6,
+        "reveal": "ade"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"D\",\"g\",\"n\",\"i\",\"v\"],[\"a\",\"T\",\"e\",\"g\",\"i\"],[\"y\",\"h\",\"H\",\"u\",\"g\"],[\"P\",\"a\",\"n\",\"k\",\"s\"],[\"a\",\"r\",\"a\",\"d\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\"],[\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 354,
+    "phrase": "Huge Thanksgiving Day Parade",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-13",
+    "id": "24f8a331-306c-4c78-8dfd-28e8f14a3a68",
+    "dimension": 5
+  }
+]

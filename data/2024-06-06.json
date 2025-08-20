@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-09T13:24:53.718085-07:00",
+    "category": "Before and After and After",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Word before Knox or after pillow",
+        "ordinal": 1,
+        "reveal": "Fort"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Sandy mound or a 2022 sci-fi film",
+        "ordinal": 2,
+        "reveal": "dUNE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Love Actually\" (2003) or \"The King's Speech\" (2010) actor Colin",
+        "ordinal": 3,
+        "reveal": "firth"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Make a soft murmuring sound, as a pigeon or dove",
+        "ordinal": 4,
+        "reveal": "Coo"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Middle initials of the 41st US president",
+        "ordinal": 5,
+        "reveal": "hW"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Electrical and Electronic Equipment, abbr.",
+        "ordinal": 6,
+        "reveal": "eee"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"K\" in the NATO phonetic alphabet",
+        "ordinal": 7,
+        "reveal": "kilo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"t\",\"r\",\"o\",\"F\"],[\"n\",\"d\",\"r\",\"i\",\"f\"],[\"e\",\"W\",\"T\",\"h\",\"o\"],[\"C\",\"h\",\"e\",\"e\",\"l\"],[\"o\",\"o\",\"k\",\"i\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A9D594\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 378,
+    "phrase": "Third Wheel of Fortune Cookie",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-06",
+    "id": "237cc73a-0ffc-4446-9343-9d0d38952693",
+    "dimension": 5
+  }
+]

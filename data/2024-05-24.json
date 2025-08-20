@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-29T11:31:12.805055-07:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before race or show",
+        "ordinal": 1,
+        "reveal": "drag"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Bert's roommate in Sesame Street or Coach's first name in Cheers",
+        "ordinal": 2,
+        "reveal": "ernie"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word repeated three times at the start of a nautical children's song",
+        "ordinal": 3,
+        "reveal": "row"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "___ Andreas, California",
+        "ordinal": 4,
+        "reveal": "sAN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Starchy Thanksgiving tuber, often confused with a sweet potato",
+        "ordinal": 5,
+        "reveal": "yam"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Aloof person, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "oAF"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "United Nations Voluntary Fund, abbr.",
+        "ordinal": 7,
+        "reveal": "uNVF"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"g\",\"a\",\"m\",\"e\"],[\"r\",\"r\",\"s\",\"a\",\"r\"],[\"o\",\"e\",\"A\",\"n\",\"y\"],[\"w\",\"v\",\"i\",\"n\",\"o\"],[\"n\",\"u\",\"f\",\"a\",\"f\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\"],[\"#A9D594\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#F5C146\"],[\"#A9D594\",\"#F5C146\",\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\"],[\"#A9D594\",\"#EE7B8C\",\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 365,
+    "phrase": "Anniversary of a fun word game",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-24",
+    "id": "dea733ec-dac5-4504-98af-1db558191046",
+    "dimension": 5
+  }
+]

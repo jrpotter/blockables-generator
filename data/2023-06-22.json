@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-19T08:39:10.840207-07:00",
+    "category": "Messes up at Year End?",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Not thought out, as decisions",
+        "ordinal": 1,
+        "reveal": "rASH"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Calf meat",
+        "ordinal": 2,
+        "reveal": "vEAL"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Dwight Schrute's crop, in The Office",
+        "ordinal": 3,
+        "reveal": "bEET"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Sports TV channel, partly owned by the Walt Disney Co.",
+        "ordinal": 4,
+        "reveal": "eSPN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sounds like you plant with poisonous berries",
+        "ordinal": 5,
+        "reveal": "YEW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Jumpy dude, in a Christmas carol",
+        "ordinal": 6,
+        "reveal": "lORD"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word before foul or harm, in a phrase",
+        "ordinal": 7,
+        "reveal": "nO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"s\",\"E\",\"v\",\"e\"],[\"a\",\"h\",\"e\",\"b\",\"a\"],[\"e\",\"t\",\"D\",\"r\",\"l\"],[\"Y\",\"s\",\"p\",\"o\",\"l\"],[\"w\",\"e\",\"N\",\"n\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A9D594\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 28,
+    "phrase": "Drops the ball on New Year's Eve",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-22",
+    "id": "70fa5b8b-df75-4c6e-8878-118f6f23fa2f",
+    "dimension": 5
+  }
+]

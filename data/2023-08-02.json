@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-02-05T11:57:11.556133-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Double it for a cheerleader's prop",
+        "ordinal": 1,
+        "reveal": "pOM"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Broadway's titular little orphan",
+        "ordinal": 2,
+        "reveal": "aNNIE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Tasty!\"",
+        "ordinal": 3,
+        "reveal": "yUM"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Dr. Fieri Saves Disney Restaurant by Injecting 10 ___ of Donkey Sauce\", Eater headline",
+        "ordinal": 4,
+        "reveal": "cCS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Double it for a percussionist's instrument",
+        "ordinal": 5,
+        "reveal": "TOM"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Metro-Goldwyn-Mayer's Leo or Lewis's Aslan",
+        "ordinal": 6,
+        "reveal": "lION"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "First name of only Australian to win two acting Oscars; the letters of which can be found in her last name",
+        "ordinal": 7,
+        "reveal": "cATE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"p\",\"a\",\"n\",\"y\"],[\"o\",\"m\",\"m\",\"u\",\"n\"],[\"c\",\"o\",\"T\",\"e\",\"i\"],[\"s\",\"c\",\"e\",\"l\",\"c\"],[\"n\",\"o\",\"i\",\"t\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\"],[\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 69,
+    "phrase": "Telecommunications company",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-02",
+    "id": "afc67574-fb14-4c04-b227-f7a4ad6def1d",
+    "dimension": 5
+  }
+]

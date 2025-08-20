@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-03-22T10:11:03.804574-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Broomstick-riding sorceress",
+        "ordinal": 1,
+        "reveal": "Witch"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Mononymous best-selling Irish solo artist",
+        "ordinal": 2,
+        "reveal": "enya"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Eastern Carolina University, abbr.",
+        "ordinal": 3,
+        "reveal": "ecu"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Grammatical cousin of \"a\"",
+        "ordinal": 4,
+        "reveal": "an"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Setting of many jokes",
+        "ordinal": 5,
+        "reveal": "Bar"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Letters between Q and T, alphabetically",
+        "ordinal": 6,
+        "reveal": "rs"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Prefix meaning two",
+        "ordinal": 7,
+        "reveal": "Bi"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after garage or yard",
+        "ordinal": 8,
+        "reveal": "sale"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"W\",\"a\",\"y\",\"n\",\"e\"],[\"e\",\"i\",\"a\",\"n\",\"B\"],[\"c\",\"t\",\"C\",\"h\",\"a\"],[\"u\",\"s\",\"i\",\"r\",\"l\"],[\"r\",\"B\",\"s\",\"a\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\"],[\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        1,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 669,
+    "phrase": "Christian Bale as Bruce Wayne",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-24",
+    "id": "890ecd16-6570-4989-8143-e305dff0c9cf",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-02T19:49:22.258302-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Musical pioneer Rundgren or \"Bojack Horseman\" slacker-inventor Chavez",
+        "ordinal": 1,
+        "reveal": "todd"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of \"Hollaback Girl\" singer or actor who played Lt. Dan in \"Forrest Gump\"",
+        "ordinal": 2,
+        "reveal": "gs"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"All we hear is radio ___ ___, radio ga ga\", 1984 Queen lyric",
+        "ordinal": 3,
+        "reveal": "goo"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"That's amazing!\"",
+        "ordinal": 4,
+        "reveal": "wow"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Hokuto International Music Festival, abbr.",
+        "ordinal": 5,
+        "reveal": "hiMF"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "____ Cat, 2011 internet meme of a cat with a Pop-Tart body and a rainbow trail",
+        "ordinal": 6,
+        "reveal": "nyan"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Nitrogen's chemical symbol",
+        "ordinal": 7,
+        "reveal": "n"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Hammer, wrench, or screwdriver",
+        "ordinal": 8,
+        "reveal": "tool"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"d\",\"o\",\"g\",\"s\"],[\"o\",\"g\",\"d\",\"o\",\"w\"],[\"h\",\"n\",\"W\",\"o\",\"n\"],[\"y\",\"i\",\"f\",\"l\",\"t\"],[\"n\",\"a\",\"m\",\"o\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#A9D594\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        2,
+        1
+      ],
+      "7": [
+        2,
+        4
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 772,
+    "phrase": "Wolfing down too many hotdogs",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-05",
+    "id": "42173d63-c800-4233-bf57-528e778a9168",
+    "dimension": 5
+  }
+]

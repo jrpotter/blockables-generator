@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-09T08:09:26.76138-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Big monkey",
+        "ordinal": 1,
+        "reveal": "ape"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Macaroni, for short, often paired with cheese",
+        "ordinal": 2,
+        "reveal": "mac"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word after butt or drunk",
+        "ordinal": 3,
+        "reveal": "dialing"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Dangerous construction ____\", Blockables answer with category \"Place\"",
+        "ordinal": 4,
+        "reveal": "site"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word signaling a conditional statement",
+        "ordinal": 5,
+        "reveal": "if"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "____ Domino, pioneering rock and roll pianist",
+        "ordinal": 6,
+        "reveal": "fats"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Initials of actor who starred in \"Gladiator\" or soul pioneer who recorded \"Hit the Road Jack\"",
+        "ordinal": 7,
+        "reveal": "rc"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"i\",\"a\",\"p\",\"m\"],[\"n\",\"l\",\"a\",\"e\",\"a\"],[\"s\",\"i\",\"I\",\"d\",\"c\"],[\"t\",\"s\",\"t\",\"i\",\"c\"],[\"a\",\"f\",\"f\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\"],[\"#B86BAC\",\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\"],[\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#E6B0D1\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 412,
+    "phrase": "Idealistic campaign staffer",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-10",
+    "id": "ea3bb4f9-2cd9-4921-ac01-a0e6bce4a257",
+    "dimension": 5
+  }
+]

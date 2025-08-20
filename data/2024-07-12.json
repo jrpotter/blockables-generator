@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-13T15:46:34.031363-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Earl Grey ___",
+        "ordinal": 1,
+        "reveal": "tea"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Writing liquid, perhaps applied by a quill",
+        "ordinal": 2,
+        "reveal": "ink"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Two-Point Correlation Function, abbr.",
+        "ordinal": 3,
+        "reveal": "tpcf"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Substance covering 97.6% of Antarctica",
+        "ordinal": 4,
+        "reveal": "ice"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Objects gifted on the fifth day of \"The Twelve Days of Christmas\"",
+        "ordinal": 5,
+        "reveal": "rings"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "One twelfth of a foot",
+        "ordinal": 6,
+        "reveal": "inch"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"What\" in Spanish",
+        "ordinal": 7,
+        "reveal": "que"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"t\",\"e\",\"f\",\"i\"],[\"c\",\"t\",\"c\",\"a\",\"n\"],[\"h\",\"i\",\"P\",\"r\",\"k\"],[\"n\",\"c\",\"i\",\"n\",\"g\"],[\"i\",\"q\",\"u\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#EE7B8C\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\"],[\"#A1DBE3\",\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 414,
+    "phrase": "Practicing knife techniques",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-12",
+    "id": "39a7bb8e-44ff-4b26-a7d0-e894eeb8c808",
+    "dimension": 5
+  }
+]

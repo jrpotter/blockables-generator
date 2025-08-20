@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-12-26T05:55:20.833168-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Actions speak louder ____ words.\"",
+        "ordinal": 1,
+        "reveal": "than"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Jim's love interest in \"The Office\"",
+        "ordinal": 2,
+        "reveal": "pam"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Mental sharpness, perhaps comedic",
+        "ordinal": 3,
+        "reveal": "wit"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Bunny action",
+        "ordinal": 4,
+        "reveal": "Hop"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Solar Electric Propulsion, abbr.",
+        "ordinal": 5,
+        "reveal": "sep"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Spanish word before Dorado or Salvador",
+        "ordinal": 6,
+        "reveal": "eL"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Like a haunted house or a horror movie",
+        "ordinal": 7,
+        "reveal": "sCARY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "London's location, abbr.",
+        "ordinal": 8,
+        "reveal": "uk"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"m\",\"h\",\"t\",\"i\"],[\"p\",\"a\",\"p\",\"t\",\"w\"],[\"l\",\"n\",\"H\",\"o\",\"s\"],[\"e\",\"c\",\"a\",\"k\",\"e\"],[\"s\",\"y\",\"r\",\"u\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\"],[\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 394,
+    "phrase": "Hot pancakes with maple syrup",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-22",
+    "id": "3df565c6-f903-437f-9aae-b7c830d20252",
+    "dimension": 5
+  }
+]

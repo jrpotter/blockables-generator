@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:53:30.405175+0000",
+        "category": "Person",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Computer's brain, for short",
+                "ordinal": 1,
+                "reveal": "OS"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Past participle that's past tense",
+                "ordinal": 2,
+                "reveal": "BEEN"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Grecian Formula target, briefly",
+                "ordinal": 3,
+                "reveal": "GR"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Great Dane, for short",
+                "ordinal": 4,
+                "reveal": "GD"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Place in an urn, as ashes",
+                "ordinal": 5,
+                "reveal": "INURN"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Golf standard or newspaper item, in brief",
+                "ordinal": 6,
+                "reveal": "PAR"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Purpose or function",
+                "ordinal": 7,
+                "reveal": "USE"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "His and ___",
+                "ordinal": 8,
+                "reveal": "HERS"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"O\", \"R\", \"G\", \"N\", \"I\"], [\"S\", \"E\", \"D\", \"R\", \"N\"], [\"E\", \"N\", \"G\", \"A\", \"U\"], [\"B\", \"E\", \"R\", \"P\", \"R\"], [\"U\", \"S\", \"H\", \"E\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#A9D594\", \"#A9D594\"], [\"#7C93CB\", \"#E6B0D1\", \"#B86BAC\", \"#A9D594\", \"#A9D594\"], [\"#E6B0D1\", \"#E6B0D1\", \"#B86BAC\", \"#EE7B8C\", \"#A9D594\"], [\"#E6B0D1\", \"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\", \"#A1DBE3\"], [\"#F3F1A0\", \"#F3F1A0\", \"#A1DBE3\", \"#A1DBE3\", \"#A1DBE3\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                3,
+                0
+            ],
+            "3": [
+                0,
+                2
+            ],
+            "4": [
+                2,
+                2
+            ],
+            "5": [
+                0,
+                4
+            ],
+            "6": [
+                3,
+                3
+            ],
+            "7": [
+                4,
+                0
+            ],
+            "8": [
+                4,
+                2
+            ]
+        },
+        "phrase": "Gardener pruning rose bushes",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

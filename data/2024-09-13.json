@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-24T13:17:33.24757-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Spanish word for gold",
+        "ordinal": 1,
+        "reveal": "oro"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "2,000 pounds",
+        "ordinal": 2,
+        "reveal": "ton"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Unique Identification Authority Department, abbr.",
+        "ordinal": 3,
+        "reveal": "uIAD"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Automobile",
+        "ordinal": 4,
+        "reveal": "car"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Sticky arts-and-crafts substance",
+        "ordinal": 5,
+        "reveal": "glue"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "By ___ means necessary",
+        "ordinal": 6,
+        "reveal": "any"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Terrific time or an explosion",
+        "ordinal": 7,
+        "reveal": "Blast"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"o\",\"o\",\"t\",\"r\"],[\"d\",\"r\",\"t\",\"s\",\"a\"],[\"o\",\"a\",\"A\",\"u\",\"c\"],[\"g\",\"l\",\"i\",\"a\",\"n\"],[\"B\",\"l\",\"u\",\"e\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\"],[\"#E6B0D1\",\"#EE7B8C\",\"#7C93CB\",\"#F5C146\",\"#F3F1A0\"],[\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\"],[\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 477,
+    "phrase": "Australian cartoon dog Bluey",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-13",
+    "id": "26d0674c-9a5b-4eda-9788-23a80345e4b0",
+    "dimension": 5
+  }
+]

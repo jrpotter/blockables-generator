@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-10-27T12:02:22.250702-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Scald then cool vegetables",
+        "ordinal": 1,
+        "reveal": "blanch"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Clinically disinfected",
+        "ordinal": 2,
+        "reveal": "sterile"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Emergency Response Team, abbr.",
+        "ordinal": 3,
+        "reveal": "ert"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Worst grade in school",
+        "ordinal": 4,
+        "reveal": "F"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Month between Oct. and Dec.",
+        "ordinal": 5,
+        "reveal": "nov"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Customary Middle Eastern spice, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "sumac"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"b\",\"l\",\"A\",\"t\",\"s\"],[\"e\",\"c\",\"n\",\"e\",\"i\"],[\"r\",\"h\",\"F\",\"r\",\"l\"],[\"t\",\"n\",\"o\",\"v\",\"e\"],[\"C\",\"a\",\"m\",\"u\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 528,
+    "phrase": "French novelist Albert Camus",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-03",
+    "id": "0bebf7d5-72cb-4f6f-9f1a-f1021eb3590a",
+    "dimension": 5
+  }
+]

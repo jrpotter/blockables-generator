@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-20T08:36:41.821685-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Police officer",
+        "ordinal": 1,
+        "reveal": "cop"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "-. to a telegrapher",
+        "ordinal": 2,
+        "reveal": "n"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"The Last of Us\" (2023-present) star Pascal or Boston Red Sox pitcher Mart\u00ednez",
+        "ordinal": 3,
+        "reveal": "pedro"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"You can tune a guitar, but you can't ____ fish!\", well-known punchline",
+        "ordinal": 4,
+        "reveal": "tuna"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "It may be in the oven?",
+        "ordinal": 5,
+        "reveal": "bun"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Went first",
+        "ordinal": 6,
+        "reveal": "led"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Take it easy",
+        "ordinal": 7,
+        "reveal": "rest"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Double it for a ballerina's dress",
+        "ordinal": 8,
+        "reveal": "tu"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"c\",\"o\",\"r\",\"n\"],[\"o\",\"e\",\"d\",\"u\",\"n\"],[\"p\",\"t\",\"U\",\"n\",\"b\"],[\"d\",\"l\",\"a\",\"s\",\"u\"],[\"e\",\"r\",\"e\",\"t\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#EE7B8C\",\"#B86BAC\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 582,
+    "phrase": "Unsalted, unbuttered popcorn",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-27",
+    "id": "a9a6c63f-e67f-4fa4-94dc-b687d052f252",
+    "dimension": 5
+  }
+]

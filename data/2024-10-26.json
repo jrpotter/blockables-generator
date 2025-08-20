@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-21T12:55:54.802935-06:00",
+    "category": "Film and TV",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before Hackman or pool",
+        "ordinal": 1,
+        "reveal": "Gene"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Background actors in a movie",
+        "ordinal": 2,
+        "reveal": "extras"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Model _, 1908 Ford automobile",
+        "ordinal": 3,
+        "reveal": "T"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Airborne toy, perhaps flown by Benjamin Franklin",
+        "ordinal": 4,
+        "reveal": "kite"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Camping shelter",
+        "ordinal": 5,
+        "reveal": "Tent"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Cute pet name inspired by a bee product",
+        "ordinal": 6,
+        "reveal": "hon"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Annual Recurring Revenue, abbr.",
+        "ordinal": 7,
+        "reveal": "arr"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"G\",\"t\",\"x\",\"e\"],[\"n\",\"T\",\"r\",\"a\",\"N\"],[\"e\",\"r\",\"S\",\"t\",\"e\"],[\"r\",\"e\",\"k\",\"T\",\"h\"],[\"a\",\"t\",\"i\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 520,
+    "phrase": "\"Star Trek: The Next Generation\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-26",
+    "id": "aac69d7b-8974-48d5-9f01-da16c4879363",
+    "dimension": 5
+  }
+]

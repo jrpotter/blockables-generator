@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-22T16:35:51.525514-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Buy low, ____ high",
+        "ordinal": 1,
+        "reveal": "sell"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Dessert made from apples, key limes, or pecans",
+        "ordinal": 2,
+        "reveal": "pie"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Where the femur can be found",
+        "ordinal": 3,
+        "reveal": "leg"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Change the note on a trumpet without the use of valves, as the answer to today's puzzle might",
+        "ordinal": 4,
+        "reveal": "Bend"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pink oinker",
+        "ordinal": 5,
+        "reveal": "pig"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Oxford English Dictionary, abbr.",
+        "ordinal": 6,
+        "reveal": "oed"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"That's show___, baby!\"",
+        "ordinal": 7,
+        "reveal": "biz"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Last two letters of the alphabet",
+        "ordinal": 8,
+        "reveal": "yz"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"s\",\"p\",\"i\",\"e\"],[\"l\",\"e\",\"g\",\"e\",\"n\"],[\"l\",\"l\",\"B\",\"e\",\"d\"],[\"i\",\"p\",\"o\",\"b\",\"D\"],[\"G\",\"y\",\"z\",\"z\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#A9D594\"],[\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 766,
+    "phrase": "Bebop legend Dizzy Gillespie",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-29",
+    "id": "5cd3d095-43a7-47a6-b210-570e32fdebaa",
+    "dimension": 5
+  }
+]

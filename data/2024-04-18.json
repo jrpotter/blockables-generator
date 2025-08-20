@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-10-25T08:00:05.202751-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Not have",
+        "ordinal": 1,
+        "reveal": "lack"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before chi or Lopez",
+        "ordinal": 2,
+        "reveal": "tai"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Formally initial attempt, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "foray"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Swedish pop-rock group which won the 1974 Eurovision Song Contest",
+        "ordinal": 4,
+        "reveal": "abba"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Large body of salt water",
+        "ordinal": 5,
+        "reveal": "sea"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "One out of ten, for one",
+        "ordinal": 6,
+        "reveal": "rating"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"a\",\"c\",\"i\",\"t\"],[\"f\",\"n\",\"i\",\"k\",\"a\"],[\"o\",\"g\",\"T\",\"a\",\"b\"],[\"r\",\"a\",\"s\",\"a\",\"b\"],[\"a\",\"y\",\"e\",\"a\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\",\"#F5C146\"],[\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 329,
+    "phrase": "Taking a sabbatical for a year",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-18",
+    "id": "3a5f9a62-ce1f-4cea-a681-7fb5834c8b95",
+    "dimension": 5
+  }
+]

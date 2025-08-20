@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-07-06T10:59:49.358829-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Fuel gauge letter",
+        "ordinal": 1,
+        "reveal": "e"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Mom or dad",
+        "ordinal": 2,
+        "reveal": "parent"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Sheet of paperwork, perhaps for taxes",
+        "ordinal": 3,
+        "reveal": "form"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Point of view, for instance, the letters of which can be found in this clue's fifth word",
+        "ordinal": 4,
+        "reveal": "stance"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Wide's partner, sometimes",
+        "ordinal": 5,
+        "reveal": "Far"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "American governmental service headquarters in Langley, Virginia",
+        "ordinal": 6,
+        "reveal": "cia"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Letters between N and Q, alphabetically",
+        "ordinal": 7,
+        "reveal": "op"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"e\",\"p\",\"a\",\"r\"],[\"f\",\"a\",\"t\",\"n\",\"e\"],[\"o\",\"s\",\"F\",\"a\",\"p\"],[\"r\",\"t\",\"i\",\"c\",\"o\"],[\"m\",\"a\",\"n\",\"c\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A9D594\",\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 778,
+    "phrase": "Fantastic opera performance",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-11",
+    "id": "fb798229-05f1-49bf-a08e-eb1121f169d4",
+    "dimension": 5
+  }
+]

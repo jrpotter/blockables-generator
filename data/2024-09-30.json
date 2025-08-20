@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-04-10T08:09:27.765191-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Tropical bird",
+        "ordinal": 1,
+        "reveal": "Macaw"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Silicon's chemical symbol",
+        "ordinal": 2,
+        "reveal": "si"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "2017 horror film starring Bill Skarsg\u00e5rd",
+        "ordinal": 3,
+        "reveal": "it"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Physical or psychological damage or injury",
+        "ordinal": 4,
+        "reveal": "harm"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Total Knee Replacement, abbr.",
+        "ordinal": 5,
+        "reveal": "Tkr"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Anakin Skywalker's childhood nickname",
+        "ordinal": 6,
+        "reveal": "ani"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Diez o once",
+        "ordinal": 7,
+        "reveal": "numero"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"M\",\"t\",\"s\",\"i\",\"r\"],[\"a\",\"i\",\"r\",\"e\",\"o\"],[\"r\",\"c\",\"A\",\"m\",\"m\"],[\"k\",\"a\",\"n\",\"h\",\"u\"],[\"T\",\"w\",\"a\",\"i\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"],[\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#F3F1A0\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\"],[\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        3,
+        3
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 494,
+    "phrase": "American humorist Mark Twain",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-30",
+    "id": "061fd1bf-8934-4861-a2d5-18211431d376",
+    "dimension": 5
+  }
+]

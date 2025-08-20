@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-12-09T06:33:56.75396-07:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Not common",
+        "ordinal": 1,
+        "reveal": "rare"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Gold's chemical symbol",
+        "ordinal": 2,
+        "reveal": "au"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "The New Transit Direction, abbr.",
+        "ordinal": 3,
+        "reveal": "tNTD"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Brit's college, informally",
+        "ordinal": 4,
+        "reveal": "Uni"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "One of two in a pod, perhaps",
+        "ordinal": 5,
+        "reveal": "pea"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Relax",
+        "ordinal": 6,
+        "reveal": "rest"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Sick, dude!\"",
+        "ordinal": 7,
+        "reveal": "rad"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "__ Top, rock band famous for their sunglasses, hats and long beards",
+        "ordinal": 8,
+        "reveal": "zz"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"r\",\"a\",\"n\",\"t\"],[\"a\",\"a\",\"t\",\"e\",\"d\"],[\"t\",\"r\",\"U\",\"n\",\"p\"],[\"s\",\"r\",\"e\",\"d\",\"i\"],[\"e\",\"r\",\"a\",\"z\",\"z\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#F5C146\"],[\"#B86BAC\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\"],[\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 372,
+    "phrase": "Underrated pizza restaurant",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-31",
+    "id": "7ac16c93-79d4-4f06-b4e7-5394adc31bb7",
+    "dimension": 5
+  }
+]

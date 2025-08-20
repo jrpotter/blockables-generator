@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-06-04T11:03:21.874821-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before arrangement (at a wedding) or after stadium (at a concert)",
+        "ordinal": 1,
+        "reveal": "sEATING"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"__ shirt, __ shoes, __ service!\"",
+        "ordinal": 2,
+        "reveal": "nO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Feminine object pronoun",
+        "ordinal": 3,
+        "reveal": "hER"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Washington Improv Theater, abbr.",
+        "ordinal": 4,
+        "reveal": "wIT"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Initials of Netflix's \"I Think You Should Leave\" star or the 26th US president",
+        "ordinal": 5,
+        "reveal": "tR"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Taking legal action against a person or institution",
+        "ordinal": 6,
+        "reveal": "sUING"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Shortened word often found next to a red dot on a camcorder",
+        "ordinal": 7,
+        "reveal": "rEC"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"s\",\"r\",\"e\",\"g\"],[\"n\",\"e\",\"h\",\"t\",\"n\"],[\"g\",\"n\",\"A\",\"u\",\"i\"],[\"w\",\"t\",\"i\",\"c\",\"s\"],[\"r\",\"i\",\"t\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#A9D594\",\"#E6B0D1\"],[\"#F3F1A0\",\"#B86BAC\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\"],[\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 187,
+    "phrase": "Authentic singer-songwriter",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-28",
+    "id": "930c2357-808a-456c-87da-2e88d16027f8",
+    "dimension": 5
+  }
+]

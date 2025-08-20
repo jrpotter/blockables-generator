@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-01-28T07:38:08.983813-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Equipment Radiation TEMPEST Zone, abbr.",
+        "ordinal": 1,
+        "reveal": "ertz"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Open with a lever, perhaps a crowbar",
+        "ordinal": 2,
+        "reveal": "pry"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Use a shovel",
+        "ordinal": 3,
+        "reveal": "dig"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Shortened word before X, Z, or Alpha",
+        "ordinal": 4,
+        "reveal": "Gen"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Play _____: skip school",
+        "ordinal": 5,
+        "reveal": "Hooky"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Lock's partner",
+        "ordinal": 6,
+        "reveal": "key"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Initials of playwright known for his gun or industrialist known for his steel",
+        "ordinal": 7,
+        "reveal": "ac"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "US state whose capital is Cheyenne",
+        "ordinal": 8,
+        "reveal": "Wy"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"t\",\"z\",\"k\",\"y\"],[\"r\",\"p\",\"r\",\"o\",\"d\"],[\"G\",\"y\",\"H\",\"o\",\"i\"],[\"e\",\"e\",\"k\",\"c\",\"g\"],[\"n\",\"y\",\"a\",\"W\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F3F1A0\"],[\"#A9D594\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#F3F1A0\"],[\"#A9D594\",\"#EE7B8C\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 421,
+    "phrase": "Hockey prodigy Wayne Gretzky",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-19",
+    "id": "757949ff-796f-4392-b582-48680bc1ffc6",
+    "dimension": 5
+  }
+]

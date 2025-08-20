@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-09T12:59:01.828532-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Brooklyn NBA team",
+        "ordinal": 1,
+        "reveal": "nets"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Railroad abbr.",
+        "ordinal": 2,
+        "reveal": "rR"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Arthur of \"The Golden Girls\"",
+        "ordinal": 3,
+        "reveal": "bea"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pig pigment",
+        "ordinal": 4,
+        "reveal": "pink"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Attach a label to",
+        "ordinal": 5,
+        "reveal": "tag"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Jonas and Offerman",
+        "ordinal": 6,
+        "reveal": "nicks"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Thoughtful, perhaps ironically, as a Jaden Smith tweet",
+        "ordinal": 7,
+        "reveal": "deep"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"k\",\"a\",\"e\",\"r\"],[\"e\",\"n\",\"i\",\"r\",\"b\"],[\"c\",\"t\",\"S\",\"p\",\"t\"],[\"k\",\"i\",\"n\",\"g\",\"a\"],[\"s\",\"p\",\"e\",\"e\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A1DBE3\"],[\"#F5C146\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 376,
+    "phrase": "Sprinting at breakneck speed",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-04",
+    "id": "ea59007d-578e-4a69-b29a-93a91e8193d7",
+    "dimension": 5
+  }
+]

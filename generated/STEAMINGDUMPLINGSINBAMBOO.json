@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:10:31.535048+0000",
+        "category": "Food and Drink",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Singapore, for short",
+                "ordinal": 1,
+                "reveal": "SG"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "River that's longest when reversed?",
+                "ordinal": 2,
+                "reveal": "NILE"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Atlantic Standard Time, abbr.",
+                "ordinal": 3,
+                "reveal": "AST"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Extracting gold from ore, or data from databases",
+                "ordinal": 4,
+                "reveal": "MINING"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Sound of Emeril hitting the flavor town",
+                "ordinal": 5,
+                "reveal": "BAM"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Ghost's greeting or crowd's jeer",
+                "ordinal": 6,
+                "reveal": "BOO"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Prefix meaning \"two\" in French",
+                "ordinal": 7,
+                "reveal": "DU"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Time of day that's also a leader's title",
+                "ordinal": 8,
+                "reveal": "PM"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"S\", \"G\", \"N\", \"I\", \"L\"], [\"I\", \"M\", \"A\", \"E\", \"P\"], [\"N\", \"I\", \"S\", \"T\", \"M\"], [\"B\", \"N\", \"G\", \"D\", \"U\"], [\"A\", \"M\", \"B\", \"O\", \"O\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#A9D594\", \"#F5C146\", \"#A1DBE3\"], [\"#B86BAC\", \"#B86BAC\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\"], [\"#EE7B8C\", \"#B86BAC\", \"#B86BAC\", \"#F3F1A0\", \"#F3F1A0\"], [\"#EE7B8C\", \"#EE7B8C\", \"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                0,
+                2
+            ],
+            "3": [
+                1,
+                2
+            ],
+            "4": [
+                1,
+                1
+            ],
+            "5": [
+                3,
+                0
+            ],
+            "6": [
+                4,
+                2
+            ],
+            "7": [
+                3,
+                3
+            ],
+            "8": [
+                1,
+                4
+            ]
+        },
+        "phrase": "Steaming dumplings in bamboo",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

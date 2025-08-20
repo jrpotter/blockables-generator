@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-04-09T10:28:16.824362-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "One of October's gemstones, which shares a first letter with its month",
+        "ordinal": 1,
+        "reveal": "oPAL"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Dead ___",
+        "ordinal": 2,
+        "reveal": "sET"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Locations where dogs may think \"Aye, there's the rub!\"",
+        "ordinal": 3,
+        "reveal": "bELLIES"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Ink, for short",
+        "ordinal": 4,
+        "reveal": "tAT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Check that out!\" in medieval times",
+        "ordinal": 5,
+        "reveal": "lO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Keep, as water or employees",
+        "ordinal": 6,
+        "reveal": "rETAIN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"l\",\"l\",\"E\",\"t\"],[\"e\",\"o\",\"e\",\"l\",\"s\"],[\"S\",\"b\",\"P\",\"a\",\"i\"],[\"a\",\"o\",\"t\",\"a\",\"n\"],[\"t\",\"t\",\"l\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#7C93CB\",\"#F5C146\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"],[\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        4,
+        0
+      ],
+      "5": [
+        4,
+        2
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 132,
+    "phrase": "Paleobotanist Ellie Sattler",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-04",
+    "id": "71f1aea4-82f1-4900-8771-2d93b78ad47d",
+    "dimension": 5
+  }
+]

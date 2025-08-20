@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-10-27T11:40:06.618475-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Gwen Stefani and Mahatma Gandhi, for two",
+        "ordinal": 1,
+        "reveal": "libras"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Iowa Natural Heritage Foundation, abbr.",
+        "ordinal": 2,
+        "reveal": "inhf"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Iron's chemical symbol",
+        "ordinal": 3,
+        "reveal": "fe"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Pre-mi sound of music",
+        "ordinal": 4,
+        "reveal": "re"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Sack",
+        "ordinal": 5,
+        "reveal": "bag"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Secure, as shoelaces",
+        "ordinal": 6,
+        "reveal": "tie"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Large, domesticated pig",
+        "ordinal": 7,
+        "reveal": "hog"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Letters before military-based action figure Joe",
+        "ordinal": 8,
+        "reveal": "gi"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"l\",\"i\",\"e\",\"f\"],[\"r\",\"i\",\"n\",\"g\",\"a\"],[\"f\",\"h\",\"B\",\"r\",\"b\"],[\"o\",\"t\",\"a\",\"e\",\"i\"],[\"h\",\"g\",\"i\",\"s\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\"],[\"#A9D594\",\"#B86BAC\",\"#A1DBE3\",\"#B86BAC\",\"#F5C146\"],[\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#A1DBE3\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 527,
+    "phrase": "Breathing a big sigh of relief",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-02",
+    "id": "7d8ec25b-6ed4-47eb-b1a8-05f0750f048f",
+    "dimension": 5
+  }
+]

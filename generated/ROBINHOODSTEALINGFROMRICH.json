@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T19:00:04.681575+0000",
+        "category": "Famous Character",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Bell or boxing venue",
+                "ordinal": 1,
+                "reveal": "RING"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Brewery offering that's not stout",
+                "ordinal": 2,
+                "reveal": "ALE"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Container that's often next to a desk",
+                "ordinal": 3,
+                "reveal": "BIN"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Element between neon and lithium, briefly",
+                "ordinal": 4,
+                "reveal": "HF"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Space that might need elbow clearance",
+                "ordinal": 5,
+                "reveal": "ROOM"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Like Croesus or Carnegie",
+                "ordinal": 6,
+                "reveal": "RICH"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Was upright or remained firm",
+                "ordinal": 7,
+                "reveal": "STOOD"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"G\", \"N\", \"I\", \"L\", \"A\"], [\"F\", \"N\", \"I\", \"B\", \"E\"], [\"R\", \"H\", \"R\", \"O\", \"T\"], [\"O\", \"O\", \"O\", \"D\", \"S\"], [\"M\", \"R\", \"I\", \"C\", \"H\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\"], [\"#B86BAC\", \"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#E6B0D1\"], [\"#A9D594\", \"#B86BAC\", \"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\"], [\"#A9D594\", \"#A9D594\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#A9D594\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\"]]",
+        "numberPlacements": {
+            "1": [
+                2,
+                2
+            ],
+            "2": [
+                0,
+                4
+            ],
+            "3": [
+                1,
+                3
+            ],
+            "4": [
+                2,
+                1
+            ],
+            "5": [
+                2,
+                0
+            ],
+            "6": [
+                4,
+                1
+            ],
+            "7": [
+                3,
+                4
+            ]
+        },
+        "phrase": "Robin Hood stealing from rich",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

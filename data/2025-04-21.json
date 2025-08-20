@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-04-15T21:40:48.826405-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "clue": "Chewable breath-freshener",
+        "color": "#EE7B8C",
+        "reveal": "gum",
+        "ordinal": 1
+      },
+      {
+        "clue": "Fourth most populous city in Australia",
+        "color": "#7C93CB",
+        "reveal": "perth",
+        "ordinal": 2
+      },
+      {
+        "clue": "First word of popular Buzz Lightyear quote",
+        "color": "#F3F1A0",
+        "reveal": "to",
+        "ordinal": 3
+      },
+      {
+        "clue": "Chart Of Accounts, abbr.",
+        "color": "#B86BAC",
+        "reveal": "Coa",
+        "ordinal": 4
+      },
+      {
+        "clue": "Not thick",
+        "color": "#E6B0D1",
+        "reveal": "thin",
+        "ordinal": 5
+      },
+      {
+        "clue": "It may wag the dog, in an idiom",
+        "color": "#F5C146",
+        "reveal": "tail",
+        "ordinal": 6
+      },
+      {
+        "clue": "Not short",
+        "color": "#A9D594",
+        "reveal": "long",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\", \"h\", \"g\", \"u\", \"o\"], [\"r\", \"l\", \"p\", \"m\", \"t\"], [\"i\", \"e\", \"C\", \"o\", \"a\"], [\"a\", \"t\", \"i\", \"n\", \"g\"], [\"t\", \"h\", \"l\", \"o\", \"n\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\"], [\"#7C93CB\", \"#F5C146\", \"#7C93CB\", \"#EE7B8C\", \"#F3F1A0\"], [\"#F5C146\", \"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#B86BAC\"], [\"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\"], [\"#F5C146\", \"#E6B0D1\", \"#A9D594\", \"#A9D594\", \"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 697,
+    "phrase": "Completing a tough triathlon ",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-21",
+    "id": "1d14b4a3-6662-4966-b380-8492705bf20b",
+    "dimension": 5
+  }
+]

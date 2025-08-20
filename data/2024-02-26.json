@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-06T08:22:57.354121-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Miami ____",
+        "ordinal": 1,
+        "reveal": "vICE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Scientist Sanchez or actor Moranis",
+        "ordinal": 2,
+        "reveal": "rICK"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Fluorescence lifetime imaging ophthalmoscopy, abbr.",
+        "ordinal": 3,
+        "reveal": "fLIO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"What\" in the language referenced in Clue #7",
+        "ordinal": 4,
+        "reveal": "QUE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Lucidly remove, the letters of which can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "cULL"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word before ten (to surfers) or after bat (to rock climbers)",
+        "ordinal": 6,
+        "reveal": "hANG"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "A certain language's ISO code, or \"is\" in that language",
+        "ordinal": 7,
+        "reveal": "eS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"e\",\"c\",\"i\",\"v\"],[\"i\",\"k\",\"c\",\"i\",\"r\"],[\"l\",\"f\",\"Q\",\"u\",\"e\"],[\"c\",\"u\",\"l\",\"l\",\"s\"],[\"h\",\"a\",\"n\",\"g\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 277,
+    "phrase": "Quick full-service oil change",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-26",
+    "id": "cf472e3c-76bb-4450-98e5-d12e5595b51d",
+    "dimension": 5
+  }
+]

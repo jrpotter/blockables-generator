@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-01-28T15:58:36.693727-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Short musical phrases, such as the guitar opening of \"Smoke on the Water\"",
+        "ordinal": 1,
+        "reveal": "rIFFS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Chart topping 2000s song \"___ ___ Slide,\" the letters of the answer can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "cHA"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Adjusted an instrument to the correct pitch",
+        "ordinal": 3,
+        "reveal": "tUNED"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Largest African country until 2011",
+        "ordinal": 4,
+        "reveal": "sUDAN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "One may contain goodies or garbage",
+        "ordinal": 5,
+        "reveal": "bAG"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before garden or after root",
+        "ordinal": 6,
+        "reveal": "bEER"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"a\",\"i\",\"r\",\"s\"],[\"c\",\"t\",\"u\",\"f\",\"f\"],[\"g\",\"s\",\"U\",\"n\",\"e\"],[\"a\",\"r\",\"e\",\"d\",\"d\"],[\"b\",\"n\",\"a\",\"e\",\"b\"]]",
+    "gridColors": "[[\"#F5C146\",\"#F5C146\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#E6B0D1\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 62,
+    "phrase": "Understuffed beanbag chairs",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-26",
+    "id": "1500c455-2260-4e6a-b79e-f57c2bb402a2",
+    "dimension": 5
+  }
+]

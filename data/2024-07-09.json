@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-05T17:37:44.567838-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Widely-hated word meaning \"slightly damp\"",
+        "ordinal": 1,
+        "reveal": "moist"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "___ Diego, California",
+        "ordinal": 2,
+        "reveal": "san"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "North East Line, abbr.",
+        "ordinal": 3,
+        "reveal": "nel"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fine fiber produced by certain insect larvae",
+        "ordinal": 4,
+        "reveal": "Silk"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Daring and provocative, as a joke",
+        "ordinal": 5,
+        "reveal": "edgy"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "The Magnolia State's postal code, initially",
+        "ordinal": 6,
+        "reveal": "ms"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Liver product stored in the gallbladder",
+        "ordinal": 7,
+        "reveal": "Bile"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"i\",\"S\",\"t\",\"s\"],[\"o\",\"l\",\"l\",\"i\",\"a\"],[\"n\",\"e\",\"S\",\"k\",\"n\"],[\"e\",\"d\",\"g\",\"y\",\"m\"],[\"B\",\"i\",\"l\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 411,
+    "phrase": "Skilled gymnast Simone Biles",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-09",
+    "id": "8dc62338-d16b-4757-b21d-54584431b62d",
+    "dimension": 5
+  }
+]

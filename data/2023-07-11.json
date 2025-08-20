@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-14T16:14:29.787151-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Chemical symbol for iron",
+        "ordinal": 1,
+        "reveal": "fE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Well, aren't you a sight for ____ eyes!\"",
+        "ordinal": 2,
+        "reveal": "sORE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Seek's partner, in a game",
+        "ordinal": 3,
+        "reveal": "HIDE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Expression of gratitude, to a texter",
+        "ordinal": 4,
+        "reveal": "tY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before camera (perhaps in Los Angeles) or after Northern (perhaps in Reykjav\u00edk)",
+        "ordinal": 5,
+        "reveal": "lIGHTS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "eCommerce site focused on handmade goods",
+        "ordinal": 6,
+        "reveal": "eTSY"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Small card in a phone containing subscriber information, abbr.",
+        "ordinal": 7,
+        "reveal": "sIM"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"r\",\"e\",\"t\",\"s\"],[\"o\",\"f\",\"h\",\"g\",\"y\"],[\"s\",\"i\",\"H\",\"i\",\"t\"],[\"y\",\"d\",\"e\",\"l\",\"i\"],[\"s\",\"t\",\"e\",\"m\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#B86BAC\"],[\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#B86BAC\"],[\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 47,
+    "phrase": "High-fidelity stereo systems",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-11",
+    "id": "8952cf6b-15ab-4180-b6c7-347cc2076860",
+    "dimension": 5
+  }
+]

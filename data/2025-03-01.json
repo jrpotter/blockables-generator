@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-02-24T20:21:59.400799-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Scientist Sanchez or actor Moranis",
+        "ordinal": 1,
+        "reveal": "rick"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "-.-, in Morse code",
+        "ordinal": 2,
+        "reveal": "k"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"It's __ way or the highway, mister!\"",
+        "ordinal": 3,
+        "reveal": "my"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Myself and I's friends, in a saying",
+        "ordinal": 4,
+        "reveal": "me"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Great Wolf Lodge, abbr.",
+        "ordinal": 5,
+        "reveal": "Gwl"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Chore",
+        "ordinal": 6,
+        "reveal": "errand"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before street or after water",
+        "ordinal": 7,
+        "reveal": "main"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Earlier today, I ___ an [Clue #6's answer].\"",
+        "ordinal": 8,
+        "reveal": "ran"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"d\",\"n\",\"e\",\"K\"],[\"i\",\"m\",\"m\",\"a\",\"r\"],[\"c\",\"y\",\"G\",\"r\",\"e\"],[\"k\",\"w\",\"i\",\"n\",\"n\"],[\"L\",\"a\",\"m\",\"a\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 646,
+    "phrase": "Grammy winner Kendrick Lamar",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-01",
+    "id": "1e6ee0c9-a9cc-4730-882e-2cfed249ff89",
+    "dimension": 5
+  }
+]

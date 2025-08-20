@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-02T10:23:06.438129-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Common URL ender",
+        "ordinal": 1,
+        "reveal": "com"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "School club obsessed with projectors and speakers, for short",
+        "ordinal": 2,
+        "reveal": "av"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Come on, tell me, I'm just _____ to know!\"",
+        "ordinal": 3,
+        "reveal": "dying"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "___-Wan Kenobi",
+        "ordinal": 4,
+        "reveal": "obi"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Letters to be minded alongside Qs, in an idiom",
+        "ordinal": 5,
+        "reveal": "ps"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "No longer present",
+        "ordinal": 6,
+        "reveal": "Gone"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Sour fruit",
+        "ordinal": 7,
+        "reveal": "lime"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Helena's US state",
+        "ordinal": 8,
+        "reveal": "mt"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"c\",\"a\",\"y\",\"d\"],[\"m\",\"n\",\"i\",\"v\",\"o\"],[\"p\",\"g\",\"G\",\"i\",\"b\"],[\"l\",\"s\",\"o\",\"m\",\"e\"],[\"i\",\"m\",\"e\",\"n\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#E6B0D1\",\"#EE7B8C\",\"#F5C146\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 558,
+    "phrase": "Giving somebody a compliment",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-03",
+    "id": "dd53265b-513c-4ece-9614-bc0c69f2946d",
+    "dimension": 5
+  }
+]

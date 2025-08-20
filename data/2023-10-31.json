@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-05-06T12:04:33.691297-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Cards in the poker hand nicknamed Pocket Rockets",
+        "ordinal": 1,
+        "reveal": "aCES"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after bow or zip",
+        "ordinal": 2,
+        "reveal": "tIE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Area of effect, abbr.",
+        "ordinal": 3,
+        "reveal": "AOE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Wu ___, ancient Chinese concept describing a state of personal harmony, free-flowing spontaneity and laissez-faire",
+        "ordinal": 4,
+        "reveal": "wEI"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Bemused boatswain of Captain Hook, the letters of whom can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "sMEE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Wahlberg or Zuckerberg",
+        "ordinal": 6,
+        "reveal": "mARK"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"There is no ____ thing as a new idea. It is impossible.\" - Mark Twain",
+        "ordinal": 7,
+        "reveal": "sUCH"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"c\",\"a\",\"k\",\"e\"],[\"s\",\"e\",\"t\",\"i\",\"r\"],[\"e\",\"m\",\"A\",\"w\",\"a\"],[\"e\",\"o\",\"s\",\"e\",\"m\"],[\"h\",\"c\",\"u\",\"s\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\"],[\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\",\"#B86BAC\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 159,
+    "phrase": "Awesome tiramisu cheesecake",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-31",
+    "id": "126e0624-cc18-4121-8f7d-a3791dbf9fa3",
+    "dimension": 5
+  }
+]

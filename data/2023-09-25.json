@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-05T16:34:45.803586-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Intergovernmental organization founded in 1945",
+        "ordinal": 1,
+        "reveal": "uN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Spanish \"Yes\"",
+        "ordinal": 2,
+        "reveal": "sI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Making fun of someone or something in a cruel way, perhaps as a certain bird might",
+        "ordinal": 3,
+        "reveal": "MOCKING"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Color of a bullfighter's muleta, traditionally",
+        "ordinal": 4,
+        "reveal": "rED"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "One may be stuck in one when uninspired or offroading",
+        "ordinal": 5,
+        "reveal": "rUT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Washington Improv Theater, abbr.",
+        "ordinal": 6,
+        "reveal": "wIT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Frodo's homeland",
+        "ordinal": 7,
+        "reveal": "sHIRE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"u\",\"g\",\"n\",\"i\"],[\"d\",\"t\",\"s\",\"i\",\"k\"],[\"e\",\"u\",\"M\",\"o\",\"c\"],[\"r\",\"r\",\"e\",\"w\",\"i\"],[\"s\",\"h\",\"i\",\"r\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#EE7B8C\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#F3F1A0\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 123,
+    "phrase": "Moisture-wicking undershirt",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-25",
+    "id": "1d6ed845-4786-4272-9c37-4003adb6e291",
+    "dimension": 5
+  }
+]

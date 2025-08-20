@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-19T16:35:58.52751-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Ritzily tubular pasta, perhaps baked, the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "zITI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Jr's dad",
+        "ordinal": 2,
+        "reveal": "sR"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Opening, or a clothing retail company",
+        "ordinal": 3,
+        "reveal": "gAP"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Most common road type in classic Monopoly, abbr.",
+        "ordinal": 4,
+        "reveal": "aVE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Writing tools more permanent than pencils",
+        "ordinal": 5,
+        "reveal": "pENS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"__. Smith Goes to Washington\", 1939 American political comedy-drama film",
+        "ordinal": 6,
+        "reveal": "mR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Buds, perhaps long-distance ones use Clue #5?",
+        "ordinal": 7,
+        "reveal": "pALS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "French \"yes\"",
+        "ordinal": 8,
+        "reveal": "oUI"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"z\",\"e\",\"r\",\"s\"],[\"t\",\"n\",\"g\",\"v\",\"a\"],[\"e\",\"i\",\"S\",\"a\",\"r\"],[\"p\",\"l\",\"p\",\"m\",\"i\"],[\"p\",\"a\",\"s\",\"u\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\"],[\"#A1DBE3\",\"#B86BAC\",\"#F3F1A0\",\"#F5C146\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 106,
+    "phrase": "Sampling various appetizers",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-08",
+    "id": "79366596-5527-4043-8cef-412480e1e089",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-06-20T13:24:11-06:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"__ Girl\", 1965 Temptations hit",
+        "ordinal": 1,
+        "reveal": "mY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Midday",
+        "ordinal": 2,
+        "reveal": "nOON"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Meeny miny moe\" starter, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "eENY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Two\" in Spanish",
+        "ordinal": 4,
+        "reveal": "DOS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Salamander whose eye may be an ingredient in a witch's potion",
+        "ordinal": 5,
+        "reveal": "NEWT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Allen Ginsberg poem that shares its name with a wolf's cry",
+        "ordinal": 6,
+        "reveal": "hOWL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Person legally entitled to the rank of another on that person's death, such as a prince or, supposedly, Kendall Roy",
+        "ordinal": 7,
+        "reveal": "hEIR"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"m\",\"o\",\"o\",\"n\"],[\"e\",\"e\",\"d\",\"s\",\"o\"],[\"n\",\"w\",\"N\",\"e\",\"n\"],[\"o\",\"y\",\"l\",\"w\",\"t\"],[\"h\",\"r\",\"i\",\"e\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#F5C146\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F5C146\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 199,
+    "phrase": "Newlyweds on their honeymoon",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-10",
+    "id": "1649e71d-ab03-4c59-97c0-cf95603107fe",
+    "dimension": 5
+  }
+]

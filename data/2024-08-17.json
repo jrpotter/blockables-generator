@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-26T10:06:14.533735-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Sleeveless garment",
+        "ordinal": 1,
+        "reveal": "vest"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Two to two, for example",
+        "ordinal": 2,
+        "reveal": "tie"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"My heart ____ when I saw that the meal I'd spent all day preparing had burned in the oven.\"",
+        "ordinal": 3,
+        "reveal": "Sank"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Primarily well-ventilated, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "airy"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "3.14159, roughly",
+        "ordinal": 5,
+        "reveal": "pi"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Vancouver Noseflute Ensemble, abbr.",
+        "ordinal": 6,
+        "reveal": "vne"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Green reptile in the Everglades",
+        "ordinal": 7,
+        "reveal": "gator"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"v\",\"n\",\"i\",\"e\"],[\"s\",\"k\",\"a\",\"e\",\"t\"],[\"t\",\"y\",\"S\",\"n\",\"a\"],[\"i\",\"p\",\"r\",\"i\",\"v\"],[\"g\",\"a\",\"t\",\"o\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A1DBE3\"],[\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 450,
+    "phrase": "Sneaky private investigator",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-17",
+    "id": "4254246f-6337-4004-b02b-644958ec58fd",
+    "dimension": 5
+  }
+]

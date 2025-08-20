@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-07-02T08:17:47-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"They live life on their ___ terms.\"",
+        "ordinal": 1,
+        "reveal": "oWN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "97.6% of Antarctica is covered in this",
+        "ordinal": 2,
+        "reveal": "iCE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Quality one has which may be worse than one's bite",
+        "ordinal": 3,
+        "reveal": "bARK"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Wrap your arms tightly around another person",
+        "ordinal": 4,
+        "reveal": "hUG"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "York Daily Record, abbr.",
+        "ordinal": 5,
+        "reveal": "yDR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Initials of Se7en's director or the youngest nominee in Screen Actor's Guild history",
+        "ordinal": 6,
+        "reveal": "dF"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Dark greenish-blue color",
+        "ordinal": 7,
+        "reveal": "tEAL"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Make a soft murmuring sound, as a pigeon or dove",
+        "ordinal": 8,
+        "reveal": "cOO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"w\",\"n\",\"i\",\"e\"],[\"r\",\"a\",\"r\",\"k\",\"c\"],[\"b\",\"d\",\"F\",\"u\",\"h\"],[\"e\",\"y\",\"g\",\"d\",\"o\"],[\"t\",\"a\",\"l\",\"o\",\"c\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\"],[\"#E6B0D1\",\"#A9D594\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#F5C146\",\"#B86BAC\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 211,
+    "phrase": "Fudgy dark chocolate brownie",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-22",
+    "id": "686dc9b8-cfa3-4d13-8518-ba94adf622d9",
+    "dimension": 5
+  }
+]

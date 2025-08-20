@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T19:04:46.121773+0000",
+        "category": "Before and After",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Verb suffix that's always running?",
+                "ordinal": 1,
+                "reveal": "ING"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Support groups?",
+                "ordinal": 2,
+                "reveal": "BRAS"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "North on a map, or paired with a preposition to mean \"for\"",
+                "ordinal": 3,
+                "reveal": "UP"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Cavern or den, informally",
+                "ordinal": 4,
+                "reveal": "GROT"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "French for \"swallow,\" literally and figuratively",
+                "ordinal": 5,
+                "reveal": "AVALER"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "We, across the pond",
+                "ordinal": 6,
+                "reveal": "US"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Moniker that might be dropped",
+                "ordinal": 7,
+                "reveal": "NAME"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"N\", \"G\", \"E\", \"R\", \"S\"], [\"I\", \"B\", \"L\", \"U\", \"E\"], [\"S\", \"R\", \"A\", \"V\", \"M\"], [\"P\", \"A\", \"T\", \"A\", \"A\"], [\"U\", \"O\", \"R\", \"G\", \"N\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#A9D594\", \"#A9D594\", \"#E6B0D1\"], [\"#7C93CB\", \"#F3F1A0\", \"#A9D594\", \"#E6B0D1\", \"#F5C146\"], [\"#F3F1A0\", \"#F3F1A0\", \"#A9D594\", \"#A9D594\", \"#F5C146\"], [\"#EE7B8C\", \"#F3F1A0\", \"#B86BAC\", \"#A9D594\", \"#F5C146\"], [\"#EE7B8C\", \"#B86BAC\", \"#B86BAC\", \"#B86BAC\", \"#F5C146\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                1,
+                1
+            ],
+            "3": [
+                4,
+                0
+            ],
+            "4": [
+                4,
+                3
+            ],
+            "5": [
+                3,
+                3
+            ],
+            "6": [
+                1,
+                3
+            ],
+            "7": [
+                4,
+                4
+            ]
+        },
+        "phrase": "Avatar blue man group singers",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-01-12T08:45:47.600807-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Beverage made from fermented juice of Clue #6's answer",
+        "ordinal": 1,
+        "reveal": "cider"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Dorm overseer, for short",
+        "ordinal": 2,
+        "reveal": "ra"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Electronic Dance Music, abbr.",
+        "ordinal": 3,
+        "reveal": "edm"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Venomous snakes",
+        "ordinal": 4,
+        "reveal": "vipers"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Itty bitty",
+        "ordinal": 5,
+        "reveal": "wee"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Fruit perhaps left on a teacher's desk",
+        "ordinal": 6,
+        "reveal": "apple"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Second vowel, alphabetically",
+        "ordinal": 7,
+        "reveal": "e"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"i\",\"d\",\"e\",\"m\"],[\"a\",\"r\",\"r\",\"e\",\"d\"],[\"l\",\"e\",\"P\",\"e\",\"e\"],[\"p\",\"v\",\"i\",\"e\",\"w\"],[\"a\",\"p\",\"e\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 602,
+    "phrase": "Peer-reviewed medical papers",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-16",
+    "id": "33d8d45e-e4b4-4420-a38d-72750dfe23ea",
+    "dimension": 5
+  }
+]

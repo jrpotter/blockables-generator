@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-21T08:05:18.26707-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Memphis's state abbr.",
+        "ordinal": 1,
+        "reveal": "tn"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Assert to be false, as allegations",
+        "ordinal": 2,
+        "reveal": "deny"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Shortened word often said before \"20\" in Dungeons & Dragons games",
+        "ordinal": 3,
+        "reveal": "nat"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Fad diet promoting low carb and high fat",
+        "ordinal": 4,
+        "reveal": "keto"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "British honorific title held by Judy Dench and Julie Andrews",
+        "ordinal": 5,
+        "reveal": "dame"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Celestial body also known as Luna, Selene, or Cynthia",
+        "ordinal": 6,
+        "reveal": "moon"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Give food or nourishment to",
+        "ordinal": 7,
+        "reveal": "feed"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"n\",\"o\",\"d\",\"y\"],[\"t\",\"n\",\"t\",\"n\",\"e\"],[\"a\",\"e\",\"D\",\"o\",\"n\"],[\"k\",\"e\",\"d\",\"m\",\"o\"],[\"e\",\"f\",\"a\",\"m\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 446,
+    "phrase": "\"Don't need money, don't take fame!\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-13",
+    "id": "a2ad9026-ee98-45e4-b97a-af76c345e6aa",
+    "dimension": 5
+  }
+]

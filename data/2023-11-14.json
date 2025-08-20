@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-05-22T08:51:25-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "clue": "Stereotypical name for a Dalmatian, perhaps",
+        "color": "#EE7B8C",
+        "reveal": "sPOT",
+        "ordinal": 1
+      },
+      {
+        "clue": "College dorm overseer, abbr.",
+        "color": "#E6B0D1",
+        "reveal": "rA",
+        "ordinal": 2
+      },
+      {
+        "clue": "Indulge in gentle prodding, perhaps with an elbow, the letters of which can be found in this clue's first word",
+        "color": "#F3F1A0",
+        "reveal": "nUDGE",
+        "ordinal": 3
+      },
+      {
+        "clue": "Gently tap a pitched baseball",
+        "color": "#F5C146",
+        "reveal": "bUNT",
+        "ordinal": 4
+      },
+      {
+        "clue": "Less fake",
+        "color": "#7C93CB",
+        "reveal": "rEALER",
+        "ordinal": 5
+      },
+      {
+        "clue": "\"I knew __!\"",
+        "color": "#A1DBE3",
+        "reveal": "iT",
+        "ordinal": 6
+      },
+      {
+        "clue": "Initials of longtime red-haired American talk show host or longtime Canadian actress who starred in \"Schitt's Creek\"",
+        "color": "#A9D594",
+        "reveal": "cO",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\", \"t\", \"o\", \"p\", \"s\"], [\"e\", \"e\", \"g\", \"r\", \"a\"], [\"t\", \"l\", \"D\", \"u\", \"n\"], [\"n\", \"b\", \"a\", \"r\", \"i\"], [\"u\", \"o\", \"c\", \"e\", \"t\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\"], [\"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F5C146\", \"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"], [\"#F5C146\", \"#F5C146\", \"#7C93CB\", \"#7C93CB\", \"#A1DBE3\"], [\"#F5C146\", \"#A9D594\", \"#A9D594\", \"#7C93CB\", \"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 173,
+    "phrase": "Durable granite countertops",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-14",
+    "id": "df1203f3-afa5-4d61-972b-3ab8068c29c1",
+    "dimension": 5
+  }
+]

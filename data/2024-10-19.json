@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-13T10:05:35.663239-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Arthur of \"The Golden Girls\"",
+        "ordinal": 1,
+        "reveal": "bea"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Premier Lacrosse League, abbr.",
+        "ordinal": 2,
+        "reveal": "pll"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Period between dinner and bedtime, often",
+        "ordinal": 3,
+        "reveal": "evening"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Ready Player ___\", 2018 sci-fi film",
+        "ordinal": 4,
+        "reveal": "one"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "German \"and\"",
+        "ordinal": 5,
+        "reveal": "und"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Tungsten's chemical symbol",
+        "ordinal": 6,
+        "reveal": "w"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Nuts partner, at times",
+        "ordinal": 7,
+        "reveal": "bolts"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"b\",\"a\",\"l\",\"l\"],[\"n\",\"e\",\"e\",\"n\",\"p\"],[\"i\",\"t\",\"S\",\"e\",\"o\"],[\"l\",\"n\",\"e\",\"v\",\"u\"],[\"w\",\"o\",\"b\",\"d\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#7C93CB\",\"#A1DBE3\"],[\"#F5C146\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\"],[\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 513,
+    "phrase": "Seventeen pound bowling ball",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-19",
+    "id": "7e0876cc-723c-4df5-a984-cfa045858302",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-04-04T15:11:56.313608-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"__ Girl\", 1965 Temptations hit",
+        "ordinal": 1,
+        "reveal": "MY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Minutes in a quarter of an hour, to a Roman",
+        "ordinal": 2,
+        "reveal": "xV"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Broad term for a member of a family of medium to large, non-venomous, constricting snakes, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "bOA"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Item swallowed after securing a jail cell, perhaps",
+        "ordinal": 4,
+        "reveal": "kEY"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after copper or before transfer",
+        "ordinal": 5,
+        "reveal": "wIRE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Physical attribute of many basketball players",
+        "ordinal": 6,
+        "reveal": "HEIGHT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after game and before match in tennis",
+        "ordinal": 7,
+        "reveal": "sET"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Knock __ wood",
+        "ordinal": 8,
+        "reveal": "oN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"M\",\"r\",\"e\",\"x\",\"o\"],[\"i\",\"y\",\"v\",\"a\",\"b\"],[\"k\",\"w\",\"H\",\"e\",\"t\"],[\"e\",\"e\",\"i\",\"g\",\"h\"],[\"T\",\"y\",\"s\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#B86BAC\"],[\"#A9D594\",\"#7C93CB\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#F3F1A0\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F3F1A0\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 122,
+    "phrase": "Heavyweight boxer Mike Tyson",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-24",
+    "id": "7b0b02fe-e96f-41e1-a88e-312717ad10da",
+    "dimension": 5
+  }
+]

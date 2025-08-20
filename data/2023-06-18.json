@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-22T12:25:19.633371-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Letters used in Calvin Klein logo",
+        "ordinal": 1,
+        "reveal": "cK"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Poli and comp, perhaps",
+        "ordinal": 2,
+        "reveal": "scIS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Chemical symbol for carbon monoxide",
+        "ordinal": 3,
+        "reveal": "cO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Extremely expensive boat",
+        "ordinal": 4,
+        "reveal": "yACHT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Non-binary abbr.",
+        "ordinal": 5,
+        "reveal": "nB"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Perish",
+        "ordinal": 6,
+        "reveal": "dIE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Talk with continued involuntary repetition of sounds, particularly consonants",
+        "ordinal": 7,
+        "reveal": "sTUTTER"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"t\",\"o\",\"c\",\"s\"],[\"h\",\"k\",\"c\",\"i\",\"r\"],[\"c\",\"y\",\"S\",\"t\",\"e\"],[\"a\",\"b\",\"u\",\"t\",\"t\"],[\"n\",\"d\",\"i\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#B86BAC\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 24,
+    "phrase": "Sticky butterscotch candies",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-18",
+    "id": "aa3a6969-41f4-43c5-9172-74350b31bc3f",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-24T09:58:18.672191-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Sound of laughter",
+        "ordinal": 1,
+        "reveal": "hA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Hard water?",
+        "ordinal": 2,
+        "reveal": "iCE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Type of hammer used for striking chisels, xylophones, or marimbas",
+        "ordinal": 3,
+        "reveal": "MALLET"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "R\u00e9sum\u00e9 alternative which translates from Latin to \"course of (one's) life\", abbr.",
+        "ordinal": 4,
+        "reveal": "CV"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Faster-than-average horse walk",
+        "ordinal": 5,
+        "reveal": "tROT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Contracts through which an apartment complex may provide apartments to renters",
+        "ordinal": 6,
+        "reveal": "lEASES"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Chronicles of Narnia\" author _. _. Lewis",
+        "ordinal": 7,
+        "reveal": "cS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"c\",\"i\",\"M\",\"s\"],[\"a\",\"e\",\"v\",\"e\",\"a\"],[\"e\",\"C\",\"S\",\"t\",\"l\"],[\"l\",\"a\",\"r\",\"e\",\"l\"],[\"S\",\"c\",\"o\",\"t\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#E6B0D1\"],[\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\"],[\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 144,
+    "phrase": "Steve Carell as Michael Scott",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-16",
+    "id": "3ce1b8d0-0ee9-44b1-872a-7772e1fa79f7",
+    "dimension": 5
+  }
+]

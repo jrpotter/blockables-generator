@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-12-06T08:02:34.354637-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Concave bay, the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "cove"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Gloin's similarly-named brother in \"The Hobbit\"",
+        "ordinal": 2,
+        "reveal": "oin"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Primary, as a character or a street",
+        "ordinal": 3,
+        "reveal": "Main"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Non-Linear Glucose Transform, abbr.",
+        "ordinal": 4,
+        "reveal": "NLGT"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Encourage the development of, as a healthy learning environment (or Sutton's theater talents)",
+        "ordinal": 5,
+        "reveal": "foster"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "T\u00eda, in English",
+        "ordinal": 6,
+        "reveal": "aunt"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"o\",\"v\",\"e\",\"n\"],[\"e\",\"c\",\"t\",\"i\",\"o\"],[\"t\",\"n\",\"M\",\"a\",\"n\"],[\"s\",\"u\",\"f\",\"l\",\"i\"],[\"a\",\"o\",\"t\",\"g\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\"],[\"#A1DBE3\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 368,
+    "phrase": "Malfunctioning toaster oven",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-27",
+    "id": "2a90a949-c3be-464d-962f-aba719d9e466",
+    "dimension": 5
+  }
+]

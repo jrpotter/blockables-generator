@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-06T11:06:53.885468-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Police officer",
+        "ordinal": 1,
+        "reveal": "cop"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Oxygen's chemical symbol",
+        "ordinal": 2,
+        "reveal": "o"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Northern Mariana Islands, abbr.",
+        "ordinal": 3,
+        "reveal": "nmi"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Abruptly trivial, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "paltry"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Computer document action represented by a floppy disk",
+        "ordinal": 5,
+        "reveal": "save"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letter that is \"sometimes\" a vowel",
+        "ordinal": 6,
+        "reveal": "y"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Make a sports car go \"vroom!\", perhaps",
+        "ordinal": 7,
+        "reveal": "rev"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Bird to be scared by a cornfield hay man",
+        "ordinal": 8,
+        "reveal": "crow"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"c\",\"o\",\"r\",\"n\"],[\"o\",\"l\",\"t\",\"y\",\"m\"],[\"p\",\"a\",\"V\",\"e\",\"i\"],[\"e\",\"s\",\"y\",\"r\",\"c\"],[\"v\",\"a\",\"w\",\"o\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 777,
+    "phrase": "Very salty microwave popcorn",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-10",
+    "id": "2b35c6d1-0acf-4788-92f0-bb1402e7be5c",
+    "dimension": 5
+  }
+]

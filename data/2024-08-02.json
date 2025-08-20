@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-02-11T08:30:33.490376-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Cast a ballot",
+        "ordinal": 1,
+        "reveal": "vote"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Famous neighbor Flanders or owner of a \"Declassified School Survival Guide\"",
+        "ordinal": 2,
+        "reveal": "ned"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Initials of actor who played Forrest Gump and Sully Sullenberger",
+        "ordinal": 3,
+        "reveal": "th"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"The elevator business has its ___ and downs.\"",
+        "ordinal": 4,
+        "reveal": "ups"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Headpiece, perhaps powdered",
+        "ordinal": 5,
+        "reveal": "wig"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Feel ill or have pain",
+        "ordinal": 6,
+        "reveal": "ail"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Container for storage, perhaps made of plastic",
+        "ordinal": 7,
+        "reveal": "Bin"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Weather ____, instrument showing the wind's direction",
+        "ordinal": 8,
+        "reveal": "vane"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"o\",\"v\",\"e\",\"n\"],[\"t\",\"t\",\"L\",\"u\",\"d\"],[\"e\",\"s\",\"P\",\"i\",\"w\"],[\"e\",\"i\",\"n\",\"a\",\"i\"],[\"B\",\"n\",\"a\",\"v\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\"],[\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\"],[\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A9D594\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 435,
+    "phrase": "Pianist Ludwig van Beethoven",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-02",
+    "id": "f1d0555a-3890-433b-9415-4cba99f2ea94",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-15T14:29:47.653486-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"The Simpsons\" has 36, as of March 15, 2025",
+        "ordinal": 1,
+        "reveal": "seasons"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Not dry",
+        "ordinal": 2,
+        "reveal": "wet"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Nylon stringed guitarist and country singer Loretta, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "lynn"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Abbr. a person with Celiac disease may look for on a menu",
+        "ordinal": 4,
+        "reveal": "gf"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Focal \"Sopranos\" actress Edie,  the letters of which can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "falco"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Soul provider?",
+        "ordinal": 6,
+        "reveal": "kia"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letter between Q and S",
+        "ordinal": 7,
+        "reveal": "r"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"s\",\"o\",\"n\",\"s\"],[\"e\",\"a\",\"f\",\"e\",\"w\"],[\"l\",\"g\",\"T\",\"a\",\"f\"],[\"y\",\"n\",\"i\",\"k\",\"a\"],[\"r\",\"n\",\"o\",\"c\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#E6B0D1\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A9D594\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 667,
+    "phrase": "Taking a few falconry lessons",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-22",
+    "id": "5e358134-9201-4635-98c8-6e431a1514b7",
+    "dimension": 5
+  }
+]

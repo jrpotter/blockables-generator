@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-01T11:49:55.564861-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Large tub used to hold liquid, perhaps acid in a comic book",
+        "ordinal": 1,
+        "reveal": "vat"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Return On Investment, abbr.",
+        "ordinal": 2,
+        "reveal": "roi"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Initials of Princess Leia actress or Matt Foley actor",
+        "ordinal": 3,
+        "reveal": "cf"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Verb often partnered with dash or wine",
+        "ordinal": 4,
+        "reveal": "dine"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Milwaukee's US state",
+        "ordinal": 5,
+        "reveal": "Wi"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Dough action",
+        "ordinal": 6,
+        "reveal": "rise"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Awestruck",
+        "ordinal": 7,
+        "reveal": "agog"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"___'s the word!\"",
+        "ordinal": 8,
+        "reveal": "mum"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"v\",\"a\",\"r\",\"o\",\"f\"],[\"i\",\"i\",\"t\",\"i\",\"c\"],[\"d\",\"n\",\"W\",\"r\",\"i\"],[\"e\",\"g\",\"m\",\"u\",\"s\"],[\"o\",\"g\",\"a\",\"m\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#E6B0D1\",\"#A1DBE3\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        3
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 742,
+    "phrase": "Writing music for a video game",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-05",
+    "id": "305069c9-0c9f-4511-b115-f4f32a2f8413",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-12-08T19:05:38.797584-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "clue": "Sound of scared surprise",
+        "color": "#7C93CB",
+        "reveal": "EEK",
+        "ordinal": 1
+      },
+      {
+        "clue": "Dozen abbr.",
+        "color": "#A9D594",
+        "reveal": "DZ",
+        "ordinal": 2
+      },
+      {
+        "clue": "Behold partner",
+        "color": "#B86BAC",
+        "reveal": "lO",
+        "ordinal": 3
+      },
+      {
+        "clue": "Hold tightly (to)",
+        "color": "#F5C146",
+        "reveal": "cLING",
+        "ordinal": 4
+      },
+      {
+        "clue": "Shade of blue containing the first and last letter of the alphabet",
+        "color": "#E6B0D1",
+        "reveal": "aZURE",
+        "ordinal": 5
+      },
+      {
+        "clue": "Nickname for Spiderman's girlfriend",
+        "color": "#EE7B8C",
+        "reveal": "mJ",
+        "ordinal": 6
+      },
+      {
+        "clue": "Soak (up), as olive oil",
+        "color": "#A1DBE3",
+        "reveal": "SOP",
+        "ordinal": 7
+      },
+      {
+        "clue": "\"___ a problem at all!\"",
+        "color": "#F3F1A0",
+        "reveal": "nOT",
+        "ordinal": 8
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"E\", \"e\", \"k\", \"u\", \"D\"], [\"l\", \"c\", \"z\", \"z\", \"r\"], [\"l\", \"o\", \"J\", \"a\", \"e\"], [\"i\", \"m\", \"p\", \"o\", \"s\"], [\"n\", \"g\", \"t\", \"o\", \"n\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#E6B0D1\", \"#A9D594\"], [\"#B86BAC\", \"#F5C146\", \"#E6B0D1\", \"#A9D594\", \"#E6B0D1\"], [\"#F5C146\", \"#B86BAC\", \"#EE7B8C\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F5C146\", \"#EE7B8C\", \"#A1DBE3\", \"#A1DBE3\", \"#A1DBE3\"], [\"#F5C146\", \"#F5C146\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 10,
+    "phrase": "Jazz composer Duke Ellington",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-04",
+    "id": "16a30c46-86fa-4990-b801-1a787ab4556b",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-26T16:35:41.181035-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "\"Nine out of ___ doctors recommend this toothpaste.\"",
+        "ordinal": 1,
+        "reveal": "tEN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Forward, abbr.",
+        "ordinal": 2,
+        "reveal": "fW"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Police officer",
+        "ordinal": 3,
+        "reveal": "COP"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word found before bean or Peru",
+        "ordinal": 4,
+        "reveal": "lIMA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Lions and tigers and bears, oh __!\"",
+        "ordinal": 5,
+        "reveal": "mY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Cowboy's rope",
+        "ordinal": 6,
+        "reveal": "lASSO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Kitchen appliance used to shred cheese",
+        "ordinal": 7,
+        "reveal": "gRATER"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"w\",\"a\",\"t\",\"e\",\"r\"],[\"f\",\"m\",\"e\",\"n\",\"t\"],[\"o\",\"i\",\"C\",\"o\",\"a\"],[\"s\",\"l\",\"p\",\"m\",\"r\"],[\"s\",\"a\",\"l\",\"g\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A9D594\",\"#E6B0D1\",\"#A1DBE3\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 316,
+    "phrase": "Complimentary glass of water",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-05",
+    "id": "fbc9256b-3cd7-4d2f-b8a7-ef23ded9bb62",
+    "dimension": 5
+  }
+]

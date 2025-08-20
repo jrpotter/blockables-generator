@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-02-05T12:11:15.669838-07:00",
+    "category": "Living Things",
+    "clues": [
+      {
+        "clue": "________ conclusion",
+        "color": "#7C93CB",
+        "reveal": "fOREGONE",
+        "ordinal": 1
+      },
+      {
+        "clue": "Month with fewer bare faces than usual? (abbr.)",
+        "color": "#F5C146",
+        "reveal": "nOV",
+        "ordinal": 2
+      },
+      {
+        "clue": "Bro or sis",
+        "color": "#A1DBE3",
+        "reveal": "sIB",
+        "ordinal": 3
+      },
+      {
+        "clue": "First name in prank phone calls, as it sounds like \"I need a\"",
+        "color": "#F3F1A0",
+        "reveal": "ANITA",
+        "ordinal": 4
+      },
+      {
+        "clue": "Great Lake which sounds spooky?",
+        "color": "#EE7B8C",
+        "reveal": "eRIE",
+        "ordinal": 5
+      },
+      {
+        "clue": "Letters before Bean on TV or before Beast on YouTube",
+        "color": "#A9D594",
+        "reveal": "mR",
+        "ordinal": 6
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"f\", \"v\", \"n\", \"i\", \"e\"], [\"o\", \"o\", \"b\", \"r\", \"s\"], [\"r\", \"r\", \"A\", \"i\", \"e\"], [\"m\", \"n\", \"e\", \"g\", \"e\"], [\"a\", \"t\", \"i\", \"o\", \"n\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#EE7B8C\", \"#EE7B8C\"], [\"#7C93CB\", \"#F5C146\", \"#A1DBE3\", \"#EE7B8C\", \"#A1DBE3\"], [\"#A9D594\", \"#7C93CB\", \"#F3F1A0\", \"#A1DBE3\", \"#EE7B8C\"], [\"#A9D594\", \"#F3F1A0\", \"#7C93CB\", \"#7C93CB\", \"#7C93CB\"], [\"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\", \"#7C93CB\", \"#7C93CB\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ]
+    },
+    "ordinal": 68,
+    "phrase": "Airborne geese in v-formation",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-01",
+    "id": "e1ac729a-5762-4d6c-9389-557eede57d75",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-11-06T10:04:19.561685-07:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Tonic's partner in a classic cocktail",
+        "ordinal": 1,
+        "reveal": "gin"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Tarzan swings on them",
+        "ordinal": 2,
+        "reveal": "Vines"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Prefix meaning \"three\"",
+        "ordinal": 3,
+        "reveal": "tri"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Sedimentary material found in copious amounts in the answer to today's puzzle",
+        "ordinal": 4,
+        "reveal": "Sand"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Law School Information Day, abbr.",
+        "ordinal": 5,
+        "reveal": "lsid"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Type of art found in New York Harbor or on the summit of Corcovado",
+        "ordinal": 6,
+        "reveal": "statue"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"g\",\"r\",\"i\",\"V\"],[\"n\",\"e\",\"t\",\"i\",\"s\"],[\"I\",\"d\",\"U\",\"n\",\"e\"],[\"s\",\"S\",\"t\",\"a\",\"t\"],[\"l\",\"a\",\"n\",\"d\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 340,
+    "phrase": "United States Virgin Islands",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-29",
+    "id": "1a3ad2fd-b65f-414d-b069-f49cd0860971",
+    "dimension": 5
+  }
+]

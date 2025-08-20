@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-11-02T07:16:43.989936-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Protector of clothes from messy foods",
+        "ordinal": 1,
+        "reveal": "Bib"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Letters before Strange or Strangelove",
+        "ordinal": 2,
+        "reveal": "dr"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Apt description of the answer to today's puzzle",
+        "ordinal": 3,
+        "reveal": "tall"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Small, pulpy fruit, generally",
+        "ordinal": 4,
+        "reveal": "Berry"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Pose a question",
+        "ordinal": 5,
+        "reveal": "ask"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Section, of a race perhaps",
+        "ordinal": 6,
+        "reveal": "leg"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Scottish boy",
+        "ordinal": 7,
+        "reveal": "Lad"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Omaha's US state",
+        "ordinal": 8,
+        "reveal": "ne"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"B\",\"i\",\"r\",\"d\"],[\"r\",\"b\",\"a\",\"l\",\"l\"],[\"r\",\"t\",\"B\",\"a\",\"l\"],[\"a\",\"e\",\"k\",\"s\",\"e\"],[\"L\",\"d\",\"n\",\"e\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#B86BAC\",\"#7C93CB\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 531,
+    "phrase": "Basketball legend Larry Bird ",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-06",
+    "id": "5ac19cb4-0ddf-4fa7-8d58-7d67925a7ebf",
+    "dimension": 5
+  }
+]

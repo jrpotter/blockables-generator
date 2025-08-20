@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-12-07T12:03:50.221556-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Beginning of a self-affirmation, perhaps",
+        "ordinal": 1,
+        "reveal": "im"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Teen talk, usually",
+        "ordinal": 2,
+        "reveal": "slang"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Performer's reward, often standing",
+        "ordinal": 3,
+        "reveal": "ovation"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "5, to a Roman",
+        "ordinal": 4,
+        "reveal": "v"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Summit",
+        "ordinal": 5,
+        "reveal": "peak"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"__ Money __ Problems\", 1997 hit by The Notorious B.I.G. ",
+        "ordinal": 6,
+        "reveal": "mo"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Rubber roller",
+        "ordinal": 7,
+        "reveal": "tire"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"n\",\"o\",\"i\",\"t\"],[\"l\",\"n\",\"i\",\"v\",\"a\"],[\"s\",\"g\",\"M\",\"o\",\"v\"],[\"p\",\"m\",\"o\",\"t\",\"i\"],[\"e\",\"a\",\"k\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 570,
+    "phrase": "Moving motivational speaker",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-15",
+    "id": "984de9af-6f6d-4152-9865-ad541f615eb6",
+    "dimension": 5
+  }
+]

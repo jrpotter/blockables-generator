@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-03-15T14:07:42.063721-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Speak",
+        "ordinal": 1,
+        "reveal": "say"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pigeon sound",
+        "ordinal": 2,
+        "reveal": "Coo"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Hollywood's city, abbr.",
+        "ordinal": 3,
+        "reveal": "la"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Unlikely precipitation type in a 1979 hit by The Weather Girls",
+        "ordinal": 4,
+        "reveal": "men"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before engine or after private",
+        "ordinal": 5,
+        "reveal": "Jet"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word repeated twice in agreement in the British House of Commons",
+        "ordinal": 6,
+        "reveal": "Hear"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Only",
+        "ordinal": 7,
+        "reveal": "sole"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before Mis\u00e9rables (in a musical) or Paul (in a music store)",
+        "ordinal": 8,
+        "reveal": "les"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"a\",\"t\",\"n\",\"e\"],[\"C\",\"y\",\"e\",\"l\",\"m\"],[\"o\",\"J\",\"H\",\"a\",\"s\"],[\"l\",\"o\",\"e\",\"l\",\"O\"],[\"e\",\"S\",\"e\",\"a\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F5C146\",\"#B86BAC\",\"#A1DBE3\",\"#F3F1A0\"],[\"#A9D594\",\"#E6B0D1\",\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        2,
+        4
+      ],
+      "8": [
+        3,
+        0
+      ]
+    },
+    "ordinal": 662,
+    "phrase": "Haley Joel Osment as Cole Sear",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-17",
+    "id": "baf067f2-daac-4e19-8fe5-b6989798e3d1",
+    "dimension": 5
+  }
+]

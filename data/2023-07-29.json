@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-02-05T12:40:26.539908-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Expression of gratitude, to a texter",
+        "ordinal": 1,
+        "reveal": "tY"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Whoa dude, you've told me way more than I needed!\", to a texter",
+        "ordinal": 2,
+        "reveal": "tMI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "TV show in which nearly every episode includes the line, \"Live from New York, it's Saturday Night!\"",
+        "ordinal": 3,
+        "reveal": "sNL"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Volcanic expulsion",
+        "ordinal": 4,
+        "reveal": "aSH"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before ball (which lacks numbers) or card (which is filled with words)",
+        "ordinal": 5,
+        "reveal": "CUE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Intriguing mathematician Alan, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "tURING"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Sphere, perhaps mystical",
+        "ordinal": 7,
+        "reveal": "oRB"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Deal __ No Deal",
+        "ordinal": 8,
+        "reveal": "oR"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"m\",\"i\",\"n\",\"t\"],[\"t\",\"s\",\"l\",\"y\",\"s\"],[\"a\",\"u\",\"C\",\"u\",\"t\"],[\"e\",\"o\",\"i\",\"r\",\"r\"],[\"r\",\"b\",\"g\",\"n\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#E6B0D1\"],[\"#A9D594\",\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 65,
+    "phrase": "Curiously strong breath mint",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-29",
+    "id": "87f2bb46-9aa2-4232-b666-a045a991a77f",
+    "dimension": 5
+  }
+]

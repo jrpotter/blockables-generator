@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-27T09:38:34.411524-06:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "NYSE symbol for the corporation Teekay",
+        "ordinal": 1,
+        "reveal": "tk"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after elephant or wax",
+        "ordinal": 2,
+        "reveal": "seal"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Title ogre in a 2001 Dreamworks film",
+        "ordinal": 3,
+        "reveal": "Shrek"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Lobe location",
+        "ordinal": 4,
+        "reveal": "ear"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Facebook's parent company as of 2021",
+        "ordinal": 5,
+        "reveal": "meta"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fossil fuel obtained by drilling, sometimes referred to as \"black gold\"",
+        "ordinal": 6,
+        "reveal": "oil"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Slimy slitherer",
+        "ordinal": 7,
+        "reveal": "slug"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"t\",\"s\",\"e\",\"l\"],[\"t\",\"k\",\"r\",\"a\",\"a\"],[\"e\",\"l\",\"S\",\"h\",\"e\"],[\"m\",\"i\",\"k\",\"e\",\"r\"],[\"o\",\"g\",\"u\",\"l\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 480,
+    "phrase": "Shark-like real estate moguls",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-16",
+    "id": "39a57481-1322-433d-aa9c-67b0ae8e7c91",
+    "dimension": 5
+  }
+]

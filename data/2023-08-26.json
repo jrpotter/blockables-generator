@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-05T10:20:43.760414-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Move one's head up and down in agreement",
+        "ordinal": 1,
+        "reveal": "nOD"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Ingest solids via the mouth",
+        "ordinal": 2,
+        "reveal": "eAT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Ardently late (perhaps in a educational setting), the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "tARDY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "By ___ means necessary",
+        "ordinal": 4,
+        "reveal": "aNY"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Wisconsin's state abbr.",
+        "ordinal": 5,
+        "reveal": "wI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "It may be made while the sun shines, in a proverb",
+        "ordinal": 6,
+        "reveal": "hAY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "____ to riches",
+        "ordinal": 7,
+        "reveal": "rAGS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "One-on-one correspondence on Twitter or Instagram which may be slid into, abbr.",
+        "ordinal": 8,
+        "reveal": "dM"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"o\",\"d\",\"e\",\"t\"],[\"a\",\"i\",\"y\",\"a\",\"a\"],[\"w\",\"n\",\"S\",\"t\",\"r\"],[\"a\",\"g\",\"h\",\"y\",\"d\"],[\"r\",\"m\",\"d\",\"a\",\"y\"]]",
+    "gridColors": "[[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#7C93CB\",\"#A9D594\"],[\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\",\"#7C93CB\",\"#A9D594\"],[\"#A1DBE3\",\"#EE7B8C\",\"#E6B0D1\",\"#7C93CB\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 93,
+    "phrase": "Staying hydrated on a warm day",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-26",
+    "id": "b246ff64-81db-457b-adfd-e4df06253d78",
+    "dimension": 5
+  }
+]

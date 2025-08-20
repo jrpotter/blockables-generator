@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-07-25T15:13:56.704215-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Hot mix asphalt, abbr.",
+        "ordinal": 1,
+        "reveal": "hMA"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Hot beverage often topped with whipped cream or marshmallows",
+        "ordinal": 2,
+        "reveal": "cOCOA"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Number found in movie title before \"A Space Odyssey\", to a Roman",
+        "ordinal": 3,
+        "reveal": "mmi"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "US state whose capital is Concord",
+        "ordinal": 4,
+        "reveal": "nH"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "___ Mahal",
+        "ordinal": 5,
+        "reveal": "TAJ"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Sun spot?",
+        "ordinal": 6,
+        "reveal": "sKY"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "First word of city whose surrounding region is often referred to as the Bay Area",
+        "ordinal": 7,
+        "reveal": "sAN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Used a shovel",
+        "ordinal": 8,
+        "reveal": "DUG"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"J\",\"h\",\"c\",\"a\"],[\"m\",\"a\",\"H\",\"m\",\"o\"],[\"m\",\"n\",\"T\",\"o\",\"C\"],[\"y\",\"k\",\"s\",\"a\",\"s\"],[\"D\",\"u\",\"g\",\"a\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#B86BAC\",\"#F3F1A0\",\"#B86BAC\"],[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#B86BAC\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 234,
+    "phrase": "Tom Hanks as Coach Jimmy Dugan",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-14",
+    "id": "8385f4ff-7df2-4f70-941e-1305fdcc76eb",
+    "dimension": 5
+  }
+]

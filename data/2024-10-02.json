@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-04-11T08:47:54.064349-06:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Summer in France?",
+        "ordinal": 1,
+        "reveal": "ete"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Venomous snakes",
+        "ordinal": 2,
+        "reveal": "vipers"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "1816 Jane Austen novel",
+        "ordinal": 3,
+        "reveal": "emma"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Small piece of burning or glowing coal or wood in a dying fire",
+        "ordinal": 4,
+        "reveal": "ember"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Off the ____",
+        "ordinal": 5,
+        "reveal": "cuff"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "English word with the most definitions",
+        "ordinal": 6,
+        "reveal": "set"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"e\",\"t\",\"e\",\"v\"],[\"m\",\"r\",\"e\",\"p\",\"i\"],[\"m\",\"e\",\"S\",\"u\",\"t\"],[\"e\",\"f\",\"f\",\"e\",\"c\"],[\"m\",\"b\",\"e\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 496,
+    "phrase": "Super effective team members",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-02",
+    "id": "277b4aeb-5b5b-46df-b0e8-38ae1bfa5853",
+    "dimension": 5
+  }
+]

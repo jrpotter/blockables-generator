@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-07-25T15:03:46-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "______ times",
+        "ordinal": 1,
+        "reveal": "tRYING"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Information Networking Institute, abbr.",
+        "ordinal": 2,
+        "reveal": "iNI"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Organized body of criminals, such as those featured in The Godfather or Goodfellas",
+        "ordinal": 3,
+        "reveal": "mAFIA"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"__ what?\"",
+        "ordinal": 4,
+        "reveal": "sO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Places gently, such as a mug of coffee on a table",
+        "ordinal": 5,
+        "reveal": "SETS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after bench or before conference",
+        "ordinal": 6,
+        "reveal": "pRESS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"t\",\"i\",\"n\",\"i\"],[\"a\",\"y\",\"i\",\"n\",\"g\"],[\"m\",\"f\",\"S\",\"a\",\"e\"],[\"o\",\"s\",\"i\",\"t\",\"s\"],[\"s\",\"s\",\"e\",\"r\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#EE7B8C\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 235,
+    "phrase": "Satisfying espresso martini",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-15",
+    "id": "2427a393-fb01-43fe-a89a-6b1a692cd895",
+    "dimension": 5
+  }
+]

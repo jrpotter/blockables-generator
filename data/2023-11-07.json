@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-05-15T08:30:06-06:00",
+    "category": "Song and Artist",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "YouTube video storage unit, perhaps prefixed with mega- or giga-, the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "bYTE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "University of Texas Information Technology, abbr.",
+        "ordinal": 2,
+        "reveal": "UTIT"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word between Bed and Beyond, in a recent Chapter 11 bankruptcy filing",
+        "ordinal": 3,
+        "reveal": "BATH"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Unlimited",
+        "ordinal": 4,
+        "reveal": "eNDLESS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Hey man, ____ it going?\"",
+        "ordinal": 5,
+        "reveal": "hOWS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "College professor's helper, abbr.",
+        "ordinal": 6,
+        "reveal": "tA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"T\",\"y\",\"b\",\"t\"],[\"e\",\"t\",\"s\",\"i\",\"u\"],[\"B\",\"a\",\"T\",\"w\",\"o\"],[\"e\",\"n\",\"d\",\"S\",\"h\"],[\"a\",\"t\",\"l\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"],[\"#F5C146\",\"#7C93CB\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 166,
+    "phrase": "\"Twist and Shout\" by The Beatles",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-07",
+    "id": "257f49c2-f5f6-4158-92a0-710dab84d792",
+    "dimension": 5
+  }
+]

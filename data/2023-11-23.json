@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-28T08:06:03-06:00",
+    "category": "He may have been a fan of Rachel Roth?",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after American or apple",
+        "ordinal": 1,
+        "reveal": "PIE"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "One of four in thermodynamics or one of three in Newton's writing on motion",
+        "ordinal": 2,
+        "reveal": "lAW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Like paper after being ripped",
+        "ordinal": 3,
+        "reveal": "tORN"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Hollywood location, abbr.",
+        "ordinal": 4,
+        "reveal": "lA"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Triple it for Santa's laugh",
+        "ordinal": 5,
+        "reveal": "HO"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Mistake, perhaps most often seen on computer screens",
+        "ordinal": 6,
+        "reveal": "eRROR"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Primary color whose comparative adjective form creates a palindrome",
+        "ordinal": 7,
+        "reveal": "rED"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Like an old towel in a garage, perhaps",
+        "ordinal": 8,
+        "reveal": "rAG"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"n\",\"P\",\"o\",\"e\"],[\"l\",\"w\",\"r\",\"i\",\"t\"],[\"l\",\"r\",\"H\",\"o\",\"e\"],[\"A\",\"o\",\"r\",\"r\",\"r\"],[\"r\",\"a\",\"g\",\"d\",\"E\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#F5C146\",\"#A1DBE3\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#F5C146\"],[\"#A9D594\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"],[\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 182,
+    "phrase": "Horror writer Edgar Allan Poe",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-23",
+    "id": "f8731442-115d-40ec-9df0-59c86c3cf302",
+    "dimension": 5
+  }
+]

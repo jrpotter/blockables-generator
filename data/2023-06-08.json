@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-12-08T20:16:14-07:00",
+    "category": "Result of Feeling Peckish?",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": null,
+        "ordinal": 1,
+        "reveal": null
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Bro's sibling",
+        "ordinal": 2,
+        "reveal": "sIS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Dwight Eisenhower's rhyming campaign slogan: \"I like ___\"",
+        "ordinal": 3,
+        "reveal": "iKE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "_____ patootie",
+        "ordinal": 4,
+        "reveal": "cUTIE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "ISO code for Asian city with the largest number of skyscrapers",
+        "ordinal": 5,
+        "reveal": "hK"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Clue #3 abbr., in text messages",
+        "ordinal": 6,
+        "reveal": "QT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Daniel,\" \"Levon,\" and \"Bennie and the Jets\" singer John",
+        "ordinal": 7,
+        "reveal": "eLTON"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "NATO code for country where city referenced in Clue #4 can be found",
+        "ordinal": 8,
+        "reveal": "cH"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"o\",\"s\",\"s\",\"i\"],[\"t\",\"k\",\"c\",\"i\",\"k\"],[\"h\",\"l\",\"Q\",\"u\",\"e\"],[\"e\",\"i\",\"t\",\"t\",\"l\"],[\"c\",\"h\",\"e\",\"e\",\"k\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"],[\"#7C93CB\",\"#F5C146\",\"#EE7B8C\",\"#B86BAC\",\"#E6B0D1\"],[\"#F5C146\",\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#E6B0D1\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 14,
+    "phrase": "Quick little kiss on the cheek",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-08",
+    "id": "234ee0cc-03d7-4430-a8e1-3ef3d9a2b355",
+    "dimension": 5
+  }
+]

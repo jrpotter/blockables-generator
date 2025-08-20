@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-06-11T09:10:37.301434-06:00",
+    "category": "Film and TV",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Kansas City, Kansas, abbr.",
+        "ordinal": 1,
+        "reveal": "kCK"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word after nose or before security",
+        "ordinal": 2,
+        "reveal": "JOB"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Triple it for Santa's laugh",
+        "ordinal": 3,
+        "reveal": "HO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Vacuum, scrub, or otherwise neaten, generally",
+        "ordinal": 4,
+        "reveal": "cLEAN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"___, ___, Black Sheep\", 1744 nursery rhyme",
+        "ordinal": 5,
+        "reveal": "BAA"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Yard abbr.",
+        "ordinal": 6,
+        "reveal": "yD"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Flower mentioned in the titles of a 1988 Poison hit and a 1994 Seal hit",
+        "ordinal": 7,
+        "reveal": "rOSE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "A perfect score in bowling multiplied by the number of days in a week, to a Roman",
+        "ordinal": 8,
+        "reveal": "mMC"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"k\",\"c\",\"a\",\"J\",\"o\"],[\"H\",\"k\",\"c\",\"a\",\"B\"],[\"o\",\"c\",\"B\",\"l\",\"y\"],[\"r\",\"o\",\"m\",\"e\",\"d\"],[\"s\",\"e\",\"m\",\"a\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#B86BAC\"],[\"#F5C146\",\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 193,
+    "phrase": "Black comedy \"BoJack Horseman\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-04",
+    "id": "6a4d53c1-6ed8-4442-a1a5-dbeda6ac8c0b",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:11:42.994051+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Programming language often paired with \"thon\"",
+                "ordinal": 1,
+                "reveal": "PY"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Hatfields and McCoys conflict",
+                "ordinal": 2,
+                "reveal": "FEUD"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Opposite of where the sun sets",
+                "ordinal": 3,
+                "reveal": "EAST"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Morse code dot",
+                "ordinal": 4,
+                "reveal": "DIT"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Revolutionary nickname that rhymes with \"hay\"",
+                "ordinal": 5,
+                "reveal": "CHE"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Can material or element of soldering",
+                "ordinal": 6,
+                "reveal": "TIN"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Member of a central Indian ethnic group",
+                "ordinal": 7,
+                "reveal": "GOND"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Chiefs' home, briefly",
+                "ordinal": 8,
+                "reveal": "KC"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"Y\", \"P\", \"O\", \"N\", \"D\"], [\"T\", \"G\", \"D\", \"U\", \"C\"], [\"I\", \"N\", \"F\", \"E\", \"K\"], [\"C\", \"I\", \"D\", \"E\", \"S\"], [\"E\", \"H\", \"T\", \"T\", \"A\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#F5C146\"], [\"#F3F1A0\", \"#F5C146\", \"#EE7B8C\", \"#EE7B8C\", \"#A1DBE3\"], [\"#F3F1A0\", \"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\", \"#A1DBE3\"], [\"#E6B0D1\", \"#A9D594\", \"#A9D594\", \"#B86BAC\", \"#B86BAC\"], [\"#E6B0D1\", \"#E6B0D1\", \"#A9D594\", \"#B86BAC\", \"#B86BAC\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                1
+            ],
+            "2": [
+                2,
+                2
+            ],
+            "3": [
+                3,
+                3
+            ],
+            "4": [
+                3,
+                2
+            ],
+            "5": [
+                3,
+                0
+            ],
+            "6": [
+                1,
+                0
+            ],
+            "7": [
+                1,
+                1
+            ],
+            "8": [
+                2,
+                4
+            ]
+        },
+        "phrase": "Feeding ducks at the city pond",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

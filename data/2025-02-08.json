@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-02-02T20:26:33.972913-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": ". in Morse code",
+        "ordinal": 1,
+        "reveal": "e"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "High chair occupant?",
+        "ordinal": 2,
+        "reveal": "pilot"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fargo's state's abbreviation",
+        "ordinal": 3,
+        "reveal": "nd"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Northern Beaches Secondary College, abbr.",
+        "ordinal": 4,
+        "reveal": "nbsc"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Warming spice with a licorice taste",
+        "ordinal": 5,
+        "reveal": "anise"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "One of 24, on a normal human's cage",
+        "ordinal": 6,
+        "reveal": "rib"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "South Pacific country whose name is an anagram of \"tango\"",
+        "ordinal": 7,
+        "reveal": "tonga"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"e\",\"p\",\"a\",\"d\"],[\"o\",\"l\",\"i\",\"n\",\"g\"],[\"n\",\"b\",\"S\",\"c\",\"n\"],[\"a\",\"b\",\"i\",\"r\",\"o\"],[\"n\",\"i\",\"s\",\"e\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A9D594\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 625,
+    "phrase": "Scribbling notes in a notepad",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-08",
+    "id": "07bd1039-189e-4e21-8890-75f57ef02225",
+    "dimension": 5
+  }
+]

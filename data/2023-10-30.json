@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-06T12:50:22.628131-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"__ Will Rock You\", 1977 Queen hit",
+        "ordinal": 1,
+        "reveal": "wE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "1.2-millimeter-thick plastic donut-shaped storage device, often for music, abbr.",
+        "ordinal": 2,
+        "reveal": "cD"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Hen's partner",
+        "ordinal": 3,
+        "reveal": "rOOSTER"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Initials of 2016 US Democratic presidential nominee or actor who portrayed Anakin Skywalker",
+        "ordinal": 4,
+        "reveal": "HC"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Acronym perhaps found on a tombstone",
+        "ordinal": 5,
+        "reveal": "rIP"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Consumed, as food",
+        "ordinal": 6,
+        "reveal": "aTE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after olive or before change",
+        "ordinal": 7,
+        "reveal": "oIL"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"No thank you,\" to a texter",
+        "ordinal": 8,
+        "reveal": "nTY"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"w\",\"o\",\"p\",\"c\"],[\"r\",\"o\",\"r\",\"d\",\"i\"],[\"s\",\"e\",\"H\",\"y\",\"r\"],[\"t\",\"l\",\"e\",\"c\",\"t\"],[\"a\",\"t\",\"i\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#B86BAC\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\",\"#E6B0D1\",\"#B86BAC\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 158,
+    "phrase": "Hydroelectric power station",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-30",
+    "id": "7f0fbd17-ae08-45d3-b6ee-1d5a6213eaf8",
+    "dimension": 5
+  }
+]

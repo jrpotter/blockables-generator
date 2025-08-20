@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-05-20T08:09:11.652814-06:00",
+    "category": "Living Thing",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Body part that can be up to 4 inches long on the answer to today's puzzle",
+        "ordinal": 1,
+        "reveal": "bill"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before Grande or de Janeiro",
+        "ordinal": 2,
+        "reveal": "rio"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "4th letter of the alphabet",
+        "ordinal": 3,
+        "reveal": "d"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Ultra Fast Rendering, abbr.",
+        "ordinal": 4,
+        "reveal": "ufr"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Young male horse, perhaps from Indianapolis",
+        "ordinal": 5,
+        "reveal": "Colt"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Imperial dynasty of China that ruled from 1368 to 1644",
+        "ordinal": 6,
+        "reveal": "ming"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Emit a melody with your mouth shut",
+        "ordinal": 7,
+        "reveal": "hum"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Live and ___ live\": a common idiom, or \"Live and ___ Die\": a 1973 McCartney song",
+        "ordinal": 8,
+        "reveal": "let"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"b\",\"i\",\"r\",\"d\"],[\"n\",\"u\",\"l\",\"l\",\"i\"],[\"i\",\"f\",\"C\",\"o\",\"t\"],[\"m\",\"r\",\"o\",\"l\",\"t\"],[\"m\",\"u\",\"h\",\"e\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#A9D594\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 727,
+    "phrase": "Colorful little hummingbird",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-21",
+    "id": "e4f13bcc-6887-45f5-9354-7d306e5037df",
+    "dimension": 5
+  }
+]

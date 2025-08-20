@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-06-26T10:31:33.932275-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Uppermost color of a rainbow",
+        "ordinal": 1,
+        "reveal": "rED"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "__YL, texter's sign-off acronym",
+        "ordinal": 2,
+        "reveal": "tT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Lazy river watercraft",
+        "ordinal": 3,
+        "reveal": "tUBE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "You ____ what you sow",
+        "ordinal": 4,
+        "reveal": "rEAP"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Fitting name of the green Tyrannosaurus in Toy Story",
+        "ordinal": 5,
+        "reveal": "rEX"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Where a soccer ball must be sent in order to score",
+        "ordinal": 6,
+        "reveal": "gOAL"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Police officer",
+        "ordinal": 7,
+        "reveal": "cOP"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Registered nurse abbr.",
+        "ordinal": 8,
+        "reveal": "rN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"r\",\"e\",\"t\",\"t\"],[\"d\",\"a\",\"r\",\"t\",\"u\"],[\"p\",\"l\",\"E\",\"x\",\"b\"],[\"o\",\"a\",\"r\",\"g\",\"e\"],[\"p\",\"c\",\"o\",\"r\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 205,
+    "phrase": "Extra-large buttered popcorn",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-16",
+    "id": "a39e0eaf-5446-4881-afd9-405006919b5b",
+    "dimension": 5
+  }
+]

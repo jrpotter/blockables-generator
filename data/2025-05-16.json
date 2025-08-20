@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-05-11T10:55:31.779154-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "\"Real _s move in silence like lasagna\", 2011 Lil Wayne lyric",
+        "ordinal": 1,
+        "reveal": "g"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Emergent temporary ruler, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "regent"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of \"No Woman, No Cry\" (1974) singer or actress of Winnie Sanderson in \"Hocus Pocus\" (1993)",
+        "ordinal": 3,
+        "reveal": "bm"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word before street or after water",
+        "ordinal": 4,
+        "reveal": "main"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Part of speech for \"a\", \"an\", or \"the\"",
+        "ordinal": 5,
+        "reveal": "article"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Intergovernmental organization founded in 1945, abbr.",
+        "ordinal": 6,
+        "reveal": "un"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Intensive Care Unit, abbr.",
+        "ordinal": 7,
+        "reveal": "icu"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"g\",\"r\",\"e\",\"b\"],[\"n\",\"a\",\"g\",\"e\",\"m\"],[\"m\",\"n\",\"E\",\"l\",\"u\"],[\"a\",\"t\",\"c\",\"u\",\"c\"],[\"r\",\"t\",\"i\",\"n\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#EE7B8C\",\"#A1DBE3\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#B86BAC\"],[\"#EE7B8C\",\"#F5C146\",\"#EE7B8C\",\"#F3F1A0\",\"#B86BAC\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 722,
+    "phrase": "Elegant cucumber gin martini",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-16",
+    "id": "12032c99-aac5-4699-a76e-55d09d06e723",
+    "dimension": 5
+  }
+]

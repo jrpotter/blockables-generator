@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-04-27T07:22:22.264268-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Singer Garfunkel or pianist Tatum",
+        "ordinal": 1,
+        "reveal": "art"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Two to a Roman",
+        "ordinal": 2,
+        "reveal": "ii"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letters found on a magnet from top to bottom, perhaps",
+        "ordinal": 3,
+        "reveal": "ns"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Double it for a cheerleader's prop",
+        "ordinal": 4,
+        "reveal": "pom"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Course of action sometimes distinguished by a letter",
+        "ordinal": 5,
+        "reveal": "plan"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Acquire",
+        "ordinal": 6,
+        "reveal": "get"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Citywide Immunization Registry, abbr.",
+        "ordinal": 7,
+        "reveal": "cir"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "_____-dink: old-fashioned, worn-out",
+        "ordinal": 8,
+        "reveal": "rinky"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"r\",\"t\",\"i\",\"n\"],[\"M\",\"o\",\"p\",\"s\",\"i\"],[\"y\",\"p\",\"L\",\"a\",\"n\"],[\"k\",\"n\",\"i\",\"t\",\"g\"],[\"c\",\"i\",\"R\",\"r\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\"],[\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 709,
+    "phrase": "Latin pop singer Ricky Martin",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-03",
+    "id": "93543209-f88d-41c0-ba54-eb9f71e6913c",
+    "dimension": 5
+  }
+]

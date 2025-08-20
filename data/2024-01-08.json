@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-07-17T10:51:49.74171-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "It's often done on the side of caution",
+        "ordinal": 1,
+        "reveal": "eRR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word after light or tulip",
+        "ordinal": 2,
+        "reveal": "bULB"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "No trouble at all, to a texter",
+        "ordinal": 3,
+        "reveal": "nP"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"It's __ way or the highway, mister!\"",
+        "ordinal": 4,
+        "reveal": "mY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Letters before military-based action figure Joe",
+        "ordinal": 5,
+        "reveal": "gI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "First action mentioned in a wolf's house-demolishing threat in \"The Three Little Pigs\"",
+        "ordinal": 6,
+        "reveal": "hUFF"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Traditional term for an atom with net charge; its letters can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "iON"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Esprit R.E.M. lead singer's last name, the letters of which can be found in this clue's first word",
+        "ordinal": 8,
+        "reveal": "sTIPE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"r\",\"e\",\"b\",\"e\"],[\"y\",\"n\",\"i\",\"p\",\"u\"],[\"m\",\"g\",\"P\",\"i\",\"l\"],[\"u\",\"h\",\"o\",\"t\",\"b\"],[\"f\",\"f\",\"i\",\"n\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\"],[\"#F5C146\",\"#A9D594\",\"#F3F1A0\",\"#A1DBE3\",\"#B86BAC\"],[\"#F5C146\",\"#F3F1A0\",\"#A9D594\",\"#A1DBE3\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#A1DBE3\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 228,
+    "phrase": "Piping-hot blueberry muffins",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-08",
+    "id": "05fc613d-746c-4fd6-a39c-67d583378247",
+    "dimension": 5
+  }
+]

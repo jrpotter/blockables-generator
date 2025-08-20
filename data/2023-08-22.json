@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-02-15T10:27:45.109839-07:00",
+    "category": "Living Things",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Number of playing cards in a standard deck, to a Roman",
+        "ordinal": 1,
+        "reveal": "lII"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "It may be sharper than your typical canine?",
+        "ordinal": 2,
+        "reveal": "fANG"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Shed old feathers, hair, or skin; the answer of today's puzzle does it every fall",
+        "ordinal": 3,
+        "reveal": "MOLT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Uriah Butler Highway, abbr.",
+        "ordinal": 4,
+        "reveal": "uBH"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"So ____, bestie!\", gen-Z phrase used to mockingly agree with someone",
+        "ordinal": 5,
+        "reveal": "tRUE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Transgression against divine law",
+        "ordinal": 6,
+        "reveal": "sIN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Tie or fasten tightly",
+        "ordinal": 7,
+        "reveal": "bIND"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"i\",\"g\",\"h\",\"t\"],[\"f\",\"i\",\"n\",\"b\",\"l\"],[\"n\",\"a\",\"M\",\"o\",\"u\"],[\"i\",\"t\",\"n\",\"u\",\"e\"],[\"s\",\"d\",\"r\",\"i\",\"b\"]]",
+    "gridColors": "[[\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\",\"#7C93CB\"],[\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\",\"#7C93CB\"],[\"#F3F1A0\",\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\"],[\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 89,
+    "phrase": "Mountain bluebirds in flight",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-22",
+    "id": "8a7be1de-5304-4a1a-9138-9bb9ac158d04",
+    "dimension": 5
+  }
+]

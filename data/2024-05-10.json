@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-19T10:18:41.790122-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Yellow Pages, abbr.",
+        "ordinal": 1,
+        "reveal": "yP"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Marries",
+        "ordinal": 2,
+        "reveal": "Weds"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Time, typically Friday, on which employees' salaries or wages are distributed",
+        "ordinal": 3,
+        "reveal": "payday"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Looney _____, animated cartoon franchise featuring Bugs Bunny",
+        "ordinal": 4,
+        "reveal": "TUNES"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Is\" in Spanish",
+        "ordinal": 5,
+        "reveal": "es"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Horse food, often made from grasses",
+        "ordinal": 6,
+        "reveal": "hay"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Father",
+        "ordinal": 7,
+        "reveal": "dad"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"d\",\"a\",\"y\",\"s\"],[\"p\",\"y\",\"W\",\"e\",\"d\"],[\"p\",\"a\",\"T\",\"u\",\"n\"],[\"a\",\"d\",\"s\",\"e\",\"e\"],[\"h\",\"y\",\"a\",\"d\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 351,
+    "phrase": "Tuesday, Wednesday, happy days!",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-10",
+    "id": "b2f87414-3419-4b65-b41d-042b0da8cd7b",
+    "dimension": 5
+  }
+]

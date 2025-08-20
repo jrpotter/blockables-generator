@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-07-14T08:15:01.639135-06:00",
+    "category": "Film & TV",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "_. pylori, stomach bacterium",
+        "ordinal": 1,
+        "reveal": "h"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Coniferous evergreen tree",
+        "ordinal": 2,
+        "reveal": "Pine"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Waste Heat Regeneration, abbr.",
+        "ordinal": 3,
+        "reveal": "whr"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "USA's space exploration division",
+        "ordinal": 4,
+        "reveal": "nasa"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Ride a Bird, Lime, or Razor, say",
+        "ordinal": 5,
+        "reveal": "scoot"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"To survive, we'll have to ____ for ourselves!\"",
+        "ordinal": 6,
+        "reveal": "Fend"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Wild hog",
+        "ordinal": 7,
+        "reveal": "boar"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"e\",\"n\",\"i\",\"h\"],[\"s\",\"o\",\"t\",\"r\",\"P\"],[\"a\",\"o\",\"C\",\"a\",\"w\"],[\"n\",\"n\",\"s\",\"h\",\"o\"],[\"d\",\"F\",\"e\",\"r\",\"b\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#B86BAC\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\"],[\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 787,
+    "phrase": "Cartoon show \"Phineas and Ferb\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-20",
+    "id": "0c83fd65-306a-4b12-b28e-208968a0215b",
+    "dimension": 5
+  }
+]

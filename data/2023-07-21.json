@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-28T16:37:36.888549-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "clue": "Material enclosing the filling of a sausage",
+        "color": "#7C93CB",
+        "reveal": "CASING",
+        "ordinal": 1
+      },
+      {
+        "clue": "Atilla was one",
+        "color": "#F3F1A0",
+        "reveal": "hUN",
+        "ordinal": 2
+      },
+      {
+        "clue": "First syllable of pill-shaped breath mint",
+        "color": "#EE7B8C",
+        "reveal": "tIC",
+        "ordinal": 3
+      },
+      {
+        "clue": "What Santa Claus has that Mrs. Claus doesn't",
+        "color": "#E6B0D1",
+        "reveal": "bEARD",
+        "ordinal": 4
+      },
+      {
+        "clue": "Star Wars: Episode __ - Attack of the Clones",
+        "color": "#A1DBE3",
+        "reveal": "iI",
+        "ordinal": 5
+      },
+      {
+        "clue": "Scooby Doo's Mystery Machine, for example",
+        "color": "#F5C146",
+        "reveal": "vAN",
+        "ordinal": 6
+      },
+      {
+        "clue": "Flow's partner",
+        "color": "#A9D594",
+        "reveal": "eBB",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"C\", \"e\", \"h\", \"t\", \"n\"], [\"a\", \"a\", \"b\", \"u\", \"i\"], [\"r\", \"d\", \"S\", \"c\", \"g\"], [\"i\", \"i\", \"v\", \"i\", \"n\"], [\"b\", \"b\", \"e\", \"a\", \"n\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#E6B0D1\", \"#F3F1A0\", \"#EE7B8C\", \"#F3F1A0\"], [\"#E6B0D1\", \"#7C93CB\", \"#E6B0D1\", \"#F3F1A0\", \"#EE7B8C\"], [\"#E6B0D1\", \"#E6B0D1\", \"#7C93CB\", \"#EE7B8C\", \"#7C93CB\"], [\"#A1DBE3\", \"#A1DBE3\", \"#F5C146\", \"#7C93CB\", \"#7C93CB\"], [\"#A9D594\", \"#A9D594\", \"#A9D594\", \"#F5C146\", \"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 57,
+    "phrase": "Scuba diving in the Caribbean",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-21",
+    "id": "caf90d2a-c57a-4368-8dc6-36af759bf979",
+    "dimension": 5
+  }
+]

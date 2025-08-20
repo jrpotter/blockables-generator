@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-12-06T07:39:44.773517-07:00",
+    "category": "Famous Song",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Small piece of burning or glowing coal or wood in a dying fire",
+        "ordinal": 1,
+        "reveal": "ember"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letters often found after an unregistered trademark",
+        "ordinal": 2,
+        "reveal": "tm"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Animal off which the Pok\u00e9mon Ekans is based",
+        "ordinal": 3,
+        "reveal": "Snake"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sob",
+        "ordinal": 4,
+        "reveal": "Weep"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Overturn",
+        "ordinal": 5,
+        "reveal": "Upend"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Wyoming East High School, abbr.",
+        "ordinal": 6,
+        "reveal": "WEHS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"t\",\"p\",\"e\",\"S\"],[\"m\",\"M\",\"e\",\"k\",\"n\"],[\"b\",\"e\",\"W\",\"a\",\"e\"],[\"e\",\"U\",\"p\",\"W\",\"h\"],[\"r\",\"E\",\"n\",\"d\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 370,
+    "phrase": "Wake Me Up When September Ends",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-29",
+    "id": "000fdabd-71ff-45be-a334-ffbcce71045a",
+    "dimension": 5
+  }
+]

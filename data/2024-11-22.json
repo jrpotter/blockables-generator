@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-18T18:11:19.168735-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "______ chops, long sideburns named after sheep meat",
+        "ordinal": 1,
+        "reveal": "mutton"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"It __ what it __.\"",
+        "ordinal": 2,
+        "reveal": "is"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Serene",
+        "ordinal": 3,
+        "reveal": "calm"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Celebratory scarf or band worn about the waist, over the shoulder",
+        "ordinal": 4,
+        "reveal": "sash"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Healthcare Identification Number, abbr.",
+        "ordinal": 5,
+        "reveal": "hin"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Dorm overseer, for short",
+        "ordinal": 6,
+        "reveal": "ra"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Start over",
+        "ordinal": 7,
+        "reveal": "redo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"u\",\"s\",\"i\",\"c\"],[\"t\",\"t\",\"o\",\"n\",\"a\"],[\"s\",\"a\",\"H\",\"a\",\"l\"],[\"i\",\"h\",\"s\",\"r\",\"m\"],[\"n\",\"r\",\"e\",\"d\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#B86BAC\",\"#F5C146\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 547,
+    "phrase": "Harsh, atonal modernist music",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-22",
+    "id": "011c3933-ca4d-40c8-a9b7-59d3693b6025",
+    "dimension": 5
+  }
+]

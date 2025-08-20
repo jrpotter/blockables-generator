@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-07-13T07:15:16.513077-06:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Fourth letter of the Greek alphabet, often symbolized by a triangle",
+        "ordinal": 1,
+        "reveal": "delta"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word after Biscayne, Chesapeake, or Michael",
+        "ordinal": 2,
+        "reveal": "bay"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Under's opposite",
+        "ordinal": 3,
+        "reveal": "Over"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "German one",
+        "ordinal": 4,
+        "reveal": "ein"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Fiction's opposite",
+        "ordinal": 5,
+        "reveal": "fact"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Flexible Spending Account, abbr.",
+        "ordinal": 6,
+        "reveal": "fsa"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "English honorific address",
+        "ordinal": 7,
+        "reveal": "sir"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"e\",\"t\",\"a\",\"n\"],[\"b\",\"l\",\"r\",\"e\",\"i\"],[\"a\",\"y\",\"O\",\"v\",\"e\"],[\"r\",\"c\",\"a\",\"f\",\"f\"],[\"i\",\"s\",\"t\",\"a\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\"],[\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 784,
+    "phrase": "Overly caffeinated baristas",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-17",
+    "id": "3d80d54b-8821-4a0b-b08f-8a9e0ea11dd3",
+    "dimension": 5
+  }
+]

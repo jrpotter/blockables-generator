@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-02-09T08:33:50.725895-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Pans' partners",
+        "ordinal": 1,
+        "reveal": "pOTS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Unathletic kid's least favorite class, abbr.",
+        "ordinal": 2,
+        "reveal": "pE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Acronym for a phrase whose opposite is \"Joy of Missing Out\"",
+        "ordinal": 3,
+        "reveal": "fOMO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Friend of myself and I",
+        "ordinal": 4,
+        "reveal": "mE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Year abbr.",
+        "ordinal": 5,
+        "reveal": "yR"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Only planet that has four letters",
+        "ordinal": 6,
+        "reveal": "mARS"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Abbreviation found before Everest or Kilimanjaro",
+        "ordinal": 7,
+        "reveal": "mT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Manufacturing company which makes the answer of today's puzzle",
+        "ordinal": 8,
+        "reveal": "sERTA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"p\",\"e\",\"r\",\"s\"],[\"o\",\"f\",\"o\",\"a\",\"m\"],[\"t\",\"y\",\"M\",\"e\",\"m\"],[\"s\",\"r\",\"o\",\"m\",\"a\"],[\"s\",\"e\",\"r\",\"t\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\"],[\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\",\"#A1DBE3\",\"#F5C146\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 71,
+    "phrase": "Memory foam mattress toppers",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-04",
+    "id": "24fbb8d7-8000-43ad-aa2e-9074c51cd9d1",
+    "dimension": 5
+  }
+]

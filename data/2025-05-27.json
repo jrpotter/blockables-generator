@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-05-25T11:03:23.696291-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"Wow, you've ____ like a fine wine!\"",
+        "ordinal": 1,
+        "reveal": "aged"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Friend of myself and I",
+        "ordinal": 2,
+        "reveal": "me"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Planet known for its rings",
+        "ordinal": 3,
+        "reveal": "saturn"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after jazz or scaredy",
+        "ordinal": 4,
+        "reveal": "cat"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Arthur or Lear",
+        "ordinal": 5,
+        "reveal": "king"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Sprinted",
+        "ordinal": 6,
+        "reveal": "ran"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "American Translators Association, abbr.",
+        "ordinal": 7,
+        "reveal": "ata"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"g\",\"a\",\"m\",\"e\"],[\"d\",\"t\",\"u\",\"r\",\"n\"],[\"a\",\"g\",\"T\",\"a\",\"s\"],[\"c\",\"n\",\"i\",\"k\",\"a\"],[\"r\",\"a\",\"n\",\"a\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 733,
+    "phrase": "Taking turns at an arcade game",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-27",
+    "id": "3c206708-3a24-4a13-8ac0-19b0b71e8aed",
+    "dimension": 5
+  }
+]

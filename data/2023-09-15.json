@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-03-26T15:15:39.976531-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Letters after poli or comp, seen often in university settings",
+        "ordinal": 1,
+        "reveal": "sCI"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Macronutrient trio member with carb and protein",
+        "ordinal": 2,
+        "reveal": "fAT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Leafy green which may be from Tuscany",
+        "ordinal": 3,
+        "reveal": "kALE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Chip which may come in Cool Ranch or Nacho Cheese flavors",
+        "ordinal": 4,
+        "reveal": "DORITO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Retail store specializing in outdoors equipment, the letters of which can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "rEI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Port in which a thumb drive goes, abbr.",
+        "ordinal": 6,
+        "reveal": "uSB"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Action which may be performed on a dog's belly",
+        "ordinal": 7,
+        "reveal": "rUB"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"a\",\"f\",\"k\",\"a\"],[\"t\",\"c\",\"i\",\"l\",\"e\"],[\"b\",\"i\",\"D\",\"e\",\"r\"],[\"u\",\"o\",\"u\",\"s\",\"b\"],[\"r\",\"r\",\"i\",\"t\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 113,
+    "phrase": "Delicious breakfast burrito",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-15",
+    "id": "e39e3a85-e208-4f27-9d1d-f7cc748429c6",
+    "dimension": 5
+  }
+]

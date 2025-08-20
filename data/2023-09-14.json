@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.801212-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Abbreviation often accompanied by a small red dot",
+        "ordinal": 1,
+        "reveal": "rEC"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Relatively thick layer on cappuccinos",
+        "ordinal": 2,
+        "reveal": "fOAM"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Deal with, as stress or trauma",
+        "ordinal": 3,
+        "reveal": "cOPE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pustules, they may be rolling in the kitchen?",
+        "ordinal": 4,
+        "reveal": "BOILS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "By way of",
+        "ordinal": 5,
+        "reveal": "vIA"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Negroni spirit whose letters can be found in the aforementioned cocktail",
+        "ordinal": 6,
+        "reveal": "gIN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Commonly torn knee stabilizer, abbr.",
+        "ordinal": 7,
+        "reveal": "aCL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"r\",\"e\",\"a\",\"m\"],[\"e\",\"o\",\"p\",\"o\",\"f\"],[\"c\",\"o\",\"B\",\"i\",\"v\"],[\"i\",\"c\",\"s\",\"g\",\"a\"],[\"a\",\"l\",\"l\",\"i\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\",\"#B86BAC\",\"#EE7B8C\"],[\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 112,
+    "phrase": "Big scoop of vanilla ice cream",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-14",
+    "id": "81e4f433-60db-48d1-a2dd-ec79ec8c7fce",
+    "dimension": 5
+  }
+]

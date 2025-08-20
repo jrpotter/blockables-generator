@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-02-29T09:08:35.759212-07:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Animal represented by the teacher of the answer of today's puzzle",
+        "ordinal": 1,
+        "reveal": "rat"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Letters found at the end of a South Korean URL",
+        "ordinal": 2,
+        "reveal": "kr"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Triple it for Santa's laugh",
+        "ordinal": 3,
+        "reveal": "ho"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Forerunner neckband of the modern necktie",
+        "ordinal": 4,
+        "reveal": "Cravat"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Father",
+        "ordinal": 5,
+        "reveal": "dad"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Texter's \"you're\", perhaps",
+        "ordinal": 6,
+        "reveal": "ur"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Trescientos sesenta y cinco d\u00edas",
+        "ordinal": 7,
+        "reveal": "ano"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before admiral or window",
+        "ordinal": 8,
+        "reveal": "Rear"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"A\",\"k\",\"r\",\"a\"],[\"t\",\"o\",\"t\",\"r\",\"v\"],[\"h\",\"o\",\"C\",\"a\",\"d\"],[\"u\",\"n\",\"a\",\"a\",\"r\"],[\"r\",\"R\",\"e\",\"a\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"],[\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"],[\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 453,
+    "phrase": "Cartoon aardvark Arthur Read",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-20",
+    "id": "cef32d19-ae4c-4a6c-b461-ec4e1efbdaae",
+    "dimension": 5
+  }
+]

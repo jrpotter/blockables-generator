@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-12-26T06:28:04.020017-07:00",
+    "category": "Song and Artist",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"___ attention!\"",
+        "ordinal": 1,
+        "reveal": "Pay"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "The Beatles' \"Abbey Road\" or \"Graceland\", off which the answer to today's puzzle was a hit single",
+        "ordinal": 2,
+        "reveal": "Album"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of \"Murder on the Orient Express\" author or 1920s Chicagoan crime boss",
+        "ordinal": 3,
+        "reveal": "ac"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Prefix meaning \"not\", perhaps found before ambiguous or well",
+        "ordinal": 4,
+        "reveal": "un"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Level Of Effort, abbr.",
+        "ordinal": 5,
+        "reveal": "loe"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Chandelier's singer, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "Sia"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "1150, to a Roman",
+        "ordinal": 7,
+        "reveal": "mCL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Sole",
+        "ordinal": 8,
+        "reveal": "only"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"P\",\"y\",\"b\",\"l\",\"A\"],[\"a\",\"a\",\"C\",\"u\",\"e\"],[\"u\",\"n\",\"Y\",\"o\",\"M\"],[\"l\",\"C\",\"a\",\"l\",\"l\"],[\"S\",\"i\",\"m\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\",\"#F3F1A0\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 395,
+    "phrase": "\"You Can Call Me Al\" by Paul Simon",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-23",
+    "id": "aebf2e29-d746-4b55-b9e2-079549798596",
+    "dimension": 5
+  }
+]

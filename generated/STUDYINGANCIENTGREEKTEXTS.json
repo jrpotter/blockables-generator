@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:10:47.625794+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Hospital area, briefly",
+                "ordinal": 1,
+                "reveal": "ER"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Just do it company",
+                "ordinal": 2,
+                "reveal": "NIKE"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Message you send, for short",
+                "ordinal": 3,
+                "reveal": "TEXT"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Peach State, initially",
+                "ordinal": 4,
+                "reveal": "GA"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Tin's symbol",
+                "ordinal": 5,
+                "reveal": "SN"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Stroke of poetic stress",
+                "ordinal": 6,
+                "reveal": "ICTUS"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Two-handled drinking cup",
+                "ordinal": 7,
+                "reveal": "TYG"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Finish or goal, and a word that can precede \"zone\" or \"table\"",
+                "ordinal": 8,
+                "reveal": "END"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"R\", \"G\", \"T\", \"N\", \"E\"], [\"E\", \"Y\", \"D\", \"U\", \"I\"], [\"E\", \"I\", \"S\", \"T\", \"C\"], [\"K\", \"N\", \"G\", \"A\", \"N\"], [\"T\", \"E\", \"X\", \"T\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#F3F1A0\", \"#F3F1A0\", \"#A1DBE3\", \"#A1DBE3\"], [\"#7C93CB\", \"#F3F1A0\", \"#A1DBE3\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F5C146\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F5C146\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\", \"#EE7B8C\"], [\"#A9D594\", \"#A9D594\", \"#A9D594\", \"#A9D594\", \"#EE7B8C\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                3,
+                1
+            ],
+            "3": [
+                4,
+                0
+            ],
+            "4": [
+                3,
+                2
+            ],
+            "5": [
+                4,
+                4
+            ],
+            "6": [
+                1,
+                4
+            ],
+            "7": [
+                0,
+                2
+            ],
+            "8": [
+                0,
+                4
+            ]
+        },
+        "phrase": "Studying ancient Greek texts",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

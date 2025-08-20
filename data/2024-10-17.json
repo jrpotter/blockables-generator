@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-13T10:09:41.305907-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Account of someone's life written by someone else, for short",
+        "ordinal": 1,
+        "reveal": "Bio"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Prefix meaning \"again\"",
+        "ordinal": 2,
+        "reveal": "re"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Last word in many hotel names",
+        "ordinal": 3,
+        "reveal": "inn"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Person who behaves dangerously, like the protagonist of a 1983 Michael Sembello song",
+        "ordinal": 4,
+        "reveal": "maniac"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Hornet's weapon",
+        "ordinal": 5,
+        "reveal": "stinger"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"___ you going to Scarborough Fair?\", English ballad lyric",
+        "ordinal": 6,
+        "reveal": "are"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "F's opposite, on some quizzes",
+        "ordinal": 7,
+        "reveal": "t"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"o\",\"B\",\"r\",\"e\"],[\"n\",\"i\",\"r\",\"e\",\"g\"],[\"i\",\"c\",\"A\",\"m\",\"n\"],[\"e\",\"a\",\"n\",\"s\",\"i\"],[\"R\",\"a\",\"i\",\"t\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#B86BAC\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 511,
+    "phrase": "American singer Bonnie Raitt",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-17",
+    "id": "26ee7aa5-fd6e-4836-8e2b-5e52a3d922cf",
+    "dimension": 5
+  }
+]

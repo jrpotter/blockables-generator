@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-10T09:13:30.169064-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Arrow launcher, in medieval times",
+        "ordinal": 1,
+        "reveal": "bOW"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Two of spades, for one",
+        "ordinal": 2,
+        "reveal": "cARD"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "City-infesting rodent",
+        "ordinal": 3,
+        "reveal": "rAT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Citrus-based breakfast drink, for short",
+        "ordinal": 4,
+        "reveal": "oJ"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"No pain, no ____\", rhyming slogan said by fitness enthusiasts",
+        "ordinal": 5,
+        "reveal": "gAIN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Instagram posts, for short",
+        "ordinal": 6,
+        "reveal": "pICS"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"___ that book back where it belongs.\"",
+        "ordinal": 7,
+        "reveal": "pUT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Tennessee's state abbr.",
+        "ordinal": 8,
+        "reveal": "tN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"b\",\"o\",\"r\",\"c\"],[\"t\",\"r\",\"d\",\"w\",\"a\"],[\"i\",\"o\",\"J\",\"a\",\"g\"],[\"c\",\"p\",\"p\",\"i\",\"n\"],[\"s\",\"t\",\"u\",\"n\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#A9D594\"],[\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 281,
+    "phrase": "Jaw-dropping acrobatic stunt",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-01",
+    "id": "7f495c16-904a-47b1-95f5-814bf94b8aeb",
+    "dimension": 5
+  }
+]

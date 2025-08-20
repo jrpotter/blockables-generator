@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-19T08:19:40.285877-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "\"Absolutely!\"",
+        "ordinal": 1,
+        "reveal": "sURE"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Burns, Jeong, and Lay",
+        "ordinal": 2,
+        "reveal": "kENS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Lumberjack's tool",
+        "ordinal": 3,
+        "reveal": "aX"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Morbius\" actor Jared",
+        "ordinal": 4,
+        "reveal": "lETO"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Preposition after move or before call",
+        "ordinal": 5,
+        "reveal": "oN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"The ______ Night,\" famous 1889 van Gogh painting",
+        "ordinal": 6,
+        "reveal": "sTARRY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Primary celestial body in Teletubbyland",
+        "ordinal": 7,
+        "reveal": "sUN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"x\",\"e\",\"r\",\"s\"],[\"k\",\"n\",\"a\",\"r\",\"u\"],[\"e\",\"n\",\"T\",\"y\",\"r\"],[\"l\",\"o\",\"s\",\"a\",\"u\"],[\"e\",\"t\",\"o\",\"n\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 19,
+    "phrase": "Tyrannosaurus rex skeletons",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-13",
+    "id": "2e029594-56c4-4701-a9bc-eea9f53e7252",
+    "dimension": 5
+  }
+]

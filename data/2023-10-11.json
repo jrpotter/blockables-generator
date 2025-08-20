@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-17T08:31:49.574437-06:00",
+    "category": "Clothing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Writer Fleming or actor McKellen",
+        "ordinal": 1,
+        "reveal": "iAN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Initials of comedian who said \"I'm not fat, I'm fluffy!\"",
+        "ordinal": 2,
+        "reveal": "gI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before metal or after nose",
+        "ordinal": 3,
+        "reveal": "HAIR"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Become liquid or soft as a result of warming",
+        "ordinal": 4,
+        "reveal": "tHAW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Grip",
+        "ordinal": 5,
+        "reveal": "gRAB"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Killing Me Softly With ___ Song\", 1973 Roberta Flack hit ",
+        "ordinal": 6,
+        "reveal": "hIS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Only five-letter room in the board game Clue or Cluedo",
+        "ordinal": 7,
+        "reveal": "sTUDY"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"i\",\"a\",\"w\",\"a\"],[\"a\",\"h\",\"g\",\"i\",\"H\"],[\"n\",\"t\",\"B\",\"r\",\"y\"],[\"s\",\"g\",\"a\",\"u\",\"d\"],[\"h\",\"i\",\"r\",\"t\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\"],[\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 139,
+    "phrase": "Bright, gaudy Hawaiian shirts",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-11",
+    "id": "556b5aae-8c47-47e4-97d4-5c8327a3ad72",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-07-31T18:48:36.066063-06:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of ice cream shop offering 31 flavors",
+        "ordinal": 1,
+        "reveal": "bR"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Name of animated Kung Fu master voiced by Jack Black",
+        "ordinal": 2,
+        "reveal": "pO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Perform in a play",
+        "ordinal": 3,
+        "reveal": "aCT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Chess towers",
+        "ordinal": 4,
+        "reveal": "ROOKS"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"The squeaky wheel ____ the grease.\"",
+        "ordinal": 5,
+        "reveal": "gETS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Soviet leader Vladimir",
+        "ordinal": 6,
+        "reveal": "lENIN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Primary weapon of Indiana Jones",
+        "ordinal": 7,
+        "reveal": "wHIP"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"n\",\"o\",\"b\",\"r\"],[\"t\",\"i\",\"p\",\"p\",\"a\"],[\"e\",\"n\",\"R\",\"i\",\"c\"],[\"e\",\"g\",\"h\",\"o\",\"t\"],[\"l\",\"w\",\"o\",\"k\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#B86BAC\",\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\"],[\"#7C93CB\",\"#B86BAC\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\"],[\"#B86BAC\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#F3F1A0\"],[\"#B86BAC\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 240,
+    "phrase": "Ripping-hot carbon steel woks",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-20",
+    "id": "f81a76fc-9065-4e74-8791-33295c343093",
+    "dimension": 5
+  }
+]

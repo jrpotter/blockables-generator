@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.83572-07:00",
+    "category": "Character",
+    "clues": [
+      {
+        "reveal": "nICHE",
+        "ordinal": 1,
+        "clue": "It may be carved out",
+        "color": "#7C93CB"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "He wants to phone home",
+        "reveal": "eT",
+        "ordinal": 2
+      },
+      {
+        "clue": "Desire for these letters may prompt a vacation",
+        "reveal": "rR",
+        "color": "#F3F1A0",
+        "ordinal": 3
+      },
+      {
+        "color": "#A9D594",
+        "reveal": "sIP",
+        "ordinal": 4,
+        "clue": "Small slurp"
+      },
+      {
+        "reveal": "SU",
+        "color": "#F5C146",
+        "ordinal": 5,
+        "clue": "Mi casa es __ casa"
+      },
+      {
+        "reveal": "rID",
+        "ordinal": 6,
+        "clue": "Make free of",
+        "color": "#A1DBE3"
+      },
+      {
+        "reveal": "MOLE",
+        "color": "#EE7B8C",
+        "clue": "Common animal in spy movies?",
+        "ordinal": 7
+      },
+      {
+        "ordinal": 8,
+        "color": "#B86BAC",
+        "reveal": "bEER",
+        "clue": "The largest exporter of this beverage is in (old) Belgium"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"I\",\"r\",\"e\",\"t\"],[\"c\",\"r\",\"e\",\"p\",\"s\"],[\"r\",\"h\",\"S\",\"u\",\"i\"],[\"e\",\"e\",\"r\",\"o\",\"M\"],[\"d\",\"i\",\"b\",\"l\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#F3F1A0\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 56,
+    "phrase": "Superhero Mister Incredible",
+    "author": {
+      "name": "",
+      "link": ""
+    },
+    "date": "2023-07-20",
+    "id": "0882765b-2626-4654-9a7b-a08fabeebde3",
+    "dimension": 5
+  }
+]

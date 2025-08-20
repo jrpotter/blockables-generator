@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-20T09:08:45.867464-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Make a mistake",
+        "ordinal": 1,
+        "reveal": "eRR"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Fashion magazine whose name means \"her\" in French",
+        "ordinal": 2,
+        "reveal": "eLLE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Automobile",
+        "ordinal": 3,
+        "reveal": "cAR"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"I ____ It That Way\", 1999 Backstreet Boys hit",
+        "ordinal": 4,
+        "reveal": "WANT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Unlikely to happen",
+        "ordinal": 5,
+        "reveal": "iFFY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before cord or tide",
+        "ordinal": 6,
+        "reveal": "RIP"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "SpaceX founder Musk",
+        "ordinal": 7,
+        "reveal": "eLON"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"l\",\"E\",\"r\",\"e\"],[\"e\",\"a\",\"r\",\"r\",\"c\"],[\"n\",\"n\",\"W\",\"a\",\"i\"],[\"R\",\"t\",\"o\",\"f\",\"f\"],[\"i\",\"p\",\"l\",\"e\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#F5C146\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F5C146\",\"#F3F1A0\",\"#F5C146\",\"#A1DBE3\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 262,
+    "phrase": "Warrant officer Ellen Ripley",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-11",
+    "id": "8f09319f-1eab-4435-930e-e1c017f8caa5",
+    "dimension": 5
+  }
+]

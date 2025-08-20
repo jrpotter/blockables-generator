@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-02-03T12:17:51.907744-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Initials of Daenerys Targaryen actress or \"Wonderful Tonight\" singer",
+        "ordinal": 1,
+        "reveal": "ec"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Number celebrated on March 14th",
+        "ordinal": 2,
+        "reveal": "pi"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Tell me ___\", repeated lyric in hit 1999 Backstreet Boys song",
+        "ordinal": 3,
+        "reveal": "why"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "25 dozen, to a Roman",
+        "ordinal": 4,
+        "reveal": "ccc"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Opposite of win",
+        "ordinal": 5,
+        "reveal": "lose"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Captain featured in Peter Pan",
+        "ordinal": 6,
+        "reveal": "hook"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Copy another student's answers, say",
+        "ordinal": 7,
+        "reveal": "cheat"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Input/output, abbr.",
+        "ordinal": 8,
+        "reveal": "io"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"h\",\"c\",\"e\",\"t\"],[\"p\",\"y\",\"w\",\"e\",\"a\"],[\"c\",\"c\",\"C\",\"h\",\"l\"],[\"o\",\"h\",\"o\",\"c\",\"o\"],[\"o\",\"k\",\"i\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 430,
+    "phrase": "Chewy chocolate chip cookies",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-28",
+    "id": "0cceba96-3efd-4461-8ee4-57d96cba7035",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-15T10:22:27.492935-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Blockables solver, apparently",
+        "ordinal": 1,
+        "reveal": "you"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Strike, punch, slap, etc.",
+        "ordinal": 2,
+        "reveal": "hit"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "5-star and 10 out of 10, for two",
+        "ordinal": 3,
+        "reveal": "ratings"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of US president who served more than two terms or host of TV show with theme song \"Won't You Be My Neighbor?\"",
+        "ordinal": 4,
+        "reveal": "fr"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Tungsten's chemical symbol",
+        "ordinal": 5,
+        "reveal": "w"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Smallest US state",
+        "ordinal": 6,
+        "reveal": "ri"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"He's two steps ahead of us... when we zig, he ____!\"",
+        "ordinal": 7,
+        "reveal": "zags"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "What all good things must come to",
+        "ordinal": 8,
+        "reveal": "end"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"o\",\"y\",\"h\",\"t\"],[\"r\",\"g\",\"r\",\"a\",\"i\"],[\"f\",\"a\",\"S\",\"t\",\"w\"],[\"r\",\"z\",\"i\",\"n\",\"g\"],[\"i\",\"e\",\"n\",\"d\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#E6B0D1\"],[\"#B86BAC\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        1
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 576,
+    "phrase": "Stargazing with your friends",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-21",
+    "id": "8c2f7f6f-9e8e-4253-9040-10a8c198859b",
+    "dimension": 5
+  }
+]

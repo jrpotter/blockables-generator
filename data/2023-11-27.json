@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-06-04T10:48:39-06:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before peace or tube",
+        "ordinal": 1,
+        "reveal": "iNNER"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Instagram, to a texter",
+        "ordinal": 2,
+        "reveal": "iG"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Governmental rule preventing someone from driving with an uncaged bear in Missouri, for example",
+        "ordinal": 3,
+        "reveal": "lAW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Characteristic, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "TRAIT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Biblical word meaning \"your\"",
+        "ordinal": 5,
+        "reveal": "tHY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "By way of",
+        "ordinal": 6,
+        "reveal": "vIA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Brown, sweet carbonated soda",
+        "ordinal": 7,
+        "reveal": "cOLA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"n\",\"e\",\"r\",\"y\"],[\"w\",\"n\",\"i\",\"g\",\"h\"],[\"l\",\"a\",\"T\",\"r\",\"t\"],[\"a\",\"i\",\"v\",\"i\",\"a\"],[\"c\",\"o\",\"l\",\"a\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\"],[\"#F3F1A0\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 186,
+    "phrase": "Trivia night at a local winery",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-27",
+    "id": "2239c55a-cb7d-4af3-8e48-8248170b7aa2",
+    "dimension": 5
+  }
+]

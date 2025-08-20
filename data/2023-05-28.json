@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-03T12:58:21-07:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word after blood or prison",
+        "ordinal": 1,
+        "reveal": "cELL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Brooks, Gibson, or Robbins, for three",
+        "ordinal": 2,
+        "reveal": "mELS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Locomotive onomatopoeia",
+        "ordinal": 3,
+        "reveal": "cHOO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Rational and level-headed",
+        "ordinal": 4,
+        "reveal": "sANE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Crafts partner",
+        "ordinal": 5,
+        "reveal": "aRTS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Kanga's kid, in the Winnie the Pooh series",
+        "ordinal": 6,
+        "reveal": "rOO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Sinatra's \"__ Way\"",
+        "ordinal": 7,
+        "reveal": "mY"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"l\",\"o\",\"o\",\"h\"],[\"l\",\"e\",\"m\",\"e\",\"c\"],[\"a\",\"n\",\"E\",\"l\",\"s\"],[\"s\",\"t\",\"a\",\"r\",\"y\"],[\"s\",\"r\",\"o\",\"o\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 3,
+    "phrase": "Elementary school classroom",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-05-28",
+    "id": "dc098aa6-a1de-40e0-a78d-73130b496183",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-01-13T15:34:15.91297-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Where the femur can be found",
+        "ordinal": 1,
+        "reveal": "leg"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Exhaust Gas Temperature, abbr.",
+        "ordinal": 2,
+        "reveal": "eGT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Regularly traveled to and from work",
+        "ordinal": 3,
+        "reveal": "commuted"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Actor Farrell or actor Firth",
+        "ordinal": 4,
+        "reveal": "colin"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "By ___ means necessary",
+        "ordinal": 5,
+        "reveal": "Any"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Chemical element whose symbol is Sn",
+        "ordinal": 6,
+        "reveal": "tin"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"l\",\"e\",\"g\",\"e\"],[\"o\",\"i\",\"n\",\"g\",\"c\"],[\"c\",\"d\",\"A\",\"t\",\"o\"],[\"y\",\"n\",\"e\",\"t\",\"m\"],[\"t\",\"i\",\"n\",\"u\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\"],[\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 416,
+    "phrase": "Attending community college",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-14",
+    "id": "705cc643-02d8-43ad-b72c-938dc294c89f",
+    "dimension": 5
+  }
+]

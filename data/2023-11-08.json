@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-05-15T08:41:23-06:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Not common",
+        "ordinal": 1,
+        "reveal": "rARE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Friends that sound like docks?",
+        "ordinal": 2,
+        "reveal": "pEERS"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "World's largest food and beverage company, or, without the accent, a word meaning \"snuggle\"",
+        "ordinal": 3,
+        "reveal": "nESTLE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Art on one's skin, for short",
+        "ordinal": 4,
+        "reveal": "tAT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Human-computer interaction, abbr.",
+        "ordinal": 5,
+        "reveal": "hCI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"____ your cake and eat it too!\"",
+        "ordinal": 6,
+        "reveal": "HAVE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"s\",\"e\",\"r\",\"p\"],[\"n\",\"t\",\"l\",\"a\",\"e\"],[\"t\",\"h\",\"H\",\"e\",\"r\"],[\"a\",\"c\",\"a\",\"r\",\"e\"],[\"t\",\"i\",\"v\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#EE7B8C\"],[\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#F5C146\"],[\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#F5C146\"],[\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ]
+    },
+    "ordinal": 167,
+    "phrase": "Healthcare representatives",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-08",
+    "id": "35c6924a-f400-4141-9516-624f1d3c1e6a",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.741237-07:00",
+    "category": "Clothing",
+    "clues": [
+      {
+        "ordinal": 1,
+        "color": "#EE7B8C",
+        "clue": "Tried partner",
+        "reveal": "TRUE"
+      },
+      {
+        "clue": "Bat away a fly",
+        "color": "#B86BAC",
+        "ordinal": 2,
+        "reveal": "SWAT"
+      },
+      {
+        "clue": "King conquerer",
+        "color": "#F5C146",
+        "reveal": "aCE",
+        "ordinal": 3
+      },
+      {
+        "ordinal": 4,
+        "color": "#7C93CB",
+        "clue": "Controversial children's author Rowling",
+        "reveal": "JK"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "40-day period beginning Ash Wednesday",
+        "ordinal": 5,
+        "reveal": "LENT"
+      },
+      {
+        "ordinal": 6,
+        "clue": "Loud, forceful singer",
+        "reveal": "BELTER",
+        "color": "#F3F1A0"
+      },
+      {
+        "reveal": "CK",
+        "color": "#A1DBE3",
+        "clue": "Controversial comedian Louis",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"a\",\"t\",\"e\",\"r\"],[\"w\",\"c\",\"k\",\"t\",\"u\"],[\"s\",\"a\",\"J\",\"e\",\"r\"],[\"k\",\"l\",\"b\",\"t\",\"t\"],[\"c\",\"e\",\"n\",\"e\",\"l\"]]",
+    "gridColors": "[[\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#F5C146\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\"],[\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        3
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 21,
+    "phrase": "Jet-black turtleneck sweater",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-15",
+    "id": "8dbbb4bb-4b2e-4ab4-ae5b-be534fd8d46e",
+    "dimension": 5
+  }
+]

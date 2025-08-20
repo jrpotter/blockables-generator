@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-11T10:42:20.235915-07:00",
+    "category": "Song and Artist",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Last name of sisters who were among the inaugural inductees to the Vocal Group Hall of Fame",
+        "ordinal": 1,
+        "reveal": "aNDREWS"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Enviably large group of people or quails, the letters of which can be found in the first word of this clue",
+        "ordinal": 2,
+        "reveal": "bEVY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "First of three-word Best Original Song winner at the 2014 Academy Awards",
+        "ordinal": 3,
+        "reveal": "LET"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Slang for a pie, perhaps pepperoni-adorned",
+        "ordinal": 4,
+        "reveal": "zA"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "____ poly",
+        "ordinal": 5,
+        "reveal": "rOLY"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Bowler or boater, for two",
+        "ordinal": 6,
+        "reveal": "HAT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"__ I...\", award-winning 2003 Demetri Martin comedy special with jokes about palindromes",
+        "ordinal": 7,
+        "reveal": "iF"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"a\",\"T\",\"y\",\"b\"],[\"l\",\"n\",\"e\",\"v\",\"e\"],[\"o\",\"d\",\"L\",\"a\",\"z\"],[\"r\",\"e\",\"r\",\"H\",\"a\"],[\"S\",\"w\",\"i\",\"f\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 12,
+    "phrase": "\"Lavender Haze\" by Taylor Swift",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-06",
+    "id": "92829b00-330c-43e9-9201-f5778f89d2e8",
+    "dimension": 5
+  }
+]

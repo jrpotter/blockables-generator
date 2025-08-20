@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-12T12:01:54.56105-07:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Lucidly remove, the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "cull"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Automated Dialogue Replacement, abbr.",
+        "ordinal": 2,
+        "reveal": "adr"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Pigeon sound",
+        "ordinal": 3,
+        "reveal": "coo"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sprint",
+        "ordinal": 4,
+        "reveal": "Run"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Crime of setting fire to a structure",
+        "ordinal": 5,
+        "reveal": "arson"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Shortened word often found next to a red dot on a camcorder",
+        "ordinal": 6,
+        "reveal": "rec"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Tick follower?",
+        "ordinal": 7,
+        "reveal": "tOCK"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"o\",\"r\",\"d\",\"n\"],[\"l\",\"o\",\"c\",\"u\",\"a\"],[\"c\",\"u\",\"R\",\"a\",\"k\"],[\"o\",\"s\",\"r\",\"o\",\"c\"],[\"n\",\"c\",\"e\",\"r\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\"],[\"#7C93CB\",\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\"],[\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 347,
+    "phrase": "Raucous rock and roll concert",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-06",
+    "id": "e57da005-c91a-4682-9fe7-245d00d8b757",
+    "dimension": 5
+  }
+]

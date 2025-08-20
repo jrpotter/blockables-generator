@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-01-22T09:39:09.179976-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Food conglomerate perhaps best known for their Mac & Cheese brand",
+        "ordinal": 1,
+        "reveal": "kRAFT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"We'll do it ____!\", quote from viral video of commentator Bill O'Reilly pre-recording an outro",
+        "ordinal": 2,
+        "reveal": "lIVE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Set components, in weightlifting",
+        "ordinal": 3,
+        "reveal": "rEPS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "It may be chain-link or picket",
+        "ordinal": 4,
+        "reveal": "fENCE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "German \"no\"",
+        "ordinal": 5,
+        "reveal": "nEIN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Secure Web Gateway abbr.",
+        "ordinal": 6,
+        "reveal": "sWG"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"k\",\"r\",\"a\",\"p\",\"s\"],[\"l\",\"r\",\"e\",\"f\",\"t\"],[\"i\",\"v\",\"E\",\"f\",\"n\"],[\"n\",\"e\",\"s\",\"c\",\"e\"],[\"g\",\"w\",\"i\",\"n\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 52,
+    "phrase": "Effervescent sparkling wine",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-16",
+    "id": "e7ddd041-1136-420a-9c61-43b93b8a04a9",
+    "dimension": 5
+  }
+]

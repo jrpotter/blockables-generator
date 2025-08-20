@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-24T12:23:50.118348-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Canadian Academy of Dental Hygiene, abbr.",
+        "ordinal": 1,
+        "reveal": "cADH"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "White pool ball",
+        "ordinal": 2,
+        "reveal": "cUE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Music genre characterized by upbeat guitars, drums, and saxophones",
+        "ordinal": 3,
+        "reveal": "sKA"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word after Biscayne, Chesapeake, or Michael",
+        "ordinal": 4,
+        "reveal": "BAY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Passengers, our plane will be ______ off in five minutes.\"",
+        "ordinal": 5,
+        "reveal": "tAKING"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Prefix meaning \"three\"",
+        "ordinal": 6,
+        "reveal": "tRI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word after flash or before mentality",
+        "ordinal": 7,
+        "reveal": "mOB"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"c\",\"a\",\"k\",\"e\"],[\"a\",\"a\",\"c\",\"u\",\"s\"],[\"d\",\"g\",\"B\",\"a\",\"t\"],[\"h\",\"n\",\"i\",\"k\",\"o\"],[\"t\",\"r\",\"i\",\"b\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A1DBE3\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F3F1A0\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 295,
+    "phrase": "Baking a custom birthday cake",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-15",
+    "id": "417b0a79-df1e-4fb1-bdca-e92ae8dc17ed",
+    "dimension": 5
+  }
+]

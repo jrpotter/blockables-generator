@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-01-04T20:15:11.563426-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Hobbyist's purchase, perhaps",
+        "ordinal": 1,
+        "reveal": "kit"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Expression of gratitude, to a texter",
+        "ordinal": 2,
+        "reveal": "ty"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"The Lion King\" antagonist, named for a mark on his face",
+        "ordinal": 3,
+        "reveal": "scar"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "College professor's helper, abbr.",
+        "ordinal": 4,
+        "reveal": "Ta"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Adversary",
+        "ordinal": 5,
+        "reveal": "foe"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "How \"energy\" is represented in Einstein's mass-energy equivalence equation",
+        "ordinal": 6,
+        "reveal": "e"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Outer skin of a lemon, lime, or wheel of Parmesan",
+        "ordinal": 7,
+        "reveal": "rind"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Pretending",
+        "ordinal": 8,
+        "reveal": "faking"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"k\",\"i\",\"t\",\"t\",\"y\"],[\"s\",\"c\",\"a\",\"r\",\"e\"],[\"d\",\"g\",\"T\",\"a\",\"o\"],[\"n\",\"n\",\"i\",\"k\",\"f\"],[\"e\",\"i\",\"r\",\"f\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"],[\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#B86BAC\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 596,
+    "phrase": "Taking care of a friend's kitty",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-10",
+    "id": "fe8f87e3-0860-4dc5-b3fc-1d4e27ac4d55",
+    "dimension": 5
+  }
+]

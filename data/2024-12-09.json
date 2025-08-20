@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-07T11:32:04.020595-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Furniture for single-person sitting",
+        "ordinal": 1,
+        "reveal": "Chair"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Dorm overseer, for short",
+        "ordinal": 2,
+        "reveal": "ra"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Absolutely!\"",
+        "ordinal": 3,
+        "reveal": "yes"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Sodium's chemical symbol",
+        "ordinal": 4,
+        "reveal": "na"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "All __ due time",
+        "ordinal": 5,
+        "reveal": "in"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Photographer's tool",
+        "ordinal": 6,
+        "reveal": "camera"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "9th letter of the alphabet",
+        "ordinal": 7,
+        "reveal": "i"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Disease-producing microorganism",
+        "ordinal": 8,
+        "reveal": "germ"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"C\",\"a\",\"r\",\"e\",\"y\"],[\"h\",\"a\",\"n\",\"s\",\"i\"],[\"a\",\"c\",\"A\",\"m\",\"n\"],[\"i\",\"i\",\"r\",\"e\",\"g\"],[\"r\",\"a\",\"M\",\"r\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"],[\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        1,
+        4
+      ],
+      "6": [
+        2,
+        1
+      ],
+      "7": [
+        3,
+        1
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 564,
+    "phrase": "American singer Mariah Carey",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-09",
+    "id": "f5e895c6-ed2f-4cf0-9c5f-fea31b9bc7d3",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-10-05T13:31:20.138089-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "T-shirt size, for short",
+        "ordinal": 1,
+        "reveal": "xl"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"What?\"",
+        "ordinal": 2,
+        "reveal": "Huh"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Dry, as a sense of humor",
+        "ordinal": 3,
+        "reveal": "wry"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Loch with a beast",
+        "ordinal": 4,
+        "reveal": "ness"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Piece of neckwear",
+        "ordinal": 5,
+        "reveal": "tie"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "T-shirt size",
+        "ordinal": 6,
+        "reveal": "large"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Organizational Unit, for short",
+        "ordinal": 7,
+        "reveal": "ou"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Jar topper",
+        "ordinal": 8,
+        "reveal": "lid"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"x\",\"l\",\"e\",\"y\"],[\"H\",\"h\",\"w\",\"r\",\"i\"],[\"s\",\"s\",\"E\",\"n\",\"t\"],[\"u\",\"i\",\"l\",\"g\",\"e\"],[\"o\",\"d\",\"l\",\"A\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\"],[\"#A9D594\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 506,
+    "phrase": "English writer Aldous Huxley",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-12",
+    "id": "4584b573-0903-42cd-913b-c82b6eb80e94",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-05-19T09:33:14.419033-06:00",
+    "category": "Maybe using a top-down strategy?",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before balm or King",
+        "ordinal": 1,
+        "reveal": "tiger"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Bundle of hay",
+        "ordinal": 2,
+        "reveal": "bale"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Day between Thu. and Sat.",
+        "ordinal": 3,
+        "reveal": "fri"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "One of roughly 150 on an eyelid",
+        "ordinal": 4,
+        "reveal": "lash"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Variable Node Decoder, abbr.",
+        "ordinal": 5,
+        "reveal": "vnd"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "___ League",
+        "ordinal": 6,
+        "reveal": "ivy"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Scam, swindle, or otherwise persuade by trickery",
+        "ordinal": 7,
+        "reveal": "con"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"i\",\"b\",\"l\",\"e\"],[\"r\",\"g\",\"a\",\"f\",\"l\"],[\"e\",\"n\",\"D\",\"r\",\"a\"],[\"v\",\"i\",\"v\",\"i\",\"s\"],[\"n\",\"o\",\"c\",\"y\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#E6B0D1\"],[\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 731,
+    "phrase": "Driving a flashy convertible",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-25",
+    "id": "61958210-c02f-49f5-8c0c-885ff2d5f803",
+    "dimension": 5
+  }
+]

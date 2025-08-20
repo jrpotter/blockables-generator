@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-24T12:09:02.050372-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Americans with Disabilities Act, abbr.",
+        "ordinal": 1,
+        "reveal": "ada"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Initials of the \"Queen of Rock 'n' Roll\" or nickname of Bob Cratchit's son",
+        "ordinal": 2,
+        "reveal": "tT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Feather partner, in a medieval torture",
+        "ordinal": 3,
+        "reveal": "tar"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Grouchy \"Despicable Me\" protagonist, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "GRU"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Anakin Skywalker's childhood nickname",
+        "ordinal": 5,
+        "reveal": "ani"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Process by which an animal or plant produces and releases a liquid",
+        "ordinal": 6,
+        "reveal": "sECRETION"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Third and sixth notes of the A natural minor scale",
+        "ordinal": 7,
+        "reveal": "cF"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"r\",\"a\",\"n\",\"t\"],[\"a\",\"r\",\"d\",\"t\",\"o\"],[\"t\",\"a\",\"G\",\"i\",\"a\"],[\"s\",\"c\",\"t\",\"f\",\"n\"],[\"e\",\"r\",\"e\",\"c\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#A1DBE3\",\"#F3F1A0\"],[\"#EE7B8C\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\"],[\"#EE7B8C\",\"#E6B0D1\",\"#7C93CB\",\"#A1DBE3\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 300,
+    "phrase": "Gift card to a nice restaurant",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-20",
+    "id": "302742a5-f972-4f12-92c1-3f81a92cfd5c",
+    "dimension": 5
+  }
+]

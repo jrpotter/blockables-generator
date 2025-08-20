@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-21T13:17:28.152058-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Number of ayes in \"Aye-aye!\", to a Roman",
+        "ordinal": 1,
+        "reveal": "ii"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Scooby Doo's Mystery Machine, for example",
+        "ordinal": 2,
+        "reveal": "van"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Yearn for",
+        "ordinal": 3,
+        "reveal": "pine"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Number of planets in the Solar System in 2005",
+        "ordinal": 4,
+        "reveal": "nine"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Color of some areas?",
+        "ordinal": 5,
+        "reveal": "gray"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Bodyweight triceps exercises",
+        "ordinal": 6,
+        "reveal": "dips"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before cards, conclusions, or Carey",
+        "ordinal": 7,
+        "reveal": "drew"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"n\",\"i\",\"e\",\"n\"],[\"v\",\"i\",\"p\",\"p\",\"i\"],[\"i\",\"n\",\"S\",\"i\",\"w\"],[\"n\",\"g\",\"r\",\"e\",\"d\"],[\"e\",\"y\",\"a\",\"r\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#A1DBE3\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 521,
+    "phrase": "Sipping red wine in a vineyard",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-27",
+    "id": "c1d8b974-372a-42d3-a859-451257e74d4e",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-12-28T10:27:51.208148-07:00",
+    "category": "Living Things",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Danube, Mekong, and Thames",
+        "ordinal": 1,
+        "reveal": "rivers"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Acquire",
+        "ordinal": 2,
+        "reveal": "get"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Speak from memory, as a pledge or poem",
+        "ordinal": 3,
+        "reveal": "recite"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not short",
+        "ordinal": 4,
+        "reveal": "long"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "1990s NBC medical drama starring George Clooney",
+        "ordinal": 5,
+        "reveal": "er"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"____ I say more?\"",
+        "ordinal": 6,
+        "reveal": "need"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"v\",\"e\",\"r\",\"s\"],[\"i\",\"t\",\"i\",\"c\",\"g\"],[\"r\",\"e\",\"E\",\"n\",\"o\"],[\"t\",\"g\",\"r\",\"e\",\"l\"],[\"e\",\"r\",\"n\",\"e\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A1DBE3\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F5C146\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        2,
+        0
+      ],
+      "2": [
+        3,
+        1
+      ],
+      "3": [
+        3,
+        2
+      ],
+      "4": [
+        3,
+        4
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 587,
+    "phrase": "Energetic golden retrievers",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-01",
+    "id": "45f0e974-1af3-469c-ad7f-75889e93d272",
+    "dimension": 5
+  }
+]

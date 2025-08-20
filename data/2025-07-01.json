@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2025-06-30T08:12:51.263364-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"So many bombs, ring the alarm\" rapper Kendrick, whose last name is an anagram of this clue's 6th word",
+        "ordinal": 1,
+        "reveal": "lamar"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word repeated twice in a common valediction",
+        "ordinal": 2,
+        "reveal": "Bye"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Live and ___ live\": a common idiom, or \"Live and ___ Die\": a 1973 McCartney song",
+        "ordinal": 3,
+        "reveal": "let"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Opposite of contrasting, when making a choice",
+        "ordinal": 4,
+        "reveal": "comparing"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "@, in an email",
+        "ordinal": 5,
+        "reveal": "at"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Cute pet name inspired by a bee product",
+        "ordinal": 6,
+        "reveal": "hon"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"g\",\"n\",\"i\",\"t\"],[\"m\",\"l\",\"e\",\"r\",\"e\"],[\"a\",\"y\",\"B\",\"a\",\"l\"],[\"r\",\"c\",\"o\",\"m\",\"p\"],[\"a\",\"t\",\"h\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        2,
+        2
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 768,
+    "phrase": "Barely completing a marathon",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-01",
+    "id": "4530ec18-4b8a-4b65-9fb3-b0ee9af0fef3",
+    "dimension": 5
+  }
+]

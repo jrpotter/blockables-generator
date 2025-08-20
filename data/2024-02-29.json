@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-09T12:34:28.498567-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "One of seven, to a pirate",
+        "ordinal": 1,
+        "reveal": "sEA"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Thank you, Captain Obvious.\"",
+        "ordinal": 2,
+        "reveal": "dUH"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Saged impressionist painter Edgar, the letters of whom can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "dEGAS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Grumpy Cat, \"This is fine\", Bad Luck Brian, and Doge",
+        "ordinal": 4,
+        "reveal": "mEMES"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Opposite of black, in a way",
+        "ordinal": 5,
+        "reveal": "rED"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Natural logarithm, in mathematical shorthand",
+        "ordinal": 6,
+        "reveal": "lN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"That hurts!\"",
+        "ordinal": 7,
+        "reveal": "oUCH"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"s\",\"a\",\"g\",\"e\"],[\"a\",\"e\",\"d\",\"e\",\"d\"],[\"m\",\"e\",\"M\",\"u\",\"s\"],[\"r\",\"n\",\"h\",\"c\",\"h\"],[\"e\",\"d\",\"l\",\"u\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 280,
+    "phrase": "Much-needed shoulder massage",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-29",
+    "id": "b251e979-3e7c-4255-bcd5-75f8ecfcca51",
+    "dimension": 5
+  }
+]

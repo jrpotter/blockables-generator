@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-05T07:15:58.818612-07:00",
+    "category": "Famous Couple",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Swing, as a palm tree in a breeze",
+        "ordinal": 1,
+        "reveal": "Sway"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Federal Election Commission, abbr.",
+        "ordinal": 2,
+        "reveal": "fec"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Board game in which you take over the world by strategic conquest",
+        "ordinal": 3,
+        "reveal": "risk"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Scrabble piece",
+        "ordinal": 4,
+        "reveal": "tile"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "9-____ battery",
+        "ordinal": 5,
+        "reveal": "volt"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word before Deco or after fine",
+        "ordinal": 6,
+        "reveal": "art"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Primary carrier of genetic information, abbr.",
+        "ordinal": 7,
+        "reveal": "dna"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"K\",\"e\",\"l\",\"c\",\"e\"],[\"s\",\"S\",\"w\",\"i\",\"f\"],[\"i\",\"r\",\"T\",\"a\",\"t\"],[\"v\",\"o\",\"l\",\"y\",\"a\"],[\"a\",\"r\",\"T\",\"d\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 337,
+    "phrase": "Taylor Swift and Travis Kelce",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-26",
+    "id": "6ba63d86-148f-46be-a535-f21c1645af1d",
+    "dimension": 5
+  }
+]

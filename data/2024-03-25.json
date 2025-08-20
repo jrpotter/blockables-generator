@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-26T15:29:55.841012-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Nickname for Mr. Craig, Mr. Radcliffe, or Mr. DeVito",
+        "ordinal": 1,
+        "reveal": "dAN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Major shareholder?",
+        "ordinal": 2,
+        "reveal": "lION"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Sodium's chemical symbol",
+        "ordinal": 3,
+        "reveal": "nA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Matador's cry",
+        "ordinal": 4,
+        "reveal": "oLE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before duck (on Capitol Hill) or after Khaby (on TikTok)",
+        "ordinal": 5,
+        "reveal": "lAME"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Not cooked",
+        "ordinal": 6,
+        "reveal": "rAW"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Dungeon Master's Guide, abbr.",
+        "ordinal": 7,
+        "reveal": "dMG"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"You betcha!\"",
+        "ordinal": 8,
+        "reveal": "yES"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"o\",\"e\",\"d\",\"a\"],[\"a\",\"i\",\"l\",\"l\",\"n\"],[\"w\",\"n\",\"S\",\"e\",\"o\"],[\"a\",\"g\",\"l\",\"e\",\"m\"],[\"r\",\"m\",\"d\",\"a\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\"],[\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\",\"#E6B0D1\",\"#EE7B8C\"],[\"#F5C146\",\"#B86BAC\",\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\"],[\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 305,
+    "phrase": "Selling lemonade on a warm day",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-25",
+    "id": "9df23a50-b5c2-4d62-b1da-4092316b8d54",
+    "dimension": 5
+  }
+]

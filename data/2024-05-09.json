@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-12T12:21:44.329431-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Sharp, high-pitched bark",
+        "ordinal": 1,
+        "reveal": "yip"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Gave money in return for goods or services",
+        "ordinal": 2,
+        "reveal": "paid"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Low-Altitude Tactical Navigation, abbr.",
+        "ordinal": 3,
+        "reveal": "lATN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Belch",
+        "ordinal": 4,
+        "reveal": "Burp"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"___ in the Family\", 1970s American sitcom",
+        "ordinal": 5,
+        "reveal": "all"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "An affirmative shouted by Usher or Lil Jon over 80 times in one of their songs",
+        "ordinal": 6,
+        "reveal": "yeah"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Fifth sign of the Zodiac",
+        "ordinal": 7,
+        "reveal": "leo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"d\",\"n\",\"I\",\"y\"],[\"a\",\"a\",\"t\",\"u\",\"p\"],[\"p\",\"l\",\"B\",\"r\",\"p\"],[\"a\",\"l\",\"y\",\"h\",\"o\"],[\"l\",\"e\",\"a\",\"l\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\"],[\"#7C93CB\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 350,
+    "phrase": "Brutally hoppy India pale ale",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-09",
+    "id": "f08ed5b3-e41b-4a08-8876-14ffc6a7ba28",
+    "dimension": 5
+  }
+]

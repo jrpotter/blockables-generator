@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-04-19T09:09:27.455101-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Helium's chemical symbol",
+        "ordinal": 1,
+        "reveal": "he"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"You are the weakest ____.\" - Anne Robinson, often or \"You are the weakest, ____!\" - Ganondorf, probably",
+        "ordinal": 2,
+        "reveal": "link"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Spanish years",
+        "ordinal": 3,
+        "reveal": "anos"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "500, to a Roman",
+        "ordinal": 4,
+        "reveal": "d"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Et cetera, abbr.",
+        "ordinal": 5,
+        "reveal": "etc"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Afternoon snooze",
+        "ordinal": 6,
+        "reveal": "nap"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not bad",
+        "ordinal": 7,
+        "reveal": "good"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "____ in the game",
+        "ordinal": 8,
+        "reveal": "skin"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"s\",\"e\",\"h\",\"c\"],[\"n\",\"l\",\"d\",\"o\",\"t\"],[\"a\",\"i\",\"D\",\"o\",\"e\"],[\"n\",\"n\",\"g\",\"s\",\"k\"],[\"a\",\"p\",\"k\",\"i\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\"],[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#7C93CB\",\"#A9D594\",\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\"],[\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 699,
+    "phrase": "Doodling sketches on a napkin",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-23",
+    "id": "e12443e9-3122-416d-ae7e-aadc288bc2b5",
+    "dimension": 5
+  }
+]

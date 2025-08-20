@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-20T10:07:48.527331-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Be outstanding, perhaps at Microsoft's spreadsheet software",
+        "ordinal": 1,
+        "reveal": "eXCEL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Quick yes, to a texter",
+        "ordinal": 2,
+        "reveal": "yA"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Kiloampere, abbr.",
+        "ordinal": 3,
+        "reveal": "kA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Sidewalk art supply",
+        "ordinal": 4,
+        "reveal": "CHALK"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letters before military-based action figure Joe",
+        "ordinal": 5,
+        "reveal": "gI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Step of a ladder",
+        "ordinal": 6,
+        "reveal": "rUNG"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Spanish \"yes\"",
+        "ordinal": 7,
+        "reveal": "sI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Prefix expressing absence, perhaps found before \"dairy\"",
+        "ordinal": 8,
+        "reveal": "nON"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"k\",\"a\",\"y\",\"a\"],[\"x\",\"l\",\"l\",\"a\",\"k\"],[\"c\",\"e\",\"C\",\"h\",\"g\"],[\"u\",\"n\",\"g\",\"i\",\"n\"],[\"r\",\"s\",\"i\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 294,
+    "phrase": "Challenging kayak excursion",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-14",
+    "id": "0154e82a-6842-4f35-90fb-cb6b760bf785",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-10-31T08:24:09.414327-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Fargo's state's abbreviation",
+        "ordinal": 1,
+        "reveal": "nd"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Provide food service",
+        "ordinal": 2,
+        "reveal": "cater"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "What a bartender or a bouncer may request to see, for short",
+        "ordinal": 3,
+        "reveal": "iD"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Increasing suddenly, as waves or Uber prices",
+        "ordinal": 4,
+        "reveal": "Surging"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Boxer Muhammad",
+        "ordinal": 5,
+        "reveal": "ali"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Spanish \"year\"",
+        "ordinal": 6,
+        "reveal": "ano"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Half and half?",
+        "ordinal": 7,
+        "reveal": "one"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"n\",\"a\",\"c\",\"i\"],[\"r\",\"e\",\"t\",\"u\",\"l\"],[\"e\",\"i\",\"S\",\"a\",\"r\"],[\"d\",\"n\",\"g\",\"g\",\"a\"],[\"o\",\"n\",\"i\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\"],[\"#E6B0D1\",\"#EE7B8C\",\"#F5C146\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 335,
+    "phrase": "Sauteing garlic and red onion",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-24",
+    "id": "8fb8951b-978a-4c5c-8f72-5f12759d258b",
+    "dimension": 5
+  }
+]

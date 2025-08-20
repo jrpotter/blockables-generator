@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-14T16:07:27.088604-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Set part, in the gym",
+        "ordinal": 1,
+        "reveal": "rEP"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "URL domain code for Pakistan",
+        "ordinal": 2,
+        "reveal": "pK"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letters after poli or comp, seen often in university settings",
+        "ordinal": 3,
+        "reveal": "sCI"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Murmuring, like a pigeon",
+        "ordinal": 4,
+        "reveal": "cOOING"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "RuneScape, abbr.",
+        "ordinal": 5,
+        "reveal": "rS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Sauce\" in Spanish",
+        "ordinal": 6,
+        "reveal": "sALSA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Decays",
+        "ordinal": 7,
+        "reveal": "rOTS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"e\",\"p\",\"a\",\"p\"],[\"s\",\"n\",\"i\",\"s\",\"k\"],[\"c\",\"g\",\"L\",\"o\",\"c\"],[\"i\",\"a\",\"t\",\"r\",\"o\"],[\"s\",\"s\",\"o\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\"],[\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\"],[\"#A9D594\",\"#A1DBE3\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#F5C146\",\"#EE7B8C\",\"#F3F1A0\",\"#A1DBE3\"],[\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 285,
+    "phrase": "Losing at rock-paper-scissors",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-05",
+    "id": "0ae7e793-d7c7-427a-b7c7-486b6da510d8",
+    "dimension": 5
+  }
+]

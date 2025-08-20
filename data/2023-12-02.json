@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-06-11T08:32:32.153201-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Open pastry case containing a filling, perhaps lemon, a fruit which is aptly described by this clue's answer",
+        "ordinal": 1,
+        "reveal": "tART"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Brown, sweet carbonated soda",
+        "ordinal": 2,
+        "reveal": "cOLA"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Domestic bovine mammal",
+        "ordinal": 3,
+        "reveal": "oX"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Little ___ Riding Hood, 17th century fairy tale",
+        "ordinal": 4,
+        "reveal": "rED"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "CollegeHumor, abbr.",
+        "ordinal": 5,
+        "reveal": "cH"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Short, fine, soft hair of a bear or a fox",
+        "ordinal": 6,
+        "reveal": "fUR"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Destiny",
+        "ordinal": 7,
+        "reveal": "fATE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "One of the largest species in the deer family",
+        "ordinal": 8,
+        "reveal": "eLK"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"a\",\"l\",\"o\",\"c\"],[\"e\",\"a\",\"r\",\"t\",\"o\"],[\"t\",\"d\",\"E\",\"x\",\"h\"],[\"r\",\"a\",\"r\",\"k\",\"c\"],[\"u\",\"f\",\"f\",\"l\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#B86BAC\"],[\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 191,
+    "phrase": "Extra dark chocolate truffle",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-02",
+    "id": "d6c809a1-7006-44bf-a0d2-eaf7f1f6f126",
+    "dimension": 5
+  }
+]

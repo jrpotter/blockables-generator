@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-02-15T09:42:35.928166-07:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Crime-stopping agency whose jurisdiction includes Sunset Blvd.",
+        "ordinal": 1,
+        "reveal": "lAPD"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Nanosecond, abbr.",
+        "ordinal": 2,
+        "reveal": "nS"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"In\" in Spanish",
+        "ordinal": 3,
+        "reveal": "eN"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Jacob's ladder and Rubik's Cube, for two",
+        "ordinal": 4,
+        "reveal": "tOYS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Removing the middle of, as an apple",
+        "ordinal": 5,
+        "reveal": "CORING"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"She's been living in ___ uptown world\", lyric from \"Uptown Girl\" by Billy Joel",
+        "ordinal": 6,
+        "reveal": "hER"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Middle syllable of Sheldon Cooper's catchphrase on \"The Big Bang Theory\"",
+        "ordinal": 7,
+        "reveal": "zING"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"l\",\"a\",\"n\",\"d\"],[\"e\",\"t\",\"s\",\"p\",\"r\"],[\"e\",\"o\",\"C\",\"o\",\"i\"],[\"r\",\"h\",\"y\",\"z\",\"n\"],[\"G\",\"n\",\"i\",\"s\",\"g\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\"],[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#F3F1A0\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 88,
+    "phrase": "Cozy hot springs in Greenland",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-21",
+    "id": "5783dda2-f7af-44cd-956d-d025c4f944b0",
+    "dimension": 5
+  }
+]

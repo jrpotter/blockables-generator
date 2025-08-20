@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-04T13:27:03.395685-07:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Square object in a common idiom",
+        "ordinal": 1,
+        "reveal": "peg"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Question asked by a texter, perhaps",
+        "ordinal": 2,
+        "reveal": "y"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Quick yes, to a texter",
+        "ordinal": 3,
+        "reveal": "ya"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sour",
+        "ordinal": 4,
+        "reveal": "tart"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fish used in viral Matthew McConaughey recipe",
+        "ordinal": 5,
+        "reveal": "tuna"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\tBrotherhood of Locomotive Engineers, abbr.",
+        "ordinal": 6,
+        "reveal": "ble"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Automaker Henry",
+        "ordinal": 7,
+        "reveal": "ford"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Hindu festival celebrated as the Festival of Colors, Love, and Spring",
+        "ordinal": 8,
+        "reveal": "holi"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"a\",\"r\",\"t\",\"y\"],[\"y\",\"e\",\"t\",\"t\",\"a\"],[\"a\",\"g\",\"U\",\"n\",\"b\"],[\"d\",\"r\",\"o\",\"f\",\"l\"],[\"i\",\"l\",\"o\",\"h\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"],[\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\",\"#B86BAC\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        1,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 563,
+    "phrase": "Unforgettable holiday party",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-08",
+    "id": "2271a5eb-2b14-4413-946a-b493a194eec0",
+    "dimension": 5
+  }
+]

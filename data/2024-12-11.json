@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-12-07T11:13:54.770038-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Because, to a texter",
+        "ordinal": 1,
+        "reveal": "cuz"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Cereal grain",
+        "ordinal": 2,
+        "reveal": "oat"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "______ hot",
+        "ordinal": 3,
+        "reveal": "piping"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Syllable of laughter, perhaps evil",
+        "ordinal": 4,
+        "reveal": "ha"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Prefix meaning \"between\", perhaps before personal or state",
+        "ordinal": 5,
+        "reveal": "inter"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Wilderness Youth Project, abbr.",
+        "ordinal": 6,
+        "reveal": "wyp"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Most common road type in classic Monopoly, for short",
+        "ordinal": 7,
+        "reveal": "ave"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"c\",\"o\",\"a\",\"t\"],[\"e\",\"g\",\"u\",\"p\",\"a\"],[\"t\",\"n\",\"Z\",\"i\",\"h\"],[\"n\",\"i\",\"p\",\"p\",\"e\"],[\"i\",\"w\",\"y\",\"v\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\"],[\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 566,
+    "phrase": "Zipping up a heavy winter coat",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-11",
+    "id": "b87c5217-c9b1-4eaa-bfbe-90c28dade23e",
+    "dimension": 5
+  }
+]

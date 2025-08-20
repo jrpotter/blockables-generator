@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-11T08:00:16.856293-07:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"There was no room for them in the ___\" (Luke 2:7)",
+        "ordinal": 1,
+        "reveal": "inn"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Substance used to color materials, perhaps candy or t-shirts",
+        "ordinal": 2,
+        "reveal": "dye"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Ivy League university in New Haven, Connecticut",
+        "ordinal": 3,
+        "reveal": "yale"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Shortened word meaning \"lavalier microphone\"",
+        "ordinal": 4,
+        "reveal": "Lav"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Matador's cry",
+        "ordinal": 5,
+        "reveal": "ole"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Venturing wine merchant, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "vintner"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "US state where Pierre is the capital",
+        "ordinal": 7,
+        "reveal": "sd"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"n\",\"n\",\"e\",\"r\"],[\"d\",\"V\",\"a\",\"l\",\"e\"],[\"y\",\"y\",\"L\",\"o\",\"n\"],[\"a\",\"l\",\"e\",\"v\",\"t\"],[\"D\",\"s\",\"e\",\"n\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A9D594\",\"#F3F1A0\",\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 437,
+    "phrase": "Lovely Valentine's Day dinner",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-04",
+    "id": "66699223-f984-4caf-8a1e-e38c5608f475",
+    "dimension": 5
+  }
+]

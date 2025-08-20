@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-17T16:28:56.223859-06:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Fib",
+        "ordinal": 1,
+        "reveal": "lIE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Meower",
+        "ordinal": 2,
+        "reveal": "cAT"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "New York ____, often mistaken for the capital of New York",
+        "ordinal": 3,
+        "reveal": "cITY"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word before man or after Comic",
+        "ordinal": 4,
+        "reveal": "CON"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Table row, abbr.",
+        "ordinal": 5,
+        "reveal": "tR"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Oh no! Timmy ____ down the well!\"",
+        "ordinal": 6,
+        "reveal": "fELL"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"What did the fish say when it swam into a concrete wall?\" punchline",
+        "ordinal": 7,
+        "reveal": "dAM"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Fossil fuel obtained by drilling, sometimes referred to as \"black gold\"",
+        "ordinal": 8,
+        "reveal": "oIL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"l\",\"i\",\"t\",\"y\"],[\"c\",\"e\",\"c\",\"o\",\"n\"],[\"a\",\"t\",\"C\",\"l\",\"t\"],[\"f\",\"a\",\"m\",\"i\",\"r\"],[\"d\",\"e\",\"l\",\"l\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A9D594\",\"#E6B0D1\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 288,
+    "phrase": "Climate-controlled facility",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-08",
+    "id": "42c3b14d-63e7-4d66-a14c-44ca8f1c4849",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-11-26T11:46:05.880627-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Loan",
+        "ordinal": 1,
+        "reveal": "lend"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Director Howard or Wizard Weasley",
+        "ordinal": 2,
+        "reveal": "ron"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "First prime number, to a Roman",
+        "ordinal": 3,
+        "reveal": "ii"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Close one eye, in an effort of secrecy or seduction",
+        "ordinal": 4,
+        "reveal": "wink"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"The One I Love\" band or dream-heavy sleep stage",
+        "ordinal": 5,
+        "reveal": "rem"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Goldman Sachs NYSE stock symbol",
+        "ordinal": 6,
+        "reveal": "gs"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Every dog has ___ day.\"",
+        "ordinal": 7,
+        "reveal": "his"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Categorize",
+        "ordinal": 8,
+        "reveal": "sort"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"k\",\"n\",\"i\",\"r\"],[\"e\",\"i\",\"n\",\"o\",\"w\"],[\"d\",\"n\",\"I\",\"r\",\"e\"],[\"s\",\"g\",\"s\",\"o\",\"m\"],[\"h\",\"i\",\"r\",\"t\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 361,
+    "phrase": "Ironing some wrinkled shirts",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-20",
+    "id": "a20d54a7-1b7a-49e4-bc49-a1bbe0a87f6b",
+    "dimension": 5
+  }
+]

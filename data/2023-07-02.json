@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-01-07T20:48:52.415102-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Pistachio or almond",
+        "ordinal": 1,
+        "reveal": "nUT"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Insect type estimated to have a world population of twenty quadrillion",
+        "ordinal": 2,
+        "reveal": "aNT"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Wine cooler?",
+        "ordinal": 3,
+        "reveal": "iCE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Prevailing programming language which sounds like a clam product; its letters can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "pERL"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "More than one focus",
+        "ordinal": 5,
+        "reveal": "fOCI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "It's between tic and toe",
+        "ordinal": 6,
+        "reveal": "tAC"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after Air or before Light",
+        "ordinal": 7,
+        "reveal": "bUD"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Continuous Improvement abbr.",
+        "ordinal": 8,
+        "reveal": "cI"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"t\",\"a\",\"n\",\"t\"],[\"u\",\"i\",\"e\",\"d\",\"p\"],[\"o\",\"f\",\"C\",\"e\",\"u\"],[\"c\",\"i\",\"t\",\"r\",\"b\"],[\"c\",\"a\",\"c\",\"i\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#F5C146\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 38,
+    "phrase": "Certified public accountant",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-02",
+    "id": "a9efd33e-efe2-4300-833f-92177f15029f",
+    "dimension": 5
+  }
+]

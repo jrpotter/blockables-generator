@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-12-04T15:23:39.304363-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Helium's chemical symbol",
+        "ordinal": 1,
+        "reveal": "he"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"30 Rock\" creator and star Fey or Talking Heads bassist Weymouth",
+        "ordinal": 2,
+        "reveal": "tina"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Squid liquid",
+        "ordinal": 3,
+        "reveal": "ink"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Friend, perhaps in wartime",
+        "ordinal": 4,
+        "reveal": "ally"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before cabin or after captain's",
+        "ordinal": 5,
+        "reveal": "log"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Tear",
+        "ordinal": 6,
+        "reveal": "rip"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Registered Social Worker, abbr.",
+        "ordinal": 7,
+        "reveal": "rsw"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Type of truck which assists broken or otherwise unusable vehicles",
+        "ordinal": 8,
+        "reveal": "tow"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"t\",\"n\",\"i\",\"y\"],[\"e\",\"i\",\"k\",\"l\",\"l\"],[\"a\",\"n\",\"W\",\"a\",\"w\"],[\"i\",\"g\",\"s\",\"l\",\"o\"],[\"r\",\"p\",\"o\",\"r\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#B86BAC\"],[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#B86BAC\",\"#A1DBE3\"],[\"#EE7B8C\",\"#E6B0D1\",\"#A9D594\",\"#E6B0D1\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#A9D594\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 366,
+    "phrase": "Walking slowly in the airport",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-25",
+    "id": "36302418-953a-48b9-9f93-29d67f96fcdb",
+    "dimension": 5
+  }
+]

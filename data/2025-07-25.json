@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-21T08:32:58.255504-06:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "__/UX designer",
+        "ordinal": 1,
+        "reveal": "ui"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Something thrown in anger?",
+        "ordinal": 2,
+        "reveal": "fit"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Instrument played by Tina Weymouth in the band who wrote today's 25-letter answer",
+        "ordinal": 3,
+        "reveal": "bass"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Piece of neckwear missing from David Byrne's \"big suit\" costume",
+        "ordinal": 4,
+        "reveal": "Tie"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Nickname for Hyman or Henry",
+        "ordinal": 5,
+        "reveal": "hy"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Myself and I's partners, in a saying",
+        "ordinal": 6,
+        "reveal": "me"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Owl noises",
+        "ordinal": 7,
+        "reveal": "hoots"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "University of Nebraska Undergraduate Lodging, abbr.",
+        "ordinal": 8,
+        "reveal": "unul"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"t\",\"u\",\"a\",\"e\"],[\"f\",\"i\",\"s\",\"i\",\"b\"],[\"u\",\"s\",\"T\",\"h\",\"y\"],[\"l\",\"n\",\"o\",\"t\",\"m\"],[\"h\",\"o\",\"u\",\"s\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\"],[\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#B86BAC\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 792,
+    "phrase": "\"This is not my beautiful house!\" (\"Once in a Lifetime\", Talking Heads, 1981)",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-25",
+    "id": "53ebe727-d520-4ab5-b276-4fe56f847a8e",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-04-27T07:11:08.855486-06:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Sloth, greed, or wrath",
+        "ordinal": 1,
+        "reveal": "sin"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Onomatopoeia associated with cracking open a cold one",
+        "ordinal": 2,
+        "reveal": "fizz"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Denver University, abbr.",
+        "ordinal": 3,
+        "reveal": "du"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word referring to the number of sheets making up a roll of toilet paper",
+        "ordinal": 4,
+        "reveal": "ply"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Los Angeles hoopsters",
+        "ordinal": 5,
+        "reveal": "Lakers"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Popular Baja California resort town",
+        "ordinal": 6,
+        "reveal": "cabo"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Yes\" in German",
+        "ordinal": 7,
+        "reveal": "ja"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "First letter of the alphabet",
+        "ordinal": 8,
+        "reveal": "a"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"i\",\"s\",\"u\",\"f\"],[\"n\",\"b\",\"d\",\"i\",\"z\"],[\"p\",\"a\",\"L\",\"a\",\"z\"],[\"l\",\"c\",\"k\",\"j\",\"a\"],[\"a\",\"y\",\"e\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#F5C146\",\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 707,
+    "phrase": "Laidback jazz fusion players",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-01",
+    "id": "85badd4a-ffbb-4fca-a7b2-da1059d812c5",
+    "dimension": 5
+  }
+]

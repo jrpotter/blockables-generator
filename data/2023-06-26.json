@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-30T14:50:40.09857-07:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Reason why one may be pursued by a shark?",
+        "ordinal": 1,
+        "reveal": "lOAN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Hair line?",
+        "ordinal": 2,
+        "reveal": "PART"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word said twice in a classic joke format",
+        "ordinal": 3,
+        "reveal": "kNOCK"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Yo ho ho and a bottle of ___\", line from Robert Lewis Stevenson's 1883 novel, Treasure Island",
+        "ordinal": 4,
+        "reveal": "RUM"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Spanish uncle",
+        "ordinal": 5,
+        "reveal": "tIO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Aye's opponent",
+        "ordinal": 6,
+        "reveal": "NAY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "National Institute on Aging abbr.",
+        "ordinal": 7,
+        "reveal": "nIA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"P\",\"a\",\"r\",\"k\"],[\"a\",\"o\",\"u\",\"n\",\"t\"],[\"n\",\"M\",\"R\",\"o\",\"a\"],[\"o\",\"y\",\"k\",\"c\",\"i\"],[\"i\",\"t\",\"a\",\"N\",\"n\"]]",
+    "gridColors": "[[\"#A9D594\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#E6B0D1\",\"#7C93CB\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\"],[\"#A1DBE3\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 32,
+    "phrase": "Rocky Mountain National Park",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-26",
+    "id": "bd648611-04e9-4045-869c-446cd3eb75da",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-06-08T20:18:36.624969-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "clue": "Yoga pad",
+        "color": "#EE7B8C",
+        "reveal": "mat",
+        "ordinal": 1
+      },
+      {
+        "clue": "A certain dog's name-o",
+        "color": "#F5C146",
+        "reveal": "bingo",
+        "ordinal": 2
+      },
+      {
+        "clue": "Cease sleeping",
+        "color": "#A9D594",
+        "reveal": "wake",
+        "ordinal": 3
+      },
+      {
+        "clue": "In or toward the back part of a boat",
+        "color": "#A1DBE3",
+        "reveal": "aft",
+        "ordinal": 4
+      },
+      {
+        "clue": "Radio Frequency, abbr.",
+        "color": "#B86BAC",
+        "reveal": "rf",
+        "ordinal": 5
+      },
+      {
+        "clue": "Pig enclosure",
+        "color": "#F3F1A0",
+        "reveal": "pen",
+        "ordinal": 6
+      },
+      {
+        "clue": "Word after academic or before mortis",
+        "color": "#7C93CB",
+        "reveal": "rigor",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\", \"m\", \"i\", \"n\", \"g\"], [\"o\", \"a\", \"b\", \"o\", \"w\"], [\"f\", \"g\", \"T\", \"a\", \"a\"], [\"r\", \"n\", \"i\", \"k\", \"f\"], [\"e\", \"p\", \"r\", \"e\", \"t\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#EE7B8C\", \"#F5C146\", \"#F5C146\", \"#F5C146\"], [\"#7C93CB\", \"#EE7B8C\", \"#F5C146\", \"#F5C146\", \"#A9D594\"], [\"#B86BAC\", \"#7C93CB\", \"#EE7B8C\", \"#A1DBE3\", \"#A9D594\"], [\"#B86BAC\", \"#F3F1A0\", \"#7C93CB\", \"#A9D594\", \"#A1DBE3\"], [\"#F3F1A0\", \"#F3F1A0\", \"#7C93CB\", \"#A9D594\", \"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 746,
+    "phrase": "Taking a bow after performing",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-09",
+    "id": "137de7a6-1135-418e-ac9b-a41f2da5e443",
+    "dimension": 5
+  }
+]

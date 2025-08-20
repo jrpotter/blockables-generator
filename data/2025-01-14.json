@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-01-12T08:10:50.191157-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Vietnamese holiday",
+        "ordinal": 1,
+        "reveal": "tet"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Return On Investment, abbr.",
+        "ordinal": 2,
+        "reveal": "roi"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Rumbling sound from a cat",
+        "ordinal": 3,
+        "reveal": "purr"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Dover's US state",
+        "ordinal": 4,
+        "reveal": "de"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Egg-shaped",
+        "ordinal": 5,
+        "reveal": "oval"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Quick inhale through the nose",
+        "ordinal": 6,
+        "reveal": "sniff"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Syllable of laughter",
+        "ordinal": 7,
+        "reveal": "ha"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Everything Everywhere All at Once\" actor __ Huy Quan",
+        "ordinal": 8,
+        "reveal": "ke"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"o\",\"r\",\"p\",\"d\"],[\"e\",\"t\",\"i\",\"u\",\"e\"],[\"i\",\"f\",\"F\",\"r\",\"r\"],[\"n\",\"l\",\"a\",\"v\",\"o\"],[\"s\",\"h\",\"a\",\"k\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#F5C146\"],[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        0,
+        4
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 600,
+    "phrase": "Fruit-flavored protein shake",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-14",
+    "id": "9e1b9507-60fe-4ff6-a1e4-52c8c700b5f0",
+    "dimension": 5
+  }
+]

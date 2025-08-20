@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-02T11:36:32.11374-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"Tag! You're __!\"",
+        "ordinal": 1,
+        "reveal": "iT"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Season before Spring",
+        "ordinal": 2,
+        "reveal": "WINTER"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Global Fund for Women, abbr.",
+        "ordinal": 3,
+        "reveal": "gFW"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Ford's character in the Star Wars franchise",
+        "ordinal": 4,
+        "reveal": "sOLO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Two-thousand pounds",
+        "ordinal": 5,
+        "reveal": "TON"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Main character of The Matrix",
+        "ordinal": 6,
+        "reveal": "nEO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Red Sesame Street character featured in a plush \"Tickle Me\" toy",
+        "ordinal": 7,
+        "reveal": "eLMO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"t\",\"t\",\"e\",\"r\"],[\"w\",\"i\",\"n\",\"g\",\"s\"],[\"T\",\"w\",\"F\",\"o\",\"o\"],[\"n\",\"o\",\"l\",\"l\",\"m\"],[\"o\",\"e\",\"n\",\"o\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 120,
+    "phrase": "Following someone on Twitter",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-22",
+    "id": "680cf2eb-acc6-4a55-91cd-a5dd149a8882",
+    "dimension": 5
+  }
+]

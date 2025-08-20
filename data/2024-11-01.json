@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-27T12:08:55.222658-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "T\u00eda, in English",
+        "ordinal": 1,
+        "reveal": "aunt"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Forestry Crew Training Notice, abbr.",
+        "ordinal": 2,
+        "reveal": "fctn"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letter repeated twice before Bean or Cool J",
+        "ordinal": 3,
+        "reveal": "l"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Actor Danson or journalist Koppel",
+        "ordinal": 4,
+        "reveal": "ted"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Nickname for one holding a red card, perhaps",
+        "ordinal": 5,
+        "reveal": "Ref"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Animal rights org.",
+        "ordinal": 6,
+        "reveal": "peta"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Small, as an error or increase",
+        "ordinal": 7,
+        "reveal": "slight"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"d\",\"a\",\"n\",\"t\"],[\"e\",\"t\",\"f\",\"u\",\"l\"],[\"t\",\"c\",\"R\",\"e\",\"f\"],[\"t\",\"e\",\"p\",\"s\",\"l\"],[\"a\",\"t\",\"h\",\"g\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\"],[\"#EE7B8C\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 526,
+    "phrase": "Respectful flight attendant",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-01",
+    "id": "1d88022c-1a66-4fd7-b662-f3f392a196e5",
+    "dimension": 5
+  }
+]

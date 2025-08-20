@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-07-12T15:03:50-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Donate, as money or a hand",
+        "ordinal": 1,
+        "reveal": "lEND"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Groan-inducing joke, often",
+        "ordinal": 2,
+        "reveal": "pUN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Second syllable of two-syllable mischievous laugh, preceded by the answer of Clue #5",
+        "ordinal": 3,
+        "reveal": "hee"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Buzz or distorted noise, such as that from an electric guitar, the answer of which rhymes with this clue's first word",
+        "ordinal": 4,
+        "reveal": "FUZZ"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "First syllable of two-syllable mischievous laugh, followed by the answer of Clue #3",
+        "ordinal": 5,
+        "reveal": "tee"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Dismissed an employee from their job",
+        "ordinal": 6,
+        "reveal": "fIRED"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Snap a ___ for the 'gram!\"",
+        "ordinal": 7,
+        "reveal": "pIC"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"z\",\"z\",\"l\",\"e\"],[\"p\",\"n\",\"h\",\"u\",\"n\"],[\"e\",\"e\",\"F\",\"i\",\"d\"],[\"c\",\"e\",\"t\",\"f\",\"r\"],[\"e\",\"i\",\"p\",\"d\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#A9D594\",\"#B86BAC\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 221,
+    "phrase": "Fifteen-hundred piece puzzle",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-01",
+    "id": "2ae43973-d4f6-4de2-a991-3bc1aaff7ad8",
+    "dimension": 5
+  }
+]

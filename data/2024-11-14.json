@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-11-10T11:41:43.88586-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Fuel gauge letter",
+        "ordinal": 1,
+        "reveal": "f"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Tai ___",
+        "ordinal": 2,
+        "reveal": "chi"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Wood chopping tool",
+        "ordinal": 3,
+        "reveal": "axe"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"The elevator business has its ___ and downs.\"",
+        "ordinal": 4,
+        "reveal": "ups"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Shortman or Schwarzenegger",
+        "ordinal": 5,
+        "reveal": "arnold"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Texter's \"you're\"",
+        "ordinal": 6,
+        "reveal": "ur"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Pong preceder?",
+        "ordinal": 7,
+        "reveal": "ping"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "___ capita",
+        "ordinal": 8,
+        "reveal": "per"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"f\",\"d\",\"l\",\"o\"],[\"x\",\"h\",\"c\",\"r\",\"n\"],[\"e\",\"a\",\"P\",\"u\",\"a\"],[\"r\",\"s\",\"i\",\"n\",\"g\"],[\"u\",\"p\",\"p\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#F3F1A0\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#F3F1A0\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 539,
+    "phrase": "Purchasing an old fixer upper",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-14",
+    "id": "17771cec-851f-4b00-a18b-c740b7896a41",
+    "dimension": 5
+  }
+]

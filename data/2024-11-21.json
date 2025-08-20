@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-18T18:22:07.238572-07:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "El ____, Texas' 6th most populous city",
+        "ordinal": 1,
+        "reveal": "Paso"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"He doesn't know ___ own strength.\"",
+        "ordinal": 2,
+        "reveal": "his"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Institute of Audio Research, abbr.",
+        "ordinal": 3,
+        "reveal": "iar"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Letters used in Calvin Klein logo",
+        "ordinal": 4,
+        "reveal": "ck"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Torso clothing",
+        "ordinal": 5,
+        "reveal": "shirt"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Personnel",
+        "ordinal": 6,
+        "reveal": "Staff"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Rodent, perhaps in a big city",
+        "ordinal": 7,
+        "reveal": "rat"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"a\",\"P\",\"h\",\"s\"],[\"r\",\"s\",\"i\",\"f\",\"i\"],[\"i\",\"h\",\"O\",\"a\",\"f\"],[\"c\",\"s\",\"t\",\"a\",\"r\"],[\"k\",\"S\",\"t\",\"a\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\"],[\"#EE7B8C\",\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\",\"#A9D594\"],[\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 546,
+    "phrase": "Oafish starfish Patrick Star",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-21",
+    "id": "682aaf0d-0839-4813-b79a-37ecc83a2a9d",
+    "dimension": 5
+  }
+]

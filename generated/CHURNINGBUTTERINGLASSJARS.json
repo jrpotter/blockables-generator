@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:10:13.848946+0000",
+        "category": "Things",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Donkey or fool",
+                "ordinal": 1,
+                "reveal": "ASS"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Agitate, as butter, or turn over frequently",
+                "ordinal": 2,
+                "reveal": "CHURN"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Prefix meaning \"on\" or \"above\" in French",
+                "ordinal": 3,
+                "reveal": "SUR"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Disease that once meant a death sentence, for short",
+                "ordinal": 4,
+                "reveal": "TB"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Musical note between do and mi",
+                "ordinal": 5,
+                "reveal": "TE"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Circle or boxing venue",
+                "ordinal": 6,
+                "reveal": "RING"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Basketball great Jeremy or director Wertm\u00fcller",
+                "ordinal": 7,
+                "reveal": "LIN"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Sharp projection or drinking bout",
+                "ordinal": 8,
+                "reveal": "JAG"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"S\", \"J\", \"A\", \"R\", \"S\"], [\"S\", \"N\", \"G\", \"B\", \"U\"], [\"A\", \"I\", \"C\", \"H\", \"T\"], [\"L\", \"N\", \"R\", \"U\", \"T\"], [\"G\", \"N\", \"I\", \"R\", \"E\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#A1DBE3\", \"#A1DBE3\", \"#E6B0D1\", \"#E6B0D1\"], [\"#7C93CB\", \"#EE7B8C\", \"#A1DBE3\", \"#A9D594\", \"#E6B0D1\"], [\"#7C93CB\", \"#EE7B8C\", \"#F5C146\", \"#F5C146\", \"#A9D594\"], [\"#EE7B8C\", \"#F5C146\", \"#F5C146\", \"#F5C146\", \"#B86BAC\"], [\"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\", \"#B86BAC\"]]",
+        "numberPlacements": {
+            "1": [
+                2,
+                0
+            ],
+            "2": [
+                2,
+                2
+            ],
+            "3": [
+                0,
+                4
+            ],
+            "4": [
+                2,
+                4
+            ],
+            "5": [
+                3,
+                4
+            ],
+            "6": [
+                4,
+                3
+            ],
+            "7": [
+                3,
+                0
+            ],
+            "8": [
+                0,
+                1
+            ]
+        },
+        "phrase": "Churning butter in glass jars",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

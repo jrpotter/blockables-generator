@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-04-19T08:57:51.602729-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Paper gift reading \"Thank you\" or \"Get well soon\", perhaps",
+        "ordinal": 1,
+        "reveal": "card"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "C, D, E, F, G, A, or B in C major",
+        "ordinal": 2,
+        "reveal": "note"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Return on investment, abbr.",
+        "ordinal": 3,
+        "reveal": "roi"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "NO precedent?",
+        "ordinal": 4,
+        "reveal": "lM"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Send business documents, especially before 2000",
+        "ordinal": 5,
+        "reveal": "fax"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Jewelry company with slogan \"Every kiss begins with ___\"",
+        "ordinal": 6,
+        "reveal": "kay"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Sulfur's chemical symbol",
+        "ordinal": 7,
+        "reveal": "s"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "What italics do",
+        "ordinal": 8,
+        "reveal": "slant"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"d\",\"n\",\"o\",\"m\"],[\"r\",\"a\",\"r\",\"t\",\"l\"],[\"o\",\"f\",\"E\",\"x\",\"a\"],[\"i\",\"l\",\"a\",\"k\",\"y\"],[\"s\",\"s\",\"a\",\"n\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"],[\"#B86BAC\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#F3F1A0\"],[\"#B86BAC\",\"#F5C146\",\"#EE7B8C\",\"#F5C146\",\"#E6B0D1\"],[\"#B86BAC\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 700,
+    "phrase": "Extra flaky almond croissant",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-24",
+    "id": "11c0beb2-a0ff-4750-9c05-63b9f4433e6e",
+    "dimension": 5
+  }
+]

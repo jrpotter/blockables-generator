@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-02T19:38:48.420339-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Sticky substance used in feudal Europe to ensure feather adhesion",
+        "ordinal": 1,
+        "reveal": "tAR"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Chance, often phrased as 1 in 5, for example",
+        "ordinal": 2,
+        "reveal": "oDDS"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Structure providing protection or cover, often from the weather",
+        "ordinal": 3,
+        "reveal": "sHELTER"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Used a shovel",
+        "ordinal": 4,
+        "reveal": "dUG"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Hubbub",
+        "ordinal": 5,
+        "reveal": "aDO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Colorado's state abbreviation",
+        "ordinal": 6,
+        "reveal": "cO"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Feel regretful, the letters of which can be found in this clue's second word",
+        "ordinal": 7,
+        "reveal": "rUE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"r\",\"t\",\"e\",\"r\"],[\"t\",\"o\",\"l\",\"d\",\"s\"],[\"s\",\"e\",\"D\",\"e\",\"o\"],[\"h\",\"d\",\"a\",\"c\",\"u\"],[\"g\",\"u\",\"o\",\"d\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\",\"#A1DBE3\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F5C146\",\"#A1DBE3\",\"#E6B0D1\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 244,
+    "phrase": "Decade-old sourdough starter",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-24",
+    "id": "c64ad6eb-987c-4ac0-b812-953324b562b2",
+    "dimension": 5
+  }
+]

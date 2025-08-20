@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-03T11:24:54.465488-07:00",
+    "category": "Famous Quote",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "_____ Fifty: photographer's rhyming nickname for a 50mm prime lens",
+        "ordinal": 1,
+        "reveal": "nifty"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "RuneScape, abbr.",
+        "ordinal": 2,
+        "reveal": "rs"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Location, perhaps where construction is taking place",
+        "ordinal": 3,
+        "reveal": "site"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Action of a dog wanting some of your dinner, perhaps",
+        "ordinal": 4,
+        "reveal": "beg"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Largest solid organ in the human body",
+        "ordinal": 5,
+        "reveal": "liver"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "GM: Day :: __: Evening",
+        "ordinal": 6,
+        "reveal": "gn"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Cow sounds",
+        "ordinal": 7,
+        "reveal": "moos"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"g\",\"e\",\"r\",\"s\"],[\"i\",\"b\",\"l\",\"i\",\"s\"],[\"f\",\"t\",\"I\",\"v\",\"t\"],[\"y\",\"o\",\"g\",\"e\",\"e\"],[\"m\",\"n\",\"o\",\"s\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\",\"#E6B0D1\"],[\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        1,
+        2
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 428,
+    "phrase": "\"I've got blisters on my fingers!\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-26",
+    "id": "59fd8a82-ce91-499b-8e3a-c87678c97dfa",
+    "dimension": 5
+  }
+]

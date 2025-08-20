@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-04-15T21:40:48.826405-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Human-Centered Design, abbr.",
+        "ordinal": 1,
+        "reveal": "hcd"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Common factor of all prime numbers",
+        "ordinal": 2,
+        "reveal": "one"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Curve",
+        "ordinal": 3,
+        "reveal": "Bend"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Card which sometimes has a value of Clue #2's answer",
+        "ordinal": 4,
+        "reveal": "ace"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Helium and oxygen, for two",
+        "ordinal": 5,
+        "reveal": "gases"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Headpiece, perhaps powdered",
+        "ordinal": 6,
+        "reveal": "wig"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Martial arts superstar Jackie",
+        "ordinal": 7,
+        "reveal": "chan"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"s\",\"e\",\"e\",\"h\"],[\"s\",\"n\",\"o\",\"c\",\"c\"],[\"a\",\"e\",\"B\",\"a\",\"d\"],[\"n\",\"g\",\"g\",\"a\",\"n\"],[\"d\",\"w\",\"i\",\"c\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\"],[\"#A9D594\",\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 695,
+    "phrase": "Bacon, egg and cheese sandwich",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-19",
+    "id": "0891a805-afe4-4209-86c4-b76214a82b82",
+    "dimension": 5
+  }
+]

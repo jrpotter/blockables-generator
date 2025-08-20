@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-12-29T14:15:39.313078-07:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Pet name, perhaps followed by \"pie\"",
+        "ordinal": 1,
+        "reveal": "cutie"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Short Term Rental, abbr.",
+        "ordinal": 2,
+        "reveal": "str"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Prefix expressing absence, perhaps found before \"dairy\"",
+        "ordinal": 3,
+        "reveal": "non"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "First name of English-Albanian pop star Lipa",
+        "ordinal": 4,
+        "reveal": "Dua"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Re-___, another name for company restructuring",
+        "ordinal": 5,
+        "reveal": "org"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Distinct portions, perhaps of a legal code, newspaper, or orchestra",
+        "ordinal": 6,
+        "reveal": "sections"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"u\",\"r\",\"t\",\"s\"],[\"t\",\"e\",\"g\",\"n\",\"n\"],[\"i\",\"r\",\"D\",\"a\",\"o\"],[\"o\",\"o\",\"u\",\"s\",\"c\"],[\"n\",\"s\",\"i\",\"t\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 398,
+    "phrase": "Dangerous construction site",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-26",
+    "id": "9e920cdb-6fb8-4149-8aa8-9edd4b77b5f7",
+    "dimension": 5
+  }
+]

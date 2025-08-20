@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2025-03-22T10:20:29.189056-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Word after butterfly or safety",
+        "ordinal": 1,
+        "reveal": "nets"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Chomping",
+        "ordinal": 2,
+        "reveal": "biting"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"I'll be back in __ hour or so, mister!\"",
+        "ordinal": 3,
+        "reveal": "an"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Purple Rain\" (1984) musician",
+        "ordinal": 4,
+        "reveal": "prince"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Swedish furniture and meatball superstore",
+        "ordinal": 5,
+        "reveal": "ikea"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Hardware Compatibility Test, abbr.",
+        "ordinal": 6,
+        "reveal": "hct"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"n\",\"e\",\"t\",\"s\"],[\"b\",\"t\",\"i\",\"n\",\"g\"],[\"a\",\"n\",\"R\",\"e\",\"k\"],[\"c\",\"i\",\"a\",\"p\",\"i\"],[\"n\",\"e\",\"h\",\"c\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#B86BAC\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        3
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 670,
+    "phrase": "Repainting kitchen cabinets",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-25",
+    "id": "f9c26833-7a90-4bcf-84a0-7207280c70d9",
+    "dimension": 5
+  }
+]

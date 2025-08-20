@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-02T20:06:03.93937-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Common audio filename extension",
+        "ordinal": 1,
+        "reveal": "wAV"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Guyana's ISO country code",
+        "ordinal": 2,
+        "reveal": "gY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"__ all means, lead the way!\"",
+        "ordinal": 3,
+        "reveal": "bY"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Personal Information Protection Act, abbr.",
+        "ordinal": 4,
+        "reveal": "pIPA"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Woods, McIlroy, or Palmer",
+        "ordinal": 5,
+        "reveal": "gOLFER"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Nickname for Tom Sawyer's companion",
+        "ordinal": 6,
+        "reveal": "HUCK"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Subterfuge or an otherwise crafty strategy, the letters of which can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "rUSE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"w\",\"g\",\"i\",\"b\"],[\"v\",\"y\",\"p\",\"p\",\"y\"],[\"e\",\"g\",\"H\",\"a\",\"k\"],[\"s\",\"o\",\"l\",\"u\",\"c\"],[\"u\",\"r\",\"f\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#E6B0D1\"],[\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\"],[\"#B86BAC\",\"#A9D594\",\"#F5C146\",\"#A1DBE3\",\"#F5C146\"],[\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 243,
+    "phrase": "Happy-go-lucky big wave surfer",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-23",
+    "id": "12aa6cf3-655f-4ac5-9d2a-bc12377e4f99",
+    "dimension": 5
+  }
+]

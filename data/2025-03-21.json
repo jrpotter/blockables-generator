@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-15T14:46:01.348852-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Name before Guevara or after Michael",
+        "ordinal": 1,
+        "reveal": "che"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Hiking path",
+        "ordinal": 2,
+        "reveal": "trail"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Happen",
+        "ordinal": 3,
+        "reveal": "occur"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Yuma Homeward Bound Rescue, abbr.",
+        "ordinal": 4,
+        "reveal": "yHBR"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "What + means, in math",
+        "ordinal": 5,
+        "reveal": "add"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Sound of music between fa and la",
+        "ordinal": 6,
+        "reveal": "so"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Most famous person named Edgar, according to ranker.com",
+        "ordinal": 7,
+        "reveal": "poe"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"h\",\"c\",\"i\",\"l\"],[\"d\",\"t\",\"r\",\"a\",\"o\"],[\"d\",\"y\",\"H\",\"e\",\"c\"],[\"a\",\"b\",\"r\",\"o\",\"c\"],[\"r\",\"s\",\"o\",\"u\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#E6B0D1\"],[\"#F5C146\",\"#F3F1A0\",\"#E6B0D1\",\"#B86BAC\",\"#E6B0D1\"],[\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 666,
+    "phrase": "Hearty broccoli cheddar soup",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-21",
+    "id": "eac1d091-0a67-4b00-b402-f21b455092b0",
+    "dimension": 5
+  }
+]

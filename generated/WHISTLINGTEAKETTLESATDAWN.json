@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:59:33.537723+0000",
+        "category": "Things",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Allow or permit, or what a tennis serve might hit",
+                "ordinal": 1,
+                "reveal": "LET"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Not the smallest ___ of evidence",
+                "ordinal": 2,
+                "reveal": "WHIT"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Deck wood that's hard to pronounce?",
+                "ordinal": 3,
+                "reveal": "TEAK"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Superlative suffix",
+                "ordinal": 4,
+                "reveal": "EST"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Follows a coin flip",
+                "ordinal": 5,
+                "reveal": "TAILS"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Breaking of day, or what follows it in a Thin Lizzy hit",
+                "ordinal": 6,
+                "reveal": "DAWN"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "National Guard, abbr.",
+                "ordinal": 7,
+                "reveal": "NG"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"L\", \"T\", \"T\", \"E\", \"K\"], [\"E\", \"T\", \"S\", \"I\", \"A\"], [\"S\", \"L\", \"W\", \"H\", \"E\"], [\"A\", \"I\", \"N\", \"G\", \"T\"], [\"T\", \"D\", \"A\", \"W\", \"N\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#E6B0D1\", \"#B86BAC\", \"#F5C146\"], [\"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#E6B0D1\", \"#F5C146\"], [\"#A9D594\", \"#A9D594\", \"#E6B0D1\", \"#E6B0D1\", \"#F5C146\"], [\"#A9D594\", \"#A9D594\", \"#EE7B8C\", \"#F3F1A0\", \"#F5C146\"], [\"#A9D594\", \"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                2,
+                2
+            ],
+            "3": [
+                3,
+                4
+            ],
+            "4": [
+                0,
+                3
+            ],
+            "5": [
+                4,
+                0
+            ],
+            "6": [
+                4,
+                1
+            ],
+            "7": [
+                4,
+                4
+            ]
+        },
+        "phrase": "Whistling tea kettles at dawn",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

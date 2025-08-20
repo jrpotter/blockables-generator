@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:00:50.088978+0000",
+        "category": "Food and Drink",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Half of a binary choice",
+                "ordinal": 1,
+                "reveal": "NO"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Little girl in \"West Side Story\"",
+                "ordinal": 2,
+                "reveal": "ROSITA"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Detective's assignment, or what holds it",
+                "ordinal": 3,
+                "reveal": "CASE"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Obtains, or what one does with jokes",
+                "ordinal": 4,
+                "reveal": "GETS"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Serbian city that was Yugoslavia's IT hub",
+                "ordinal": 5,
+                "reveal": "NIS"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Eliminate time during a battle",
+                "ordinal": 6,
+                "reveal": "KILL"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Tin, on the table",
+                "ordinal": 7,
+                "reveal": "SN"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"N\", \"O\", \"R\", \"I\", \"T\"], [\"S\", \"O\", \"S\", \"A\", \"S\"], [\"K\", \"N\", \"S\", \"E\", \"A\"], [\"I\", \"I\", \"N\", \"G\", \"C\"], [\"L\", \"L\", \"E\", \"T\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#B86BAC\"], [\"#EE7B8C\", \"#B86BAC\", \"#B86BAC\", \"#B86BAC\", \"#F3F1A0\"], [\"#F5C146\", \"#EE7B8C\", \"#E6B0D1\", \"#F3F1A0\", \"#F3F1A0\"], [\"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\", \"#F3F1A0\"], [\"#F5C146\", \"#F5C146\", \"#A9D594\", \"#A9D594\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                0,
+                2
+            ],
+            "3": [
+                3,
+                4
+            ],
+            "4": [
+                3,
+                3
+            ],
+            "5": [
+                3,
+                2
+            ],
+            "6": [
+                2,
+                0
+            ],
+            "7": [
+                1,
+                0
+            ]
+        },
+        "phrase": "Seasoning cast iron skillets",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

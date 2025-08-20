@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-04-30T11:58:13.280328-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Like April 15th, 1452 or January 29th, 1886",
+        "ordinal": 1,
+        "reveal": "dATE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word before dynasty or Solo",
+        "ordinal": 2,
+        "reveal": "hAN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Democratic National Committee, abbr.",
+        "ordinal": 3,
+        "reveal": "dNC"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"I'm sending out an _._._.\", 1979 The Police lyric about a castaway",
+        "ordinal": 4,
+        "reveal": "SOS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Material acquired through shear force?",
+        "ordinal": 5,
+        "reveal": "wOOL"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "One may be great?",
+        "ordinal": 6,
+        "reveal": "dANE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "2004 Nintendo hand-held system sporting a dual screen",
+        "ordinal": 7,
+        "reveal": "dS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Ma's guy",
+        "ordinal": 8,
+        "reveal": "pA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"e\",\"t\",\"n\",\"e\"],[\"h\",\"a\",\"d\",\"n\",\"c\"],[\"a\",\"l\",\"S\",\"a\",\"s\"],[\"n\",\"w\",\"o\",\"o\",\"d\"],[\"d\",\"s\",\"o\",\"a\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#F5C146\"],[\"#EE7B8C\",\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#B86BAC\",\"#A9D594\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 152,
+    "phrase": "Sandalwood-scented hand soap",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-24",
+    "id": "93f90852-731a-48e8-a2ad-4f159af6d50a",
+    "dimension": 5
+  }
+]

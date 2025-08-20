@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2022-12-22T11:44:08.486124-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Dos y dos y dos",
+        "ordinal": 1,
+        "reveal": "sEIS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "First name of two actors of the \"Family Guy\" main cast",
+        "ordinal": 2,
+        "reveal": "sETH"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Input/output abbr.",
+        "ordinal": 3,
+        "reveal": "iO"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word before menu or after wine",
+        "ordinal": 4,
+        "reveal": "tASTING"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pioneering internet company",
+        "ordinal": 5,
+        "reveal": "aOL"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Enthusiastic fans, in gen-Z slang, the letters of which can be found in the first word of this clue",
+        "ordinal": 6,
+        "reveal": "sTANS"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"e\",\"h\",\"t\",\"s\"],[\"i\",\"s\",\"i\",\"s\",\"e\"],[\"o\",\"t\",\"A\",\"s\",\"n\"],[\"l\",\"a\",\"n\",\"t\",\"a\"],[\"o\",\"g\",\"i\",\"s\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"],[\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 27,
+    "phrase": "Assistant anesthesiologist",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-21",
+    "id": "26122f93-1cc2-481f-9e0b-e3ac1766f5ab",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-22T16:48:31.034125-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before code (for an address) or up (for a dress)",
+        "ordinal": 1,
+        "reveal": "zip"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Weather event sometimes said to be as thick as pea soup",
+        "ordinal": 2,
+        "reveal": "fog"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Most commonly used English word, according to thesaurus.com",
+        "ordinal": 3,
+        "reveal": "the"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Loaf, loll, or lounge",
+        "ordinal": 4,
+        "reveal": "laze"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "American Truck Simulator, abbr.",
+        "ordinal": 5,
+        "reveal": "ats"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Monsters, ___.\", a 2001 Pixar film about the goings-on at a scare factory",
+        "ordinal": 6,
+        "reveal": "inc"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fib",
+        "ordinal": 7,
+        "reveal": "lie"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Airport bag checking org.",
+        "ordinal": 8,
+        "reveal": "tsa"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"i\",\"z\",\"z\",\"a\"],[\"f\",\"t\",\"h\",\"e\",\"l\"],[\"o\",\"g\",\"E\",\"a\",\"a\"],[\"e\",\"n\",\"i\",\"t\",\"s\"],[\"c\",\"i\",\"l\",\"s\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 761,
+    "phrase": "Eating the last slice of pizza",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-24",
+    "id": "efc8b1df-2686-41c4-9425-fc5f5e48563a",
+    "dimension": 5
+  }
+]

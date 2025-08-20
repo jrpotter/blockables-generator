@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:00:34.550226+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Curve shape, or what's seen twice in \"Mississippi\"",
+                "ordinal": 1,
+                "reveal": "S"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Smooths out wrinkles or golf clubs",
+                "ordinal": 2,
+                "reveal": "IRONS"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Heel or software program",
+                "ordinal": 3,
+                "reveal": "CAD"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Meeting, informally",
+                "ordinal": 4,
+                "reveal": "SESS"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Fight or line of seats",
+                "ordinal": 5,
+                "reveal": "ROW"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Ocean State, initially",
+                "ordinal": 6,
+                "reveal": "RI"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Precious stone or hidden treasure?",
+                "ordinal": 7,
+                "reveal": "GEM"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Capital that sounds like a musical note",
+                "ordinal": 8,
+                "reveal": "DOHA"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"S\", \"O\", \"R\", \"C\", \"A\"], [\"S\", \"N\", \"I\", \"D\", \"S\"], [\"M\", \"G\", \"R\", \"I\", \"E\"], [\"E\", \"H\", \"O\", \"R\", \"S\"], [\"A\", \"D\", \"O\", \"W\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#F5C146\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#B86BAC\", \"#F5C146\", \"#E6B0D1\"], [\"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\", \"#E6B0D1\"], [\"#EE7B8C\", \"#A1DBE3\", \"#A9D594\", \"#A9D594\", \"#E6B0D1\"], [\"#A1DBE3\", \"#A1DBE3\", \"#A1DBE3\", \"#A9D594\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                1,
+                2
+            ],
+            "3": [
+                0,
+                3
+            ],
+            "4": [
+                1,
+                4
+            ],
+            "5": [
+                3,
+                3
+            ],
+            "6": [
+                2,
+                2
+            ],
+            "7": [
+                2,
+                1
+            ],
+            "8": [
+                4,
+                1
+            ]
+        },
+        "phrase": "Riding horses across meadows",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

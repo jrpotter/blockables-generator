@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-01-01T11:12:24.577024-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Give up",
+        "ordinal": 1,
+        "reveal": "qUIT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Square object in a common idiom",
+        "ordinal": 2,
+        "reveal": "pEG"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Only US state abbr. whose letters are also the last letters of its capital",
+        "ordinal": 3,
+        "reveal": "nY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "2017 horror film starring Bill Skarsg\u00e5rd",
+        "ordinal": 4,
+        "reveal": "iT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word repeated twice in a common valediction",
+        "ordinal": 5,
+        "reveal": "BYE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"In awe at the size of this lad. Absolute ___.\" - Tweet by @mrreptoid regarding hotelier David Morgan-Hewitt",
+        "ordinal": 6,
+        "reveal": "uNIT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "It's good for absolutely nothin', in a Motown song",
+        "ordinal": 7,
+        "reveal": "wAR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Draw closer",
+        "ordinal": 8,
+        "reveal": "nEAR"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"t\",\"e\",\"u\",\"q\"],[\"p\",\"n\",\"i\",\"y\",\"i\"],[\"e\",\"g\",\"B\",\"u\",\"t\"],[\"w\",\"a\",\"n\",\"a\",\"n\"],[\"r\",\"i\",\"t\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F5C146\",\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        3
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 33,
+    "phrase": "Buying an antique typewriter",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-27",
+    "id": "9d8c17f8-0a81-4ef1-9003-b30dc1746872",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-07-14T08:19:15.811273-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Prefix expressing absence, perhaps found before \"dairy\"",
+        "ordinal": 1,
+        "reveal": "non"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Slowly liquify, as a popsicle",
+        "ordinal": 2,
+        "reveal": "melt"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Left on ____\", texter's state when their recipient sees a message but doesn't reply",
+        "ordinal": 3,
+        "reveal": "read"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Vietnam's capital",
+        "ordinal": 4,
+        "reveal": "hanoi"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Grow older",
+        "ordinal": 5,
+        "reveal": "age"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Type of truck which assists broken or otherwise unusable vehicles",
+        "ordinal": 6,
+        "reveal": "tow"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "York Technology Association, abbr.",
+        "ordinal": 7,
+        "reveal": "yta"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"n\",\"o\",\"l\",\"e\"],[\"n\",\"n\",\"i\",\"t\",\"m\"],[\"a\",\"g\",\"E\",\"a\",\"r\"],[\"h\",\"w\",\"a\",\"t\",\"e\"],[\"o\",\"t\",\"d\",\"a\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#B86BAC\"],[\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#F3F1A0\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 785,
+    "phrase": "Eating watermelon on a hot day",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-18",
+    "id": "d5c75cb6-b8b6-48da-9dfa-4cd85b956240",
+    "dimension": 5
+  }
+]

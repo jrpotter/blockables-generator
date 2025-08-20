@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-23T11:29:53.704794-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Country containing California and Colorado, abbr.",
+        "ordinal": 1,
+        "reveal": "uSA"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "__ solicitors allowed",
+        "ordinal": 2,
+        "reveal": "nO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Rooster's partner",
+        "ordinal": 3,
+        "reveal": "hEN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Entry to an air duct, in Among Us or Mission Impossible",
+        "ordinal": 4,
+        "reveal": "vENT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Actor Hackman and animated son Belcher",
+        "ordinal": 5,
+        "reveal": "gENES"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after Schindler's or todo",
+        "ordinal": 6,
+        "reveal": "lIST"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Space in Monopoly which can be escaped by rolling doubles",
+        "ordinal": 7,
+        "reveal": "JAIL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"s\",\"t\",\"e\",\"n\"],[\"A\",\"h\",\"n\",\"o\",\"v\"],[\"e\",\"s\",\"E\",\"n\",\"e\"],[\"n\",\"i\",\"l\",\"g\",\"l\"],[\"a\",\"J\",\"t\",\"s\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 141,
+    "phrase": "English novelist Jane Austen",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-13",
+    "id": "a5327bae-3bd6-4522-ab65-8d25db70b9d1",
+    "dimension": 5
+  }
+]

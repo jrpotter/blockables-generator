@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-31T15:06:27.255027-06:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Small slurp",
+        "ordinal": 1,
+        "reveal": "sip"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word before cabin or after captain's",
+        "ordinal": 2,
+        "reveal": "log"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "___ school",
+        "ordinal": 3,
+        "reveal": "med"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Train sound",
+        "ordinal": 4,
+        "reveal": "choo"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Sneaky, like a fox",
+        "ordinal": 5,
+        "reveal": "sly"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Inventor's protective document",
+        "ordinal": 6,
+        "reveal": "patent"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Live Video Extension, abbr.",
+        "ordinal": 7,
+        "reveal": "lve"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"g\",\"i\",\"s\",\"t\"],[\"l\",\"p\",\"m\",\"e\",\"n\"],[\"o\",\"o\",\"D\",\"e\",\"t\"],[\"h\",\"l\",\"e\",\"v\",\"a\"],[\"c\",\"y\",\"s\",\"p\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        4,
+        0
+      ],
+      "5": [
+        4,
+        2
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 679,
+    "phrase": "Developmental psychologist",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-03",
+    "id": "8201439b-6027-4c61-8a2b-fe90d0a605c6",
+    "dimension": 5
+  }
+]

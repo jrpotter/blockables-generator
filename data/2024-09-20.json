@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-03-31T17:33:11.067828-06:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Rodent, perhaps in a big city",
+        "ordinal": 1,
+        "reveal": "rat"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Consumed, as food",
+        "ordinal": 2,
+        "reveal": "ate"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Lock's partner",
+        "ordinal": 3,
+        "reveal": "key"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Male name derived from the Dutch name Diederik",
+        "ordinal": 4,
+        "reveal": "dirk"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Now and ____",
+        "ordinal": 5,
+        "reveal": "then"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"And he's holding her in ___ arms\", 1981 Rick Springfield lyric",
+        "ordinal": 6,
+        "reveal": "his"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after Milky or one",
+        "ordinal": 7,
+        "reveal": "way"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Friend of myself and I",
+        "ordinal": 8,
+        "reveal": "me"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"n\",\"e\",\"a\",\"t\"],[\"e\",\"e\",\"r\",\"t\",\"a\"],[\"k\",\"h\",\"I\",\"d\",\"k\"],[\"s\",\"t\",\"a\",\"r\",\"e\"],[\"i\",\"h\",\"w\",\"y\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#E6B0D1\",\"#A1DBE3\",\"#F5C146\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 484,
+    "phrase": "\"I'd rather take my whiskey neat\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-20",
+    "id": "307b8a72-855d-4528-b691-a28426a6d7de",
+    "dimension": 5
+  }
+]

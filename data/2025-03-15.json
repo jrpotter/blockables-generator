@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-08T14:31:00.573526-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Golfer McIlroy or fictional Yale student Gilmore",
+        "ordinal": 1,
+        "reveal": "rory"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Gloomy, perhaps as certain fairytale locales",
+        "ordinal": 2,
+        "reveal": "grim"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "First word of Christmas carol also known as \"Adeste Fideles\"",
+        "ordinal": 3,
+        "reveal": "o"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Anakin Skywalker's childhood nickname",
+        "ordinal": 4,
+        "reveal": "ani"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Bongo, conga, or tom-tom",
+        "ordinal": 5,
+        "reveal": "drum"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Prince's purple precipitation, perhaps",
+        "ordinal": 6,
+        "reveal": "rain"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after fruit or pop",
+        "ordinal": 7,
+        "reveal": "FLIES"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"r\",\"r\",\"o\",\"r\"],[\"m\",\"n\",\"g\",\"y\",\"o\"],[\"a\",\"i\",\"A\",\"d\",\"u\"],[\"n\",\"r\",\"i\",\"m\",\"r\"],[\"i\",\"f\",\"l\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#A1DBE3\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 660,
+    "phrase": "Admiring yourself in a mirror",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-15",
+    "id": "a06b34f7-0551-42d5-b67f-a2ea121ddeb9",
+    "dimension": 5
+  }
+]

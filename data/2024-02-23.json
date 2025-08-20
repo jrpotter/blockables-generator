@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-27T14:10:46.118737-06:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word after decimal or before blank",
+        "ordinal": 1,
+        "reveal": "pOINT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Dish with a sauce seasoned with spices, mainly associated with South Asian cuisine",
+        "ordinal": 2,
+        "reveal": "cURRY"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Cable Repair Kit, abbr.",
+        "ordinal": 3,
+        "reveal": "cRK"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Dessert made from apples, key limes. or pecans",
+        "ordinal": 4,
+        "reveal": "pIE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"__ says, 'Son, can you play me a memory?'\", 1973 Billy Joel lyric ",
+        "ordinal": 5,
+        "reveal": "hE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after East, West, Ivory, or Amalfi",
+        "ordinal": 6,
+        "reveal": "cOAST"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "2017 horror film starring Bill Skarsg\u00e5rd",
+        "ordinal": 7,
+        "reveal": "iT"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"o\",\"i\",\"n\",\"t\"],[\"k\",\"t\",\"s\",\"e\",\"c\"],[\"c\",\"r\",\"A\",\"i\",\"u\"],[\"e\",\"o\",\"p\",\"r\",\"r\"],[\"h\",\"c\",\"y\",\"t\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#EE7B8C\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 274,
+    "phrase": "Airport security checkpoint",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-23",
+    "id": "6d5ab047-bf05-4449-ac9e-a8229ae47788",
+    "dimension": 5
+  }
+]

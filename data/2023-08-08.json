@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-02-09T08:18:18.447237-07:00",
+    "category": "Film and TV",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Outlaws may do this on a ship (with away), the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "STOW"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sombrero, for one",
+        "ordinal": 2,
+        "reveal": "hAT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Prefix meaning two",
+        "ordinal": 3,
+        "reveal": "BI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"For example\" abbreviation, not to be confused with \"i.e.\"",
+        "ordinal": 4,
+        "reveal": "eG"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Toby Flenderson's dept. in \"The Office\"",
+        "ordinal": 5,
+        "reveal": "hR"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"You're _______ up the wrong tree there, mister.\"",
+        "ordinal": 6,
+        "reveal": "BARKING"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Important event of films like \"Ocean's Eleven\" or \"National Treasure\"",
+        "ordinal": 7,
+        "reveal": "hEIST"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"S\",\"h\",\"o\",\"w\"],[\"n\",\"a\",\"t\",\"B\",\"r\"],[\"i\",\"e\",\"T\",\"h\",\"i\"],[\"k\",\"r\",\"G\",\"e\",\"t\"],[\"a\",\"B\",\"h\",\"s\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#EE7B8C\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 75,
+    "phrase": "\"The Great British Baking Show\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-08",
+    "id": "9b7eca14-d9fd-4507-b9f9-f7c68dfa46d3",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-21T07:55:51.392392-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Spanish \"year\"",
+        "ordinal": 1,
+        "reveal": "ano"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Registered Pension Plan, abbr.",
+        "ordinal": 2,
+        "reveal": "rpp"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Fibber",
+        "ordinal": 3,
+        "reveal": "liar"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Former lovers",
+        "ordinal": 4,
+        "reveal": "Exes"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Actor Dinklage or comedian Davidson",
+        "ordinal": 5,
+        "reveal": "peter"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word before code or tie",
+        "ordinal": 6,
+        "reveal": "zip"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Zig-___",
+        "ordinal": 7,
+        "reveal": "zag"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"r\",\"e\",\"p\",\"p\"],[\"n\",\"a\",\"r\",\"t\",\"e\"],[\"i\",\"l\",\"E\",\"x\",\"p\"],[\"p\",\"a\",\"r\",\"g\",\"e\"],[\"i\",\"z\",\"z\",\"a\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 445,
+    "phrase": "Extra large pepperoni pizzas",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-12",
+    "id": "fd258006-af60-498d-b786-60a4743d8ca9",
+    "dimension": 5
+  }
+]

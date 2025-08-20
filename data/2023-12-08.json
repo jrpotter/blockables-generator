@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-06-18T15:24:23-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Not big",
+        "ordinal": 1,
+        "reveal": "lITTLE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Front of the leg below the knee, perhaps the site of a splint",
+        "ordinal": 2,
+        "reveal": "sHIN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Bug, annoy, or otherwise irritate someone",
+        "ordinal": 3,
+        "reveal": "nAG"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Initials of US president who said he was \"not a crook\" or songwriter who wrote Toy Story's \"You've Got a Friend in Me\"",
+        "ordinal": 4,
+        "reveal": "rN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Burn, char, or otherwise scorch a piece of meat with a sudden, intense heat",
+        "ordinal": 5,
+        "reveal": "sEAR"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Technical knockout, abbr.",
+        "ordinal": 6,
+        "reveal": "tKO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Omelet component",
+        "ordinal": 7,
+        "reveal": "eGG"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"g\",\"l\",\"i\",\"s\",\"h\"],[\"n\",\"a\",\"t\",\"i\",\"n\"],[\"E\",\"l\",\"T\",\"r\",\"g\"],[\"o\",\"s\",\"n\",\"a\",\"G\"],[\"t\",\"k\",\"e\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\"],[\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\",\"#A1DBE3\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#F5C146\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 197,
+    "phrase": "Translating Greek to English",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-08",
+    "id": "7aa1c780-9b69-4585-bf56-694e55892e8a",
+    "dimension": 5
+  }
+]

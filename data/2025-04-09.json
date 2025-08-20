@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-04-06T14:30:03.803606-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "clue": "Flow's partner",
+        "color": "#7C93CB",
+        "reveal": "ebb",
+        "ordinal": 1
+      },
+      {
+        "clue": "One of the highest ranks in the peerages in the United Kingdom",
+        "color": "#A9D594",
+        "reveal": "duchess",
+        "ordinal": 2
+      },
+      {
+        "clue": "It may be spilled during gossip",
+        "color": "#E6B0D1",
+        "reveal": "tea",
+        "ordinal": 3
+      },
+      {
+        "clue": "Ladder step",
+        "color": "#F5C146",
+        "reveal": "rung",
+        "ordinal": 4
+      },
+      {
+        "clue": "1990s NBC medical drama starring George Clooney",
+        "color": "#F3F1A0",
+        "reveal": "er",
+        "ordinal": 5
+      },
+      {
+        "clue": "Complete the pattern: AI, __, IU",
+        "color": "#EE7B8C",
+        "reveal": "eo",
+        "ordinal": 6
+      },
+      {
+        "clue": "Military alliance since 1949, abbr.",
+        "color": "#A1DBE3",
+        "reveal": "nato",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\", \"d\", \"b\", \"u\", \"n\"], [\"t\", \"b\", \"u\", \"r\", \"g\"], [\"s\", \"e\", \"C\", \"h\", \"e\"], [\"a\", \"s\", \"e\", \"e\", \"r\"], [\"o\", \"t\", \"a\", \"n\", \"o\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#A9D594\", \"#7C93CB\", \"#F5C146\", \"#F5C146\"], [\"#E6B0D1\", \"#7C93CB\", \"#A9D594\", \"#F5C146\", \"#F5C146\"], [\"#A9D594\", \"#E6B0D1\", \"#A9D594\", \"#A9D594\", \"#F3F1A0\"], [\"#E6B0D1\", \"#A9D594\", \"#A9D594\", \"#EE7B8C\", \"#F3F1A0\"], [\"#A1DBE3\", \"#A1DBE3\", \"#A1DBE3\", \"#A1DBE3\", \"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 685,
+    "phrase": "Cheeseburger on a toasted bun",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-09",
+    "id": "192f49f5-b6bd-4021-9197-5a6f65eedab8",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-07T08:37:18.44581-06:00",
+    "category": "Characters",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"What's up, ___?\", highest ranked cartoon character catchphrase on ranker.com",
+        "ordinal": 1,
+        "reveal": "dOC"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Idiomatic bean action meaning \"to confess\"",
+        "ordinal": 2,
+        "reveal": "sPILL"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Fence door",
+        "ordinal": 3,
+        "reveal": "gATE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"You ___ no right to be so mean!\"",
+        "ordinal": 4,
+        "reveal": "hAD"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Got bigger",
+        "ordinal": 5,
+        "reveal": "GREW"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Office automation, abbr.",
+        "ordinal": 6,
+        "reveal": "oA"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Spot for a quarter pounder?",
+        "ordinal": 7,
+        "reveal": "mINT"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"t\",\"e\",\"p\",\"s\"],[\"o\",\"a\",\"l\",\"l\",\"i\"],[\"g\",\"c\",\"W\",\"a\",\"h\"],[\"G\",\"e\",\"a\",\"n\",\"d\"],[\"r\",\"o\",\"m\",\"i\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\",\"#E6B0D1\"],[\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 278,
+    "phrase": "Wallace and his pet dog Gromit",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-27",
+    "id": "5ca0207b-9ee0-4eee-b517-50389a28480a",
+    "dimension": 5
+  }
+]

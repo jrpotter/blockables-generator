@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-29T08:30:25.336098-06:00",
+    "category": "Before and After",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Roughly one-third of the distance referenced in the answer to today's puzzle",
+        "ordinal": 1,
+        "reveal": "mile"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Letter repeated twice before Bean or Cool J",
+        "ordinal": 2,
+        "reveal": "l"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Strike, punch, slap, etc.",
+        "ordinal": 3,
+        "reveal": "hit"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Undercover operative... or a furry tunnel-maker",
+        "ordinal": 4,
+        "reveal": "mole"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Like many athletes",
+        "ordinal": 5,
+        "reveal": "Fit"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Kyoto University Reactor, abbr.",
+        "ordinal": 6,
+        "reveal": "kur"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"__ Mice and Men\", 1937 Steinbeck novella",
+        "ordinal": 7,
+        "reveal": "of"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "On no occasion",
+        "ordinal": 8,
+        "reveal": "never"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"m\",\"i\",\"l\",\"l\"],[\"h\",\"l\",\"o\",\"m\",\"e\"],[\"t\",\"i\",\"F\",\"i\",\"t\"],[\"f\",\"k\",\"e\",\"v\",\"e\"],[\"o\",\"n\",\"u\",\"r\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 802,
+    "phrase": "Five-kilometer run of the mill",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-08-04",
+    "id": "d984bdc4-f57e-4b1b-90f6-b56cbc0d3338",
+    "dimension": 5
+  }
+]

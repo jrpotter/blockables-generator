@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-08T13:59:15.578741-07:00",
+    "category": "Song Title",
+    "clues": [
+      {
+        "clue": "\"Us\" or \"Her\"",
+        "color": "#E6B0D1",
+        "reveal": "fILM",
+        "ordinal": 1
+      },
+      {
+        "clue": "Fatherly description of his husky son, the letters of which are in this clue's first word",
+        "color": "#7C93CB",
+        "reveal": "hEFTY",
+        "ordinal": 2
+      },
+      {
+        "clue": "Responsibility; the answer, its first two letters, and its last two letters can complete the sentence: \"The ____ is __ __.\"",
+        "color": "#EE7B8C",
+        "reveal": "oNUS",
+        "ordinal": 3
+      },
+      {
+        "clue": "Word after fair (in legal papers) or after single (in environmental papers)",
+        "color": "#A9D594",
+        "reveal": "uSE",
+        "ordinal": 4
+      },
+      {
+        "clue": "Nevada city known as \"The Biggest Little City in the World\"",
+        "color": "#F5C146",
+        "reveal": "rENO",
+        "ordinal": 5
+      },
+      {
+        "clue": "Word repeated twice when agreeing to a captain",
+        "color": "#F3F1A0",
+        "reveal": "AYE",
+        "ordinal": 6
+      },
+      {
+        "clue": "Quick greeting",
+        "color": "#A1DBE3",
+        "reveal": "hI",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\", \"L\", \"i\", \"f\", \"e\"], [\"m\", \"T\", \"h\", \"e\", \"S\"], [\"f\", \"e\", \"Y\", \"o\", \"u\"], [\"o\", \"r\", \"A\", \"u\", \"n\"], [\"e\", \"n\", \"i\", \"h\", \"s\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\"], [\"#E6B0D1\", \"#7C93CB\", \"#7C93CB\", \"#F3F1A0\", \"#A9D594\"], [\"#7C93CB\", \"#7C93CB\", \"#F3F1A0\", \"#EE7B8C\", \"#A9D594\"], [\"#F5C146\", \"#F5C146\", \"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\"], [\"#F5C146\", \"#F5C146\", \"#A1DBE3\", \"#A1DBE3\", \"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 41,
+    "phrase": "\"You Are The Sunshine of my Life\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-05",
+    "id": "9b6ed2fb-309b-4ba5-a7e2-7e027e3c76bc",
+    "dimension": 5
+  }
+]

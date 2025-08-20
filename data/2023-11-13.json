@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-22T08:57:06.635056-06:00",
+    "category": "Song and Artist",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Initials of musician known as The Boss or the creator of Dracula",
+        "ordinal": 1,
+        "reveal": "bS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Evil\" alternative, which is an anagram",
+        "ordinal": 2,
+        "reveal": "vILE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Very small",
+        "ordinal": 3,
+        "reveal": "tINY"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Write (down), as notes",
+        "ordinal": 4,
+        "reveal": "JOT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"__ or __ not, there is no try.\" -- Yoda, The Empire Strikes Back",
+        "ordinal": 5,
+        "reveal": "DO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Tibia, fibula, e.g.",
+        "ordinal": 6,
+        "reveal": "BONE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Ash container",
+        "ordinal": 7,
+        "reveal": "uRN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Yes\" alternative, which only has one letter different",
+        "ordinal": 8,
+        "reveal": "yEP"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"b\",\"n\",\"i\",\"v\",\"e\"],[\"y\",\"S\",\"t\",\"n\",\"i\"],[\"J\",\"t\",\"D\",\"o\",\"l\"],[\"o\",\"o\",\"p\",\"B\",\"e\"],[\"u\",\"r\",\"n\",\"e\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\"],[\"#F5C146\",\"#7C93CB\",\"#F5C146\",\"#EE7B8C\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\"],[\"#E6B0D1\",\"#F3F1A0\",\"#B86BAC\",\"#EE7B8C\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 172,
+    "phrase": "\"Don't Stop Believin'\" by Journey",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-13",
+    "id": "ff807097-4c4d-4855-af8e-1eda9ca98803",
+    "dimension": 5
+  }
+]

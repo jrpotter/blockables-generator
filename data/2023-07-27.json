@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-28T17:05:41.09926-07:00",
+    "category": "Like Kevin from \"The Office\"?",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Insect that flies more than it bumbles",
+        "ordinal": 1,
+        "reveal": "bEE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sneakers or slippers",
+        "ordinal": 2,
+        "reveal": "sHOES"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "New Girl protagonist Jessica ___, who fittingly has a bright and sunny disposition",
+        "ordinal": 3,
+        "reveal": "dAY"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"They live life on their ___ terms.\"",
+        "ordinal": 4,
+        "reveal": "oWN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word used to refer to two people or things, regarded and identified together",
+        "ordinal": 5,
+        "reveal": "bOTH"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Window ledges",
+        "ordinal": 6,
+        "reveal": "sILLS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Designation for after noon",
+        "ordinal": 7,
+        "reveal": "pM"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"b\",\"e\",\"a\",\"n\",\"s\"],[\"e\",\"d\",\"y\",\"w\",\"h\"],[\"h\",\"o\",\"S\",\"o\",\"o\"],[\"t\",\"b\",\"e\",\"m\",\"s\"],[\"s\",\"l\",\"l\",\"i\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#E6B0D1\",\"#F3F1A0\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 63,
+    "phrase": "Somebody who spills the beans",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-27",
+    "id": "a747310b-a59c-4f7b-bf58-ad11eef0ddbf",
+    "dimension": 5
+  }
+]

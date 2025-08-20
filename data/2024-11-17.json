@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-10T11:33:03.200281-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "_____ asada",
+        "ordinal": 1,
+        "reveal": "Carne"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Common letter in battery sizes",
+        "ordinal": 2,
+        "reveal": "a"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word before cord or tide",
+        "ordinal": 3,
+        "reveal": "rip"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Wild hogs",
+        "ordinal": 4,
+        "reveal": "boars"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Needles partner, in an idiom",
+        "ordinal": 5,
+        "reveal": "Pins"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Gold Piece, abbr.",
+        "ordinal": 6,
+        "reveal": "gp"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Speak 'Friend' and _____\", Lord of the Rings quote at the Doors of Durin",
+        "ordinal": 7,
+        "reveal": "enter"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"C\",\"a\",\"n\",\"i\",\"r\"],[\"a\",\"i\",\"s\",\"p\",\"b\"],[\"r\",\"n\",\"P\",\"o\",\"a\"],[\"p\",\"g\",\"e\",\"r\",\"S\"],[\"e\",\"n\",\"t\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#7C93CB\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 542,
+    "phrase": "Pop singer Sabrina Carpenter",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-17",
+    "id": "76e03942-3030-49b9-8a36-3cefc705175e",
+    "dimension": 5
+  }
+]

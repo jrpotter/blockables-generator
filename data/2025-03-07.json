@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-02T07:34:35.308101-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "clue": "Introspective and thoughtful, the letters of which can be found in this clue's first word",
+        "color": "#7C93CB",
+        "reveal": "pensive",
+        "ordinal": 1
+      },
+      {
+        "clue": "Ebert or Federer",
+        "color": "#A1DBE3",
+        "reveal": "roger",
+        "ordinal": 2
+      },
+      {
+        "clue": "First word of two official Islamic holidays",
+        "color": "#F3F1A0",
+        "reveal": "eid",
+        "ordinal": 3
+      },
+      {
+        "clue": "LI x X",
+        "color": "#EE7B8C",
+        "reveal": "dx",
+        "ordinal": 4
+      },
+      {
+        "clue": "Sprinted",
+        "color": "#F5C146",
+        "reveal": "ran",
+        "ordinal": 5
+      },
+      {
+        "clue": "Lincoln's US state?",
+        "color": "#B86BAC",
+        "reveal": "ne",
+        "ordinal": 6
+      },
+      {
+        "clue": "Last word in many hotel names",
+        "color": "#A9D594",
+        "reveal": "inn",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\", \"s\", \"n\", \"e\", \"p\"], [\"v\", \"r\", \"e\", \"d\", \"x\"], [\"e\", \"i\", \"O\", \"r\", \"e\"], [\"d\", \"n\", \"g\", \"a\", \"n\"], [\"i\", \"n\", \"n\", \"e\", \"r\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#7C93CB\"], [\"#7C93CB\", \"#A1DBE3\", \"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\"], [\"#7C93CB\", \"#F3F1A0\", \"#A1DBE3\", \"#F5C146\", \"#B86BAC\"], [\"#F3F1A0\", \"#A9D594\", \"#A1DBE3\", \"#F5C146\", \"#B86BAC\"], [\"#A9D594\", \"#A9D594\", \"#F5C146\", \"#A1DBE3\", \"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 652,
+    "phrase": "Ordering an expensive dinner ",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-07",
+    "id": "4c51441a-3d3e-41df-b1fb-e9890d5d3cc1",
+    "dimension": 5
+  }
+]

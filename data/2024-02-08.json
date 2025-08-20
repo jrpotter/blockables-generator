@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-13T09:15:05-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Abbreviation for short-range wireless technology standard which sounds like a cerulean canine?",
+        "ordinal": 1,
+        "reveal": "BT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Corrupted races of elves, in Middle Earth",
+        "ordinal": 2,
+        "reveal": "oRC"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Delilah's partner, biblically",
+        "ordinal": 3,
+        "reveal": "sAMSON"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Strong want, wish, or need",
+        "ordinal": 4,
+        "reveal": "uRGE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Brawling advantage, the letters of which can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "BRAWN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after school or before stop",
+        "ordinal": 6,
+        "reveal": "BUS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letters found on a shirt below \"I\" and a heart",
+        "ordinal": 7,
+        "reveal": "nY"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"B\",\"t\",\"o\",\"c\",\"s\"],[\"u\",\"e\",\"n\",\"r\",\"a\"],[\"g\",\"r\",\"W\",\"a\",\"m\"],[\"s\",\"B\",\"r\",\"o\",\"s\"],[\"B\",\"u\",\"n\",\"n\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\"],[\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 259,
+    "phrase": "Warner Bros. mascot Bugs Bunny",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-08",
+    "id": "38282808-a15d-4a65-ba70-0c9cd52cbf81",
+    "dimension": 5
+  }
+]

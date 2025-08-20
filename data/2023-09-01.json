@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-12T13:06:26.070392-06:00",
+    "category": "Fictional Business",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "One of two, on a mouth",
+        "ordinal": 1,
+        "reveal": "lIP"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Indian flatbread",
+        "ordinal": 2,
+        "reveal": "nAAN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "On's opposite",
+        "ordinal": 3,
+        "reveal": "oFF"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "E.B. White's Stuart Little, Disney's Mickey, and Logitech's G502 X PLUS",
+        "ordinal": 4,
+        "reveal": "MICE"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Common apple color",
+        "ordinal": 5,
+        "reveal": "rED"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Unit a car engine's crankshaft is measured in, abbr.",
+        "ordinal": 6,
+        "reveal": "rPM"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Joke type such as \"Some aquatic mammals at the zoo escaped. It was otter chaos!\"",
+        "ordinal": 7,
+        "reveal": "pUN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Three ft.",
+        "ordinal": 8,
+        "reveal": "yD"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"f\",\"f\",\"l\",\"i\",\"n\"],[\"i\",\"o\",\"m\",\"p\",\"a\"],[\"M\",\"c\",\"P\",\"a\",\"n\"],[\"r\",\"r\",\"e\",\"p\",\"y\"],[\"e\",\"d\",\"n\",\"u\",\"D\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#F3F1A0\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 99,
+    "phrase": "Paper company Dunder Mifflin",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-01",
+    "id": "26b032f5-3ab8-4e75-9ac3-0544df974b2a",
+    "dimension": 5
+  }
+]

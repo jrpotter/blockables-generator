@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-09-05T16:45:10.77621-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Like Shaq to Steph Curry or Taylor Swift to Adele",
+        "ordinal": 1,
+        "reveal": "tALLER"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Oof!\"",
+        "ordinal": 2,
+        "reveal": "oW"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Large pieces of wind-catching fabric, on a ship",
+        "ordinal": 3,
+        "reveal": "sAILS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"__ way! That's rad, dude!\"",
+        "ordinal": 4,
+        "reveal": "nO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Lion's lair",
+        "ordinal": 5,
+        "reveal": "dEN"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Piece of software on your phone, for short",
+        "ordinal": 6,
+        "reveal": "aPP"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Windows to the soul, in a phrase",
+        "ordinal": 7,
+        "reveal": "eYES"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"a\",\"t\",\"w\",\"o\"],[\"l\",\"o\",\"s\",\"a\",\"l\"],[\"s\",\"n\",\"S\",\"e\",\"l\"],[\"n\",\"e\",\"d\",\"y\",\"e\"],[\"a\",\"p\",\"p\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#B86BAC\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 276,
+    "phrase": "Seasoned yellowtail snapper",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-25",
+    "id": "411b2324-2897-484a-8d57-5a524cfe1fb4",
+    "dimension": 5
+  }
+]

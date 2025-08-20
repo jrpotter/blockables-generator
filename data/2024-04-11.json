@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-10-21T14:56:20.042034-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "First syllable of a rhyming, tropical cocktail",
+        "ordinal": 1,
+        "reveal": "mai"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "BC opposite",
+        "ordinal": 2,
+        "reveal": "ad"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Friend, perhaps in wartime",
+        "ordinal": 3,
+        "reveal": "ally"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"___ a problem at all!\"",
+        "ordinal": 4,
+        "reveal": "not"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Diver's Institute of Technology, abbr.",
+        "ordinal": 5,
+        "reveal": "dIT"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Songs in the Key of ____\", 1976 album by Stevie Wonder",
+        "ordinal": 6,
+        "reveal": "life"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "First name appropriate for a Short, King... or Scorsese",
+        "ordinal": 7,
+        "reveal": "martin"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"i\",\"n\",\"a\",\"y\"],[\"a\",\"i\",\"d\",\"a\",\"l\"],[\"t\",\"t\",\"T\",\"r\",\"l\"],[\"e\",\"i\",\"o\",\"n\",\"a\"],[\"d\",\"f\",\"i\",\"l\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\"],[\"#7C93CB\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"],[\"#F5C146\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        3,
+        3
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 322,
+    "phrase": "Traditionally animated film",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-11",
+    "id": "deab2541-3cc0-4b9b-9584-70491e9aaf9c",
+    "dimension": 5
+  }
+]

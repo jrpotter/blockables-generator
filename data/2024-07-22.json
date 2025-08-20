@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-28T07:25:10.596744-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Action taken by the answer of today's puzzle, on a record contract",
+        "ordinal": 1,
+        "reveal": "sign"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Impolite look, which sounds like a Shakespearean king?",
+        "ordinal": 2,
+        "reveal": "leer"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Fitting name for someone who steals from a bank?",
+        "ordinal": 3,
+        "reveal": "rob"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "In Real Life, abbr.",
+        "ordinal": 4,
+        "reveal": "irl"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Sturdy container for storing liquids, such as amontillado",
+        "ordinal": 5,
+        "reveal": "Cask"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Confidentiality agreement, for short",
+        "ordinal": 6,
+        "reveal": "nda"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Hair parasites",
+        "ordinal": 7,
+        "reveal": "lice"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"i\",\"s\",\"l\",\"e\"],[\"r\",\"n\",\"g\",\"e\",\"r\"],[\"a\",\"i\",\"R\",\"o\",\"B\"],[\"C\",\"s\",\"k\",\"c\",\"e\"],[\"a\",\"d\",\"n\",\"i\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\"],[\"#E6B0D1\",\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 424,
+    "phrase": "Rock singer Belinda Carlisle",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-22",
+    "id": "ca0de0d2-6683-4a5f-a796-599d2c12d8bc",
+    "dimension": 5
+  }
+]

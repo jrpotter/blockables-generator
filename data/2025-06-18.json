@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-17T13:55:48-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before do or after soda",
+        "ordinal": 1,
+        "reveal": "can"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Big carpet, perhaps Persian",
+        "ordinal": 2,
+        "reveal": "rug"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"__ I...\", award-winning 2003 Demetri Martin comedy special with jokes about palindromes",
+        "ordinal": 3,
+        "reveal": "if"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Expression of gratitude, to a texter",
+        "ordinal": 4,
+        "reveal": "ty"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Functional Specification Document, abbr.",
+        "ordinal": 5,
+        "reveal": "fsd"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Stewie to Peter or Bart to Homer",
+        "ordinal": 6,
+        "reveal": "son"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Capital of Bulgaria",
+        "ordinal": 7,
+        "reveal": "sofia"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Mandolin's ancestor",
+        "ordinal": 8,
+        "reveal": "lute"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"a\",\"n\",\"d\",\"y\"],[\"r\",\"f\",\"i\",\"s\",\"t\"],[\"u\",\"g\",\"E\",\"a\",\"f\"],[\"o\",\"n\",\"i\",\"t\",\"u\"],[\"s\",\"f\",\"o\",\"s\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 755,
+    "phrase": "Eating fistfuls of sour candy",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-18",
+    "id": "e0b94637-86f4-4035-91bb-287b343b3295",
+    "dimension": 5
+  }
+]

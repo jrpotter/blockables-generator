@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-21T14:11:52.502593-07:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word after action or collector's",
+        "ordinal": 1,
+        "reveal": "item"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"World watches odyssey of 'Balloon ___' in real time\", October 2009 headline",
+        "ordinal": 2,
+        "reveal": "boy"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Spanish \"what\"",
+        "ordinal": 3,
+        "reveal": "que"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Pistachio or almond",
+        "ordinal": 4,
+        "reveal": "nut"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Reef material",
+        "ordinal": 5,
+        "reveal": "Coral"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Camera creation",
+        "ordinal": 6,
+        "reveal": "photo"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pre-mi sound of music",
+        "ordinal": 7,
+        "reveal": "re"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"t\",\"u\",\"o\",\"b\"],[\"q\",\"e\",\"t\",\"n\",\"y\"],[\"u\",\"m\",\"C\",\"o\",\"r\"],[\"e\",\"p\",\"o\",\"r\",\"a\"],[\"h\",\"o\",\"t\",\"e\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A1DBE3\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        3
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ]
+    },
+    "ordinal": 447,
+    "phrase": "Contemporary boutique hotel",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-14",
+    "id": "50a78644-c0cc-4362-bd5d-8d4c2a8e7ae3",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:52:57.640862+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Not off",
+                "ordinal": 1,
+                "reveal": "ON"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Entry requirement that's also an anagram of \"vias\"",
+                "ordinal": 2,
+                "reveal": "VISA"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Bull's private part, in butcher's terms",
+                "ordinal": 3,
+                "reveal": "PIZZLE"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Valley where Campbell's soup is made?",
+                "ordinal": 4,
+                "reveal": "GLEN"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "State of the First State, abbr.",
+                "ordinal": 5,
+                "reveal": "DE"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Baby's bed, or to cheat from",
+                "ordinal": 6,
+                "reveal": "CRIB"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Like a winter road, slippery and cold",
+                "ordinal": 7,
+                "reveal": "ICY"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"O\", \"S\", \"A\", \"Z\", \"Z\"], [\"N\", \"V\", \"I\", \"L\", \"I\"], [\"B\", \"E\", \"D\", \"E\", \"P\"], [\"I\", \"R\", \"I\", \"N\", \"G\"], [\"C\", \"Y\", \"C\", \"L\", \"E\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\"], [\"#7C93CB\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\"], [\"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#A9D594\", \"#A9D594\"], [\"#F5C146\", \"#F5C146\", \"#F3F1A0\", \"#B86BAC\", \"#B86BAC\"], [\"#F5C146\", \"#F3F1A0\", \"#F3F1A0\", \"#B86BAC\", \"#B86BAC\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                1,
+                1
+            ],
+            "3": [
+                2,
+                4
+            ],
+            "4": [
+                3,
+                4
+            ],
+            "5": [
+                2,
+                2
+            ],
+            "6": [
+                4,
+                0
+            ],
+            "7": [
+                3,
+                2
+            ]
+        },
+        "phrase": "Delivering pizzas on bicycle",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

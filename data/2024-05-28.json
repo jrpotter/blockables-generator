@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-06T07:48:29.444309-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "502, to a Roman",
+        "ordinal": 1,
+        "reveal": "dii"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Poet's \"before\"",
+        "ordinal": 2,
+        "reveal": "eRE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Sentient tree-like being, in fantasy novels",
+        "ordinal": 3,
+        "reveal": "eNT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Gizmo, doodad, widget... or perhaps an Inspector",
+        "ordinal": 4,
+        "reveal": "Gadget"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Instantaneously Trained Neural Network, abbr.",
+        "ordinal": 5,
+        "reveal": "itnn"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sergeant, for short",
+        "ordinal": 6,
+        "reveal": "sgt"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Where a certain catcher may be found?",
+        "ordinal": 7,
+        "reveal": "rYE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"n\",\"i\",\"e\",\"e\"],[\"e\",\"i\",\"t\",\"t\",\"r\"],[\"n\",\"n\",\"G\",\"e\",\"g\"],[\"t\",\"g\",\"a\",\"d\",\"e\"],[\"i\",\"s\",\"t\",\"r\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A9D594\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 369,
+    "phrase": "Getting a degree in dentistry",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-28",
+    "id": "8b78e50d-7927-4ba8-a81c-83bef1f4e019",
+    "dimension": 5
+  }
+]

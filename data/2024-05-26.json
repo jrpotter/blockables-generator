@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-05T12:19:05.034683-07:00",
+    "category": "Places",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Insect which builds hexagonal honeycomb cells",
+        "ordinal": 1,
+        "reveal": "bEE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Pig fat that is rendered and clarified for use in cooking",
+        "ordinal": 2,
+        "reveal": "lard"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before Knox or after pillow",
+        "ordinal": 3,
+        "reveal": "fORT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"___ for an ___\", a loose translation of Hammurabi's Code",
+        "ordinal": 4,
+        "reveal": "Eye"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Facsimile, for short, the telephonic transmission of scanned printed material",
+        "ordinal": 5,
+        "reveal": "fax"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Unit of resistance",
+        "ordinal": 6,
+        "reveal": "ohm"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Unconscious actions, often in poker, signifying a good hand",
+        "ordinal": 7,
+        "reveal": "tells"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"b\",\"a\",\"d\",\"r\",\"o\"],[\"l\",\"e\",\"r\",\"t\",\"f\"],[\"e\",\"m\",\"E\",\"x\",\"f\"],[\"h\",\"e\",\"l\",\"y\",\"a\"],[\"o\",\"t\",\"e\",\"l\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#F5C146\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#B86BAC\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\"],[\"#B86BAC\",\"#A1DBE3\",\"#E6B0D1\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 367,
+    "phrase": "Extremely affordable hotels",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-26",
+    "id": "2dd3c922-fd90-4962-ab3a-86e99bd12afe",
+    "dimension": 5
+  }
+]

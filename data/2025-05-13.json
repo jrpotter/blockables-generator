@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-05-11T11:15:47.717664-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Citrus-based breakfast drink, for short",
+        "ordinal": 1,
+        "reveal": "oj"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Musical genre often incorporating slap bass",
+        "ordinal": 2,
+        "reveal": "funk"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "General philosopher Descartes, the letters of whom can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "Rene"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Letters found on a shirt below \"I\" and a heart",
+        "ordinal": 4,
+        "reveal": "ny"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Security mechanism, often paired with a key",
+        "ordinal": 5,
+        "reveal": "lock"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Tall and thin",
+        "ordinal": 6,
+        "reveal": "lanky"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Initials of Elizabeth Swann actress in \"Pirates of the Caribbean\" (2003) or several family members on a reality TV show worth Keeping Up With?",
+        "ordinal": 7,
+        "reveal": "kk"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Denver's US state",
+        "ordinal": 8,
+        "reveal": "co"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"k\",\"j\",\"o\",\"k\",\"e\"],[\"c\",\"f\",\"u\",\"n\",\"n\"],[\"o\",\"y\",\"R\",\"e\",\"y\"],[\"n\",\"l\",\"l\",\"a\",\"k\"],[\"k\",\"k\",\"c\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\",\"#A1DBE3\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\"],[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\"],[\"#F5C146\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 719,
+    "phrase": "Really funny knock-knock joke",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-13",
+    "id": "45324bc4-1332-4fb7-bc6c-e89567f2fa4d",
+    "dimension": 5
+  }
+]

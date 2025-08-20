@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-21T09:02:54.919254-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "\"All of __\", 2013 John Legend song",
+        "ordinal": 1,
+        "reveal": "me"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Somehow both Manhattan's gallery district and London's shopping district, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "soho"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sundar Pichai of Google or Jensen Huang of NVIDIA",
+        "ordinal": 3,
+        "reveal": "ceo"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Prohibit",
+        "ordinal": 4,
+        "reveal": "Ban"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "German \"and\"",
+        "ordinal": 5,
+        "reveal": "und"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word before League or after poison",
+        "ordinal": 6,
+        "reveal": "ivy"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "First letter of the alphabet",
+        "ordinal": 7,
+        "reveal": "a"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "How Scarlett Johansson and Samuel L. Jackson make their paychecks",
+        "ordinal": 8,
+        "reveal": "acting"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"h\",\"o\",\"m\",\"e\"],[\"o\",\"a\",\"s\",\"e\",\"c\"],[\"i\",\"g\",\"B\",\"u\",\"o\"],[\"t\",\"n\",\"i\",\"y\",\"n\"],[\"a\",\"c\",\"a\",\"v\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#E6B0D1\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 794,
+    "phrase": "Buying a second vacation home",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-27",
+    "id": "fe2b8f43-8d47-4ec7-9a7e-673cf7c6e774",
+    "dimension": 5
+  }
+]

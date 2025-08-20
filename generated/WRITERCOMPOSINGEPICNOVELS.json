@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T19:09:51.558981+0000",
+        "category": "Person",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "What you might have your fingers in, metaphorically",
+                "ordinal": 1,
+                "reveal": "PIE"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Not dry",
+                "ordinal": 2,
+                "reveal": "WET"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Fire, to Cicero",
+                "ordinal": 3,
+                "reveal": "IGNIS"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Frolics playfully",
+                "ordinal": 4,
+                "reveal": "ROMPS"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Small rodent that sounds like it's casting a ballot",
+                "ordinal": 5,
+                "reveal": "VOLE"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Trick or study carefully",
+                "ordinal": 6,
+                "reveal": "CON"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Chemical symbol for chromium",
+                "ordinal": 7,
+                "reveal": "CR"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"P\", \"E\", \"G\", \"N\", \"I\"], [\"I\", \"E\", \"T\", \"I\", \"S\"], [\"C\", \"R\", \"W\", \"R\", \"O\"], [\"N\", \"C\", \"O\", \"M\", \"P\"], [\"O\", \"V\", \"E\", \"L\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#F5C146\"], [\"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#F5C146\", \"#F5C146\"], [\"#F3F1A0\", \"#F3F1A0\", \"#B86BAC\", \"#E6B0D1\", \"#E6B0D1\"], [\"#EE7B8C\", \"#EE7B8C\", \"#A9D594\", \"#E6B0D1\", \"#E6B0D1\"], [\"#EE7B8C\", \"#A9D594\", \"#A9D594\", \"#A9D594\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                2,
+                2
+            ],
+            "3": [
+                1,
+                3
+            ],
+            "4": [
+                2,
+                3
+            ],
+            "5": [
+                4,
+                1
+            ],
+            "6": [
+                3,
+                1
+            ],
+            "7": [
+                2,
+                0
+            ]
+        },
+        "phrase": "Writer composing epic novels",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

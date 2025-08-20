@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-08-27T13:26:42-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Omiotsuke, or ____ soup, the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "mISO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Greetings!\"",
+        "ordinal": 2,
+        "reveal": "hI"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Ctrl + Z, for example",
+        "ordinal": 3,
+        "reveal": "uNDO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Where MA and PA can be found?",
+        "ordinal": 4,
+        "reveal": "uSA"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "What the ____",
+        "ordinal": 5,
+        "reveal": "HECK"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Marvel competitor",
+        "ordinal": 6,
+        "reveal": "dC"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Stick to the Status ___\", 2005 hit from \"High School Musical\"",
+        "ordinal": 7,
+        "reveal": "QUO"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Letters before humbug or after poo",
+        "ordinal": 8,
+        "reveal": "bAH"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"m\",\"o\",\"d\",\"o\"],[\"s\",\"s\",\"h\",\"u\",\"n\"],[\"a\",\"u\",\"H\",\"i\",\"c\"],[\"u\",\"o\",\"e\",\"d\",\"h\"],[\"Q\",\"k\",\"c\",\"a\",\"b\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#7C93CB\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#EE7B8C\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 272,
+    "phrase": "\"Hideous\" hunchback Quasimodo",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-21",
+    "id": "180acc3d-01a4-4cda-bbbe-a3b6de1402e9",
+    "dimension": 5
+  }
+]

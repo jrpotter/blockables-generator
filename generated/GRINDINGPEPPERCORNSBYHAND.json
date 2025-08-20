@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:30:55.135085+0000",
+        "category": "Food and Drink",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Neither this ___ that",
+                "ordinal": 1,
+                "reveal": "NOR"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Immigration and Customs Enforcement workers, abbr.",
+                "ordinal": 2,
+                "reveal": "INS"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Current flows through it, briefly",
+                "ordinal": 3,
+                "reveal": "DC"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Smile that shows teeth",
+                "ordinal": 4,
+                "reveal": "GRIN"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Gym unit, for short",
+                "ordinal": 5,
+                "reveal": "REP"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Add to, as a document or file",
+                "ordinal": 6,
+                "reveal": "APPEND"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Growth hormone, abbr.",
+                "ordinal": 7,
+                "reveal": "GH"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Near or next to",
+                "ordinal": 8,
+                "reveal": "BY"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"R\", \"O\", \"C\", \"R\", \"E\"], [\"N\", \"D\", \"N\", \"I\", \"P\"], [\"S\", \"I\", \"G\", \"R\", \"P\"], [\"B\", \"N\", \"G\", \"P\", \"E\"], [\"Y\", \"H\", \"A\", \"N\", \"D\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#B86BAC\", \"#EE7B8C\", \"#EE7B8C\"], [\"#7C93CB\", \"#B86BAC\", \"#A9D594\", \"#A9D594\", \"#EE7B8C\"], [\"#F5C146\", \"#F5C146\", \"#A9D594\", \"#A9D594\", \"#F3F1A0\"], [\"#A1DBE3\", \"#F5C146\", \"#E6B0D1\", \"#F3F1A0\", \"#F3F1A0\"], [\"#A1DBE3\", \"#E6B0D1\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                2,
+                1
+            ],
+            "3": [
+                1,
+                1
+            ],
+            "4": [
+                2,
+                2
+            ],
+            "5": [
+                0,
+                3
+            ],
+            "6": [
+                4,
+                2
+            ],
+            "7": [
+                3,
+                2
+            ],
+            "8": [
+                3,
+                0
+            ]
+        },
+        "phrase": "Grinding peppercorns by hand",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

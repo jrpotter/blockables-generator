@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:06:07.431532+0000",
+        "category": "Famous Person",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Like some hair or mechanics' hands",
+                "ordinal": 1,
+                "reveal": "OILY"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Doctor of Theology, abbr.",
+                "ordinal": 2,
+                "reveal": "DT"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Dam thing that controls water flow",
+                "ordinal": 3,
+                "reveal": "WEIR"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "The Hunger Games, initially",
+                "ordinal": 4,
+                "reveal": "THG"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Former French currency that sounds like honest",
+                "ordinal": 5,
+                "reveal": "FRANC"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Lanka's beginning, in atlases",
+                "ordinal": 6,
+                "reveal": "LK"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Top worn by a mad person in Wonderland",
+                "ordinal": 7,
+                "reveal": "HAT"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Remote control, for short",
+                "ordinal": 8,
+                "reveal": "RC"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"O\", \"L\", \"L\", \"K\", \"N\"], [\"Y\", \"I\", \"H\", \"C\", \"A\"], [\"D\", \"T\", \"A\", \"R\", \"R\"], [\"W\", \"E\", \"C\", \"T\", \"F\"], [\"R\", \"I\", \"G\", \"H\", \"T\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#A9D594\", \"#A9D594\", \"#F5C146\"], [\"#7C93CB\", \"#7C93CB\", \"#E6B0D1\", \"#F5C146\", \"#F5C146\"], [\"#EE7B8C\", \"#EE7B8C\", \"#E6B0D1\", \"#A1DBE3\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#A1DBE3\", \"#E6B0D1\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#F3F1A0\", \"#F3F1A0\", \"#F3F1A0\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                2,
+                0
+            ],
+            "3": [
+                3,
+                0
+            ],
+            "4": [
+                4,
+                4
+            ],
+            "5": [
+                3,
+                4
+            ],
+            "6": [
+                0,
+                2
+            ],
+            "7": [
+                1,
+                2
+            ],
+            "8": [
+                2,
+                3
+            ]
+        },
+        "phrase": "Architect Frank Lloyd Wright",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

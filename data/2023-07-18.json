@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-27T08:18:41.152631-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Professional with advanced knowledge in their field, abbr.",
+        "ordinal": 1,
+        "reveal": "sME"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"You're ____-tootin'!\"",
+        "ordinal": 2,
+        "reveal": "dARN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Name before Guevara or after Michael",
+        "ordinal": 3,
+        "reveal": "cHE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Palindrome used to express laughter or surprise",
+        "ordinal": 4,
+        "reveal": "hAH"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "January 27th, 2023 in EST",
+        "ordinal": 5,
+        "reveal": "tODAY"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Event with bronco-riding, calf-roping, and steer-wrestling",
+        "ordinal": 6,
+        "reveal": "rODEO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Boyfriend's partner, to a texter",
+        "ordinal": 7,
+        "reveal": "GF"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"m\",\"s\",\"a\",\"y\"],[\"R\",\"d\",\"e\",\"d\",\"c\"],[\"n\",\"a\",\"H\",\"o\",\"h\"],[\"o\",\"e\",\"h\",\"t\",\"e\"],[\"d\",\"r\",\"o\",\"G\",\"f\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#E6B0D1\",\"#F3F1A0\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 54,
+    "phrase": "Hot-headed chef Gordon Ramsay",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-18",
+    "id": "c402b842-9f6a-4bcf-ae45-4f1590086e42",
+    "dimension": 5
+  }
+]

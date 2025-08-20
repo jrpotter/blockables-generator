@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-14T16:04:55.84316-06:00",
+    "category": "Area",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Acronym on a tombstone, perhaps",
+        "ordinal": 1,
+        "reveal": "RIP"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Initials of author of \"The 4-Hour Workweek\" or actress who portrayed Liz Lemon on \"30 Rock\"",
+        "ordinal": 2,
+        "reveal": "tF"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Bees' home",
+        "ordinal": 3,
+        "reveal": "hIVE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Point-of-sale, abbr.",
+        "ordinal": 4,
+        "reveal": "pOS"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Card which allows you to connect to your phone carrier's network, abbr.",
+        "ordinal": 5,
+        "reveal": "sIM"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Underground channel for carrying off drainage water and waste",
+        "ordinal": 6,
+        "reveal": "sEWER"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"This __ why I don't leave the house\", lyric from 2023 Paramore hit",
+        "ordinal": 7,
+        "reveal": "iS"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Rest on a chair",
+        "ordinal": 8,
+        "reveal": "sIT"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"R\",\"i\",\"v\",\"e\",\"r\"],[\"i\",\"t\",\"h\",\"e\",\"M\"],[\"p\",\"f\",\"W\",\"e\",\"i\"],[\"p\",\"o\",\"t\",\"s\",\"s\"],[\"i\",\"s\",\"s\",\"i\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"],[\"#7C93CB\",\"#F3F1A0\",\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#A1DBE3\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 162,
+    "phrase": "West of the Mississippi River",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-03",
+    "id": "07b98ee4-3164-48f0-9dd0-280c28fbf9bc",
+    "dimension": 5
+  }
+]

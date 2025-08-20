@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-10-31T08:32:45.705294-06:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Insect that flies more than it bumbles",
+        "ordinal": 1,
+        "reveal": "bee"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Fill in the sequence: XXXIII, XLIV, __, LXVI",
+        "ordinal": 2,
+        "reveal": "lv"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "___ on the side of caution",
+        "ordinal": 3,
+        "reveal": "err"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Fix with ferocity, the letters of which can be found in this clue's third word",
+        "ordinal": 4,
+        "reveal": "rectify"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "What the ____?",
+        "ordinal": 5,
+        "reveal": "Heck"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "European Leadership University, abbr.",
+        "ordinal": 6,
+        "reveal": "elu"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fill in the sequence: L, MM, ___, OOOO",
+        "ordinal": 7,
+        "reveal": "nNN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"b\",\"e\",\"l\",\"k\",\"c\"],[\"e\",\"e\",\"v\",\"e\",\"u\"],[\"r\",\"r\",\"C\",\"l\",\"H\"],[\"r\",\"t\",\"e\",\"e\",\"n\"],[\"y\",\"F\",\"i\",\"n\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#A9D594\"],[\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 336,
+    "phrase": "Clever teen Huckleberry Finn",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-25",
+    "id": "a5966473-f54b-4fc5-9b3c-d05e021ff34f",
+    "dimension": 5
+  }
+]

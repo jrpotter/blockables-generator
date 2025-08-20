@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-06T11:18:01.546536-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "60 sec.",
+        "ordinal": 1,
+        "reveal": "min"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Phone sound",
+        "ordinal": 2,
+        "reveal": "ring"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Common audio filename extension",
+        "ordinal": 3,
+        "reveal": "wav"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Opening, or a clothing retail company",
+        "ordinal": 4,
+        "reveal": "gap"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "General Electric's stock symbol",
+        "ordinal": 5,
+        "reveal": "Ge"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Perceive visually",
+        "ordinal": 6,
+        "reveal": "see"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Honolulu's US state",
+        "ordinal": 7,
+        "reveal": "hi"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word after bar, Gantt, or pie",
+        "ordinal": 8,
+        "reveal": "chart"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"m\",\"r\",\"a\",\"w\"],[\"n\",\"n\",\"i\",\"v\",\"t\"],[\"g\",\"g\",\"G\",\"i\",\"r\"],[\"s\",\"a\",\"h\",\"e\",\"a\"],[\"p\",\"e\",\"e\",\"c\",\"h\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#B86BAC\"],[\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\",\"#B86BAC\"],[\"#A9D594\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#B86BAC\"],[\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 775,
+    "phrase": "Giving a heartwarming speech",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-08",
+    "id": "5d6be3ea-f759-4eb7-80d7-4310f7878cc2",
+    "dimension": 5
+  }
+]

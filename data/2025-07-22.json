@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-07-21T08:37:36.800492-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Monopoly, soccer, or Blockables",
+        "ordinal": 1,
+        "reveal": "game"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Consume information from a book",
+        "ordinal": 2,
+        "reveal": "read"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Train track",
+        "ordinal": 3,
+        "reveal": "rail"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Metal of the \"Oil can!\" speaker in The Wizard of Oz",
+        "ordinal": 4,
+        "reveal": "tin"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Letters between E and H, alphabetically",
+        "ordinal": 5,
+        "reveal": "fg"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Spanish \"yes\"",
+        "ordinal": 6,
+        "reveal": "si"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "France, Germany, or Hungary",
+        "ordinal": 7,
+        "reveal": "nation"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"m\",\"a\",\"i\",\"l\"],[\"n\",\"n\",\"g\",\"a\",\"r\"],[\"o\",\"i\",\"D\",\"r\",\"e\"],[\"i\",\"t\",\"f\",\"a\",\"s\"],[\"t\",\"a\",\"n\",\"g\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#A9D594\"],[\"#E6B0D1\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\",\"#A9D594\"],[\"#E6B0D1\",\"#F3F1A0\",\"#B86BAC\",\"#A9D594\",\"#EE7B8C\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 789,
+    "phrase": "Drafting a resignation email",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-22",
+    "id": "a23a232d-f539-4bb7-941b-cd6dfc07843c",
+    "dimension": 5
+  }
+]

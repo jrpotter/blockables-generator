@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-10-31T08:07:01.236414-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Nomad's shack",
+        "ordinal": 1,
+        "reveal": "hut"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "First word in rhyming act of securities fraud, such as that seen in Boiler Room (2000)",
+        "ordinal": 2,
+        "reveal": "pump"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"I always thought that quick____ was going to be a much bigger problem than it turned out to be.\" - John Mulaney",
+        "ordinal": 3,
+        "reveal": "sand"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Making a pretense of shyness or modesty that is intended to be alluring",
+        "ordinal": 4,
+        "reveal": "coy"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Greetings!\"",
+        "ordinal": 5,
+        "reveal": "Hi"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sticks to, as laundry",
+        "ordinal": 6,
+        "reveal": "clings"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Zone Economique Sp\u00e9ciale, abbr.",
+        "ordinal": 7,
+        "reveal": "zES"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"n\",\"a\",\"u\",\"h\"],[\"u\",\"p\",\"s\",\"t\",\"c\"],[\"m\",\"i\",\"H\",\"o\",\"e\"],[\"p\",\"c\",\"y\",\"S\",\"z\"],[\"l\",\"i\",\"n\",\"g\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 334,
+    "phrase": "Hot spicy Szechuan dumplings",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-23",
+    "id": "99993d32-c015-4151-9caf-dab903ee9bc3",
+    "dimension": 5
+  }
+]

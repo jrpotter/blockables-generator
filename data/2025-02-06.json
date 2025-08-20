@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-02-02T20:50:37.969739-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Type of animal whose home was invaded by Goldilocks in a fairy tale",
+        "ordinal": 1,
+        "reveal": "bear"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Domestic bovine mammal",
+        "ordinal": 2,
+        "reveal": "ox"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letters found on a prescription bottle, perhaps ",
+        "ordinal": 3,
+        "reveal": "rx"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "___ school, where docs go to learn",
+        "ordinal": 4,
+        "reveal": "med"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Like this puzzle after you finish it!",
+        "ordinal": 5,
+        "reveal": "complete"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "General Linear Model, abbr.",
+        "ordinal": 6,
+        "reveal": "glm"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word repeated twice when agreeing to a captain",
+        "ordinal": 7,
+        "reveal": "aye"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"b\",\"x\",\"e\",\"l\",\"p\"],[\"o\",\"e\",\"r\",\"t\",\"m\"],[\"a\",\"m\",\"E\",\"x\",\"o\"],[\"r\",\"e\",\"l\",\"y\",\"c\"],[\"d\",\"g\",\"a\",\"m\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#EE7B8C\",\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#E6B0D1\",\"#F5C146\"],[\"#B86BAC\",\"#A1DBE3\",\"#E6B0D1\",\"#A1DBE3\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 623,
+    "phrase": "Extremely complex board game",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-06",
+    "id": "49df9e05-2ee9-4bee-872c-b37f87b12a09",
+    "dimension": 5
+  }
+]

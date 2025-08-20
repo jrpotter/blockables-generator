@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:54:58.826754+0000",
+        "category": "Food and Drink",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "What one might do upon hearing bad news or peeling onions",
+                "ordinal": 1,
+                "reveal": "CRYING"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Korean surname of actress Sandra from \"The Princess Diaries\"",
+                "ordinal": 2,
+                "reveal": "CHON"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Cry after stepping on a LEGO",
+                "ordinal": 3,
+                "reveal": "OW"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Golden ratio symbol, in math",
+                "ordinal": 4,
+                "reveal": "PHI"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Stack or heap of things",
+                "ordinal": 5,
+                "reveal": "PILE"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Denial responses, for short",
+                "ordinal": 6,
+                "reveal": "NOS"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Suffix that makes verbs into nouns",
+                "ordinal": 7,
+                "reveal": "ING"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"R\", \"Y\", \"I\", \"N\", \"G\"], [\"C\", \"N\", \"G\", \"O\", \"N\"], [\"E\", \"I\", \"C\", \"H\", \"I\"], [\"L\", \"P\", \"P\", \"O\", \"O\"], [\"I\", \"H\", \"W\", \"S\", \"N\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#F3F1A0\"], [\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#F3F1A0\"], [\"#E6B0D1\", \"#E6B0D1\", \"#EE7B8C\", \"#EE7B8C\", \"#F3F1A0\"], [\"#E6B0D1\", \"#B86BAC\", \"#E6B0D1\", \"#A9D594\", \"#F5C146\"], [\"#B86BAC\", \"#B86BAC\", \"#A9D594\", \"#F5C146\", \"#F5C146\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                2,
+                2
+            ],
+            "3": [
+                3,
+                3
+            ],
+            "4": [
+                3,
+                1
+            ],
+            "5": [
+                3,
+                2
+            ],
+            "6": [
+                4,
+                4
+            ],
+            "7": [
+                2,
+                4
+            ]
+        },
+        "phrase": "Chopping onions while crying",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-11-30T11:51:12.808175-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "reveal": "hER",
+        "color": "#7C93CB",
+        "ordinal": 1,
+        "clue": "That lady"
+      },
+      {
+        "ordinal": 2,
+        "clue": "Lemon or lime drinks",
+        "color": "#F3F1A0",
+        "reveal": "aDES"
+      },
+      {
+        "ordinal": 3,
+        "color": "#A1DBE3",
+        "clue": "\"Where?\" response",
+        "reveal": "hERE"
+      },
+      {
+        "color": "#A9D594",
+        "reveal": "pNW",
+        "ordinal": 4,
+        "clue": "WA and OR region"
+      },
+      {
+        "ordinal": 5,
+        "clue": "Action done upon a star, in a Disney film",
+        "reveal": "wISH",
+        "color": "#E6B0D1"
+      },
+      {
+        "clue": "\"And ___ enough, he did!\"",
+        "ordinal": 6,
+        "color": "#B86BAC",
+        "reveal": "sURE"
+      },
+      {
+        "reveal": "hOG",
+        "color": "#F5C146",
+        "ordinal": 7,
+        "clue": "Oinker monopolizing the ball?"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"h\",\"e\",\"a\",\"d\"],[\"e\",\"h\",\"p\",\"r\",\"e\"],[\"w\",\"g\",\"N\",\"e\",\"s\"],[\"o\",\"i\",\"h\",\"w\",\"s\"],[\"h\",\"s\",\"e\",\"r\",\"u\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\"],[\"#E6B0D1\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\"],[\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#B86BAC\"],[\"#F5C146\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 98,
+    "phrase": "New high-pressure shower head",
+    "author": {
+      "name": "",
+      "link": ""
+    },
+    "date": "2023-08-31",
+    "id": "91ecaa6e-3e74-4bcc-836d-d5749b930db1",
+    "dimension": 5
+  }
+]

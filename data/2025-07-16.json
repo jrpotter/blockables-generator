@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-07-14T08:09:04.754261-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "____ Corners, southwestern US landmark where Colorado, Arizona, Utah, and New Mexico touch",
+        "ordinal": 1,
+        "reveal": "four"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Most common road type in classic Monopoly, for short",
+        "ordinal": 2,
+        "reveal": "ave"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Sneaky, like a fox",
+        "ordinal": 3,
+        "reveal": "Sly"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Chowing down",
+        "ordinal": 4,
+        "reveal": "eating"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Game sphere",
+        "ordinal": 5,
+        "reveal": "ball"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "User Interface, abbr.",
+        "ordinal": 6,
+        "reveal": "ui"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Iodine's chemical symbol",
+        "ordinal": 7,
+        "reveal": "i"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Expression of gratitude, to a texter",
+        "ordinal": 8,
+        "reveal": "ty"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"o\",\"y\",\"g\",\"n\"],[\"r\",\"e\",\"f\",\"l\",\"i\"],[\"a\",\"v\",\"S\",\"e\",\"t\"],[\"b\",\"a\",\"l\",\"u\",\"a\"],[\"i\",\"l\",\"i\",\"t\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#B86BAC\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\"],[\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 783,
+    "phrase": "Self-evaluating your ability",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-07-16",
+    "id": "774e2f20-d2ec-4005-bf5b-b0be1cb5c67c",
+    "dimension": 5
+  }
+]

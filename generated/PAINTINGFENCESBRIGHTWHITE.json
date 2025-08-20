@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T19:11:23.062536+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Math class subj.",
+                "ordinal": 1,
+                "reveal": "TRIG"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Subtle clue or suggestion",
+                "ordinal": 2,
+                "reveal": "HINT"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Question word, in part",
+                "ordinal": 3,
+                "reveal": "WH"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Present that's also present tense?",
+                "ordinal": 4,
+                "reveal": "GIFT"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Suddenly break, or what your fingers might do to keep time",
+                "ordinal": 5,
+                "reveal": "SNAP"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Blue-green pigment that sounds like \"bye\" twice",
+                "ordinal": 6,
+                "reveal": "BICE"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Born, in a maiden name",
+                "ordinal": 7,
+                "reveal": "NEE"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"I\", \"R\", \"B\", \"S\", \"E\"], [\"G\", \"T\", \"N\", \"I\", \"C\"], [\"H\", \"I\", \"P\", \"A\", \"N\"], [\"T\", \"N\", \"G\", \"F\", \"E\"], [\"W\", \"H\", \"I\", \"T\", \"E\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#A9D594\", \"#EE7B8C\"], [\"#7C93CB\", \"#7C93CB\", \"#A9D594\", \"#EE7B8C\", \"#EE7B8C\"], [\"#B86BAC\", \"#B86BAC\", \"#A9D594\", \"#A9D594\", \"#F3F1A0\"], [\"#B86BAC\", \"#B86BAC\", \"#E6B0D1\", \"#E6B0D1\", \"#F3F1A0\"], [\"#F5C146\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\", \"#F3F1A0\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                1
+            ],
+            "2": [
+                2,
+                0
+            ],
+            "3": [
+                4,
+                0
+            ],
+            "4": [
+                3,
+                2
+            ],
+            "5": [
+                0,
+                3
+            ],
+            "6": [
+                0,
+                2
+            ],
+            "7": [
+                2,
+                4
+            ]
+        },
+        "phrase": "Painting fences bright white",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

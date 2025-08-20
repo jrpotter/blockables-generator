@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-05T13:36:55.159188-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after A-, B-, C-, or D-, in Hollywood",
+        "ordinal": 1,
+        "reveal": "listers"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Gifted comedian Notaro, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "tig"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Gesture of approval",
+        "ordinal": 3,
+        "reveal": "nod"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Chief Information Officer, abbr.",
+        "ordinal": 4,
+        "reveal": "Cio"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "US state where Jackson is the capital",
+        "ordinal": 5,
+        "reveal": "MS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "____ Domino, pioneering rock and roll pianist",
+        "ordinal": 6,
+        "reveal": "fats"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Ouch!\"",
+        "ordinal": 7,
+        "reveal": "oof"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"l\",\"i\",\"s\",\"t\"],[\"d\",\"n\",\"g\",\"i\",\"t\"],[\"o\",\"i\",\"C\",\"r\",\"e\"],[\"t\",\"s\",\"s\",\"o\",\"m\"],[\"a\",\"f\",\"f\",\"o\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#EE7B8C\",\"#F5C146\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 507,
+    "phrase": "Crossing items off a todo list",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-13",
+    "id": "8411ef87-29f4-4fb2-abfb-9cf52fd7c290",
+    "dimension": 5
+  }
+]

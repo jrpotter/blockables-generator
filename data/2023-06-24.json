@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-01-01T10:43:01.841156-07:00",
+    "category": "Famous Pair",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Ed, Edd, and ____\", Cartoon Network cartoon",
+        "ordinal": 1,
+        "reveal": "eDDY"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Amari or de Armas",
+        "ordinal": 2,
+        "reveal": "aNA"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Small business structure, abbr.",
+        "ordinal": 3,
+        "reveal": "lLC"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Belonging to us",
+        "ordinal": 4,
+        "reveal": "oUR"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Matter is under it, in a phrase",
+        "ordinal": 5,
+        "reveal": "mIND"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Manufacturing company which makes lighters and pens",
+        "ordinal": 6,
+        "reveal": "BIC"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "German one",
+        "ordinal": 7,
+        "reveal": "eIN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Absolutely not!\"",
+        "ordinal": 8,
+        "reveal": "nO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"C\",\"l\",\"y\",\"d\",\"e\"],[\"d\",\"a\",\"l\",\"d\",\"u\"],[\"n\",\"n\",\"C\",\"r\",\"o\"],[\"a\",\"i\",\"m\",\"i\",\"B\"],[\"e\",\"i\",\"n\",\"n\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A1DBE3\",\"#B86BAC\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\"],[\"#A1DBE3\",\"#B86BAC\",\"#A9D594\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 30,
+    "phrase": "Criminal duo Bonnie and Clyde",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-24",
+    "id": "23cfdbfc-e68e-444e-9316-8f243ae2e76a",
+    "dimension": 5
+  }
+]

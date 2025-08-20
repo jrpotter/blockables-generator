@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-02T07:52:02.253537-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Rest on a chair",
+        "ordinal": 1,
+        "reveal": "sit"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "With Clue #4's answer, shorthand for a criminal's habits of working",
+        "ordinal": 2,
+        "reveal": "o"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Baby's drinking apparatus, often",
+        "ordinal": 3,
+        "reveal": "bottle"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "With Clue #2's answer, shorthand for a criminal's habits of working",
+        "ordinal": 4,
+        "reveal": "m"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Cow's noise",
+        "ordinal": 5,
+        "reveal": "moo"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Baby's sleeping apparatus, often",
+        "ordinal": 6,
+        "reveal": "cradle"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Seat finder",
+        "ordinal": 7,
+        "reveal": "usher"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"o\",\"t\",\"t\",\"o\"],[\"i\",\"a\",\"b\",\"l\",\"e\"],[\"r\",\"t\",\"D\",\"e\",\"m\"],[\"m\",\"c\",\"e\",\"l\",\"u\"],[\"o\",\"o\",\"r\",\"h\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\"],[\"#B86BAC\",\"#A9D594\",\"#F5C146\",\"#A9D594\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 532,
+    "phrase": "Delectable mushroom risotto",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-07",
+    "id": "22f4520c-f311-40b6-b1f9-810d33eb2f21",
+    "dimension": 5
+  }
+]

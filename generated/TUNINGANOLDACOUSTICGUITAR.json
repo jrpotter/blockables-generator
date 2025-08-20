@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:11:30.753554+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Gold, to a chemist",
+                "ordinal": 1,
+                "reveal": "AU"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "In the direction of, or part of a count",
+                "ordinal": 2,
+                "reveal": "TO"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Kind of lang in \"_____ Lang Syne\"",
+                "ordinal": 3,
+                "reveal": "AULD"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Queen of India, once",
+                "ordinal": 4,
+                "reveal": "RANI"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Good game, in gamer speak",
+                "ordinal": 5,
+                "reveal": "GG"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Spasmodic movement or sound",
+                "ordinal": 6,
+                "reveal": "TIC"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Serbian city that was once the capital of the Roman Empire",
+                "ordinal": 7,
+                "reveal": "NIS"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Vampire's activity, or a noble title",
+                "ordinal": 8,
+                "reveal": "COUNT"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"U\", \"I\", \"T\", \"A\", \"R\"], [\"G\", \"A\", \"N\", \"O\", \"L\"], [\"C\", \"G\", \"T\", \"U\", \"D\"], [\"I\", \"N\", \"I\", \"N\", \"A\"], [\"T\", \"S\", \"U\", \"O\", \"C\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#E6B0D1\", \"#B86BAC\", \"#E6B0D1\", \"#E6B0D1\"], [\"#A9D594\", \"#7C93CB\", \"#E6B0D1\", \"#B86BAC\", \"#EE7B8C\"], [\"#F5C146\", \"#A9D594\", \"#A1DBE3\", \"#EE7B8C\", \"#EE7B8C\"], [\"#F5C146\", \"#F3F1A0\", \"#F3F1A0\", \"#A1DBE3\", \"#EE7B8C\"], [\"#F5C146\", \"#F3F1A0\", \"#A1DBE3\", \"#A1DBE3\", \"#A1DBE3\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                1
+            ],
+            "2": [
+                0,
+                2
+            ],
+            "3": [
+                3,
+                4
+            ],
+            "4": [
+                0,
+                4
+            ],
+            "5": [
+                2,
+                1
+            ],
+            "6": [
+                4,
+                0
+            ],
+            "7": [
+                3,
+                1
+            ],
+            "8": [
+                4,
+                4
+            ]
+        },
+        "phrase": "Tuning an old acoustic guitar",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

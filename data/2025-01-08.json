@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2025-01-04T21:08:23.352508-07:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "^",
+        "ordinal": 1,
+        "reveal": "caret"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Liters and meters",
+        "ordinal": 2,
+        "reveal": "units"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Uno y uno y uno",
+        "ordinal": 3,
+        "reveal": "tres"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": ",",
+        "ordinal": 4,
+        "reveal": "Comma"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Not no",
+        "ordinal": 5,
+        "reveal": "yes"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fourth word in every Harry Potter title",
+        "ordinal": 6,
+        "reveal": "the"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"r\",\"e\",\"t\",\"a\"],[\"c\",\"u\",\"m\",\"m\",\"e\"],[\"t\",\"n\",\"C\",\"o\",\"h\"],[\"r\",\"i\",\"t\",\"y\",\"t\"],[\"e\",\"s\",\"s\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 594,
+    "phrase": "Community theater actresses ",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-08",
+    "id": "cfe06cb7-e0f9-467d-9b6f-27c7079ebb39",
+    "dimension": 5
+  }
+]

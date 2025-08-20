@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-01-12T08:56:08.781826-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Apple color",
+        "ordinal": 1,
+        "reveal": "red"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Founder funder, for short",
+        "ordinal": 2,
+        "reveal": "vc"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Clue",
+        "ordinal": 3,
+        "reveal": "Hint"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "___-friendly",
+        "ordinal": 4,
+        "reveal": "eco"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "N's opposite, on some forms",
+        "ordinal": 5,
+        "reveal": "y"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Coward in \"The Wizard of Oz\"",
+        "ordinal": 6,
+        "reveal": "lion"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Big carpet, perhaps Persian",
+        "ordinal": 7,
+        "reveal": "rug"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Bass instrument of the violin family",
+        "ordinal": 8,
+        "reveal": "cello"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"c\",\"d\",\"r\",\"o\"],[\"l\",\"v\",\"e\",\"g\",\"c\"],[\"l\",\"i\",\"H\",\"u\",\"e\"],[\"e\",\"n\",\"y\",\"l\",\"r\"],[\"c\",\"t\",\"i\",\"o\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#E6B0D1\",\"#A9D594\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\",\"#A9D594\"],[\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 599,
+    "phrase": "Huge vinyl record collection",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-13",
+    "id": "5e3904ce-b1d9-4b46-9a9b-ff69797cbd82",
+    "dimension": 5
+  }
+]

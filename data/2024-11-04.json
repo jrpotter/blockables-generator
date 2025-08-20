@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-02T07:29:39.900761-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Bartender on \"The Simpsons\"",
+        "ordinal": 1,
+        "reveal": "moe"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Seemingly burn, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "singe"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "It may be found in the road?",
+        "ordinal": 3,
+        "reveal": "fork"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Day between Thu. and Sat.",
+        "ordinal": 4,
+        "reveal": "fri"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Control-Flow Diagram, abbr.",
+        "ordinal": 5,
+        "reveal": "Cfd"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Scooby-___",
+        "ordinal": 6,
+        "reveal": "doo"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Not long now!\"",
+        "ordinal": 7,
+        "reveal": "soon"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"m\",\"o\",\"s\",\"r\",\"o\"],[\"e\",\"i\",\"k\",\"o\",\"f\"],[\"f\",\"n\",\"C\",\"o\",\"d\"],[\"r\",\"g\",\"f\",\"o\",\"o\"],[\"i\",\"e\",\"n\",\"d\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\"],[\"#B86BAC\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#F5C146\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#F5C146\",\"#F3F1A0\",\"#A1DBE3\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 529,
+    "phrase": "Cooking food for some friends",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-04",
+    "id": "8c186750-8976-49d1-941e-e191c9276d4b",
+    "dimension": 5
+  }
+]

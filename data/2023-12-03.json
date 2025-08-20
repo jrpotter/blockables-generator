@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-06-11T08:07:21.337501-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before cream or after Vanilla",
+        "ordinal": 1,
+        "reveal": "iCE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Neglected action on Facebook",
+        "ordinal": 2,
+        "reveal": "pOKE"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Spanish \"yes\"",
+        "ordinal": 3,
+        "reveal": "sI"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Natural material which can be igneous, metamorphic, or sedimentary",
+        "ordinal": 4,
+        "reveal": "rOCK"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "First prime number",
+        "ordinal": 5,
+        "reveal": "tWO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Shorthand for the study of living organisms, perhaps after \"A.P.\" in a Peacock sitcom",
+        "ordinal": 6,
+        "reveal": "bIO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Atilla was one",
+        "ordinal": 7,
+        "reveal": "hUN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Spanish \"what\"",
+        "ordinal": 8,
+        "reveal": "qUE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"i\",\"p\",\"e\",\"s\"],[\"e\",\"o\",\"k\",\"w\",\"i\"],[\"r\",\"o\",\"C\",\"o\",\"t\"],[\"e\",\"b\",\"k\",\"o\",\"h\"],[\"u\",\"q\",\"i\",\"n\",\"u\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#B86BAC\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#A9D594\",\"#E6B0D1\",\"#A9D594\",\"#F3F1A0\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 192,
+    "phrase": "Cookbook with unique recipes",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-03",
+    "id": "f227bb3d-e28f-4bc4-bdb4-7669971adc9a",
+    "dimension": 5
+  }
+]

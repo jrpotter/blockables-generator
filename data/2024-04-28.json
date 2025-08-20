@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-06T10:16:30.257409-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Underside of a shoe",
+        "ordinal": 1,
+        "reveal": "sole"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Day's opposite",
+        "ordinal": 2,
+        "reveal": "night"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "One who's not an amateur",
+        "ordinal": 3,
+        "reveal": "pro"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Report of recent events, perhaps by FOX or MSNBC",
+        "ordinal": 4,
+        "reveal": "News"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"I know\", to a texter",
+        "ordinal": 5,
+        "reveal": "ik"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Gross.\"",
+        "ordinal": 6,
+        "reveal": "ew"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Homer's wife and Bart's mom",
+        "ordinal": 7,
+        "reveal": "marge"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\",\"o\",\"l\",\"t\",\"h\"],[\"s\",\"w\",\"e\",\"n\",\"g\"],[\"p\",\"e\",\"N\",\"i\",\"i\"],[\"r\",\"e\",\"k\",\"w\",\"e\"],[\"o\",\"g\",\"r\",\"a\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F5C146\",\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A1DBE3\"],[\"#F3F1A0\",\"#B86BAC\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 339,
+    "phrase": "Nine-week weight loss program",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-28",
+    "id": "e6720b1b-d0a7-46d9-9152-08c9f8f0e6d9",
+    "dimension": 5
+  }
+]

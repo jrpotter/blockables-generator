@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-08-02T08:18:11-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Blood pumper",
+        "ordinal": 1,
+        "reveal": "hEART"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Goliath, Gargantua, or a baseball player in San Francisco",
+        "ordinal": 2,
+        "reveal": "gIANT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"___ ___ hooray!\"",
+        "ordinal": 3,
+        "reveal": "HIP"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Kid's bucket, often at the beach",
+        "ordinal": 4,
+        "reveal": "pAIL"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "One twelfth of a foot",
+        "ordinal": 5,
+        "reveal": "iNCH"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "____-Seltzer",
+        "ordinal": 6,
+        "reveal": "aLKA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"T\",\"r\",\"a\",\"i\",\"l\"],[\"n\",\"t\",\"h\",\"e\",\"A\"],[\"a\",\"g\",\"H\",\"i\",\"p\"],[\"i\",\"n\",\"i\",\"k\",\"p\"],[\"h\",\"c\",\"a\",\"l\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        2,
+        1
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 242,
+    "phrase": "Hiking the Appalachian Trail",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-22",
+    "id": "3db38b14-6ae8-4ea0-a971-f8c4d1854e24",
+    "dimension": 5
+  }
+]

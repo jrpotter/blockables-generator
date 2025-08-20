@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-15T09:58:58.188507-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "1982 sci-fi flick, familiarly",
+        "ordinal": 1,
+        "reveal": "et"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "An old towel in a garage, perhaps",
+        "ordinal": 2,
+        "reveal": "rag"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "One of the four seasons",
+        "ordinal": 3,
+        "reveal": "winter"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Old crone, derisively",
+        "ordinal": 4,
+        "reveal": "Hag"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Take ____",
+        "ordinal": 5,
+        "reveal": "care"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Letter known as the littera can\u012bna in Latin, due to its similarity to growling",
+        "ordinal": 6,
+        "reveal": "r"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "D&D facilitator",
+        "ordinal": 7,
+        "reveal": "dm"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Action performed often on \"American Idol\"",
+        "ordinal": 8,
+        "reveal": "sing"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"e\",\"e\",\"r\",\"g\"],[\"i\",\"t\",\"r\",\"a\",\"g\"],[\"n\",\"w\",\"H\",\"e\",\"n\"],[\"g\",\"a\",\"r\",\"m\",\"i\"],[\"c\",\"a\",\"r\",\"d\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 575,
+    "phrase": "Heartwarming greeting cards",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-20",
+    "id": "ea08f033-2146-45d6-9947-8dafb12ce0c7",
+    "dimension": 5
+  }
+]

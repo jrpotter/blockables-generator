@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-20T12:01:27.170596-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "\"___ do you do?\"",
+        "ordinal": 1,
+        "reveal": "hOW"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Acronym denoting the method of building, modifying, or repairing things by oneself without the direct aid of professionals",
+        "ordinal": 2,
+        "reveal": "dIY"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Unrefined Mediterranean cooking liquid, abbr.",
+        "ordinal": 3,
+        "reveal": "eVOO"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Event in which a company debuts on the NYSE",
+        "ordinal": 4,
+        "reveal": "IPO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after molecular (perhaps in a lab) or Sunday (perhaps in a church)",
+        "ordinal": 5,
+        "reveal": "mASS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "2017 film featuring Pennywise the Clown",
+        "ordinal": 6,
+        "reveal": "iT"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Number before andMe in a genetics testing company times the number of years in a semicentennial, to a Roman",
+        "ordinal": 7,
+        "reveal": "mCL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "What Forrest Gump did from coast to coast for over three years",
+        "ordinal": 8,
+        "reveal": "rAN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"y\",\"s\",\"h\",\"o\",\"w\"],[\"d\",\"i\",\"s\",\"a\",\"t\"],[\"e\",\"v\",\"I\",\"m\",\"i\"],[\"m\",\"o\",\"r\",\"p\",\"o\"],[\"o\",\"c\",\"l\",\"a\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\"],[\"#A9D594\",\"#A9D594\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\"],[\"#F3F1A0\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        0
+      ],
+      "8": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 111,
+    "phrase": "Improvisational comedy show",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-13",
+    "id": "b48e5be5-801c-4c3a-a937-6371be4005fc",
+    "dimension": 5
+  }
+]

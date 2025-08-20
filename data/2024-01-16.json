@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-07-25T08:31:58.121487-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Boxes full of nothing?",
+        "ordinal": 1,
+        "reveal": "kITES"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Yo-yos, balls, and the answer to Clue #1",
+        "ordinal": 2,
+        "reveal": "TOYS"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Initials of \"Hollaback Girl\" singer or actor who played Lt. Dan in \"Forrest Gump\"",
+        "ordinal": 3,
+        "reveal": "gs"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Mustache maker?",
+        "ordinal": 4,
+        "reveal": "MILK"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Democratic National Committee, abbr.",
+        "ordinal": 5,
+        "reveal": "dNC"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "First Asian American to win an NBA championship",
+        "ordinal": 6,
+        "reveal": "lIN"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Word after barrel or spring",
+        "ordinal": 7,
+        "reveal": "rOLL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"k\",\"T\",\"o\",\"k\"],[\"T\",\"s\",\"s\",\"l\",\"y\"],[\"g\",\"e\",\"M\",\"i\",\"s\"],[\"n\",\"l\",\"d\",\"n\",\"c\"],[\"i\",\"l\",\"l\",\"o\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\"],[\"#A9D594\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 236,
+    "phrase": "Mindlessly scrolling TikTok",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-01-16",
+    "id": "fce2369b-fe69-4207-8637-585e88c6deb2",
+    "dimension": 5
+  }
+]

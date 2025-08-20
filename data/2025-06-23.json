@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-06-22T16:16:27.856322-06:00",
+    "category": "Events",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Security mechanism, often paired with a key",
+        "ordinal": 1,
+        "reveal": "lock"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Beryllium's chemical symbol",
+        "ordinal": 2,
+        "reveal": "be"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Hiking trail",
+        "ordinal": 3,
+        "reveal": "path"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Kept out of sight, perhaps in a children's playground game",
+        "ordinal": 4,
+        "reveal": "Hid"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fungus growth, perhaps in the bathroom",
+        "ordinal": 5,
+        "reveal": "mold"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Beam of sunlight",
+        "ordinal": 6,
+        "reveal": "ray"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Tag! You're __!\"",
+        "ordinal": 7,
+        "reveal": "it"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Discern visually",
+        "ordinal": 8,
+        "reveal": "see"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"c\",\"o\",\"l\",\"b\",\"d\"],[\"k\",\"d\",\"i\",\"l\",\"e\"],[\"p\",\"a\",\"H\",\"o\",\"m\"],[\"a\",\"y\",\"t\",\"h\",\"e\"],[\"r\",\"t\",\"i\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 760,
+    "phrase": "Holiday-themed block parties",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-23",
+    "id": "3a34215c-d8c3-4e50-945e-8a8ef607f57d",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:00:47.908910+0000",
+        "category": "Food and Drink",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "State that's also a parent, informally",
+                "ordinal": 1,
+                "reveal": "MA"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Salad server or Chinese secret society",
+                "ordinal": 2,
+                "reveal": "TONG"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Middle Eastern ruler who might be found in Casablanca, but not the movie",
+                "ordinal": 3,
+                "reveal": "EMIR"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Ponder, or think on it",
+                "ordinal": 4,
+                "reveal": "MUSE"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Society of Petroleum Engineers, for short",
+                "ordinal": 5,
+                "reveal": "SPE"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Theodore Roosevelt, initially",
+                "ordinal": 6,
+                "reveal": "TR"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Type changed at many a Jiffy Lube",
+                "ordinal": 7,
+                "reveal": "OIL"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "[thus] in scholarly quotes, briefly",
+                "ordinal": 8,
+                "reveal": "SIC"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"A\", \"T\", \"O\", \"E\", \"S\"], [\"M\", \"G\", \"R\", \"I\", \"P\"], [\"O\", \"N\", \"S\", \"L\", \"E\"], [\"T\", \"I\", \"C\", \"I\", \"S\"], [\"R\", \"E\", \"M\", \"M\", \"U\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#F3F1A0\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\"], [\"#7C93CB\", \"#B86BAC\", \"#F3F1A0\", \"#EE7B8C\", \"#A9D594\"], [\"#B86BAC\", \"#B86BAC\", \"#A1DBE3\", \"#EE7B8C\", \"#E6B0D1\"], [\"#B86BAC\", \"#F5C146\", \"#A1DBE3\", \"#A1DBE3\", \"#E6B0D1\"], [\"#F5C146\", \"#F5C146\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                1,
+                0
+            ],
+            "2": [
+                3,
+                0
+            ],
+            "3": [
+                4,
+                1
+            ],
+            "4": [
+                4,
+                3
+            ],
+            "5": [
+                0,
+                4
+            ],
+            "6": [
+                0,
+                1
+            ],
+            "7": [
+                0,
+                2
+            ],
+            "8": [
+                2,
+                2
+            ]
+        },
+        "phrase": "Slicing ripe summer tomatoes",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

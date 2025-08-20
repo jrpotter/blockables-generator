@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-04-30T12:34:12-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "National Geographic, abbr.",
+        "ordinal": 1,
+        "reveal": "nG"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"Well, that's just _____ on the cake!\"",
+        "ordinal": 2,
+        "reveal": "iCING"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Klionewton, abbr.",
+        "ordinal": 3,
+        "reveal": "kN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Despite all evidence to the contrary, it's said to be more",
+        "ordinal": 4,
+        "reveal": "lESS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Enthusiastic, rhyming word used when presenting or revealing something",
+        "ordinal": 5,
+        "reveal": "TADA"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "What one should be doing in order to later be reaping, according to a phrase",
+        "ordinal": 6,
+        "reveal": "sOWING"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Chemical symbol for tin",
+        "ordinal": 7,
+        "reveal": "sN"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"c\",\"n\",\"a\"],[\"g\",\"n\",\"i\",\"k\",\"d\"],[\"l\",\"g\",\"T\",\"a\",\"g\"],[\"e\",\"s\",\"w\",\"i\",\"n\"],[\"s\",\"s\",\"o\",\"n\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#7C93CB\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 150,
+    "phrase": "Taking swing dancing lessons",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-10-22",
+    "id": "0720b6ca-b1fb-403e-8ca8-5b2ca47aa950",
+    "dimension": 5
+  }
+]

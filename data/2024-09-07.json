@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-17T11:29:41.339751-06:00",
+    "category": "Document",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Move your body rhythmically",
+        "ordinal": 1,
+        "reveal": "dance"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word after neural or safety",
+        "ordinal": 2,
+        "reveal": "net"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Electric Potential Energy, abbr.",
+        "ordinal": 3,
+        "reveal": "epe"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Video Killed the _____ Star\", 1979 song popularized by The Buggles",
+        "ordinal": 4,
+        "reveal": "radio"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Word before Ni\u00f1o or Paso",
+        "ordinal": 5,
+        "reveal": "el"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Pro's opposite",
+        "ordinal": 6,
+        "reveal": "con"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Discover",
+        "ordinal": 7,
+        "reveal": "find"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"e\",\"n\",\"c\",\"e\"],[\"n\",\"a\",\"t\",\"i\",\"o\"],[\"e\",\"r\",\"D\",\"e\",\"n\"],[\"p\",\"a\",\"l\",\"c\",\"o\"],[\"e\",\"d\",\"n\",\"I\",\"f\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#F3F1A0\",\"#7C93CB\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F5C146\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 471,
+    "phrase": "Declaration of Independence",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-07",
+    "id": "e48c059f-8f43-4f87-9f78-a12c0892cab8",
+    "dimension": 5
+  }
+]

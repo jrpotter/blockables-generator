@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-27T09:48:05.768316-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Initials of author whose most famous book isn't about murdering birds at all",
+        "ordinal": 1,
+        "reveal": "hL"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Prime English record label, whose letters can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "eMI"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Steeler Bradshaw or scene stealer Crews",
+        "ordinal": 3,
+        "reveal": "tERRY"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Prefix before sect or sexual",
+        "ordinal": 4,
+        "reveal": "bI"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Forbidden lovers may cross this",
+        "ordinal": 5,
+        "reveal": "STAR"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Common abbreviation for the Great War",
+        "ordinal": 6,
+        "reveal": "wWI"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "State where Providence is the capital, abbr.",
+        "ordinal": 7,
+        "reveal": "rI"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Leg muscle or college gathering place",
+        "ordinal": 8,
+        "reveal": "qUAD"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"l\",\"i\",\"m\",\"e\"],[\"t\",\"e\",\"r\",\"r\",\"y\"],[\"i\",\"b\",\"S\",\"t\",\"d\"],[\"w\",\"w\",\"a\",\"r\",\"a\"],[\"i\",\"r\",\"i\",\"u\",\"q\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#F5C146\",\"#B86BAC\"],[\"#A1DBE3\",\"#A9D594\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 116,
+    "phrase": "Strawberry daquiri with lime",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-09-18",
+    "id": "07623782-5443-4fb4-97d8-a25f69010b2e",
+    "dimension": 5
+  }
+]

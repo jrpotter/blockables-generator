@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-25T03:38:16.52765-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Short cut?",
+        "ordinal": 1,
+        "reveal": "trim"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Most popular master's degree, abbr.",
+        "ordinal": 2,
+        "reveal": "mba"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word after financial or first",
+        "ordinal": 3,
+        "reveal": "aid"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Coffee beverage, perhaps with pumpkin spice",
+        "ordinal": 4,
+        "reveal": "latte"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Letters found on a prescription bottle, perhaps ",
+        "ordinal": 5,
+        "reveal": "rX"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"American March King\" John Philip, after whom a huge brass instrument is named",
+        "ordinal": 6,
+        "reveal": "sousa"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Prefix meaning \"three\"",
+        "ordinal": 7,
+        "reveal": "tri"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"t\",\"r\",\"a\",\"m\"],[\"a\",\"d\",\"i\",\"b\",\"s\"],[\"l\",\"e\",\"A\",\"m\",\"u\"],[\"a\",\"x\",\"t\",\"r\",\"o\"],[\"r\",\"t\",\"i\",\"s\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\",\"#F3F1A0\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\",\"#F5C146\"],[\"#E6B0D1\",\"#EE7B8C\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        3
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 391,
+    "phrase": "Ambidextrous martial artist",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-19",
+    "id": "48a394a3-5cda-45d2-82b2-25b601d69b79",
+    "dimension": 5
+  }
+]

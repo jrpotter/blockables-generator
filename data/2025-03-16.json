@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-08T16:27:10.946057-07:00",
+    "category": "De-Lecter-ble!",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Castle material?",
+        "ordinal": 1,
+        "reveal": "sand"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Take ____",
+        "ordinal": 2,
+        "reveal": "care"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Common name for cr\u00e8me caramel, particularly in the United States and Spanish-speaking countries",
+        "ordinal": 3,
+        "reveal": "flan"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "It may need to be plugged in on a road trip, abbr.",
+        "ordinal": 4,
+        "reveal": "ev"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Bird-related",
+        "ordinal": 5,
+        "reveal": "avian"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Commit to the ___\", Gen Z slang meaning to fully dedicate oneself to a creative idea",
+        "ordinal": 6,
+        "reveal": "bit"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Double it for a fish",
+        "ordinal": 7,
+        "reveal": "ahi"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"n\",\"a\",\"s\",\"n\"],[\"a\",\"r\",\"e\",\"v\",\"a\"],[\"c\",\"f\",\"L\",\"i\",\"e\"],[\"h\",\"a\",\"v\",\"a\",\"b\"],[\"i\",\"a\",\"n\",\"t\",\"i\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#A9D594\"],[\"#EE7B8C\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 661,
+    "phrase": "Liver, fava beans, and a chianti",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-16",
+    "id": "c9f58cc4-7654-495b-b810-88c554a5d02c",
+    "dimension": 5
+  }
+]

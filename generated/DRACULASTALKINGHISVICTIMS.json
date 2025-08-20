@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:02:58.832528+0000",
+        "category": "Famous Character",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "House, in Dutch",
+                "ordinal": 1,
+                "reveal": "HUIS"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "\"Vae ___!\" (woe to the conquered)",
+                "ordinal": 2,
+                "reveal": "VICTIS"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Young fellow who might be called a chap",
+                "ordinal": 3,
+                "reveal": "LAD"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Computer graphics, for short",
+                "ordinal": 4,
+                "reveal": "CG"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Chemical symbol that sounds like a taunt",
+                "ordinal": 5,
+                "reveal": "NI"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Morning songbird or carefree adventure",
+                "ordinal": 6,
+                "reveal": "LARK"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Pole position on a ship?",
+                "ordinal": 7,
+                "reveal": "MAST"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"I\", \"H\", \"G\", \"N\", \"I\"], [\"S\", \"U\", \"C\", \"A\", \"K\"], [\"V\", \"L\", \"D\", \"R\", \"L\"], [\"I\", \"A\", \"S\", \"T\", \"A\"], [\"C\", \"T\", \"I\", \"M\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\"], [\"#7C93CB\", \"#7C93CB\", \"#EE7B8C\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F5C146\", \"#F3F1A0\", \"#F3F1A0\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F5C146\", \"#F3F1A0\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\"], [\"#F5C146\", \"#F5C146\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                1
+            ],
+            "2": [
+                2,
+                0
+            ],
+            "3": [
+                2,
+                1
+            ],
+            "4": [
+                1,
+                2
+            ],
+            "5": [
+                0,
+                3
+            ],
+            "6": [
+                2,
+                4
+            ],
+            "7": [
+                4,
+                3
+            ]
+        },
+        "phrase": "Dracula stalking his victims",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-05T13:23:56.515941-06:00",
+    "category": "Famous Novel",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Partner of to, at times",
+        "ordinal": 1,
+        "reveal": "Fro"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Roughly 907 kilograms",
+        "ordinal": 2,
+        "reveal": "ton"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Tidy",
+        "ordinal": 3,
+        "reveal": "neat"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Utmost, as a degree",
+        "ordinal": 4,
+        "reveal": "nth"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Fury",
+        "ordinal": 5,
+        "reveal": "ire"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Knight's expedition, perhaps for the Holy Grail",
+        "ordinal": 6,
+        "reveal": "Quest"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before off or after wishing",
+        "ordinal": 7,
+        "reveal": "Well"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"F\",\"r\",\"o\",\"n\",\"t\"],[\"n\",\"e\",\"t\",\"o\",\"n\"],[\"r\",\"i\",\"A\",\"l\",\"t\"],[\"e\",\"u\",\"Q\",\"l\",\"h\"],[\"t\",\"s\",\"e\",\"W\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\"],[\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 505,
+    "phrase": "\"All Quiet on the Western Front\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-11",
+    "id": "a7da645e-69d6-4f1f-9608-efb6a738163a",
+    "dimension": 5
+  }
+]

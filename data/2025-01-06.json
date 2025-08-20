@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-01-04T20:49:03.990591-07:00",
+    "category": "Event",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Traditional term for an atom with net charge; its letters can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "ion"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Calico or tabby",
+        "ordinal": 2,
+        "reveal": "cat"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Fuel gauge letter",
+        "ordinal": 3,
+        "reveal": "e"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Volcano output",
+        "ordinal": 4,
+        "reveal": "lava"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Stereo's alternative, usually",
+        "ordinal": 5,
+        "reveal": "Mono"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Floor covering sought after by The Dude in \"The Big Lebowski\"",
+        "ordinal": 6,
+        "reveal": "rug"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "New Hampshire Theatre Project, abbr.",
+        "ordinal": 7,
+        "reveal": "nhtp"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Number of V's in today's answer",
+        "ordinal": 8,
+        "reveal": "one"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"t\",\"i\",\"o\",\"n\"],[\"c\",\"o\",\"n\",\"g\",\"E\"],[\"a\",\"l\",\"M\",\"o\",\"u\"],[\"v\",\"h\",\"t\",\"n\",\"r\"],[\"n\",\"a\",\"e\",\"p\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#A9D594\"],[\"#F3F1A0\",\"#EE7B8C\",\"#B86BAC\",\"#F3F1A0\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 592,
+    "phrase": "Month-long European vacation",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-06",
+    "id": "15bbaa38-c8b7-4878-be76-38fe78c562e8",
+    "dimension": 5
+  }
+]

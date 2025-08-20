@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-10-05T13:58:43.993443-06:00",
+    "category": "Clothing",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Give a gratuity",
+        "ordinal": 1,
+        "reveal": "tip"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Bold throw, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "lob"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Pickled garnishes, perhaps atop chicken piccata",
+        "ordinal": 3,
+        "reveal": "Capers"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Victim on April 1st",
+        "ordinal": 4,
+        "reveal": "fool"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Force Sensing Resistor, abbr.",
+        "ordinal": 5,
+        "reveal": "fsr"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Edge of a glass",
+        "ordinal": 6,
+        "reveal": "rim"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Big monkey",
+        "ordinal": 7,
+        "reveal": "ape"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"p\",\"p\",\"e\",\"r\",\"s\"],[\"i\",\"t\",\"a\",\"b\",\"l\"],[\"l\",\"r\",\"C\",\"o\",\"e\"],[\"s\",\"o\",\"f\",\"m\",\"p\"],[\"f\",\"o\",\"r\",\"i\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\"],[\"#B86BAC\",\"#F3F1A0\",\"#A9D594\",\"#E6B0D1\",\"#EE7B8C\"],[\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#EE7B8C\"],[\"#F3F1A0\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 502,
+    "phrase": "Comfortable pair of slippers",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-08",
+    "id": "3bfd308f-473e-450b-9d4b-789ca13189c3",
+    "dimension": 5
+  }
+]

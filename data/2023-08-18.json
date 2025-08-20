@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-02-06T19:31:29.991492-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Not alive",
+        "ordinal": 1,
+        "reveal": "dEAD"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word before ten (to surfers) or after bat (to rock climbers)",
+        "ordinal": 2,
+        "reveal": "hANG"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Copper's chemical symbol",
+        "ordinal": 3,
+        "reveal": "cU"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Monsters, ___.\", a 2001 Pixar film about the goings-on at a scare factory",
+        "ordinal": 4,
+        "reveal": "iNC"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Performed as a character in a play",
+        "ordinal": 5,
+        "reveal": "aCTED"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Business division which deals with hiring and recruiting, abbr.",
+        "ordinal": 6,
+        "reveal": "hR"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "In real life, to a texter",
+        "ordinal": 7,
+        "reveal": "iRL"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "__ Cruiser, Chrysler's retro-styled compact car",
+        "ordinal": 8,
+        "reveal": "pT"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"n\",\"d\",\"e\",\"d\"],[\"h\",\"n\",\"g\",\"a\",\"c\"],[\"d\",\"i\",\"C\",\"a\",\"u\"],[\"e\",\"h\",\"c\",\"t\",\"l\"],[\"r\",\"t\",\"i\",\"r\",\"p\"]]",
+    "gridColors": "[[\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#EE7B8C\",\"#B86BAC\",\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#7C93CB\",\"#F3F1A0\"],[\"#7C93CB\",\"#E6B0D1\",\"#7C93CB\",\"#A9D594\",\"#F5C146\"],[\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 85,
+    "phrase": "Catching a culprit red-handed",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-18",
+    "id": "ecdab22a-2474-41af-9d3c-bca4a3404f72",
+    "dimension": 5
+  }
+]

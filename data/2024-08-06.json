@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-02-11T07:49:00.487705-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Cast a ballot",
+        "ordinal": 1,
+        "reveal": "vote"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Sound a horn in short blasts",
+        "ordinal": 2,
+        "reveal": "toot"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"We need a _____ over here!\", request for a doctor in video game \"Call of Duty: Black Ops\"",
+        "ordinal": 3,
+        "reveal": "medic"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Shade",
+        "ordinal": 4,
+        "reveal": "hue"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Main ingredient in a Tropical Breeze cocktail",
+        "ordinal": 5,
+        "reveal": "rum"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Nobly famous 19th century reporter Nellie, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "bly"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "___ sauce",
+        "ordinal": 7,
+        "reveal": "soy"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"t\",\"e\",\"v\",\"o\"],[\"t\",\"o\",\"y\",\"t\",\"m\"],[\"h\",\"u\",\"L\",\"e\",\"y\"],[\"e\",\"r\",\"b\",\"o\",\"d\"],[\"m\",\"u\",\"s\",\"i\",\"c\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\"],[\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 439,
+    "phrase": "\"Let your body move to the music\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-06",
+    "id": "79c7ab2c-3e8c-45fa-9e57-5134a7b89bdc",
+    "dimension": 5
+  }
+]

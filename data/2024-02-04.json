@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-08-13T09:01:30.57621-06:00",
+    "category": "Actor and Role",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "United Soccer League, abbr.",
+        "ordinal": 1,
+        "reveal": "uSL"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Initials of only performer to win both the American and the British Triple Crowns of Acting or host of \"Deal or No Deal\"",
+        "ordinal": 2,
+        "reveal": "HM"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Large domesticated wild ox with shaggy hair",
+        "ordinal": 3,
+        "reveal": "yAK"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Noah's watercraft, biblically",
+        "ordinal": 4,
+        "reveal": "aRK"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Gay rights activist Harvey, who shares initials with those mentioned in Clue #2",
+        "ordinal": 5,
+        "reveal": "mILK"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Baikal, Erie, or Victoria",
+        "ordinal": 6,
+        "reveal": "lAKES"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "___-abiding citizen",
+        "ordinal": 7,
+        "reveal": "lAW"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "1990s NBC medical drama starring George Clooney",
+        "ordinal": 8,
+        "reveal": "eR"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"S\",\"e\",\"k\",\"u\",\"L\"],[\"k\",\"H\",\"k\",\"r\",\"s\"],[\"y\",\"a\",\"M\",\"a\",\"a\"],[\"w\",\"m\",\"i\",\"l\",\"l\"],[\"a\",\"l\",\"k\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\"],[\"#F3F1A0\",\"#F5C146\",\"#7C93CB\",\"#E6B0D1\",\"#B86BAC\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#7C93CB\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#7C93CB\"],[\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 255,
+    "phrase": "Mark Hamill as Luke Skywalker",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-04",
+    "id": "b100ebbe-81a4-4f20-a44c-d3f4d94af155",
+    "dimension": 5
+  }
+]

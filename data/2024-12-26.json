@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-20T08:28:55.607396-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Helium's chemical symbol",
+        "ordinal": 1,
+        "reveal": "he"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Letters after Wall or before Louis",
+        "ordinal": 2,
+        "reveal": "st"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Rescue",
+        "ordinal": 3,
+        "reveal": "save"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Black-and-white toothed whale",
+        "ordinal": 4,
+        "reveal": "orca"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Hold tightly (to), like clothing due to static electricity",
+        "ordinal": 5,
+        "reveal": "cling"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Initials of US president after whom the Teddy Bear is named",
+        "ordinal": 6,
+        "reveal": "Tr"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Card game featuring the often-memed \"reverse card\"",
+        "ordinal": 7,
+        "reveal": "uno"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Attempt",
+        "ordinal": 8,
+        "reveal": "try"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"t\",\"s\",\"s\",\"o\"],[\"e\",\"e\",\"v\",\"a\",\"r\"],[\"c\",\"l\",\"T\",\"r\",\"c\"],[\"o\",\"i\",\"n\",\"g\",\"a\"],[\"u\",\"n\",\"t\",\"r\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A9D594\"],[\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        0,
+        4
+      ],
+      "5": [
+        2,
+        0
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 581,
+    "phrase": "Traveling across the country",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-26",
+    "id": "d5b453a9-b5ff-44ca-9ab7-cb832aae3d0c",
+    "dimension": 5
+  }
+]

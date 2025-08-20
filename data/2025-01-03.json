@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-28T09:36:47.391895-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "\"____-Dong! The Witch Is Dead\", 1939 song from The Wizard of Oz",
+        "ordinal": 1,
+        "reveal": "ding"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Drops on grass",
+        "ordinal": 2,
+        "reveal": "dew"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Chick's sound",
+        "ordinal": 3,
+        "reveal": "peep"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Instrument played by Lisa Simpson or Bill Clinton",
+        "ordinal": 4,
+        "reveal": "sax"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "First word of mistakenly announced 2017 Best Picture Oscar Winner",
+        "ordinal": 5,
+        "reveal": "la"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Sped away, on legs",
+        "ordinal": 6,
+        "reveal": "ran"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Number of years in a decade",
+        "ordinal": 7,
+        "reveal": "ten"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word before blend or after code",
+        "ordinal": 8,
+        "reveal": "red"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"d\",\"d\",\"e\"],[\"g\",\"p\",\"s\",\"a\",\"w\"],[\"p\",\"e\",\"E\",\"x\",\"d\"],[\"l\",\"r\",\"a\",\"t\",\"e\"],[\"a\",\"n\",\"n\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\"],[\"#A9D594\",\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#EE7B8C\"],[\"#A9D594\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 589,
+    "phrase": "Exasperated wedding planner",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-03",
+    "id": "2a37a633-2c7d-4fd9-8c0d-4bd6d066a831",
+    "dimension": 5
+  }
+]

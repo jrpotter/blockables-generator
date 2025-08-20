@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:10:56.802716+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Take-home pay after deductions",
+                "ordinal": 1,
+                "reveal": "NET"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Trash receptacle, or what you might do to a computer file",
+                "ordinal": 2,
+                "reveal": "BIN"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Sea eagle",
+                "ordinal": 3,
+                "reveal": "ERN"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Mobile home, for short",
+                "ordinal": 4,
+                "reveal": "RV"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Possesses, or possesses possessiveness?",
+                "ordinal": 5,
+                "reveal": "HAS"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Go around or go by",
+                "ordinal": 6,
+                "reveal": "PASS"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Laws, to Livy",
+                "ordinal": 7,
+                "reveal": "LEGES"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Not out",
+                "ordinal": 8,
+                "reveal": "IN"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"E\", \"N\", \"S\", \"E\", \"S\"], [\"T\", \"N\", \"G\", \"S\", \"P\"], [\"B\", \"I\", \"L\", \"E\", \"A\"], [\"R\", \"N\", \"R\", \"A\", \"N\"], [\"E\", \"V\", \"H\", \"S\", \"I\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#F5C146\", \"#F3F1A0\"], [\"#7C93CB\", \"#EE7B8C\", \"#F5C146\", \"#F3F1A0\", \"#F3F1A0\"], [\"#EE7B8C\", \"#EE7B8C\", \"#F5C146\", \"#F5C146\", \"#F3F1A0\"], [\"#B86BAC\", \"#B86BAC\", \"#A9D594\", \"#E6B0D1\", \"#A1DBE3\"], [\"#B86BAC\", \"#A9D594\", \"#E6B0D1\", \"#E6B0D1\", \"#A1DBE3\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                1
+            ],
+            "2": [
+                2,
+                0
+            ],
+            "3": [
+                4,
+                0
+            ],
+            "4": [
+                3,
+                2
+            ],
+            "5": [
+                4,
+                2
+            ],
+            "6": [
+                1,
+                4
+            ],
+            "7": [
+                2,
+                2
+            ],
+            "8": [
+                4,
+                4
+            ]
+        },
+        "phrase": "Learning Spanish verb tenses",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-06-11T08:26:09.927331-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Slight dip in a hard, even surface, perhaps caused by the impact of a car door",
+        "ordinal": 1,
+        "reveal": "DENT"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Odor detector",
+        "ordinal": 2,
+        "reveal": "nOSE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Bird by a folder?",
+        "ordinal": 3,
+        "reveal": "cRANE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "___ Paulo, Brazil",
+        "ordinal": 4,
+        "reveal": "SAO"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Common acronym for special visual effects created using software, perhaps in a superhero movie",
+        "ordinal": 5,
+        "reveal": "cGI"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before dropping or after user",
+        "ordinal": 6,
+        "reveal": "nAME"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "University of Queensland, abbr.",
+        "ordinal": 7,
+        "reveal": "uQ"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"t\",\"e\",\"d\",\"o\"],[\"s\",\"n\",\"n\",\"a\",\"c\"],[\"e\",\"i\",\"S\",\"c\",\"R\"],[\"e\",\"n\",\"g\",\"a\",\"Q\"],[\"a\",\"m\",\"e\",\"n\",\"u\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#A9D594\",\"#E6B0D1\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#E6B0D1\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 195,
+    "phrase": "Scanning a QR code to see a menu",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-06",
+    "id": "368b33e1-0a1d-4bd8-a141-0ebd364ee796",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-09-12T08:37:00.427227-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Spanish \"year\"",
+        "ordinal": 1,
+        "reveal": "aNO"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Kickoff returner, abbr.",
+        "ordinal": 2,
+        "reveal": "kR"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Payment made in exchange for services",
+        "ordinal": 3,
+        "reveal": "fEE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "&",
+        "ordinal": 4,
+        "reveal": "aND"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Those who perform this action, keep, while those who lose, weep, in a saying",
+        "ordinal": 5,
+        "reveal": "fIND"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Dog breed whose name comes from the Welsh words for \"dwarf\" and \"dog\"",
+        "ordinal": 6,
+        "reveal": "cORGI"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Yang's opposite, in a Chinese philosophical concept",
+        "ordinal": 7,
+        "reveal": "yIN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Quick yes, to a texter",
+        "ordinal": 8,
+        "reveal": "yA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"n\",\"o\",\"e\",\"e\"],[\"r\",\"k\",\"n\",\"i\",\"f\"],[\"a\",\"i\",\"D\",\"r\",\"f\"],[\"i\",\"n\",\"g\",\"c\",\"o\"],[\"n\",\"y\",\"d\",\"a\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\",\"#F3F1A0\",\"#A9D594\"],[\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 283,
+    "phrase": "Drinking coffee on a rainy day",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-03-03",
+    "id": "e88fc7fd-038b-43eb-8e88-430c8d46be59",
+    "dimension": 5
+  }
+]

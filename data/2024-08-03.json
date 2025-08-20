@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-02-11T08:22:48.129344-07:00",
+    "category": "Famous Character",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word after hot or bath",
+        "ordinal": 1,
+        "reveal": "tub"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "F# and Bb, for example",
+        "ordinal": 2,
+        "reveal": "notes"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Letters at the start of a response to your email",
+        "ordinal": 3,
+        "reveal": "re"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Drink, usually excluding water",
+        "ordinal": 4,
+        "reveal": "Beverage"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "60 sec.",
+        "ordinal": 5,
+        "reveal": "min"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "New Jersey Redevelopment Authority, abbr.",
+        "ordinal": 6,
+        "reveal": "njra"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"t\",\"t\",\"o\",\"n\"],[\"B\",\"e\",\"a\",\"g\",\"e\"],[\"n\",\"s\",\"R\",\"e\",\"r\"],[\"i\",\"r\",\"e\",\"v\",\"B\"],[\"m\",\"a\",\"j\",\"n\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#F5C146\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"],[\"#EE7B8C\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        4
+      ],
+      "4": [
+        3,
+        4
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 436,
+    "phrase": "Reverse-ager Benjamin Button",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-03",
+    "id": "e07c08ba-3375-485c-a290-86cc3e9f2c39",
+    "dimension": 5
+  }
+]

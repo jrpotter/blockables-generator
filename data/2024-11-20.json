@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-11-18T17:35:31.860955-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Spanish \"what\"",
+        "ordinal": 1,
+        "reveal": "que"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Handbag",
+        "ordinal": 2,
+        "reveal": "purse"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Texter's exclamation, often",
+        "ordinal": 3,
+        "reveal": "omg"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Roman one",
+        "ordinal": 4,
+        "reveal": "i"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Not Like __\", 2024 Kendrick Lamar song",
+        "ordinal": 5,
+        "reveal": "us"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Chowed down",
+        "ordinal": 6,
+        "reveal": "ate"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Daringly dangerous, as a surfer might say, the letters of which can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "gnarly"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Dorm overseer, for short",
+        "ordinal": 8,
+        "reveal": "ra"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"e\",\"u\",\"r\",\"s\"],[\"q\",\"p\",\"o\",\"m\",\"e\"],[\"i\",\"y\",\"S\",\"u\",\"g\"],[\"l\",\"r\",\"a\",\"g\",\"r\"],[\"e\",\"t\",\"a\",\"n\",\"a\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#7C93CB\",\"#A1DBE3\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\"],[\"#B86BAC\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"],[\"#F5C146\",\"#F5C146\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        3,
+        4
+      ]
+    },
+    "ordinal": 545,
+    "phrase": "Sugary pomegranate liqueurs",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-20",
+    "id": "56f490ed-52d2-40d3-b9a1-473c797a766b",
+    "dimension": 5
+  }
+]

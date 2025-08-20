@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-06-25T16:48:45-06:00",
+    "category": "Quote - Speaker",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Former NYSE stock symbol for American defense contractor L3 Technologies",
+        "ordinal": 1,
+        "reveal": "lLL"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Intake and digest information from a book",
+        "ordinal": 2,
+        "reveal": "READ"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Little green Jedi master from Degobah",
+        "ordinal": 3,
+        "reveal": "yODA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "New York's winter hours, abbr.",
+        "ordinal": 4,
+        "reveal": "eST"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Rooster's partner",
+        "ordinal": 5,
+        "reveal": "hEN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "A deuce in tennis, for example",
+        "ordinal": 6,
+        "reveal": "tIE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after flash or before mentality",
+        "ordinal": 7,
+        "reveal": "mOB"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Letters of the infamous event regarding the formatting and storage of calendar data on computers after the year 2000",
+        "ordinal": 8,
+        "reveal": "yK"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"l\",\"R\",\"o\",\"y\"],[\"a\",\"e\",\"l\",\"d\",\"e\"],[\"d\",\"e\",\"I\",\"a\",\"s\"],[\"n\",\"h\",\"t\",\"m\",\"t\"],[\"e\",\"K\",\"y\",\"o\",\"b\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\",\"#A9D594\",\"#A1DBE3\"],[\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A1DBE3\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\"],[\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 204,
+    "phrase": "\"I am the eldest boy!\" - Kendall Roy",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-15",
+    "id": "66c6644e-c0a6-4982-90cd-a1e484f9d5d5",
+    "dimension": 5
+  }
+]

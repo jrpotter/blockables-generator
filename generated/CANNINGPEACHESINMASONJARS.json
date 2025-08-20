@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T18:56:00.121560+0000",
+        "category": "Food and Drink",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Degree that might make you a doctor, in brief",
+                "ordinal": 1,
+                "reveal": "MA"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Transgression that rhymes with a container",
+                "ordinal": 2,
+                "reveal": "SIN"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Half of the cosine's complementary relationship",
+                "ordinal": 3,
+                "reveal": "SINE"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Swiss land, for short",
+                "ordinal": 4,
+                "reveal": "CH"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Nut that's an anagram of \"cane\" + P",
+                "ordinal": 5,
+                "reveal": "PECAN"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Prefix meaning \"not\" that's also a starter for profit or sense",
+                "ordinal": 6,
+                "reveal": "NON"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Sharp projection or sudden sharp movement",
+                "ordinal": 7,
+                "reveal": "JAG"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Search and rescue, for short",
+                "ordinal": 8,
+                "reveal": "SAR"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"M\", \"N\", \"I\", \"S\", \"E\"], [\"A\", \"I\", \"N\", \"N\", \"H\"], [\"S\", \"N\", \"C\", \"A\", \"C\"], [\"O\", \"G\", \"P\", \"E\", \"A\"], [\"N\", \"J\", \"A\", \"R\", \"S\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#E6B0D1\", \"#F5C146\", \"#F5C146\", \"#F5C146\"], [\"#7C93CB\", \"#E6B0D1\", \"#A9D594\", \"#F5C146\", \"#B86BAC\"], [\"#E6B0D1\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\", \"#B86BAC\"], [\"#EE7B8C\", \"#F3F1A0\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\"], [\"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\", \"#A1DBE3\", \"#A1DBE3\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                2,
+                0
+            ],
+            "3": [
+                0,
+                3
+            ],
+            "4": [
+                2,
+                4
+            ],
+            "5": [
+                3,
+                2
+            ],
+            "6": [
+                2,
+                1
+            ],
+            "7": [
+                4,
+                1
+            ],
+            "8": [
+                4,
+                4
+            ]
+        },
+        "phrase": "Canning peaches in mason jars",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-01-28T07:18:53.05036-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Employ",
+        "ordinal": 1,
+        "reveal": "hire"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Gear tooth",
+        "ordinal": 2,
+        "reveal": "cog"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Supranational organization which the UK left in 2020",
+        "ordinal": 3,
+        "reveal": "eu"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word referring to the number of sheets making up a roll of toilet paper",
+        "ordinal": 4,
+        "reveal": "ply"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Dependably made possible, the letters of which can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "enabled"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Greek letter before \"chi\", which is only one letter different",
+        "ordinal": 6,
+        "reveal": "phi"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Hours, abbr.",
+        "ordinal": 7,
+        "reveal": "hrs"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"i\",\"h\",\"e\",\"l\"],[\"r\",\"c\",\"e\",\"d\",\"b\"],[\"o\",\"i\",\"U\",\"n\",\"a\"],[\"g\",\"p\",\"h\",\"e\",\"r\"],[\"l\",\"y\",\"p\",\"h\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#F3F1A0\",\"#E6B0D1\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A1DBE3\",\"#B86BAC\",\"#F3F1A0\",\"#EE7B8C\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        3,
+        1
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 426,
+    "phrase": "Undecipherable hieroglyphs",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-24",
+    "id": "f75a208d-c941-4879-8430-8b4d870b2b28",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:10:56.452201+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Golf standard, or what it takes to raise a family?",
+                "ordinal": 1,
+                "reveal": "PAR"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Driver's license requirement, for short",
+                "ordinal": 2,
+                "reveal": "ID"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Lawn layer or British curse",
+                "ordinal": 3,
+                "reveal": "SOD"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Where models strut and planes take off",
+                "ordinal": 4,
+                "reveal": "RUNWAY"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Monarch who might reign over a chess board",
+                "ordinal": 5,
+                "reveal": "KING"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Remains of a fire or a tree type",
+                "ordinal": 6,
+                "reveal": "ASH"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Ruler who might have a complex about his size?",
+                "ordinal": 7,
+                "reveal": "KING"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"A\", \"P\", \"I\", \"D\", \"S\"], [\"R\", \"N\", \"G\", \"D\", \"O\"], [\"G\", \"I\", \"K\", \"A\", \"W\"], [\"N\", \"K\", \"A\", \"Y\", \"N\"], [\"I\", \"H\", \"S\", \"U\", \"R\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#B86BAC\", \"#B86BAC\", \"#EE7B8C\"], [\"#7C93CB\", \"#A9D594\", \"#A9D594\", \"#EE7B8C\", \"#EE7B8C\"], [\"#F3F1A0\", \"#A9D594\", \"#A9D594\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F3F1A0\", \"#F3F1A0\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F3F1A0\", \"#F5C146\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                1
+            ],
+            "2": [
+                0,
+                2
+            ],
+            "3": [
+                0,
+                4
+            ],
+            "4": [
+                4,
+                4
+            ],
+            "5": [
+                2,
+                2
+            ],
+            "6": [
+                3,
+                2
+            ],
+            "7": [
+                3,
+                1
+            ]
+        },
+        "phrase": "Kayaking down rushing rapids",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

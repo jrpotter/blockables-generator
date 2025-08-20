@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-05-25T10:44:21.602935-06:00",
+    "category": "\"Pop rocks!\" may be said after...",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Fake, as an injury or interest",
+        "ordinal": 1,
+        "reveal": "feign"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Age dreaded by Bo Burnham in \"Inside\" (2021) and Jon in \"Tick, Tick... Boom!\" (2001)",
+        "ordinal": 2,
+        "reveal": "thirty"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "And/__",
+        "ordinal": 3,
+        "reveal": "or"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Q followers?",
+        "ordinal": 4,
+        "reveal": "rst"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Gradually lose volume",
+        "ordinal": 5,
+        "reveal": "fade"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Operating System, abbr.",
+        "ordinal": 6,
+        "reveal": "os"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Name before McGraw or after Tiny",
+        "ordinal": 7,
+        "reveal": "tim"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"f\",\"e\",\"h\",\"t\",\"r\"],[\"i\",\"n\",\"i\",\"y\",\"o\"],[\"r\",\"g\",\"T\",\"r\",\"f\"],[\"s\",\"s\",\"o\",\"d\",\"a\"],[\"t\",\"t\",\"i\",\"m\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#EE7B8C\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#F5C146\",\"#F5C146\"],[\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 738,
+    "phrase": "Trying soda for the first time",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-06-01",
+    "id": "515336cd-1206-4333-a7fc-eb138d69816c",
+    "dimension": 5
+  }
+]

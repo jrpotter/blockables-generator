@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-01-25T10:32:04.268919-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Bathroom fixture",
+        "ordinal": 1,
+        "reveal": "Tub"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "French \"yes\"",
+        "ordinal": 2,
+        "reveal": "oui"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"Lions and tigers and bears, oh __!\"",
+        "ordinal": 3,
+        "reveal": "my"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Bug attracted to stinky trash",
+        "ordinal": 4,
+        "reveal": "Fly"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Public lodging house serving food and drink to travelers",
+        "ordinal": 5,
+        "reveal": "inn"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Take's opposite",
+        "ordinal": 6,
+        "reveal": "give"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Alien transport, abbr.",
+        "ordinal": 7,
+        "reveal": "ufo"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "College administrator",
+        "ordinal": 8,
+        "reveal": "dean"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"T\",\"u\",\"o\",\"Y\",\"y\"],[\"u\",\"i\",\"m\",\"l\",\"n\"],[\"b\",\"n\",\"F\",\"i\",\"n\"],[\"e\",\"g\",\"a\",\"f\",\"u\"],[\"v\",\"i\",\"d\",\"e\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#A1DBE3\"],[\"#7C93CB\",\"#F3F1A0\",\"#E6B0D1\",\"#A1DBE3\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 617,
+    "phrase": "Filming a funny YouTube video",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-01-31",
+    "id": "b1748862-5395-419d-a4ba-48821b64a9b7",
+    "dimension": 5
+  }
+]

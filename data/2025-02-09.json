@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-02-02T20:41:30.56494-07:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Thing made by the answer of today's puzzle",
+        "ordinal": 1,
+        "reveal": "record"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Type of turn",
+        "ordinal": 2,
+        "reveal": "u"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Kiss target",
+        "ordinal": 3,
+        "reveal": "lip"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Douglas ___, a coniferous tree",
+        "ordinal": 4,
+        "reveal": "fir"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Offshoring Research Network, abbr.",
+        "ordinal": 5,
+        "reveal": "orn"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Snap a ___ for the 'gram!\"",
+        "ordinal": 6,
+        "reveal": "pic"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Letter found in the circle of the registered trademark symbol",
+        "ordinal": 7,
+        "reveal": "r"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Cubelike car brand, the letters of which can be found in this clue's first word",
+        "ordinal": 8,
+        "reveal": "buick"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"R\",\"r\",\"e\",\"c\",\"u\"],[\"i\",\"i\",\"l\",\"o\",\"d\"],[\"c\",\"f\",\"P\",\"r\",\"o\"],[\"k\",\"i\",\"c\",\"p\",\"r\"],[\"R\",\"u\",\"b\",\"i\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#A9D594\",\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\"],[\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 626,
+    "phrase": "Prolific producer Rick Rubin",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-09",
+    "id": "567a1085-9dc3-44eb-bed9-93548665e261",
+    "dimension": 5
+  }
+]

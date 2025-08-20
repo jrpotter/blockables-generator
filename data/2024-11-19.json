@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-17T13:21:40.038701-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Keys open them",
+        "ordinal": 1,
+        "reveal": "locks"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Credit Institute of Canada, abbr.",
+        "ordinal": 2,
+        "reveal": "cic"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "One of 1,000 in a kilogram",
+        "ordinal": 3,
+        "reveal": "gram"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "&",
+        "ordinal": 4,
+        "reveal": "and"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "\"Infinite ____\", 1996 David Foster Wallace novel",
+        "ordinal": 5,
+        "reveal": "jest"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"She doesn't know ___ own strength!\"",
+        "ordinal": 6,
+        "reveal": "her"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word before chance or Tuesday",
+        "ordinal": 7,
+        "reveal": "fat"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"o\",\"c\",\"k\",\"s\"],[\"c\",\"i\",\"c\",\"g\",\"r\"],[\"r\",\"t\",\"M\",\"a\",\"a\"],[\"e\",\"s\",\"e\",\"j\",\"n\"],[\"h\",\"t\",\"a\",\"f\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#7C93CB\",\"#7C93CB\"],[\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#A9D594\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"],[\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#EE7B8C\"],[\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 544,
+    "phrase": "Majestic grandfather clocks",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-19",
+    "id": "491d82b2-9722-46fd-9a52-214f596e3955",
+    "dimension": 5
+  }
+]

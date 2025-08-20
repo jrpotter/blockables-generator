@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-04-06T14:30:03.803606-06:00",
+    "category": "Famous Person",
+    "clues": [
+      {
+        "clue": "Chemical element whose symbol is Sn",
+        "color": "#7C93CB",
+        "reveal": "tin",
+        "ordinal": 1
+      },
+      {
+        "clue": "Initials of Bella Swan actress in \"Twilight\" (2008) or Ke$ha's real name",
+        "color": "#A1DBE3",
+        "reveal": "Ks",
+        "ordinal": 2
+      },
+      {
+        "clue": "Apple or orange",
+        "color": "#A9D594",
+        "reveal": "fruit",
+        "ordinal": 3
+      },
+      {
+        "clue": "Month in which US Election Day happens, for short",
+        "color": "#F3F1A0",
+        "reveal": "nov",
+        "ordinal": 4
+      },
+      {
+        "clue": "5, 100, 1, 50 in Roman numerals",
+        "color": "#E6B0D1",
+        "reveal": "vcil",
+        "ordinal": 5
+      },
+      {
+        "clue": "No longer present",
+        "color": "#EE7B8C",
+        "reveal": "gone",
+        "ordinal": 6
+      },
+      {
+        "clue": "Day of the week on which US Election Day happens, for short",
+        "color": "#F5C146",
+        "reveal": "tues",
+        "ordinal": 7
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\", \"r\", \"u\", \"K\", \"t\"], [\"V\", \"i\", \"f\", \"i\", \"s\"], [\"o\", \"n\", \"S\", \"c\", \"i\"], [\"n\", \"o\", \"v\", \"e\", \"l\"], [\"n\", \"e\", \"g\", \"u\", \"t\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\", \"#A9D594\"], [\"#F3F1A0\", \"#7C93CB\", \"#A9D594\", \"#A9D594\", \"#A1DBE3\"], [\"#F3F1A0\", \"#7C93CB\", \"#F5C146\", \"#E6B0D1\", \"#E6B0D1\"], [\"#F3F1A0\", \"#EE7B8C\", \"#E6B0D1\", \"#F5C146\", \"#E6B0D1\"], [\"#EE7B8C\", \"#EE7B8C\", \"#EE7B8C\", \"#F5C146\", \"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 688,
+    "phrase": "Sci-fi novelist Kurt Vonnegut",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-04-12",
+    "id": "be8dcb0e-9062-46ae-a40e-de5cac0846f3",
+    "dimension": 5
+  }
+]

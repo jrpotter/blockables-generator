@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-01-09T08:14:05.272035-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Interval from sunrise to sunset",
+        "ordinal": 1,
+        "reveal": "day"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Syllable of laughter, perhaps evil",
+        "ordinal": 2,
+        "reveal": "ha"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Large stringed instrument played by Stjepan Hauser and Yo-Yo Ma",
+        "ordinal": 3,
+        "reveal": "Cello"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Highest grossing movie of 2023",
+        "ordinal": 4,
+        "reveal": "barbie"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "The answer to Clue #4's is PG-13",
+        "ordinal": 5,
+        "reveal": "rating"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Decentralized Autonomous Organization, abbr.",
+        "ordinal": 6,
+        "reveal": "dao"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"i\",\"l\",\"o\",\"h\"],[\"a\",\"b\",\"e\",\"l\",\"a\"],[\"y\",\"r\",\"C\",\"e\",\"g\"],[\"a\",\"a\",\"t\",\"i\",\"n\"],[\"b\",\"r\",\"o\",\"a\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#E6B0D1\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        4,
+        0
+      ],
+      "5": [
+        4,
+        1
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 413,
+    "phrase": "Celebrating a holiday abroad",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-07-11",
+    "id": "bc506353-ae93-4aa1-a4ac-a01ebdeaa884",
+    "dimension": 5
+  }
+]

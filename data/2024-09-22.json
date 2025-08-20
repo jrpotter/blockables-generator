@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-04-02T16:56:44.4451-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Sodium's chemical symbol",
+        "ordinal": 1,
+        "reveal": "na"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Afternoon snooze, perhaps",
+        "ordinal": 2,
+        "reveal": "nap"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Initials of inventor who depicted humorously complicated machines which performed incredibly simple tasks",
+        "ordinal": 3,
+        "reveal": "rg"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Descriptions of other people, for short",
+        "ordinal": 4,
+        "reveal": "Bios"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Circular",
+        "ordinal": 5,
+        "reveal": "round"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Placing first",
+        "ordinal": 6,
+        "reveal": "winning"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Obama dog, the letters of which can be found in this clue's first word",
+        "ordinal": 7,
+        "reveal": "bo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"a\",\"p\",\"a\",\"n\"],[\"i\",\"n\",\"g\",\"g\",\"r\"],[\"n\",\"i\",\"B\",\"r\",\"o\"],[\"o\",\"n\",\"w\",\"o\",\"u\"],[\"s\",\"i\",\"b\",\"d\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#E6B0D1\",\"#E6B0D1\",\"#A1DBE3\",\"#EE7B8C\"],[\"#B86BAC\",\"#E6B0D1\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 486,
+    "phrase": "Browning ground bison in a pan",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-22",
+    "id": "9f176abe-2fc2-4158-9226-255346dc74a8",
+    "dimension": 5
+  }
+]

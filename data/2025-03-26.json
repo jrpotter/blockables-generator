@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-03-22T10:24:49.79139-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "10-point tile in Scrabble",
+        "ordinal": 1,
+        "reveal": "q"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "New, scrappy tech business",
+        "ordinal": 2,
+        "reveal": "startup"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Texter's \"your\" or \"you're\", perhaps",
+        "ordinal": 3,
+        "reveal": "ur"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Tasty!\"",
+        "ordinal": 4,
+        "reveal": "yum"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Havana's country",
+        "ordinal": 5,
+        "reveal": "Cuba"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Age demographic found in Clue #7",
+        "ordinal": 6,
+        "reveal": "teen"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "High school, abbr.",
+        "ordinal": 7,
+        "reveal": "hs"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"__ what?\"",
+        "ordinal": 8,
+        "reveal": "so"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"q\",\"s\",\"t\",\"u\",\"n\"],[\"u\",\"m\",\"a\",\"e\",\"r\"],[\"a\",\"y\",\"C\",\"r\",\"e\"],[\"s\",\"b\",\"u\",\"t\",\"t\"],[\"h\",\"s\",\"o\",\"u\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#B86BAC\",\"#F5C146\"],[\"#A9D594\",\"#A1DBE3\",\"#A9D594\",\"#E6B0D1\",\"#B86BAC\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#B86BAC\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        1
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 671,
+    "phrase": "Creamy butternut squash soup",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-26",
+    "id": "36b03639-5875-429f-99ae-81d83c12243a",
+    "dimension": 5
+  }
+]

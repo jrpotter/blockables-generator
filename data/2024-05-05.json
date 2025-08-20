@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-11-12T09:15:25.338589-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "__ Top, rock band famous for their sunglasses, hats and long beards",
+        "ordinal": 1,
+        "reveal": "zz"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "First word of many letters",
+        "ordinal": 2,
+        "reveal": "dEAR"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Synthetic Natural Gas, abbr.",
+        "ordinal": 3,
+        "reveal": "SNG"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Baseball runner's destination",
+        "ordinal": 4,
+        "reveal": "hOME"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "\"Congratulations, you are ______ 107!\", perhaps heard on a radio show",
+        "ordinal": 5,
+        "reveal": "cALLER"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Kept out of sight, perhaps in a children's playground game",
+        "ordinal": 6,
+        "reveal": "hid"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Discern visually",
+        "ordinal": 7,
+        "reveal": "see"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"l\",\"e\",\"r\",\"a\",\"z\"],[\"l\",\"d\",\"e\",\"r\",\"z\"],[\"a\",\"d\",\"S\",\"h\",\"o\"],[\"c\",\"i\",\"n\",\"g\",\"m\"],[\"h\",\"e\",\"e\",\"s\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#F3F1A0\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 346,
+    "phrase": "Shredding mozzarella cheese",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-05-05",
+    "id": "a7159a48-7fcd-4e93-9c59-6bf6e740632e",
+    "dimension": 5
+  }
+]

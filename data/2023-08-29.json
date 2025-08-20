@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-03-05T08:56:00.626239-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "__ Perks, rewards program of formerly titled Dunkin Donuts",
+        "ordinal": 1,
+        "reveal": "dD"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Regal rank of nobility in the United Kingdom, the letters of which can be found in this clue's first word",
+        "ordinal": 2,
+        "reveal": "eARL"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "In one ____ swoop",
+        "ordinal": 3,
+        "reveal": "fELL"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Number celebrated on March 14th",
+        "ordinal": 4,
+        "reveal": "pI"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Writing snake-cased Python or increment statements in C++",
+        "ordinal": 5,
+        "reveal": "cODING"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letters before Santa Barbara or San Diego",
+        "ordinal": 6,
+        "reveal": "uC"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Business dept. which may do a lot of Clue #5",
+        "ordinal": 7,
+        "reveal": "iT"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Biblical word meaning \"your\"",
+        "ordinal": 8,
+        "reveal": "tHY"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"d\",\"d\",\"l\",\"e\"],[\"f\",\"p\",\"r\",\"a\",\"c\"],[\"e\",\"y\",\"l\",\"o\",\"t\"],[\"h\",\"l\",\"d\",\"u\",\"i\"],[\"t\",\"g\",\"n\",\"i\",\"c\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#F3F1A0\",\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#F5C146\"],[\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\",\"#B86BAC\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        1,
+        1
+      ],
+      "5": [
+        1,
+        4
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        3,
+        4
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 96,
+    "phrase": "Loudly practicing the fiddle",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-29",
+    "id": "79a17279-344d-49d9-83db-293856f604ba",
+    "dimension": 5
+  }
+]

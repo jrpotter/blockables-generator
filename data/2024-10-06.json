@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-04-11T11:14:43.858951-06:00",
+    "category": "Phrase",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Watercraft made of logs and rope",
+        "ordinal": 1,
+        "reveal": "raft"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Coder, for short",
+        "ordinal": 2,
+        "reveal": "dev"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"She doesn't know ___ own strength!\"",
+        "ordinal": 3,
+        "reveal": "her"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Daredevil Knievel",
+        "ordinal": 4,
+        "reveal": "evel"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "2017 horror film starring Bill Skarsg\u00e5rd",
+        "ordinal": 5,
+        "reveal": "it"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Ma's guy",
+        "ordinal": 6,
+        "reveal": "pa"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "YuYu Hakusho, abbr.",
+        "ordinal": 7,
+        "reveal": "yyh"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Heap",
+        "ordinal": 8,
+        "reveal": "pile"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"f\",\"t\",\"e\",\"r\"],[\"r\",\"v\",\"e\",\"d\",\"h\"],[\"e\",\"i\",\"T\",\"h\",\"a\"],[\"v\",\"l\",\"y\",\"e\",\"p\"],[\"e\",\"y\",\"l\",\"i\",\"p\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\"],[\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#A9D594\"],[\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 500,
+    "phrase": "They lived happily ever after",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-06",
+    "id": "067ef29e-5c3b-466b-890b-c40e5f7e672c",
+    "dimension": 5
+  }
+]

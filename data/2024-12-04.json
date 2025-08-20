@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-02T17:50:24.163785-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Utmost, as a degree",
+        "ordinal": 1,
+        "reveal": "nth"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "W's opposite, at times",
+        "ordinal": 2,
+        "reveal": "l"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word after loose or oil",
+        "ordinal": 3,
+        "reveal": "Change"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Media franchise set in Miami, New York City, and Las Vegas, for short",
+        "ordinal": 4,
+        "reveal": "Csi"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Letter under Clark Kent's button down, perhaps",
+        "ordinal": 5,
+        "reveal": "s"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Where a runner may get a splint?",
+        "ordinal": 6,
+        "reveal": "shin"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Folk wisdom, perhaps in medieval times",
+        "ordinal": 7,
+        "reveal": "lore"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Shortened word before X, Z, or Alpha",
+        "ordinal": 8,
+        "reveal": "gen"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"n\",\"n\",\"e\",\"l\"],[\"h\",\"n\",\"g\",\"t\",\"h\"],[\"C\",\"i\",\"C\",\"r\",\"e\"],[\"h\",\"s\",\"s\",\"o\",\"E\"],[\"s\",\"i\",\"l\",\"g\",\"n\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#7C93CB\",\"#A9D594\"],[\"#7C93CB\",\"#F3F1A0\",\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#F3F1A0\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\"],[\"#F3F1A0\",\"#EE7B8C\",\"#A1DBE3\",\"#F5C146\",\"#B86BAC\"],[\"#F3F1A0\",\"#EE7B8C\",\"#F5C146\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 559,
+    "phrase": "Crossing the English Channel",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-04",
+    "id": "2b7c41cf-1507-4288-a96c-858b2919ae56",
+    "dimension": 5
+  }
+]

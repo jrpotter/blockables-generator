@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-22T09:51:16.934344-06:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "_-bone steak",
+        "ordinal": 1,
+        "reveal": "t"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Attempting",
+        "ordinal": 2,
+        "reveal": "trying"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Word before whiz or willikers",
+        "ordinal": 3,
+        "reveal": "gee"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Squirreled away",
+        "ordinal": 4,
+        "reveal": "saved"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Playfully demure",
+        "ordinal": 5,
+        "reveal": "coy"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "2017 horror film starring Bill Skarsg\u00e5rd",
+        "ordinal": 6,
+        "reveal": "it"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Technology featured in Goldfinger (1964) during line \"No, Mr. Bond, I expect you to die!\"",
+        "ordinal": 7,
+        "reveal": "laser"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"t\",\"t\",\"e\",\"g\"],[\"n\",\"y\",\"r\",\"e\",\"a\"],[\"g\",\"d\",\"E\",\"v\",\"s\"],[\"c\",\"a\",\"y\",\"i\",\"t\"],[\"l\",\"o\",\"s\",\"e\",\"r\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#A9D594\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A9D594\"],[\"#EE7B8C\",\"#F5C146\",\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#EE7B8C\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        4
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 673,
+    "phrase": "\"Every day, it's a-getting closer...\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-28",
+    "id": "7fda2718-2d0c-42a3-9617-9cf4bbae0de9",
+    "dimension": 5
+  }
+]

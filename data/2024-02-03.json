@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-08-13T13:19:59-06:00",
+    "category": "Phrase",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "\"He's not all he's cracked up to __.\"",
+        "ordinal": 1,
+        "reveal": "bE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Fold back and stitch down the edge of a shirt, say",
+        "ordinal": 2,
+        "reveal": "hEM"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word after house or before star ",
+        "ordinal": 3,
+        "reveal": "gUEST"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Key between Ctrl and Delete, in an override sequence",
+        "ordinal": 4,
+        "reveal": "aLT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Jedi's enemy",
+        "ordinal": 5,
+        "reveal": "sITH"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Unfermented juice pressed from fruit, especially apples",
+        "ordinal": 6,
+        "reveal": "cIDER"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Suffix of all halogens on the periodic table",
+        "ordinal": 7,
+        "reveal": "iNE"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"t\",\"s\",\"e\",\"b\",\"e\"],[\"m\",\"h\",\"g\",\"u\",\"h\"],[\"e\",\"t\",\"L\",\"a\",\"t\"],[\"d\",\"e\",\"r\",\"i\",\"s\"],[\"i\",\"c\",\"i\",\"n\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\"],[\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        4
+      ],
+      "6": [
+        4,
+        1
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 254,
+    "phrase": "\"Laughter is the best medicine.\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-02-03",
+    "id": "102a4a91-f30a-40a7-8a74-b8318404640f",
+    "dimension": 5
+  }
+]

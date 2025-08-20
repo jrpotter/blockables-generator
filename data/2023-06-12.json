@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2022-12-18T08:00:29.54079-07:00",
+    "category": "Phrase",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "End of December acronym",
+        "ordinal": 1,
+        "reveal": "nYE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Action in a restaurant or a tennis court",
+        "ordinal": 2,
+        "reveal": "sERVE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"The Lion King\" antagonist, originally named Taka",
+        "ordinal": 3,
+        "reveal": "sCAR"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Daft Punk or Steely Dan",
+        "ordinal": 4,
+        "reveal": "dUO"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Approaches",
+        "ordinal": 5,
+        "reveal": "nEARS"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "\"Wheel __ Fortune,\" a game show off which Blockables is partially based",
+        "ordinal": 6,
+        "reveal": "oF"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Endless goal for wealthy Indian state",
+        "ordinal": 7,
+        "reveal": "gOA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"e\",\"v\",\"e\",\"s\"],[\"y\",\"s\",\"r\",\"u\",\"d\"],[\"e\",\"c\",\"F\",\"o\",\"n\"],[\"a\",\"o\",\"r\",\"e\",\"a\"],[\"r\",\"s\",\"a\",\"g\",\"o\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#EE7B8C\",\"#F5C146\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#EE7B8C\",\"#A1DBE3\",\"#E6B0D1\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 18,
+    "phrase": "Four score and seven years ago...",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-06-12",
+    "id": "4f9cad18-4c99-42ce-a37a-8e57f0a5a836",
+    "dimension": 5
+  }
+]

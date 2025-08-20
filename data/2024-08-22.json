@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2024-03-02T11:58:20.715115-07:00",
+    "category": "Phrase",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Word said twice while comforting someone",
+        "ordinal": 1,
+        "reveal": "there"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Creates",
+        "ordinal": 2,
+        "reveal": "makes"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Open Water Diver, abbr.",
+        "ordinal": 3,
+        "reveal": "owd"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Marketable hardwood tree, the letters of which can be found in this clue's first word",
+        "ordinal": 4,
+        "reveal": "Teak"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Gospel author",
+        "ordinal": 5,
+        "reveal": "mark"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Would you still love me if I was a ____?\", meme originating from a 2019 tweet",
+        "ordinal": 6,
+        "reveal": "worm"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"e\",\"h\",\"t\",\"s\"],[\"r\",\"w\",\"m\",\"a\",\"e\"],[\"e\",\"o\",\"T\",\"e\",\"k\"],[\"a\",\"r\",\"k\",\"m\",\"a\"],[\"m\",\"w\",\"o\",\"r\",\"k\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#E6B0D1\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#E6B0D1\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\"],[\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        1
+      ]
+    },
+    "ordinal": 455,
+    "phrase": "\"Teamwork makes the dream work!\"",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-22",
+    "id": "d912de8b-3493-4951-bf45-2d89b5b21ea8",
+    "dimension": 5
+  }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "created_at": "2025-08-20T18:00:55.579055+0000",
+        "category": "Event",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Joke that might make you retch",
+                "ordinal": 1,
+                "reveal": "GAG"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Computer memory unit, briefly",
+                "ordinal": 2,
+                "reveal": "MB"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Clue or suggestion",
+                "ordinal": 3,
+                "reveal": "HINT"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Bash or political gathering",
+                "ordinal": 4,
+                "reveal": "PARTY"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "What a night's sleep ends",
+                "ordinal": 5,
+                "reveal": "DAY"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Vaccination or whiskey, e.g.",
+                "ordinal": 6,
+                "reveal": "SHOT"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Father, or beget offspring",
+                "ordinal": 7,
+                "reveal": "SIRE"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"G\", \"A\", \"M\", \"E\", \"S\"], [\"Y\", \"G\", \"B\", \"I\", \"R\"], [\"T\", \"N\", \"H\", \"O\", \"T\"], [\"R\", \"I\", \"T\", \"S\", \"H\"], [\"A\", \"P\", \"Y\", \"A\", \"D\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\"], [\"#EE7B8C\", \"#7C93CB\", \"#F5C146\", \"#B86BAC\", \"#B86BAC\"], [\"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\", \"#E6B0D1\", \"#E6B0D1\"], [\"#EE7B8C\", \"#F3F1A0\", \"#F3F1A0\", \"#E6B0D1\", \"#E6B0D1\"], [\"#EE7B8C\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\", \"#A9D594\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                0
+            ],
+            "2": [
+                0,
+                2
+            ],
+            "3": [
+                2,
+                2
+            ],
+            "4": [
+                4,
+                1
+            ],
+            "5": [
+                4,
+                4
+            ],
+            "6": [
+                3,
+                3
+            ],
+            "7": [
+                0,
+                4
+            ]
+        },
+        "phrase": "Hosting birthday party games",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

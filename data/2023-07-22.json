@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-01-28T16:52:08.567169-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#A9D594",
+        "clue": "Nickname for Canadian megastar Justin, with \"The\"",
+        "ordinal": 1,
+        "reveal": "bIEBS"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Word after candy or sugar",
+        "ordinal": 2,
+        "reveal": "cANE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Millie Bobby Brown's \"Stranger Things'\" character multiplied by E. L. James' Shades of Grey count, in Roman numerals",
+        "ordinal": 3,
+        "reveal": "DL"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Major issue of US presidential candidate Andrew Yang's platform",
+        "ordinal": 4,
+        "reveal": "uBI"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"Cut me some _____!\"",
+        "ordinal": 5,
+        "reveal": "sLACK"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Fish eggs",
+        "ordinal": 6,
+        "reveal": "rOE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Floor covering sought after by The Dude in \"The Big Lebowski\"",
+        "ordinal": 7,
+        "reveal": "rUG"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"e\",\"b\",\"k\",\"c\"],[\"n\",\"c\",\"i\",\"l\",\"a\"],[\"b\",\"i\",\"D\",\"e\",\"l\"],[\"u\",\"o\",\"u\",\"s\",\"b\"],[\"r\",\"g\",\"e\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#B86BAC\"],[\"#A1DBE3\",\"#A1DBE3\",\"#E6B0D1\",\"#A9D594\",\"#B86BAC\"],[\"#A1DBE3\",\"#EE7B8C\",\"#F3F1A0\",\"#B86BAC\",\"#A9D594\"],[\"#EE7B8C\",\"#F3F1A0\",\"#EE7B8C\",\"#F3F1A0\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        1
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 58,
+    "phrase": "Delicious black bean burgers",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-22",
+    "id": "ce2d52c9-ff32-4345-8166-bcc62aadfd92",
+    "dimension": 5
+  }
+]

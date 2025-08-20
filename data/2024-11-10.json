@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-11-02T07:23:19.986839-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F3F1A0",
+        "clue": "Partner of myself and me",
+        "ordinal": 1,
+        "reveal": "i"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Beryllium's chemical symbol",
+        "ordinal": 2,
+        "reveal": "be"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Negroni spirit, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "gin"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Popular quote from comic strip character Cathy",
+        "ordinal": 4,
+        "reveal": "ack"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Boise's state",
+        "ordinal": 5,
+        "reveal": "idaho"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Six letters for this clue's answer, for example",
+        "ordinal": 6,
+        "reveal": "length"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "N's opposite, on some forms",
+        "ordinal": 7,
+        "reveal": "y"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Click's partner, in a mouse-based computer action",
+        "ordinal": 8,
+        "reveal": "drag"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"h\",\"t\",\"n\",\"i\"],[\"b\",\"i\",\"g\",\"g\",\"e\"],[\"a\",\"n\",\"D\",\"i\",\"l\"],[\"c\",\"g\",\"a\",\"h\",\"o\"],[\"k\",\"y\",\"a\",\"r\",\"d\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\"],[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#E6B0D1\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A9D594\"],[\"#E6B0D1\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#E6B0D1\",\"#B86BAC\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        3
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 535,
+    "phrase": "Digging a hole in the back yard ",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-10",
+    "id": "5c86a7d5-bc00-4900-a3b7-db83b2e53253",
+    "dimension": 5
+  }
+]

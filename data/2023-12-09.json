@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-06-19T15:08:47.881443-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#B86BAC",
+        "clue": "Friend of Stimpy, in a 1990s cartoon, the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "rEN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Center of the solar system",
+        "ordinal": 2,
+        "reveal": "sUN"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Jar topper",
+        "ordinal": 3,
+        "reveal": "lID"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Chit-____",
+        "ordinal": 4,
+        "reveal": "cHAT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "What green means, at a traffic light",
+        "ordinal": 5,
+        "reveal": "gO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Atilla was one",
+        "ordinal": 6,
+        "reveal": "HUN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Virginia's state abbreviation",
+        "ordinal": 7,
+        "reveal": "vA"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Organized body of criminals, such as those featured in The Godfather or Goodfellas",
+        "ordinal": 8,
+        "reveal": "mAFIA"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"i\",\"n\",\"e\",\"r\"],[\"s\",\"l\",\"u\",\"n\",\"c\"],[\"u\",\"g\",\"H\",\"a\",\"h\"],[\"o\",\"n\",\"i\",\"v\",\"a\"],[\"m\",\"a\",\"f\",\"a\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\"],[\"#E6B0D1\",\"#7C93CB\",\"#EE7B8C\",\"#B86BAC\",\"#F5C146\"],[\"#E6B0D1\",\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\",\"#F5C146\"],[\"#A9D594\",\"#E6B0D1\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#F3F1A0\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        4
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        3,
+        3
+      ],
+      "8": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 198,
+    "phrase": "Having lunch at a famous diner",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-12-09",
+    "id": "3dff3d72-6871-44ad-a6d7-9d7877517d59",
+    "dimension": 5
+  }
+]

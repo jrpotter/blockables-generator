@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-05-28T08:16:56.148315-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#A1DBE3",
+        "clue": "Mobster Capone or musician Yankovich",
+        "ordinal": 1,
+        "reveal": "aL"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Yes ___\", improv comedy tenet",
+        "ordinal": 2,
+        "reveal": "aND"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Upset opposite of a call in options trading, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "pUT"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Pleasant city in France?",
+        "ordinal": 4,
+        "reveal": "nICE"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Kilopound per square inch, abbr.",
+        "ordinal": 5,
+        "reveal": "kSI"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word perhaps seen at the end of a movie filmed in Clue #4",
+        "ordinal": 6,
+        "reveal": "fIN"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Word completing these sentences: \"Hey, I'm not _______ around here!\" or \"Hey, you're not _______ anyone in that disguise.\"",
+        "ordinal": 7,
+        "reveal": "fOOLING"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"l\",\"a\",\"n\",\"d\"],[\"c\",\"g\",\"a\",\"t\",\"p\"],[\"I\",\"n\",\"L\",\"o\",\"u\"],[\"n\",\"i\",\"k\",\"o\",\"f\"],[\"i\",\"s\",\"n\",\"i\",\"f\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#E6B0D1\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 181,
+    "phrase": "Looking at puffins in Iceland",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-22",
+    "id": "f113382a-a9bd-4eea-a119-1793bbf0ceeb",
+    "dimension": 5
+  }
+]

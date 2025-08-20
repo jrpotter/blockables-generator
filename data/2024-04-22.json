@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-10-31T08:13:05.638629-06:00",
+    "category": "Place",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Syllable of laughter, perhaps evil",
+        "ordinal": 1,
+        "reveal": "ha"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Supranational organization which the UK left in 2020",
+        "ordinal": 2,
+        "reveal": "eu"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Soaked",
+        "ordinal": 3,
+        "reveal": "wet"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Ash container",
+        "ordinal": 4,
+        "reveal": "Urn"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Homer Simpson exclamation",
+        "ordinal": 5,
+        "reveal": "doh"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Um\" synonym, which is only one letter different",
+        "ordinal": 6,
+        "reveal": "uh"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Firing off an email, for example",
+        "ordinal": 7,
+        "reveal": "sending"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"A Nightmare on ___ Street\", 1984 classic horror film",
+        "ordinal": 8,
+        "reveal": "elm"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"u\",\"a\",\"h\",\"g\"],[\"t\",\"r\",\"e\",\"d\",\"n\"],[\"e\",\"w\",\"U\",\"n\",\"i\"],[\"d\",\"h\",\"e\",\"l\",\"m\"],[\"h\",\"o\",\"u\",\"s\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#B86BAC\",\"#EE7B8C\",\"#EE7B8C\",\"#A1DBE3\"],[\"#F3F1A0\",\"#7C93CB\",\"#B86BAC\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F3F1A0\",\"#F3F1A0\",\"#7C93CB\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"],[\"#F5C146\",\"#F5C146\",\"#A9D594\",\"#A1DBE3\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 333,
+    "phrase": "Underwhelming haunted house",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-04-22",
+    "id": "56ea2e7e-2fcb-4f22-b08d-b5d5286270c1",
+    "dimension": 5
+  }
+]

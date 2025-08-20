@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-15T14:52:53.625322-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Part of the eye with rods and cones",
+        "ordinal": 1,
+        "reveal": "retina"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Getting better, as one's health",
+        "ordinal": 2,
+        "reveal": "healing"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Not cooked",
+        "ordinal": 3,
+        "reveal": "raw"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Capital letter made up of two lines and a right angle",
+        "ordinal": 4,
+        "reveal": "l"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Iowa or Ohio",
+        "ordinal": 5,
+        "reveal": "state"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Nitrogen's chemical symbol",
+        "ordinal": 6,
+        "reveal": "n"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"Ick.\"",
+        "ordinal": 7,
+        "reveal": "ew"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"a\",\"t\",\"e\",\"r\"],[\"h\",\"l\",\"i\",\"n\",\"g\"],[\"r\",\"l\",\"I\",\"n\",\"a\"],[\"e\",\"a\",\"t\",\"s\",\"n\"],[\"t\",\"a\",\"w\",\"w\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F5C146\",\"#F5C146\"],[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#7C93CB\",\"#7C93CB\"],[\"#A9D594\",\"#F3F1A0\",\"#7C93CB\",\"#F5C146\",\"#F5C146\"],[\"#B86BAC\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\",\"#E6B0D1\"],[\"#B86BAC\",\"#B86BAC\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        3
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 664,
+    "phrase": "Installing a new water heater",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-19",
+    "id": "77498fc1-7c5e-476b-9045-5a036757802d",
+    "dimension": 5
+  }
+]

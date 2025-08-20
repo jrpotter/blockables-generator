@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-05-25T10:57:01.829256-06:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Lagers, pale ales, and stouts",
+        "ordinal": 1,
+        "reveal": "beer"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Primary carrier of genetic information, abbr.",
+        "ordinal": 2,
+        "reveal": "dna"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Tacit skill for mediation, the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "tact"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "3.14159, roughly",
+        "ordinal": 4,
+        "reveal": "Pi"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Malicious coders trying to break into mainframes",
+        "ordinal": 5,
+        "reveal": "hackers"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Filler sound when speaking, similar to \"er\" or \"uh\"",
+        "ordinal": 6,
+        "reveal": "um"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Total",
+        "ordinal": 7,
+        "reveal": "sum"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"e\",\"b\",\"d\",\"n\",\"a\"],[\"e\",\"c\",\"a\",\"t\",\"s\"],[\"t\",\"r\",\"P\",\"i\",\"r\"],[\"h\",\"a\",\"c\",\"k\",\"e\"],[\"u\",\"m\",\"m\",\"u\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\"],[\"#A9D594\",\"#7C93CB\",\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        3
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 732,
+    "phrase": "Pita crackers and beet hummus",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-05-26",
+    "id": "2a575a5c-df52-4012-819c-ea0e4ba401cb",
+    "dimension": 5
+  }
+]

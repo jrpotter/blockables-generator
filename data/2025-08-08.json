@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2025-08-04T08:02:31.173742-06:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Business division which deals with hiring and recruiting, abbr.",
+        "ordinal": 1,
+        "reveal": "hr"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Common adverb suffix",
+        "ordinal": 2,
+        "reveal": "ly"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Relax, slangily",
+        "ordinal": 3,
+        "reveal": "chill"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Jazzy vocalization",
+        "ordinal": 4,
+        "reveal": "scat"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Feature of some roller coasters",
+        "ordinal": 5,
+        "reveal": "loop"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Letters before military-based action figure Joe",
+        "ordinal": 6,
+        "reveal": "gi"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "One holding a red card, for short",
+        "ordinal": 7,
+        "reveal": "ref"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Industrial Light and Magic, abbr.",
+        "ordinal": 8,
+        "reveal": "ilm"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"i\",\"r\",\"h\",\"t\",\"l\"],[\"l\",\"h\",\"c\",\"y\",\"a\"],[\"l\",\"o\",\"P\",\"s\",\"c\"],[\"e\",\"l\",\"o\",\"g\",\"i\"],[\"r\",\"f\",\"i\",\"l\",\"m\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\",\"#A1DBE3\"],[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#A1DBE3\",\"#B86BAC\"],[\"#7C93CB\",\"#A9D594\",\"#A9D594\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        3,
+        3
+      ],
+      "7": [
+        4,
+        0
+      ],
+      "8": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 806,
+    "phrase": "Psychological thriller film",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-08-08",
+    "id": "12ecbdd6-6abb-4721-a1d8-a72cb0e70aae",
+    "dimension": 5
+  }
+]

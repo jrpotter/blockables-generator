@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-25T14:45:36.656328-06:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Strategy game more than 2,500 years old",
+        "ordinal": 1,
+        "reveal": "go"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Bowling target",
+        "ordinal": 2,
+        "reveal": "pin"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Combine, as dry baking ingredients",
+        "ordinal": 3,
+        "reveal": "mix"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Sheet of glass",
+        "ordinal": 4,
+        "reveal": "pane"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word after dance or ground",
+        "ordinal": 5,
+        "reveal": "Floor"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"All ____ are off!\"",
+        "ordinal": 6,
+        "reveal": "bets"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Naval Base Duty Officer, abbr.",
+        "ordinal": 7,
+        "reveal": "nbdo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"g\",\"n\",\"i\",\"x\"],[\"p\",\"i\",\"m\",\"r\",\"o\"],[\"p\",\"d\",\"F\",\"o\",\"b\"],[\"o\",\"a\",\"b\",\"l\",\"e\"],[\"n\",\"e\",\"n\",\"t\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A1DBE3\",\"#A9D594\",\"#A1DBE3\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        4,
+        2
+      ]
+    },
+    "ordinal": 478,
+    "phrase": "Formidable boxing opponents",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-09-14",
+    "id": "7de1d13b-265f-457a-9894-ea98ea0d0b7c",
+    "dimension": 5
+  }
+]

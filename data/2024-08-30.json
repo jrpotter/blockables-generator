@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-03-09T07:15:46.330564-07:00",
+    "category": "Thing",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Mr. __, a famous talking horse",
+        "ordinal": 1,
+        "reveal": "ed"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Wahlberg or Zuckerberg",
+        "ordinal": 2,
+        "reveal": "mark"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Thick, chunky soup, perhaps with potatoes stuck in",
+        "ordinal": 3,
+        "reveal": "stew"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before scout or show",
+        "ordinal": 4,
+        "reveal": "talent"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"Losing My Religion\" band or dream-heavy sleep stage",
+        "ordinal": 5,
+        "reveal": "rem"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Shorthand for \"delete\", on some keyboards, including the one on Blockables Mobile",
+        "ordinal": 6,
+        "reveal": "del"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not near",
+        "ordinal": 7,
+        "reveal": "far"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"a\",\"r\",\"k\",\"e\",\"t\"],[\"m\",\"t\",\"e\",\"n\",\"d\"],[\"s\",\"t\",\"W\",\"e\",\"e\"],[\"r\",\"a\",\"l\",\"l\",\"d\"],[\"e\",\"m\",\"r\",\"a\",\"f\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#F3F1A0\"],[\"#7C93CB\",\"#E6B0D1\",\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\"],[\"#E6B0D1\",\"#F3F1A0\",\"#E6B0D1\",\"#F3F1A0\",\"#A1DBE3\"],[\"#A9D594\",\"#F3F1A0\",\"#F3F1A0\",\"#A1DBE3\",\"#A1DBE3\"],[\"#A9D594\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        4
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 463,
+    "phrase": "Well-attended farmers' market",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-08-30",
+    "id": "ff5a6573-845e-4521-be8d-3b76c8388a59",
+    "dimension": 5
+  }
+]

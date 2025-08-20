@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-12-15T10:50:43.138809-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Make less wild, as a circus lion, perhaps",
+        "ordinal": 1,
+        "reveal": "tame"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Garden of biblical paradise",
+        "ordinal": 2,
+        "reveal": "eden"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Brown, sweet carbonated soda",
+        "ordinal": 3,
+        "reveal": "cola"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "User-Centered Design, abbr.",
+        "ordinal": 4,
+        "reveal": "ucd"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Weather event sometimes said to be as thick as pea soup",
+        "ordinal": 5,
+        "reveal": "fog"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Last name of comedienne Margaret or John of \"Harold & Kumar\" franchise",
+        "ordinal": 6,
+        "reveal": "cho"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Not cold",
+        "ordinal": 7,
+        "reveal": "hot"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Model _, 1908 Ford automobile",
+        "ordinal": 8,
+        "reveal": "t"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"l\",\"a\",\"t\",\"e\"],[\"c\",\"e\",\"c\",\"a\",\"d\"],[\"o\",\"d\",\"M\",\"u\",\"e\"],[\"h\",\"f\",\"o\",\"g\",\"n\"],[\"c\",\"t\",\"o\",\"h\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#F5C146\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#B86BAC\",\"#F5C146\",\"#A9D594\"],[\"#A1DBE3\",\"#B86BAC\",\"#F5C146\",\"#B86BAC\",\"#A9D594\"],[\"#A1DBE3\",\"#E6B0D1\",\"#E6B0D1\",\"#E6B0D1\",\"#A9D594\"],[\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        0,
+        4
+      ],
+      "3": [
+        1,
+        0
+      ],
+      "4": [
+        2,
+        3
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 571,
+    "phrase": "Mug of decadent hot chocolate",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-16",
+    "id": "aaf3d93a-1740-47c6-86e5-659d0a70e894",
+    "dimension": 5
+  }
+]

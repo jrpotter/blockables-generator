@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2024-10-22T07:59:32.665526-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#F5C146",
+        "clue": "Plumbing \"trap\", named after the pipe's shape",
+        "ordinal": 1,
+        "reveal": "P"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Leafy green which may be from Tuscany",
+        "ordinal": 2,
+        "reveal": "kale"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Neither",
+        "ordinal": 3,
+        "reveal": "nor"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Pull vigorously, perhaps as a boat",
+        "ordinal": 4,
+        "reveal": "tug"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Out's opposite",
+        "ordinal": 5,
+        "reveal": "in"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Asparagus or pickle unit",
+        "ordinal": 6,
+        "reveal": "spear"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "\"Be Our _____\", song from \"Beauty and the Beast\" (1991)",
+        "ordinal": 7,
+        "reveal": "guest"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Complete the pattern: AI, __, IU",
+        "ordinal": 8,
+        "reveal": "eo"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"P\",\"k\",\"a\",\"e\"],[\"r\",\"n\",\"r\",\"a\",\"p\"],[\"t\",\"i\",\"L\",\"e\",\"s\"],[\"u\",\"n\",\"g\",\"t\",\"o\"],[\"g\",\"u\",\"e\",\"s\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#F5C146\",\"#B86BAC\",\"#A9D594\",\"#A9D594\"],[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#B86BAC\",\"#A9D594\"],[\"#E6B0D1\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\"],[\"#E6B0D1\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        4
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 518,
+    "phrase": "Learning to speak Portuguese",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-10-24",
+    "id": "f39c229b-5622-494a-a850-f827f5473415",
+    "dimension": 5
+  }
+]

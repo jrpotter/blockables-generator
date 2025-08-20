@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-06T12:27:11.393831-06:00",
+    "category": "Film and TV",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "Birds' structures",
+        "ordinal": 1,
+        "reveal": "nESTS"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Garden tool which sounds like Clue #3",
+        "ordinal": 2,
+        "reveal": "hOE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Triple it for Santa Claus's laugh",
+        "ordinal": 3,
+        "reveal": "hO"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Meal, Ready-to-Eat, abbr.",
+        "ordinal": 4,
+        "reveal": "MRE"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "\"It's like a movie but nobody ___ any lines and nobody even knows what it is while they're making it\", quote from the answer of today's puzzle",
+        "ordinal": 5,
+        "reveal": "hAS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Blithe tech billionaire Peter, the letters of whom can be found in this clue's first word ",
+        "ordinal": 6,
+        "reveal": "tHIEL"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of UK Prime Minister during WWII or \"the most trusted man in America\"",
+        "ordinal": 7,
+        "reveal": "wC"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Letters before Bean or Cool J",
+        "ordinal": 8,
+        "reveal": "lL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"e\",\"s\",\"O\",\"n\"],[\"h\",\"t\",\"h\",\"e\",\"S\"],[\"S\",\"l\",\"M\",\"a\",\"h\"],[\"h\",\"e\",\"c\",\"r\",\"e\"],[\"t\",\"i\",\"w\",\"l\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#E6B0D1\",\"#A9D594\"],[\"#E6B0D1\",\"#B86BAC\",\"#EE7B8C\",\"#A9D594\",\"#A9D594\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#EE7B8C\",\"#EE7B8C\"],[\"#B86BAC\",\"#B86BAC\",\"#A1DBE3\",\"#F3F1A0\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        4
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        4,
+        0
+      ],
+      "7": [
+        4,
+        2
+      ],
+      "8": [
+        4,
+        3
+      ]
+    },
+    "ordinal": 160,
+    "phrase": "Marcel the Shell with Shoes On",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-01",
+    "id": "7fc4fd00-79a8-4a0a-89c8-b0cd3480dc4f",
+    "dimension": 5
+  }
+]

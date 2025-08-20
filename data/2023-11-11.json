@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-22T09:05:36.313526-06:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Prefix meaning \"not\", perhaps found before ambiguous or well",
+        "ordinal": 1,
+        "reveal": "uN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Rested on a chair",
+        "ordinal": 2,
+        "reveal": "sAT"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Word after butterfly or safety",
+        "ordinal": 3,
+        "reveal": "nETS"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Word before Hackman or pool",
+        "ordinal": 4,
+        "reveal": "gENE"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "\"It __ what it __.\"",
+        "ordinal": 5,
+        "reveal": "iS"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Candle material",
+        "ordinal": 6,
+        "reveal": "WAX"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Tai ___, a Chinese martial art",
+        "ordinal": 7,
+        "reveal": "cHI"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Give up, stop, halt",
+        "ordinal": 8,
+        "reveal": "qUIT"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"u\",\"n\",\"s\",\"e\",\"t\"],[\"s\",\"n\",\"g\",\"a\",\"n\"],[\"e\",\"i\",\"W\",\"a\",\"e\"],[\"t\",\"h\",\"c\",\"t\",\"x\"],[\"i\",\"s\",\"i\",\"u\",\"q\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#B86BAC\",\"#F3F1A0\",\"#B86BAC\"],[\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\",\"#B86BAC\",\"#F3F1A0\"],[\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\"],[\"#EE7B8C\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\",\"#F5C146\"],[\"#A9D594\",\"#EE7B8C\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "5": [
+        2,
+        1
+      ],
+      "6": [
+        2,
+        2
+      ],
+      "7": [
+        3,
+        2
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 170,
+    "phrase": "Watching an exquisite sunset",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-11",
+    "id": "8fc135c9-e9a2-4544-b796-721a653ca776",
+    "dimension": 5
+  }
+]

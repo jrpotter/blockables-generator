@@ -1,0 +1,99 @@
+[
+    {
+        "created_at": "2025-08-20T19:12:47.793829+0000",
+        "category": "Activity",
+        "clues": [
+            {
+                "color": "#7C93CB",
+                "clue": "Try to win over",
+                "ordinal": 1,
+                "reveal": "WOO"
+            },
+            {
+                "color": "#F3F1A0",
+                "clue": "Animal's hideout or father's retreat",
+                "ordinal": 2,
+                "reveal": "DEN"
+            },
+            {
+                "color": "#EE7B8C",
+                "clue": "Stone fruit center or orchestra section",
+                "ordinal": 3,
+                "reveal": "PIT"
+            },
+            {
+                "color": "#B86BAC",
+                "clue": "Three times, in prescriptions",
+                "ordinal": 4,
+                "reveal": "TER"
+            },
+            {
+                "color": "#A9D594",
+                "clue": "Hindu fire god or first half of a spicy pepper",
+                "ordinal": 5,
+                "reveal": "AGNI"
+            },
+            {
+                "color": "#E6B0D1",
+                "clue": "Like a fine wine or vintage car",
+                "ordinal": 6,
+                "reveal": "OLD"
+            },
+            {
+                "color": "#F5C146",
+                "clue": "Third-person masculine pronoun",
+                "ordinal": 7,
+                "reveal": "HE"
+            },
+            {
+                "color": "#A1DBE3",
+                "clue": "Go angling or act suspiciously",
+                "ordinal": 8,
+                "reveal": "FISH"
+            }
+        ],
+        "direction": "right",
+        "grid": "[[\"O\", \"W\", \"D\", \"L\", \"O\"], [\"O\", \"I\", \"H\", \"S\", \"E\"], [\"D\", \"N\", \"F\", \"I\", \"H\"], [\"E\", \"G\", \"A\", \"T\", \"T\"], [\"N\", \"P\", \"I\", \"E\", \"R\"]]",
+        "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#E6B0D1\", \"#E6B0D1\", \"#E6B0D1\"], [\"#7C93CB\", \"#A9D594\", \"#A1DBE3\", \"#A1DBE3\", \"#F5C146\"], [\"#F3F1A0\", \"#A9D594\", \"#A1DBE3\", \"#A1DBE3\", \"#F5C146\"], [\"#F3F1A0\", \"#A9D594\", \"#A9D594\", \"#EE7B8C\", \"#B86BAC\"], [\"#F3F1A0\", \"#EE7B8C\", \"#EE7B8C\", \"#B86BAC\", \"#B86BAC\"]]",
+        "numberPlacements": {
+            "1": [
+                0,
+                1
+            ],
+            "2": [
+                2,
+                0
+            ],
+            "3": [
+                4,
+                1
+            ],
+            "4": [
+                3,
+                4
+            ],
+            "5": [
+                3,
+                2
+            ],
+            "6": [
+                0,
+                4
+            ],
+            "7": [
+                2,
+                4
+            ],
+            "8": [
+                2,
+                2
+            ]
+        },
+        "phrase": "Fishing at the old wooden pier",
+        "author": {
+            "link": "",
+            "name": ""
+        },
+        "dimension": 5
+    }
+]

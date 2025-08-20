@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-02-11T15:25:11.471122-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Abbr. for Halloween's month",
+        "ordinal": 1,
+        "reveal": "oCT"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Palladium's chemical symbol",
+        "ordinal": 2,
+        "reveal": "pD"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Instrument that might satisfy a picky musician?",
+        "ordinal": 3,
+        "reveal": "gUITAR"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Compassion or forgiveness shown toward someone whom it is within one's power to punish or harm",
+        "ordinal": 4,
+        "reveal": "mERCY"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Middle initials of \"Game of Thrones\" author George Martin",
+        "ordinal": 5,
+        "reveal": "rR"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Direction from Chile to Brazil, abbr.",
+        "ordinal": 6,
+        "reveal": "nE"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Abbr. for 1968 rock group featuring Crosby, Stills, and Nash (they didn't add Y until Young joined in 1969)",
+        "ordinal": 7,
+        "reveal": "cSN"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Double it for a toy",
+        "ordinal": 8,
+        "reveal": "yO"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"t\",\"p\",\"y\",\"r\"],[\"c\",\"i\",\"d\",\"a\",\"c\"],[\"u\",\"n\",\"T\",\"r\",\"e\"],[\"r\",\"g\",\"s\",\"o\",\"m\"],[\"r\",\"e\",\"n\",\"c\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#F5C146\",\"#E6B0D1\"],[\"#7C93CB\",\"#E6B0D1\",\"#A9D594\",\"#E6B0D1\",\"#F5C146\"],[\"#E6B0D1\",\"#EE7B8C\",\"#E6B0D1\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#E6B0D1\",\"#EE7B8C\",\"#F3F1A0\",\"#F5C146\"],[\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#EE7B8C\",\"#F3F1A0\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        3,
+        1
+      ],
+      "4": [
+        3,
+        4
+      ],
+      "5": [
+        4,
+        0
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        3
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 72,
+    "phrase": "Trading some cryptocurrency",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-08-05",
+    "id": "dc1ba707-b675-4a2c-8fe8-0f91e7a5e768",
+    "dimension": 5
+  }
+]

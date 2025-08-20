@@ -1,0 +1,102 @@
+[
+  {
+    "created_at": "2023-05-06T13:19:12.888486-06:00",
+    "category": "Pies in the Skies?",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Word before black or after fighter",
+        "ordinal": 1,
+        "reveal": "jET"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Supermodel Crawford or Jimmy Neutron's girlfriend Vortex",
+        "ordinal": 2,
+        "reveal": "cINDY"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "State of a tennis match when \"deuce\" is used to describe the score",
+        "ordinal": 3,
+        "reveal": "tIED"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "California city known for the Golden Gate Bridge and Silicon Valley, abbr.",
+        "ordinal": 4,
+        "reveal": "sF"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Double it for a French treat",
+        "ordinal": 5,
+        "reveal": "bON"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Negroni spirit, the letters of which can be found in this clue's first word",
+        "ordinal": 6,
+        "reveal": "gIN"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Supranational organization which the UK left in 2016",
+        "ordinal": 7,
+        "reveal": "eU"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Husband's dad, to a texter",
+        "ordinal": 8,
+        "reveal": "fIL"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"j\",\"e\",\"c\",\"t\",\"s\"],[\"b\",\"t\",\"i\",\"f\",\"i\"],[\"o\",\"n\",\"U\",\"n\",\"e\"],[\"g\",\"e\",\"d\",\"i\",\"d\"],[\"n\",\"i\",\"y\",\"l\",\"f\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#E6B0D1\",\"#F5C146\",\"#F3F1A0\"],[\"#A1DBE3\",\"#7C93CB\",\"#E6B0D1\",\"#F3F1A0\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#B86BAC\",\"#E6B0D1\",\"#F5C146\"],[\"#EE7B8C\",\"#B86BAC\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\"],[\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\",\"#A9D594\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        0,
+        2
+      ],
+      "3": [
+        0,
+        3
+      ],
+      "4": [
+        0,
+        4
+      ],
+      "5": [
+        1,
+        0
+      ],
+      "6": [
+        3,
+        0
+      ],
+      "7": [
+        3,
+        1
+      ],
+      "8": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 161,
+    "phrase": "Unidentified flying objects",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-11-02",
+    "id": "47f67549-7bd3-4f2e-b176-a9fe62c2dc75",
+    "dimension": 5
+  }
+]

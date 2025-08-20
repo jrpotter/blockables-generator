@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2022-12-03T13:21:28.412776-07:00",
+    "category": "Living Things",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Chef Julia (before 1930?)",
+        "ordinal": 1,
+        "reveal": "cHILD"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Marijuana-derived oil",
+        "ordinal": 2,
+        "reveal": "cBD"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Broadway's fifth longest-running show since its debut in 2003",
+        "ordinal": 3,
+        "reveal": "WICKED"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "It's said to repel medical professionals",
+        "ordinal": 4,
+        "reveal": "aPPLE"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Alias indicator",
+        "ordinal": 5,
+        "reveal": "aKA"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "1/60th of a min.",
+        "ordinal": 6,
+        "reveal": "sEC"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"h\",\"c\",\"d\",\"e\",\"p\"],[\"i\",\"b\",\"d\",\"l\",\"p\"],[\"c\",\"l\",\"W\",\"i\",\"a\"],[\"k\",\"a\",\"c\",\"k\",\"c\"],[\"a\",\"d\",\"e\",\"e\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#A9D594\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#7C93CB\",\"#F3F1A0\",\"#F3F1A0\",\"#EE7B8C\"],[\"#F5C146\",\"#F5C146\",\"#B86BAC\",\"#F3F1A0\",\"#F3F1A0\"],[\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#B86BAC\",\"#B86BAC\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        1
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        2
+      ],
+      "4": [
+        2,
+        4
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 4,
+    "phrase": "Wild black-capped chickadees",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-05-29",
+    "id": "1b293b94-bca9-4d5c-9f5e-3036d0d52d85",
+    "dimension": 5
+  }
+]

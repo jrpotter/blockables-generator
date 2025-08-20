@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2025-02-24T19:51:52.733768-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "color": "#EE7B8C",
+        "clue": "Suitable Hogwarts headmaster Dumbledore, the letters of which can be found in this clue's first word",
+        "ordinal": 1,
+        "reveal": "aLBUS"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "One stroke under par",
+        "ordinal": 2,
+        "reveal": "birdie"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Guyana's ISO country code",
+        "ordinal": 3,
+        "reveal": "gy"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Fish's respiratory organ",
+        "ordinal": 4,
+        "reveal": "gill"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Train sound",
+        "ordinal": 5,
+        "reveal": "choo"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word before leopard or White",
+        "ordinal": 6,
+        "reveal": "snow"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\",\"l\",\"b\",\"u\",\"s\"],[\"o\",\"a\",\"b\",\"i\",\"g\"],[\"h\",\"g\",\"R\",\"i\",\"y\"],[\"c\",\"n\",\"i\",\"d\",\"e\"],[\"s\",\"w\",\"o\",\"l\",\"l\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\",\"#EE7B8C\"],[\"#7C93CB\",\"#EE7B8C\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\"],[\"#7C93CB\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\",\"#A9D594\"],[\"#7C93CB\",\"#F5C146\",\"#A1DBE3\",\"#B86BAC\",\"#B86BAC\"],[\"#F5C146\",\"#F5C146\",\"#F5C146\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        1
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 645,
+    "phrase": "Riding a big yellow school bus",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-02-28",
+    "id": "cbc34b80-ab6e-4f74-a5e3-a832c5c4caa1",
+    "dimension": 5
+  }
+]

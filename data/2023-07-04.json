@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2023-01-07T20:18:09.63057-07:00",
+    "category": "Things",
+    "clues": [
+      {
+        "clue": "Word after James L., Mel, or babbling",
+        "color": "#7C93CB",
+        "reveal": "bROOKS",
+        "ordinal": 1
+      },
+      {
+        "clue": "Subculture partly symbolized by dark eyeliner and dark fingernail polish",
+        "color": "#E6B0D1",
+        "reveal": "gOTH",
+        "ordinal": 2
+      },
+      {
+        "clue": "Traditional term for an atom with net charge; its letters can be found in this clue's first word",
+        "color": "#F3F1A0",
+        "reveal": "ION",
+        "ordinal": 3
+      },
+      {
+        "clue": "___ slaw",
+        "color": "#F5C146",
+        "reveal": "cOLE",
+        "ordinal": 4
+      },
+      {
+        "clue": "Bridal face covering, sometimes",
+        "color": "#EE7B8C",
+        "reveal": "vEIL",
+        "ordinal": 5
+      },
+      {
+        "clue": "\"Relation to patient\" when filling out medical forms alone ",
+        "color": "#A9D594",
+        "reveal": "sELF",
+        "ordinal": 6
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"o\", \"o\", \"b\", \"g\", \"n\"], [\"k\", \"r\", \"o\", \"o\", \"i\"], [\"s\", \"t\", \"F\", \"l\", \"l\"], [\"h\", \"o\", \"c\", \"e\", \"i\"], [\"e\", \"l\", \"v\", \"e\", \"s\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#E6B0D1\", \"#F3F1A0\"], [\"#7C93CB\", \"#7C93CB\", \"#E6B0D1\", \"#F3F1A0\", \"#F3F1A0\"], [\"#7C93CB\", \"#E6B0D1\", \"#A9D594\", \"#A9D594\", \"#EE7B8C\"], [\"#E6B0D1\", \"#F5C146\", \"#F5C146\", \"#A9D594\", \"#EE7B8C\"], [\"#F5C146\", \"#F5C146\", \"#EE7B8C\", \"#EE7B8C\", \"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        3,
+        2
+      ],
+      "5": [
+        4,
+        2
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 40,
+    "phrase": "Floor to ceiling bookshelves",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2023-07-04",
+    "id": "f97f221a-b97a-4b43-b178-d6fafbd1b3c4",
+    "dimension": 5
+  }
+]

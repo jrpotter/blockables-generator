@@ -1,0 +1,82 @@
+[
+  {
+    "created_at": "2025-03-02T07:34:35.308101-07:00",
+    "category": "Activity",
+    "clues": [
+      {
+        "clue": "Bounces",
+        "color": "#7C93CB",
+        "reveal": "hops",
+        "ordinal": 1
+      },
+      {
+        "clue": "A Swiftie, to Taylor, or a Little Monster, to Lady Gaga",
+        "color": "#F3F1A0",
+        "reveal": "fan",
+        "ordinal": 2
+      },
+      {
+        "clue": "Got bigger, as a weed",
+        "color": "#EE7B8C",
+        "reveal": "grew",
+        "ordinal": 3
+      },
+      {
+        "clue": "Utilizes",
+        "color": "#E6B0D1",
+        "reveal": "Uses",
+        "ordinal": 4
+      },
+      {
+        "clue": "\"The ______\", mockumentary set in Scranton, Pennsylvania",
+        "color": "#A9D594",
+        "reveal": "office",
+        "ordinal": 5
+      },
+      {
+        "clue": "Integrated Fuel and Engine Indicator, abbr.",
+        "color": "#F5C146",
+        "reveal": "ifei",
+        "ordinal": 6
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"s\", \"p\", \"o\", \"h\", \"s\"], [\"f\", \"g\", \"n\", \"i\", \"e\"], [\"r\", \"a\", \"U\", \"s\", \"e\"], [\"e\", \"c\", \"o\", \"f\", \"f\"], [\"e\", \"W\", \"i\", \"F\", \"i\"]]",
+    "gridColors": "[[\"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#7C93CB\", \"#E6B0D1\"], [\"#F3F1A0\", \"#EE7B8C\", \"#F3F1A0\", \"#F5C146\", \"#E6B0D1\"], [\"#EE7B8C\", \"#F3F1A0\", \"#E6B0D1\", \"#E6B0D1\", \"#F5C146\"], [\"#EE7B8C\", \"#A9D594\", \"#A9D594\", \"#A9D594\", \"#F5C146\"], [\"#A9D594\", \"#EE7B8C\", \"#A9D594\", \"#A9D594\", \"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        3
+      ],
+      "2": [
+        1,
+        0
+      ],
+      "3": [
+        1,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        2
+      ],
+      "6": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 649,
+    "phrase": "Using a coffee shop's free Wi-Fi",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-04",
+    "id": "27e18748-0fc0-4e11-aeea-2d876ae9fc6d",
+    "dimension": 5
+  }
+]

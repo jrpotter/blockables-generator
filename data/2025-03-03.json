@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2025-03-02T07:34:35.308101-07:00",
+    "category": "Food and Drink",
+    "clues": [
+      {
+        "color": "#E6B0D1",
+        "clue": "___ Khalifa, American rapper",
+        "ordinal": 1,
+        "reveal": "wiz"
+      },
+      {
+        "color": "#7C93CB",
+        "clue": "Ruined, as a legacy or silver",
+        "ordinal": 2,
+        "reveal": "tarnished"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Amazing cartoon \"Invader ___\", the letters of which can be found in this clue's first word",
+        "ordinal": 3,
+        "reveal": "zim"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Initials of actor who played Forrest Gump and Sully Sullenberger",
+        "ordinal": 4,
+        "reveal": "th"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Word after first-aid or before Kat",
+        "ordinal": 5,
+        "reveal": "kit"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "\"You're __ big trouble, mister!\"",
+        "ordinal": 6,
+        "reveal": "in"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Playground game, the aim of which is to not be \"It\"",
+        "ordinal": 7,
+        "reveal": "tag"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"d\",\"e\",\"h\",\"s\",\"i\"],[\"w\",\"z\",\"t\",\"a\",\"n\"],[\"i\",\"i\",\"T\",\"z\",\"r\"],[\"t\",\"k\",\"i\",\"g\",\"a\"],[\"h\",\"m\",\"i\",\"n\",\"t\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#E6B0D1\",\"#E6B0D1\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#E6B0D1\",\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#7C93CB\"],[\"#A1DBE3\",\"#F5C146\",\"#F3F1A0\",\"#A9D594\",\"#A9D594\"],[\"#A1DBE3\",\"#F3F1A0\",\"#EE7B8C\",\"#EE7B8C\",\"#A9D594\"]]",
+    "numberPlacements": {
+      "1": [
+        1,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        3
+      ],
+      "4": [
+        3,
+        0
+      ],
+      "5": [
+        3,
+        1
+      ],
+      "6": [
+        4,
+        2
+      ],
+      "7": [
+        4,
+        4
+      ]
+    },
+    "ordinal": 648,
+    "phrase": "Tzatziki garnished with mint",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2025-03-03",
+    "id": "12dcebb7-7818-4101-894e-749a0ada5730",
+    "dimension": 5
+  }
+]

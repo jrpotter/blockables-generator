@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-11-10T11:47:18.976972-07:00",
+    "category": "Person",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Danube, Mekong, or Thames",
+        "ordinal": 1,
+        "reveal": "river"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Male sovereign",
+        "ordinal": 2,
+        "reveal": "king"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "Letter that is \"sometimes\" a vowel",
+        "ordinal": 3,
+        "reveal": "y"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Syllable of laughter, perhaps evil",
+        "ordinal": 4,
+        "reveal": "Ha"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Derisively scolded, the letters of which can be found in this clue's first word",
+        "ordinal": 5,
+        "reveal": "reviled"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "One of six in this clue",
+        "ordinal": 6,
+        "reveal": "word"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Letters before Demento or Strange",
+        "ordinal": 7,
+        "reveal": "dr"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"r\",\"i\",\"v\",\"e\",\"r\"],[\"d\",\"r\",\"k\",\"i\",\"n\"],[\"y\",\"o\",\"H\",\"a\",\"g\"],[\"r\",\"w\",\"d\",\"r\",\"d\"],[\"e\",\"v\",\"i\",\"l\",\"e\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#7C93CB\"],[\"#F5C146\",\"#F5C146\",\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\"],[\"#B86BAC\",\"#F5C146\",\"#EE7B8C\",\"#EE7B8C\",\"#F3F1A0\"],[\"#A1DBE3\",\"#F5C146\",\"#A9D594\",\"#A9D594\",\"#A1DBE3\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        0
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        3,
+        0
+      ],
+      "6": [
+        3,
+        1
+      ],
+      "7": [
+        3,
+        2
+      ]
+    },
+    "ordinal": 541,
+    "phrase": "Hardworking delivery driver",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-11-16",
+    "id": "8be3cf5f-8150-4360-a288-4cefe4b30c19",
+    "dimension": 5
+  }
+]

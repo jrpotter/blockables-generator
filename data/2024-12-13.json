@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2024-12-07T11:43:27.552724-07:00",
+    "category": "Song Lyric",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Yang's opposite",
+        "ordinal": 1,
+        "reveal": "yin"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Iron's chemical symbol",
+        "ordinal": 2,
+        "reveal": "fe"
+      },
+      {
+        "color": "#B86BAC",
+        "clue": "\"___ I do that?\", famous Steve Urkel catchphrase",
+        "ordinal": 3,
+        "reveal": "did"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Tropical fruit",
+        "ordinal": 4,
+        "reveal": "guava"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Jazz Youth Group, abbr.",
+        "ordinal": 5,
+        "reveal": "Jyg"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "Togetherness",
+        "ordinal": 6,
+        "reveal": "unity"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "Decays",
+        "ordinal": 7,
+        "reveal": "rots"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"n\",\"i\",\"y\",\"f\",\"e\"],[\"g\",\"y\",\"t\",\"s\",\"d\"],[\"g\",\"o\",\"J\",\"u\",\"I\"],[\"r\",\"u\",\"a\",\"n\",\"d\"],[\"a\",\"v\",\"i\",\"t\",\"y\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#7C93CB\",\"#7C93CB\",\"#EE7B8C\",\"#EE7B8C\"],[\"#A9D594\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#B86BAC\"],[\"#F3F1A0\",\"#E6B0D1\",\"#A9D594\",\"#F5C146\",\"#B86BAC\"],[\"#E6B0D1\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#B86BAC\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\",\"#F5C146\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        0,
+        3
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "4": [
+        2,
+        0
+      ],
+      "5": [
+        2,
+        2
+      ],
+      "6": [
+        2,
+        3
+      ],
+      "7": [
+        3,
+        0
+      ]
+    },
+    "ordinal": 568,
+    "phrase": "Just you and I, defying gravity",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-12-13",
+    "id": "9d4af442-5bdd-41cf-9377-2649eea415aa",
+    "dimension": 5
+  }
+]

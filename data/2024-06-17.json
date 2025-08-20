@@ -1,0 +1,92 @@
+[
+  {
+    "created_at": "2023-12-17T13:20:52.036417-07:00",
+    "category": "People",
+    "clues": [
+      {
+        "color": "#7C93CB",
+        "clue": "Yes I Understand, abbr.",
+        "ordinal": 1,
+        "reveal": "YIU"
+      },
+      {
+        "color": "#EE7B8C",
+        "clue": "Prefix meaning \"three\"",
+        "ordinal": 2,
+        "reveal": "tri"
+      },
+      {
+        "color": "#A9D594",
+        "clue": "Nickname for Maurice or Mordecai",
+        "ordinal": 3,
+        "reveal": "moe"
+      },
+      {
+        "color": "#E6B0D1",
+        "clue": "1998 Disney film featuring the song \"I'll Make a Man Out of You\"",
+        "ordinal": 4,
+        "reveal": "Mulan"
+      },
+      {
+        "color": "#F5C146",
+        "clue": "What the last \"O\" in EVOO stands for",
+        "ordinal": 5,
+        "reveal": "oil"
+      },
+      {
+        "color": "#F3F1A0",
+        "clue": "Sick",
+        "ordinal": 6,
+        "reveal": "lit"
+      },
+      {
+        "color": "#A1DBE3",
+        "clue": "Rides hired through a specific app",
+        "ordinal": 7,
+        "reveal": "ubers"
+      }
+    ],
+    "direction": "right",
+    "grid": "[[\"Y\",\"e\",\"r\",\"i\",\"a\"],[\"o\",\"i\",\"t\",\"l\",\"n\"],[\"u\",\"m\",\"M\",\"u\",\"o\"],[\"T\",\"i\",\"l\",\"l\",\"i\"],[\"u\",\"b\",\"e\",\"r\",\"s\"]]",
+    "gridColors": "[[\"#7C93CB\",\"#A9D594\",\"#EE7B8C\",\"#EE7B8C\",\"#E6B0D1\"],[\"#A9D594\",\"#7C93CB\",\"#EE7B8C\",\"#E6B0D1\",\"#E6B0D1\"],[\"#7C93CB\",\"#A9D594\",\"#E6B0D1\",\"#E6B0D1\",\"#F5C146\"],[\"#F3F1A0\",\"#F3F1A0\",\"#F3F1A0\",\"#F5C146\",\"#F5C146\"],[\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\",\"#A1DBE3\"]]",
+    "numberPlacements": {
+      "1": [
+        0,
+        0
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        2,
+        1
+      ],
+      "4": [
+        2,
+        2
+      ],
+      "5": [
+        2,
+        4
+      ],
+      "6": [
+        3,
+        2
+      ],
+      "7": [
+        4,
+        0
+      ]
+    },
+    "ordinal": 389,
+    "phrase": "Multi-millionaire YouTubers",
+    "author": {
+      "link": "",
+      "name": ""
+    },
+    "date": "2024-06-17",
+    "id": "470b5a43-9209-4609-862f-773ad1174ca0",
+    "dimension": 5
+  }
+]
